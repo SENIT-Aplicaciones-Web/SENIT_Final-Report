@@ -1,8 +1,7 @@
 <div align="center">
-  !(https://github.com/SENIT-Aplicaciones-Web/SENIT_Final-Report/blob/819195b9eb7b29810c8ff27b6960e7b2671b5042/assets/UPC_logo.webp)
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
   <br>
-  <img src="/assets/UPC-logo.webp" alt="UPC Logo" width="auto" height="180"/>
+  <img src="/assets/UPC_logo.webp" alt="UPC Logo" width="auto" height="180"/>
   <p>
    <br>
     <strong>Carrera:</strong> Ingeniería de Software
