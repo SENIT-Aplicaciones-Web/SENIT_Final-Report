@@ -51,19 +51,18 @@
 | **TB2** |  | - Danitza Ivonne Heredia Hoyos (U201910803)<br>- Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>- Richard Enrique Lozano Leon (U20241D990)<br>- Anghelo Faustino Hurtado (U20241B331)<br>- Leonardo Rafael Garcia Villanueva (U20231H059)<br>|  <br>- |
 
 ## Project Report Collaboration Insights
-URL de Organización de GITHUB del equipo _______:
-URL de Repositorio del Project Report:
+URL de Organización de GITHUB del equipo _______:<br> URL de Repositorio del Project Report:
 
 <br>
 
 # Student Outcome
 
 **ABET – EAC - Student Outcome 5**
-*Criterio:* La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+<br> *Criterio:* La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** |- Heredia Hoyos, Danitza Ivonne: <br>**AV 1**<br> <br>- Montes Zamora, Edgar Alexander Mauricio:<br>**AV 1** <br><br>- Lozano Leon, Richard Enrique: <br>**AV 1** <br>- Hurtado Faustino, Anghelo:<br>**AV 1**<br><br>- Garcia Villanueva, Leonardo Rafael:<br>**AV 1**<br><br>||
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** |- Heredia Hoyos, Danitza Ivonne: <br>**AV 1**<br> <br>- Montes Zamora, Edgar Alexander Mauricio:<br>**AV 1** <br><br>- Lozano Leon, Richard Enrique: <br>**AV 1** <br>- Hurtado Faustino, Anghelo:<br>**AV 1**<br><br>- Garcia Villanueva, Leonardo Rafael:<br>**AV 1**<br><br>||
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** |- Heredia Hoyos, Danitza Ivonne: <br> **AV 1:**<br><br>- Montes Zamora, Edgar Alexander Mauricio:<br> **AV 1:** <br><br>- Lozano Leon, Richard Enrique: <br> **AV 1:** <br><br>- Hurtado Faustino, Anghelo:<br> **AV 1:** <br><br>- Garcia Villanueva, Leonardo Rafael:<br> **AV 1:** <br><br>||
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** |- Heredia Hoyos, Danitza Ivonne: <br> **AV 1:** <br><br>- Montes Zamora, Edgar Alexander Mauricio:<br> **AV 1:** <br><br>- Lozano Leon, Richard Enrique: <br> **AV 1:** <br><br>- Hurtado Faustino, Anghelo:<br> **AV 1:** <br><br>- Garcia Villanueva, Leonardo Rafael:<br> **AV 1:** <br><br>||
 
 # Contenido  
