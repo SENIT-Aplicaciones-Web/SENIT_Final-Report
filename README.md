@@ -225,118 +225,138 @@ Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organ
 
  + **User Assumptions:** 
 
-    + **¿Quién es el usuario?** <br> Escribe aquí <br>
+    + **¿Quién es el usuario?** <br> Hay dos grupos de usuarios, el primero está conformado por los hospedajes, es decir, el personal administrativo y de gestión como recepcionistas y administradores, y el segundo grupo está compuesto por los huéspedes. <br>
 
-    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?** <br> Escribe aquí <br>
+    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?** <br> En los hospedajes, Senit encaja en la gestión diaria, administrando reservas, habitaciones, limpieza, personal y facturación en un solo sistema. Para los huéspedes, encaja como una herramienta que les permite tener una experiencia más fluida desde antes de su llegada al hospedaje, durante su estancia y también su salida. <br>
 
-    + **¿Cuándo y cómo se utiliza nuestro producto?** <br> Escribe aquí <br>
+    + **¿Cuándo y cómo se utiliza nuestro producto?** <br> Se utiliza durante todo el proceso de hospedaje, desde la reserva hasta el check-out. Su funcionamiento se basa en una plataforma web donde el personal puede registrar, revisar y actualizar información en tiempo real, mientras que el huésped puede gestionar su reserva y realizar su registro de entrada y salida de forma más rápida, evitando largas esperas y mejorando su experiencia. <br>
 
-    + **¿Qué problemas resuelve nuestro producto?** <br> Escribe aquí <br>
+    + **¿Qué problemas resuelve nuestro producto?** <br> Resuelve la ineficiencia y lentitud de los procesos de registro manuales, casos de asignación de tareas duplicadas, errores en el registro de huéspedes, y la falta de control sobre habitaciones y limpieza. Para el huésped reduce el tiempo de espera y mejora la experiencia del cliente. <br>
 
-    + **¿Qué características son importantes?** <br> Escribe aquí <br>
+    + **¿Qué características son importantes?** <br> La facilidad de uso, una vista clara y detallada sobre el estado de las habitaciones, la gestión de reservas, el registro de entrada y salida, la asignación de tareas de limpieza, los roles de acceso, las facturaciones y la velocidad en la actualización de datos . <br>
 
-    + **¿Cómo debe verse y comportarse nuestro producto?** <br> Escribe aquí <br>
+    + **¿Cómo debe verse y comportarse nuestro producto?** <br> Debe tener una interfaz profesional, intuitiva y rápida de usar. Debe comportarse como una herramienta confiable que ayude a los hospedajes a tener una gestión ordenada, y a los huéspedes a tener una mejor experiencia de reserva. <br>
 
  + **Business Outcomes:** 
 
-    1. **Creo que nuestros usuarios necesitan** 
+    1. **Creo que nuestros usuarios necesitan** una forma más rápida, ordenada y confiable de gestionar las operaciones del hospedaje.
 
-    2. **Estas necesidades se pueden resolver con** 
+    2. **Estas necesidades se pueden resolver con** un servicio que centralice el manejo de reservas, habitaciones, limpieza, personal, check-in, check-out y facturación en un solo lugar.
 
-    3. **Nuestros usuarios iniciales son** 
+    3. **Nuestros usuarios iniciales son** hospedajes pequeños y medianos que aún trabajan con procesos manuales, junto con huéspedes frecuentes.
 
-    4. **El valor #1 que un cliente quiere de nuestro servicio es que** 
+    4. **El valor #1 que un cliente quiere de nuestro servicio es que** le permita ahorrar tiempo, reducir errores y tener un mayor control de gestión.
 
-    5. **El usuario también puede obtener beneficios adicionales como** 
+    5. **El usuario también puede obtener beneficios adicionales como** una coordinación más eficiente entre el personal del hotel, menos carga de trabajo y un mejor seguimiento de tareas asignadas.
 
-    6. **Vamos a adquirir la mayoría de nuestros clientes a través de** 
+    6. **Vamos a adquirir la mayoría de nuestros clientes a través de** contacto directo con hospedajes, demostraciones del sistema, publicidad y ofertas personalizadas. 
 
-    7. **Haremos dinero a través de** 
+    7. **Haremos dinero a través de** planes de suscripción por hospedaje, adaptados al tamaño y necesidades del negocio.
 
-    8. **Nuestras competencias principales son** 
+    8. **Nuestras competencias principales son** ...
 
-    9. **Los venceremos debido a** 
+    9. **Los venceremos debido a** que nuestra propuesta estará enfocada en ser más intuitiva y fácil de usar para el personal y adaptada a la realidad operativa de los hospedajes.
 
-    10. **Nuestro mayor riesgo es** 
+    10. **Nuestro mayor riesgo es** que algunos hospedajes no quieran cambiar sus procesos actuales por costumbre o por falta de confianza.
 
-    11. **Resolveremos esto a través de** 
+    11. **Resolveremos esto a través de** una interfaz sencilla, capacitación de uso, acompañamiento en la implementación, y propuestas personalizadas que muestren beneficios rápidos desde el principio.
     
-    13. **¿Qué otras suposiciones tenemos?**
+    13. **¿Qué otras suposiciones tenemos?** Suponemos que los hospedajes valorarán más la rapidez, el orden y el control que mantener métodos manuales, y que los huéspedes preferirán un servicio más rápido aunque tengan que aprender a como usarlo.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 ###### Hipótesis 1:
-Escribe aquí
+Creemos que un panel con el estado de las habitaciones, reservas y tareas de limpieza en tiempo real para el personal administrativo, mejorará la coordinación de las operaciones, reduciendo retrasos en la asignación de habitaciones, sabremos que hemos tenido éxito cuando el 70% de usuarios administrativos comuniquen que el control del hospedaje mejoró y que el tiempo de atención disminuyó considerablemente.
 
--   **Business Outcome:** 
+-   **Business Outcome:** Aumentar la adopción de Senit en los hospedajes al mejorar la eficiencia operativa.
     
--   **Users:** 
+-   **Users:** Personal administrativo y de gestión de los hospedajes.
     
--   **User Outcome:** 
+-   **User Outcome:** Tener mayor control y coordinación sobre las tareas de jornada diarias.
     
--   **Feature:** .
+-   **Feature:** Panel principal con el estado de habitaciones, reservas y limpieza en tiempo real.
 
 ###### Hipótesis 2:
-Escribe aquí
+Creemos que si permitimos a los huéspedes reservar y registrar su llegada de forma digital podrán reducir el tiempo de espera en recepción y tener una experiencia más fluida, sabremos que hemos tenido éxito cuando el 80% de los usuarios reporten que el proceso fue más rápido comparado a lo habitual.
 
--   **Business Outcome:** 
+-   **Business Outcome:** Incrementar el uso de Senit en los hospedajes al mejorar la experiencia de los huéspedes al agilizar el proceso de atención.
     
--   **Users:** 
+-   **Users:** Huéspedes y personas que usan servicios de hospedaje.
     
--   **User Outcome:** 
+-   **User Outcome:** Realizar su registro de manera más rápida y cómoda.
     
--   **Feature:** 
+-   **Feature:** Panel simplificado de reserva y registro de entrada y salida.
 
 
 ###### Hipótesis 3:
-Escribe aquí
+Creemos que si unimos en una sola plataforma la información de habitaciones, personal, tareas y facturación para su gestionamiento, el personal administrativo podrá reducir su carga de trabajo manual y organizar mejor sus actividades diarias, sabremos que hemos tenido éxito cuando el 70% de los usuarios administrativos comuniquen que el tiempo que les tomaba en realizar sus actividades disminuyó considerablemente.
 
--   **Business Outcome:** 
+-   **Business Outcome:** Posicionar a Senit como una solución accesible y eficiente al reducir errores operativos y optimizar las labores del personal administrativo hotelero.
     
--   **Users:** 
+-   **Users:** Personal administrativo y de gestión del hospedaje.
     
--   **User Outcome:** 
+-   **User Outcome:** Tener menos carga de trabajo y más orden en sus actividades laborales.
     
--   **Feature:** 
-
+-   **Feature:** Panel centralizado con módulos de gestión integrados.
 
 #### 1.2.2.4 Lean UX Canvas
 
 <table>
     <tr>
         <td valign="top" >
-            <div align="center"> <br><b>Buiness Problem</b> </div><br>
-            <p>- <br> - </p><br>
+            <div align="center"> <br><b>Business Problem</b> </div><br>
+            <p> - Los hospedajes aún dependen de procesos manuales o registros en papel que generan demoras en la asignación de habitaciones, errores y sobrecarga de trabajo <br> 
+                - Los huéspedes enfrentan tiempos de espera largos durante el registro <br> 
+            </p><br>
         </td>
         <td rowspan="2" valign="top">
             <div align="center"><br><b>Solutions</b> </div><br>
-            <p>- <br> - 
+            <p> - Plataforma web para centralizar reservas, habitaciones, limpieza, personal y facturación. <br> 
+                - Flujo de registro y atención más rápido y ordenado para los huéspedes <br> 
+                - Panel de control en tiempo real del estado de las reservas y habitaciones <br> 
+                - Panel de asignación de tareas y roles para mejorar la coordinación del personal <br> <br> 
             </p><br>
         </td>
             <td valign="top">
             <div align="center"> <br><b>Business Outcomes</b> </div><br>
-            <p>- <br>- </p><br>
+            <p> - Aumentar la adopción de Senit en los hospedajes al mejorar la eficiencia  operativa <br> 
+                - Incrementar el uso de Senit en los hospedajes al mejorar la experiencia de los huéspedes al agilizar el proceso de atención <br> 
+                - Posicionar a Senit como una solución accesible y eficiente al reducir errores operativos y optimizar las labores del personal administrativo hotelero <br> 
+            </p><br>
             </td>
         </tr>
     <tr>
         <td valign="top">
             <div align="center"><br><b>Users</b></div><br>
-            <p>- .<br> - </p><br>
+            <p> - Personal administrativo y de gestión de hospedajes <br> 
+                - Huéspedes o personas que usan servicios de hospedaje <br> 
+            </p><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>User Outcomes & Benefits</b></div><br>
-            <p>- <br> - <br> - </p><br>
+            <p> - Mayor control y coordinacion de sus tareas laborales <br> 
+                - Incremento en la velocidad de registro de los huéspedes <br> 
+                - Menor carga laboral <br> 
+            </p><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
             <div align="center"> <br><b>Hypotheses</b> </div><br>
-            <p>- <br> - </p> <br>
+            <p> - Un panel con el estado de las habitaciones, reservas y tareas de limpieza en tiempo real para el personal administrativo, mejorará la coordinación de las operaciones, reduciendo retrasos en la asignación de habitaciones <br> 
+                - Si permitimos a los huéspedes reservar y registrar su llegada de forma digital podrán reducir el tiempo de espera en recepción y tener una experiencia más fluida <br> 
+                - Si unimos en una sola plataforma la información de habitaciones, personal, tareas y facturación para su gestionamiento, el personal administrativo podrá reducir su carga de trabajo manual y organizar mejor sus actividades diarias <br> 
+            </p><br>
         </td>
         <td valign="top">
-            <div align="center"> <br><b>What’s the most important thing we need to learn first?</b> </div><br><p>- <br> - </p> <br>
+            <div align="center"> <br><b>What’s the most important thing we need to learn first?</b> </div><br>
+            <p> - Saber si los hospedajes realmente consideran útil centralizar toda su gestión en una sola plataforma. <br> 
+            </p><br>
         </td>
         <td valign="top">
-            <div align="center">  <br><b>What's the least amount of work we need to do to learn the next most important thing?</b> </div><br><p>- <br> - </p> <br>
+            <div align="center">  <br><b>What's the least amount of work we need to do to learn the next most important thing?</b> </div><br>
+            <p> - Crear un prototipo básico del panel principal y del flujo de registro. <br> 
+                - Probarlo con algunos usuarios del hospedaje y con huéspedes frecuentes para validar si entienden y valoran la propuesta. <br> 
+            </p><br>
         </td>
     </tr>
 </table>
