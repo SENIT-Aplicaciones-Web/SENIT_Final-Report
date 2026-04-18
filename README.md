@@ -215,7 +215,11 @@ Planteamos esta solución para reemplazar los procesos manuales y herramientas d
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statement
 
+El problema se presenta en hoteles y moteles que aún gestionan sus operaciones de forma manual o con herramientas antiguas, lo que provoca retrasos, errores en el registro de huéspedes, dificultades para coordinar tareas internas y una mayor carga de trabajo para el personal. Esta situación afecta la rapidez del servicio y perjudica la experiencia del cliente, especialmente en momentos de alta demanda.
 
+Uno de los problemas más críticos es que el personal de recepción y administración no siempre cuenta con una visión clara en tiempo real de la disponibilidad de las habitaciones, el estado de limpieza, las reservas o el trabajo asignado a cada personal. Además, los hospedajes que dependen de registros en papel o en hojas de cálculo, tienen una probabilidad más alta de tener retrasos, confusiones o pérdida de la información, lo que limita su eficiencia operativa.
+
+Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organizar sus operaciones de manera rápida, ordenada y confiable, reduciendo errores y mejorando la atención al huésped mediante una solución accesible y fácil de usar?
 
 #### 1.2.2.2 Lean UX Assumptions
 
