@@ -231,11 +231,11 @@ Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organ
 
     + **¿Cuándo y cómo se utiliza nuestro producto?** <br> Se utiliza durante todo el proceso de hospedaje, desde la reserva hasta el check-out. Su funcionamiento se basa en una plataforma web donde el personal puede registrar, revisar y actualizar información en tiempo real, mientras que el huésped puede gestionar su reserva y realizar su registro de entrada y salida de forma más rápida, evitando largas esperas y mejorando su experiencia. <br>
 
-    + **¿Qué problemas resuelve nuestro producto?** <br> Resuelve la ineficiencia y lentitud de los procesos de registro manuales, casos de asignación de tareas duplicadas, errores en el registro de huéspedes, y la falta de control sobre habitaciones y limpieza. Para el huésped reduce el tiempo de espera y mejora la experiencia del cliente. <br>
+    + **¿Qué problemas resuelve nuestro producto?** <br> Resuelve la ineficiencia y lentitud de los procesos de registro manuales, casos de asignación de tareas duplicadas, errores en el registro de huéspedes, y la falta de control sobre habitaciones y limpieza. Para el huésped reduce el tiempo de espera y mejora su experiencia. <br>
 
     + **¿Qué características son importantes?** <br> La facilidad de uso, una vista clara y detallada sobre el estado de las habitaciones, la gestión de reservas, el registro de entrada y salida, la asignación de tareas de limpieza, los roles de acceso, las facturaciones y la velocidad en la actualización de datos . <br>
 
-    + **¿Cómo debe verse y comportarse nuestro producto?** <br> Debe tener una interfaz profesional, intuitiva y rápida de usar. Debe comportarse como una herramienta confiable que ayude a los hospedajes a tener una gestión ordenada, y a los huéspedes a tener una mejor experiencia de reserva. <br>
+    + **¿Cómo debe verse y comportarse nuestro producto?** <br> Debe tener una interfaz profesional, intuitiva y rápida de usar. Debe comportarse como una herramienta confiable que ayude a los hospedajes a tener una gestión ordenada, y a los huéspedes a tener una mejor experiencia de reserva de habitaciones. <br>
 
  + **Business Outcomes:** 
 
@@ -243,7 +243,7 @@ Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organ
 
     2. **Estas necesidades se pueden resolver con** un servicio que centralice el manejo de reservas, habitaciones, limpieza, personal, check-in, check-out y facturación en un solo lugar.
 
-    3. **Nuestros usuarios iniciales son** hospedajes pequeños y medianos que aún trabajan con procesos manuales, junto con huéspedes frecuentes.
+    3. **Nuestros usuarios iniciales son** hospedajes pequeños y medianos que aún trabajan con procesos manuales, junto con personas que usan servicios de hospedaje frecuentemente.
 
     4. **El valor #1 que un cliente quiere de nuestro servicio es que** le permita ahorrar tiempo, reducir errores y tener un mayor control de gestión.
 
