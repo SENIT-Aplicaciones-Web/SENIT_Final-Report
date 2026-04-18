@@ -155,29 +155,31 @@ URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
 
-**Nombre:**  
+**Nombre:** Senit  
 
-**Área:**  
+**Área:** Hotelería
 
+Senit es una startup de tecnología enfocada en el desarrollo de soluciones innovadoras de software con el fin de mejorar la gestión de los hospedajes. Su objetivo principal es sustituir los sistemas tradicionales y antiguos por una mejor opción accesible, eficiente y rentable. 
 
-* **Misión:**
+Senit es una plataforma web que permite organizar en un solo lugar las reservas, el registro de entrada y salida, el control de las habitaciones, las tareas de limpieza, la gestión del personal y la facturación. 
 
+Planteamos esta solución para reemplazar los procesos manuales y herramientas desactualizadas que generan retrasos, errores y sobrecarga de trabajo, para ayudar a los hoteles y moteles a gestionarse con mayor eficiencia y orden, permitiéndoles ofrecer un mejor servicio a sus huespedes.
 
-* **Visión:**
+* **Misión:** Nuestra misión es proporcionar al sector de hospejades una herramienta tecnológica que facilite sus operaciones diarias, reduzca errores de gestión y mejoren la calidad de atención al cliente.
 
+* **Visión:** Nuestra visión es convertirnos en una startup reconocida por ofrecer soluciones de calidad, confiables e innovadoras para la gestión hotelera en el Perú.
 
-* **Valores:**
-
+* **Valores:** Innovación, eficiencia, confianza y compromiso.
 
   ### 1.1.2 Perfiles de integrantes del equipo
   
 | **Integrante**  | **Perfil**  | **Imagen** |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Heredia Hoyos, Danitza Ivonne - U201910803** | Escribe aquí | <img src="assets/profiles/Danitza.jpg" alt="Foto de Heredia Hoyos, Danitza Ivonne" width="150"/> |
-| **Montes Zamora, Edgar Alexander Mauricio - U20241E126** | Escribe aquí | <img src="assets/profiles/Mauricio.jpg?raw=true" alt="Montes Zamora, Edgar Alexander Mauricio"/> |
-| **Lozano Leon, Richard Enrique - U20241D990** | Escribe aquí | <img src="assets/profiles/Richard.jpg?raw=true" alt="Foto de Lozano Leon, Richard Enrique"/> |
-| **Faustino Hurtado, Anghelo - U20241B331** | Escribe aquí | <img src="assets/profiles/Anghelo.jpg?raw=true" alt="Foto de Faustino Hurtado, Anghelo"/> |
-| **Garcia Villanueva, Leonardo Rafael - U20231H059** | Escribe aquí | <img src="assets/profiles/Leonardo.jpg?raw=true" alt="Garcia Villanueva, Leonardo Rafael"/> |
+| **Heredia Hoyos, Danitza Ivonne - U201910803** | Escribe aquí | <img src="assets/profiles/Danitza.webp?raw=true" alt="Foto de Heredia Hoyos, Danitza Ivonne" width="150"/> |
+| **Montes Zamora, Edgar Alexander Mauricio - U20241E126** | Escribe aquí | <img src="assets/profiles/Mauricio.webp?raw=true" alt="Montes Zamora, Edgar Alexander Mauricio"/> |
+| **Lozano Leon, Richard Enrique - U20241D990** | Escribe aquí | <img src="assets/profiles/Richard.webp?raw=true" alt="Foto de Lozano Leon, Richard Enrique"/> |
+| **Faustino Hurtado, Anghelo - U20241B331** | Escribe aquí | <img src="assets/profiles/Anghelo.webp?raw=true" alt="Foto de Faustino Hurtado, Anghelo"/> |
+| **Garcia Villanueva, Leonardo Rafael - U20231H059** | Mi nombre es Leonardo Rafael Garcia Villanueva, con el código u20231h059, soy estudiante de la carrera de Ingeniería de Software en quinto ciclo. Poseo conocimientos sobre el lenguaje C++, base de datos SQL, así como HTML, CSS y JavaScript. Tengo mucho interés en el desarrollo de software para dar soluciones a problemas que requieran de creatividad y razonamiento lógico. Me adapto rápidamente a las situaciones que se presentan. | <img src="assets/profiles/Leonardo.webp?raw=true" alt="Garcia Villanueva, Leonardo Rafael"/> |  
 
 ## 1.2 Solution Profile
 
