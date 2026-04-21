@@ -606,6 +606,11 @@ Explicacion
 
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
+En esta sección se definen las pautas de diseño y redacción que se utilizarán en la plataforma Senit. Estas guías permiten mantener un estilo uniforme en todo el sistema, facilitando la comprensión de los usuarios y logrando una presentación clara y ordenada.
+
+# Band Name
+El nombre de nuestro proyecto es Senit, una denominación corta, moderna y fácil de recordar. Refleja simplicidad y eficiencia, dos pilares fundamentales de la plataforma. Senit está orientado a representar una solución tecnológica ágil que optimiza la gestión de hospedajes, transmitiendo innovación, organización y accesibilidad.
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
