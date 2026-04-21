@@ -364,17 +364,35 @@ Creemos que si unimos en una sola plataforma la información de habitaciones, pe
 
 ## 1.3 Segmentos Objetivo
 
-+ **S1**<br>
+Los segmentos objetivo son grupos específicos de usuarios a los que se dirige un producto o servicio en particular.
 
-    + **Características demográficas:** <br>
-    + **Características geográficas:** <br><br>
+Los segmentos objetivo identificados para nuestra plataforma Senit, orientada a optimizar la gestión operativa de hoteles y moteles mediante una solución web, se presentan a continuación:
 
-+ **S2**<br>
++ **S1: Personal administrativo y operativo de hoteles y moteles**<br>
+  + **Características demográficas:**<br>
+    Edad: 23 a 60 años.<br>
+    Género: Variado.<br>
+    Cargo: Administradores, recepcionistas, supervisores y personal encargado de operaciones.<br>
+    Formación: Experiencia en gestión hotelera, administración o atención al cliente.<br>
+    Tecnología: Uso básico o intermedio de herramientas digitales; en muchos casos aún dependen de registros manuales o Excel.<br>
+    Necesidad: Optimizar reservas, check-in/check-out, control de habitaciones, coordinación del personal y acceso rápido a información en tiempo real.<br>
 
-    + **Características demográficas:** <br>
-    + **Características geográficas:** <br><br>
+  + **Características geográficas:**<br>
+    Ubicación: Hoteles y moteles del Perú, principalmente en zonas urbanas.<br>
+    Entorno: Negocios de hospedaje que buscan modernizar su operación y reducir errores derivados de procesos manuales.<br><br>
 
----
++ **S2: Huéspedes y clientes frecuentes de hoteles y moteles**<br>
+  + **Características demográficas:**<br>
+    Edad: 18 a 55 años.<br>
+    Género: Variado.<br>
+    Perfil: Personas que se hospedan de forma ocasional o frecuente por motivos personales, turísticos o de descanso.<br>
+    Comportamiento: Suelen valorar la rapidez, comodidad y confiabilidad durante el proceso de reserva y registro.<br>
+    Tecnología: Uso frecuente de plataformas web y aplicaciones móviles para reservar servicios.<br>
+    Necesidad: Reducir tiempos de espera, evitar errores en reservas y contar con procesos de check-in/check-out más ágiles y sencillos.<br>
+
+  + **Características geográficas:**<br>
+    Ubicación: Usuarios de hoteles y moteles en ciudades del Perú.<br>
+    Entorno: Contextos urbanos donde los clientes esperan experiencias de atención rápidas, prácticas y digitalizadas.<br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -547,6 +565,73 @@ En esta sección se realizará el análisis competitivo de los competidores iden
 En esta sección se abordará la investigación en base a la información que se obtendrá de los segmentos entrevistados con el objetivo de conocer mejor a nuestros segmentos objetivos y aprender de ellos y sus procesos.
 
 ### 2.2.1 Diseño de entrevistas
+
+Se han diseñado dos bloques de preguntas: uno dirigido al personal administrativo y operativo de hoteles y moteles, y otro a los huéspedes o clientes frecuentes. Las preguntas incluyen aspectos demográficos y variables clave como la gestión de reservas, el proceso de check-in/check-out, los canales digitales de interacción, el uso de tecnología, los objetivos del usuario y las principales frustraciones dentro de la experiencia de hospedaje.
+
+---
+
+## Segmento 1: Personal administrativo y operativo de hoteles y moteles
+
+### Preguntas complementarias
+
+- ¿Cuál es su nombre completo?
+- ¿Cuántos años tiene?
+- ¿En qué distrito o ciudad se ubica el establecimiento donde trabaja?
+- ¿Cuál es su cargo actual dentro del establecimiento?
+- ¿En qué tipo de establecimiento trabaja actualmente? (hotel, motel, hostal u otro)
+- ¿Cuántos años de experiencia tiene en el sector hotelero o de hospedaje?
+- ¿Qué dispositivos tecnológicos utiliza con mayor frecuencia en su trabajo?
+- ¿Qué herramientas, sistemas o canales utilizan actualmente para gestionar reservas, habitaciones y pagos? (Excel, cuaderno, WhatsApp, llamadas, sistema interno, etc.)
+
+### Preguntas principales
+
+- ¿Cómo gestionan actualmente las reservas y los procesos de check-in/check-out en su establecimiento?
+- ¿Qué problemas enfrentan con mayor frecuencia al coordinar la entrada y salida de huéspedes?
+- ¿Cómo manejan actualmente los pagos, comprobantes y facturación de los clientes?
+- ¿Con qué frecuencia ocurren errores en reservas, sobreocupaciones o asignaciones incorrectas de habitaciones?
+- ¿Qué herramientas utilizan para controlar ingresos, egresos, inventario y estado de habitaciones?
+- ¿Qué tan fácil o difícil es obtener reportes rápidos sobre ocupación, ingresos o movimientos operativos?
+- ¿Cómo organizan y supervisan las tareas del personal durante los turnos diarios?
+- ¿Qué aspectos de la experiencia del cliente generan más quejas o reclamos dentro del establecimiento?
+- ¿Han utilizado antes algún sistema digital para apoyar la gestión operativa? ¿Cómo fue esa experiencia?
+- ¿Cuál es la mayor frustración que enfrenta en su trabajo diario al gestionar reservas, habitaciones o atención al cliente?
+- ¿Cuál es el principal objetivo que busca cumplir durante su jornada laboral para que la operación del establecimiento funcione bien?
+- Cuando una habitación cambia de estado (ocupada, disponible, en limpieza o reservada), ¿cómo se registra y comunica actualmente esa información?
+- Si el sistema les mostrara en tiempo real el estado de habitaciones, reservas y pagos, ¿qué decisiones podrían tomar más rápido con esa información?
+- ¿Qué canal de contacto o interacción con el cliente usan con más frecuencia durante una reserva o atención? ¿Cuál les resulta más eficiente?
+- Si pudieran mejorar un proceso específico dentro del negocio con apoyo tecnológico, ¿cuál sería y por qué?
+
+---
+
+## Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles
+
+### Preguntas complementarias
+
+- ¿Cuál es su nombre completo?
+- ¿Cuántos años tiene?
+- ¿En qué distrito o ciudad reside actualmente?
+- ¿Con qué frecuencia suele hospedarse en hoteles, moteles u hostales?
+- ¿Cuál suele ser el motivo principal de su hospedaje? (descanso, turismo, trabajo, viaje ocasional, etc.)
+- ¿Qué dispositivos tecnológicos utiliza con mayor frecuencia para buscar o reservar hospedajes?
+- ¿Qué medios o canales suele usar para reservar hospedajes? (página web, app, llamada, WhatsApp, redes sociales, atención presencial, etc.)
+
+### Preguntas principales
+
+- ¿Cómo fue el proceso de reserva en el último hospedaje que utilizó?
+- ¿Tuvo algún problema relacionado con disponibilidad, sobre-reservas o errores en su reserva?
+- ¿Qué tan rápido y sencillo fue el proceso de check-in y check-out?
+- ¿Cómo calificaría la comunicación con el personal del establecimiento durante su atención?
+- ¿Alguna vez ha tenido problemas con pagos, facturación o comprobantes en un hospedaje?
+- ¿Qué tan satisfecho quedó con la limpieza, organización y estado general de la habitación?
+- ¿Recibió el servicio que esperaba al momento de hospedarse? ¿Qué sintió que faltó?
+- ¿Cuál fue la principal frustración que tuvo durante su experiencia de reserva, llegada o estadía?
+- ¿Cuál es el principal objetivo que busca cumplir cuando reserva un hospedaje? (rapidez, comodidad, privacidad, confianza, precio, etc.)
+- ¿Qué aspecto de la experiencia mejoraría primero: rapidez, atención, comodidad, información o proceso de reserva?
+- ¿Qué tanto le gustaría poder realizar un pre check-in o registro anticipado desde su casa o celular?
+- Si el establecimiento utilizara un sistema digital para reservar y registrarse más rápido, ¿le resultaría más atractivo? ¿Por qué?
+- ¿Qué información le gustaría ver clara antes de confirmar una reserva? (precio, tipo de habitación, disponibilidad, servicios incluidos, horarios, etc.)
+- ¿Qué tan importante es para usted recibir confirmaciones inmediatas de su reserva y pago?
+- ¿Qué canal de atención o reserva le resulta más cómodo y confiable cuando busca hospedaje?
 
 ### 2.2.2 Registro de entrevistas
 
