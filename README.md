@@ -671,7 +671,49 @@ Además, la plataforma está estructurada por módulos, lo que ayuda a mantener 
 ---
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management.
+En la siguiente sección, se describirán las herramientas, convenciones, referencias y configuraciones utilizadas durante el desarrollo del proyecto, las cuales contribuyeron a mantener la consistencia del trabajo realizado.
 ### 5.1.1. Software Development Environment Configuration.
+A continuación se detallan los productos de software que se emplearon en el proyecto según las distintas actividades desarrolladas.
+
+Project Management
+
+WhatsApp: Es una aplicación de mensajería instantánea que facilita la comunicación ágil y en tiempo real entre las personas. La utilizamos para mantener una comunicación continua entre los integrantes del proyecto y coordinar las tareas que debían realizarse. https://web.whatsapp.com/
+
+Google Meet: Es una plataforma de videoconferencias que permite realizar reuniones virtuales con audio, video y opción de compartir pantalla. La usamos para llevar a cabo reuniones con todo el equipo y coordinar verbalmente el desarrollo del proyecto. https://meet.google.com/
+
+Discord: Es una plataforma de comunicación en línea que permite hacer llamadas, videollamadas y chats organizados por canales. La utilizamos para reuniones rápidas entre los miembros disponibles del equipo y para resolver dudas de manera inmediata. https://discord.com/
+
+Requirements Management
+
+Trello: Es una plataforma de gestión de tareas y proyectos basada en tableros, listas y tarjetas. La utilizamos para organizar y hacer seguimiento a los sprint backlogs del proyecto. https://trello.com/es
+
+Product UX/UI Design
+
+UXPressia: Es una plataforma en línea enfocada en el diseño de experiencias de usuario, que permite crear distintos artefactos relacionados con el needfinding. La utilizamos para elaborar las user personas, user journey mapping, empathy mapping e impact mapping del proyecto. https://uxpressia.com/
+
+Miro: Es una pizarra colaborativa digital que permite crear diagramas y esquemas de forma visual y en tiempo real. La utilizamos para desarrollar el event storming e identificar los bounded contexts del proyecto. https://miro.com/
+
+Figma: Es una herramienta de diseño y prototipado de interfaces que permite crear wireframes, mockups y prototipos interactivos. La utilizamos para elaborar los wireframes, mockups y prototipos del proyecto. https://www.figma.com/
+
+Software Development
+
+WebStorm: Es un IDE especializado en tecnologías web. Lo utilizamos para estructurar y desarrollar la landing page del proyecto. https://www.jetbrains.com/es-es/webstorm/
+
+Visual Studio Code: Es un editor de código liviano y extensible, muy usado en desarrollo web. Lo utilizamos para realizar ediciones rápidas en el código de la landing page. https://code.visualstudio.com/
+
+Software Deployment
+
+GitHub: Es una plataforma de desarrollo colaborativo basada en control de versiones Git, que permite alojar y compartir repositorios de software. La utilizamos para desplegar la primera versión de nuestra landing page. https://github.com/
+
+Software Documentation
+
+StarUML: Es una herramienta de modelado UML que permite crear diferentes tipos de diagramas de software. La utilizamos para elaborar el diagrama de clases del proyecto. https://staruml.io/
+
+GitHub: Es una plataforma de control de versiones y colaboración en línea. La utilizamos para redactar, organizar y dar seguimiento al informe completo del proyecto. https://github.com/
+
+Structurizr: Es una herramienta para el modelado de arquitectura de software mediante el enfoque C4. La utilizamos para construir los diagramas de arquitectura C4 del proyecto. https://structurizr.com/
+
+ERD-Editor: Es una herramienta en línea para diseñar diagramas de bases de datos. La utilizamos para elaborar el diagrama de base de datos de nuestro proyecto. https://erd-editor.io/
 ### 5.1.2. Source Code Management.
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
