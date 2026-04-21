@@ -673,9 +673,10 @@ Además, la plataforma está estructurada por módulos, lo que ayuda a mantener 
 ## 5.1. Software Configuration Management.
 En la siguiente sección, se describirán las herramientas, convenciones, referencias y configuraciones utilizadas durante el desarrollo del proyecto, las cuales contribuyeron a mantener la consistencia del trabajo realizado.
 ### 5.1.1. Software Development Environment Configuration.
+
 A continuación se detallan los productos de software que se emplearon en el proyecto según las distintas actividades desarrolladas.
 
-Project Management
+**Project Management**
 
 WhatsApp: Es una aplicación de mensajería instantánea que facilita la comunicación ágil y en tiempo real entre las personas. La utilizamos para mantener una comunicación continua entre los integrantes del proyecto y coordinar las tareas que debían realizarse. https://web.whatsapp.com/
 
@@ -683,11 +684,11 @@ Google Meet: Es una plataforma de videoconferencias que permite realizar reunion
 
 Discord: Es una plataforma de comunicación en línea que permite hacer llamadas, videollamadas y chats organizados por canales. La utilizamos para reuniones rápidas entre los miembros disponibles del equipo y para resolver dudas de manera inmediata. https://discord.com/
 
-Requirements Management
+**Requirements Management**
 
 Trello: Es una plataforma de gestión de tareas y proyectos basada en tableros, listas y tarjetas. La utilizamos para organizar y hacer seguimiento a los sprint backlogs del proyecto. https://trello.com/es
 
-Product UX/UI Design
+**Product UX/UI Design**
 
 UXPressia: Es una plataforma en línea enfocada en el diseño de experiencias de usuario, que permite crear distintos artefactos relacionados con el needfinding. La utilizamos para elaborar las user personas, user journey mapping, empathy mapping e impact mapping del proyecto. https://uxpressia.com/
 
@@ -695,17 +696,17 @@ Miro: Es una pizarra colaborativa digital que permite crear diagramas y esquemas
 
 Figma: Es una herramienta de diseño y prototipado de interfaces que permite crear wireframes, mockups y prototipos interactivos. La utilizamos para elaborar los wireframes, mockups y prototipos del proyecto. https://www.figma.com/
 
-Software Development
+**Software Development**
 
 WebStorm: Es un IDE especializado en tecnologías web. Lo utilizamos para estructurar y desarrollar la landing page del proyecto. https://www.jetbrains.com/es-es/webstorm/
 
 Visual Studio Code: Es un editor de código liviano y extensible, muy usado en desarrollo web. Lo utilizamos para realizar ediciones rápidas en el código de la landing page. https://code.visualstudio.com/
 
-Software Deployment
+**Software Deployment**
 
 GitHub: Es una plataforma de desarrollo colaborativo basada en control de versiones Git, que permite alojar y compartir repositorios de software. La utilizamos para desplegar la primera versión de nuestra landing page. https://github.com/
 
-Software Documentation
+**Software Documentation**
 
 StarUML: Es una herramienta de modelado UML que permite crear diferentes tipos de diagramas de software. La utilizamos para elaborar el diagrama de clases del proyecto. https://staruml.io/
 
@@ -714,8 +715,63 @@ GitHub: Es una plataforma de control de versiones y colaboración en línea. La 
 Structurizr: Es una herramienta para el modelado de arquitectura de software mediante el enfoque C4. La utilizamos para construir los diagramas de arquitectura C4 del proyecto. https://structurizr.com/
 
 ERD-Editor: Es una herramienta en línea para diseñar diagramas de bases de datos. La utilizamos para elaborar el diagrama de base de datos de nuestro proyecto. https://erd-editor.io/
+
 ### 5.1.2. Source Code Management.
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+En el proyecto, para las convenciones de estilo de código, se tomarán como referencia el "HTML Style Guide and Coding Conventions" de W3Schools, el "Google HTML/CSS Style Guide", el "Angular Coding Style Guide", el "Google Java Style Guide" y las convenciones estándar de Gherkin. Además, todos los elementos del código, como nombres de archivos, carpetas, clases, funciones, métodos, componentes, variables y comentarios, serán escritos en inglés.
+
+Las convenciones de estilo que se aplicarán en cada uno de los lenguajes y tecnologías utilizadas se detallan a continuación.
+
+**HTML:**
+
+- Las etiquetas y los atributos se escribirán en minúsculas
+- Los nombres de clases e identificadores seguirán el formato kebab-case
+- Se evitará incluir estilos o scripts incrustados directamente en el HTML
+- Se mantendrá una estructura clara, ordenada y con una indentación consistente
+- Se emplearán saltos de línea y espacios de manera uniforme para mejorar la legibilidad
+
+**CSS:**
+
+- Se evitará el uso de estilos inline dentro del HTML
+- Las propiedades y los valores se escribirán en minúsculas
+- Se utilizará una indentación uniforme en todo el archivo
+- Las propiedades CSS se ordenarán siguiendo la secuencia de maquetación y estructura, dimensiones, tipografía y finalmente colores y fondos
+- Las media queries se colocarán al final del archivo
+
+**JavaScript:**
+
+- El código JavaScript no se escribirá directamente dentro del HTML, salvo en casos estrictamente necesarios
+- Los nombres de variables y funciones estarán en inglés y seguirán el formato camelCase
+- Las funciones deberán ser breves y cumplir una sola responsabilidad
+- Se evitará, en la medida de lo posible, el uso de variables globales
+- Los nombres de las funciones deberán describir con claridad la acción que realizan
+- Los comentarios solo se utilizarán cuando aporten claridad adicional a una lógica que no resulte evidente
+
+**Angular:**
+
+- Los nombres de archivos seguirán el formato kebab-case
+- Cada componente tendrá archivos relacionados con una misma denominación
+- La estructura del proyecto se organizará siguiendo DDD
+- Los componentes deberán tener responsabilidades bien definidas
+
+**Java:**
+
+- Los nombres de clases, interfaces y enums se escribirán en PascalCase
+- Los métodos, variables y parámetros usarán camelCase
+- Los paquetes se escribirán en minúsculas
+- Las constantes se escribirán en UPPER_SNAKE_CASE
+- Cada archivo contendrá una sola clase pública
+- Se mantendrá una organización clara del código, separando responsabilidades por capas o paquetes
+- Se utilizarán comentarios cuando sean necesarios, especialmente en clases o métodos públicos importantes
+
+**Gherkin:**
+
+- Los escenarios se redactarán en inglés
+- Se utilizará la estructura estándar de **"Given, When, Then"**
+- Los escenarios deberán ser breves, claros y enfocados en un único comportamiento
+- Se evitarán ambigüedades en la redacción
+- Los comentarios se escribirán con **#** al inicio de la línea cuando sea necesario
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
