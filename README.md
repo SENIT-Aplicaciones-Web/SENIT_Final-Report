@@ -606,12 +606,43 @@ Explicacion
 
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-En esta sección se definen las pautas de diseño y redacción que se utilizarán en la plataforma Senit. Estas guías permiten mantener un estilo uniforme en todo el sistema, facilitando la comprensión de los usuarios y logrando una presentación clara y ordenada.
+Esta sección reúne las pautas de diseño y estilo que se utilizarán en la plataforma Senit. Su objetivo es mantener coherencia en la apariencia y en la forma de comunicar la información, logrando que el sistema sea claro, ordenado y fácil de usar para los usuarios.
 
-# Band Name
-El nombre de nuestro proyecto es Senit, una denominación corta, moderna y fácil de recordar. Refleja simplicidad y eficiencia, dos pilares fundamentales de la plataforma. Senit está orientado a representar una solución tecnológica ágil que optimiza la gestión de hospedajes, transmitiendo innovación, organización y accesibilidad.
+**Band Name**
+El nombre de nuestro proyecto es Senit, el cual es corto, fácil de recordar y tiene un enfoque moderno. Representa una herramienta tecnológica orientada a mejorar la gestión de hospedajes, permitiendo organizar procesos como reservas, control de habitaciones y facturación de manera más eficiente.
+
+*Logotipo*
+
+El logotipo de Senit tiene un diseño simple y moderno. Está formado por un ícono geométrico que representa la organización de habitaciones o un sistema tipo panel (dashboard), junto con el nombre “Senit” en una tipografía clara.
+Las formas redondeadas ayudan a que el diseño se vea más amigable, mientras que la estructura del ícono transmite orden y control.
+El logo busca reflejar:
+  - Organización
+  - Tecnología
+  - Eficiencia
+
+<img src="/assets/SENIT_logo.webp" alt="SENIT Logo" width="auto" height="180"/>
+
+La **tipografía** utilizada es de estilo sans-serif moderno, con un enfoque geométrico que se adapta bien a entornos digitales.
+En el logotipo, el texto “Senit” utiliza un peso bold o semi-bold, lo que permite que sea fácil de identificar. Las letras tienen formas redondeadas, lo cual se puede notar especialmente en caracteres como la “S”, “e” y “n”. Esto ayuda a que el diseño se vea más amigable y no tan rígido.
+Además, el espaciado entre letras está bien ajustado, logrando una apariencia compacta y ordenada. La altura de las letras también favorece la legibilidad, sobre todo en pantallas.
+En general, la tipografía transmite claridad, modernidad y es fácil de leer.
+
+La **paleta de colores** de Senit está basada en tonos que transmiten tecnología y eficiencia, manteniendo un equilibrio visual.
+- En el isotipo (ícono):
+Se utiliza el azul (#2563EB) como color principal en la mayoría de los bloques, representando confianza y tecnología.
+Se incluye un verde (#10B981) en uno de los bloques, que funciona como acento visual y está relacionado con eficiencia y gestión.
+- En el nombre “Senit”:
+Se usa un azul más oscuro (aproximadamente #1E3A8A), lo que permite diferenciar el texto del ícono y generar un mejor contraste.
+En conjunto, los colores permiten que el logo sea claro, moderno y fácil de reconocer, además de mantener coherencia con la idea de una plataforma tecnológica.
+
+<img src="/assets/SENIT_styleGuideline.webp" alt="SENIT Style Guideline" width="auto" height="180"/>
 
 ### 4.1.2. Web Style Guidelines.
+La plataforma Senit está diseñada para ser fácil de usar y entendible desde el primer momento. Como el sistema reúne varias funciones como reservas, habitaciones, personal y facturación, se busca que todo esté bien organizado y sin elementos que recarguen la pantalla. La idea es que el usuario pueda encontrar lo que necesita rápido y sin complicaciones.
+La navegación es simple e intuitiva, con las opciones principales visibles y bien ubicadas para facilitar el acceso a cada sección. También se incluyen mensajes claros cuando el usuario realiza alguna acción, como guardar o editar información, para que siempre sepa lo que está pasando en el sistema.
+Además, la plataforma está estructurada por módulos, lo que ayuda a mantener el orden y mejora la experiencia de uso. Todo esto se complementa con un diseño adaptable, que permite usar Senit tanto en computadora como en dispositivos móviles sin perder funcionalidad.
+
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 ### 4.2.2. Labeling Systems.
