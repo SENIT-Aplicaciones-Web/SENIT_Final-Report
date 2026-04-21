@@ -658,6 +658,47 @@ Explicacion
 
 ## 2.5. Ubiquitous Language
 
+En esta sección del documento se da a conocer el glosario de términos del dominio de negocio que se utilizó en el proyecto Senit. La idea de ese lenguaje ubicuo es que todos los integrantes del grupo y las personas implicadas en el proyecto se manejen con la misma terminología a la hora de hablar del problema, de la solución y de la explotación diaria del negocio, de tal forma que se evite la confusión y se consiga una comunicación más clara de los principales procesos de los hoteles y moteles.
+
+- **Guest (Huésped):** Es la persona que se aloja en el establecimiento y hace uso de una habitación durante un tiempo determinado. En otras palabras, es quien vive directamente la experiencia del servicio, desde su llegada hasta su salida.
+
+- **Customer (Cliente):** Es la persona que realiza la reserva o el pago del servicio. A veces el cliente y el huésped son la misma persona, pero no siempre, porque también puede pasar que alguien reserve o pague por otra persona.
+
+- **Reservation (Reserva):** Es el registro previo mediante el cual un cliente solicita una habitación para una fecha, horario o periodo específico. Básicamente, representa la intención confirmada de hospedarse antes de llegar al establecimiento.
+
+- **Walk-in Guest (Huésped sin reserva):** Es el cliente que llega directamente al hotel o motel sin haber reservado antes. Este caso es importante porque obliga al negocio a validar la disponibilidad en ese mismo momento.
+
+- **Check-in:** Es el proceso de ingreso del huésped. Aquí se confirma su llegada, se valida su reserva o atención directa y se le asigna formalmente una habitación para iniciar su estadía.
+
+- **Check-out:** Es el proceso de salida del huésped. En este momento se da por terminada la estadía, se revisan los consumos realizados y se completa el pago correspondiente, si todavía hubiera algo pendiente.
+
+- **Room (Habitación):** Es el espacio de alojamiento que el establecimiento pone a disposición de los huéspedes. Cada habitación forma parte central de la operación, ya que de ella dependen la reserva, la ocupación, la limpieza y la tarifa.
+
+- **Room Type (Tipo de habitación):** Es la categoría que permite diferenciar una habitación de otra según sus características. Por ejemplo, puede variar por tamaño, comodidad, equipamiento, capacidad o servicios incluidos.
+
+- **Room Status (Estado de habitación):** Es la condición en la que se encuentra una habitación en un momento específico. Este estado ayuda a saber si está libre, ocupada, reservada, en limpieza o bloqueada, y por eso es clave para la operación diaria.
+
+- **Availability (Disponibilidad):** Es la condición que indica si una habitación puede ser asignada o reservada. Este término es fundamental porque afecta directamente la atención al cliente y la toma de decisiones en recepción.
+
+- **Rate (Tarifa):** Es el precio que se cobra por el uso de una habitación. Esta tarifa puede variar según el tipo de habitación, el tiempo de estadía o las condiciones del servicio ofrecido.
+
+- **Front Desk (Recepción):** Es el área encargada de atender al huésped en su llegada, durante su permanencia y al momento de su salida. Además, desde recepción se coordinan procesos importantes como reservas, check-in, check-out y consultas generales.
+
+- **Housekeeping (Limpieza de habitaciones):** Es el área o conjunto de actividades relacionadas con la limpieza, orden y preparación de las habitaciones. Su trabajo influye directamente en la disponibilidad y en la calidad percibida por el huésped.
+
+- **Shift (Turno):** Es el periodo de trabajo asignado al personal del establecimiento. Este término es importante porque la operación del negocio depende de que cada turno mantenga continuidad en la atención y el control de las habitaciones.
+
+- **Staff (Personal):** Se refiere al conjunto de trabajadores que participan en la operación del negocio, como recepcionistas, administradores, personal de limpieza u otros colaboradores.
+
+- **Consumption (Consumo):** Es el registro de productos o servicios adicionales que utiliza el huésped durante su estadía. Estos consumos luego deben ser considerados en el cierre de cuenta o en la facturación final.
+
+- **Payment (Pago):** Es la acción mediante la cual el cliente cancela el monto correspondiente a la habitación y a los consumos realizados. Es uno de los procesos más sensibles, porque debe quedar claro, correcto y bien registrado.
+
+- **Invoice (Factura):** Es el comprobante de pago que se emite cuando el servicio debe registrarse a nombre de una empresa o contribuyente. Tiene un uso más formal y tributario dentro de la operación.
+
+- **Receipt (Boleta):** Es el comprobante de pago que normalmente se emite a nombre de una persona natural por el servicio brindado. Es uno de los documentos más comunes en la atención al cliente final.
+
+- **Overbooking (Sobre-reserva):** Es la situación en la que se confirma más de una reserva para una misma habitación o para una capacidad que realmente no está disponible. Este problema afecta de forma directa la experiencia del cliente y la credibilidad del establecimiento.
 ---
 # Capítulo III: Requirements Specification
 
