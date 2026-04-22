@@ -812,7 +812,7 @@ GitHub: Es una plataforma de desarrollo colaborativo basada en control de versio
 
 **Software Documentation**
 
-StarUML: Es una herramienta de modelado UML que permite crear diferentes tipos de diagramas de software. La utilizamos para elaborar el diagrama de clases del proyecto. https://staruml.io/
+LucidChart: Es una herramienta de modelado UML que permite crear distintos tipos de diagramas de software. Lo utilizamos para elaborar el diagrama de clases del proyecto. https://www.lucidchart.com/
 
 GitHub: Es una plataforma de control de versiones y colaboración en línea. La utilizamos para redactar, organizar y dar seguimiento al informe completo del proyecto. https://github.com/
 
@@ -859,15 +859,12 @@ Las convenciones de estilo que se aplicarán en cada uno de los lenguajes y tecn
 - La estructura del proyecto se organizará siguiendo DDD
 - Los componentes deberán tener responsabilidades bien definidas
 
-**Java:**
+**C#:**
 
 - Los nombres de clases, interfaces y enums se escribirán en PascalCase
 - Los métodos, variables y parámetros usarán camelCase
-- Los paquetes se escribirán en minúsculas
 - Las constantes se escribirán en UPPER_SNAKE_CASE
-- Cada archivo contendrá una sola clase pública
-- Se mantendrá una organización clara del código, separando responsabilidades por capas o paquetes
-- Se utilizarán comentarios cuando sean necesarios, especialmente en clases o métodos públicos importantes
+- Se mantendrá una organización clara del código separando responsabilidades 
 
 **Gherkin:**
 
