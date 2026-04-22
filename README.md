@@ -189,27 +189,81 @@ Planteamos esta solución para reemplazar los procesos manuales y herramientas d
 
 **5W's y 2H's**
 <br>
+Durante los últimos años el sector hotelero en el Perú, experimento un gran crecimiento sostenido, sobre todo impulsado por el incremento del turimos tanto interno como externo, así como por la creación y expansión de empresas pequeñas y medianas las cuales se dedican al hospedaje. Según datos obtenidos por el Ministerio de Comercio Exterior y Turismo (2023), la oferta de establecimientos de hospedaje superó la cantidad de 26 mil a nivel nacional, lo cual evidencia una mayor competitividad dentro del sector, pero a pesar de este crecimiento, la mayoría de negocios aún continúan utilizando esquemas tradicionales para su gestión, utilizando herramientas como el papel para mantener registros, algunos un poco más conocedores utilizando hojas de cálculo básicas o inclusive sistemas desactualizados.
+
+Es por estas problemáticas detectadas, que se evidencia la necesidad de implementar soluciones tecnológicas más modernas, sobre todo en aplicaciones web, que permitan centralizar la información de una manera simple, automatizar procesos y mejorar la eficiencia operativa de tanto hoteles como moteles. Las cuales no solo contribuirán a reducir posibles errores humanos ya sea en coordinación, atención, etc, sino que también podrán mejorar la experiencia del usuario y aumentar la rentabilidad del negocio.
 
 * **What?**
 
+  Existe una problemática al momento de la gestión de operaciones en hoteles y moteles, que se origina en el uso de sistemas manuales o herramientas digitales limitadas, esto ocasiona errores muy frecuentes en reservas, lo cual puede terminar en frustración para el cliente debido a demoras en el proceso de atención, falta de control sobre el estado de las habitaciones, o hasta perdida monetaria para el establecimiento debido a mala gestión de la información financiera.
+
+  Además de que actualmente no se cuentan con plataformas tan integradas que permitan monitorear en tiempo real las operaciones que se realizan, lo cual genera desorganización y perdida para oportunidades de mejora. 
 <br><br>
 * **Why?**
+
+  La problemática esta originada principalmente por lo siguiente:
+
+  - Una baja adopción de tecnologías digitales en tanto pequeñas como medianas empresas en varios sectores y localidades.
+  - La dependencia de procesos manuales que incrementan la probabilidad de error humano.
+  - La falta de sistemas que se centren en integrar reservas, inventarios, personal y finanzas.
+  - Una limitada inversión para soluciones tecnológicas debido al desconocimiento o costos percibidos.
+
+  Estas problemáticas, provocan ineficiencia operativa, una mala experiencia del cliente y pérdida de competitividad en el mercado.
+
 
 <br><br>
 * **Who?**
 
+  Los grupos principalmente afectados son:
+
+  - Administradores de hoteles y moteles: Estos no cuentan con una información confiable y consolidada para tomar decisiones
+  - Personal operativo(recepcionistas, camareros, etc.): que puede tener dificultades a la hora de coordinar tareas, distribuirlas y gestionar las reservas.
+  - Clientes y huéspedes: Quienes experimentan demoras en reservas, check-in o check-out, errores en reservas o incluso un sistema con demoras y poco eficiente.
+  - Personal financiero: Los cuales tiene complicaciones para seguir de manera confiable y segura los ingresos, gastos por parte del establecimiento y reportes o cortes de caja del día a día.
+
+
 <br><br>
 * **When?**
+
+  Esta problemática se presenta de manera constante en el día a día, pero se nota mayormente en:
+
+  - Temporadas altas (feriados, vacaciones, eventos, donde familias enteras pueden buscar estos establecimientos).
+  - Horarios de alta demanda (check-in/check-out).
+  - Situaciones donde múltiples usuarios deben acceder a la misma información sin sincronización adecuada.
+
+  Además, nos situamos en el contexto actualde transformación digital y la necesidad constante de optimizar procesos, especialmente tras el crecimiento evidente del sector hotelero y la necesidad de que todos ls establecimientos busquen mantenerse de manera competitiva en un mercado el cual poco a poco se va digitalizando cada vez más.
 
 <br><br>
 * **Where?**
 
+  Se presenta principalmente en:
+
+  - Hoteles, hostales y moteles del Perú.
+  - Negocios ubicados en zonas urbanas con alto flujo de clientes.
+  - Establecimientos que aún no han adoptado soluciones tecnológicas modernas.
+
+  Adicionalmente, nuestra aplicación web podrá utilizarse tanto mediante una pagina web, como una aplicación, para permitir un mejor control y acceso para el personal administrativo durante el día a día.
 <br><br>
 * **How?**
+Ocurre debido a:
 
+  - Uso de registros manuales o sistemas no integrados.
+  - Falta de actualización en tiempo real de la información.
+  - Procesos duplicados (registro en papel y luego digitalización).
+  - Escasa automatización de tareas operativas.
+
+  Esto genera retrasos, inconsistencias en los datos y pérdida de eficiencia en la operación.
 <br><br>
 * **How much?**
 
+  El impacto es significativo y se refleja en:
+
+  - Incremento de errores en reservas y asignación de habitaciones.
+  - Pérdida de tiempo en procesos manuales.
+  - Disminución en la satisfacción del cliente.
+  - Reducción de la productividad del personal.
+  - Pérdidas económicas por mala gestión operativa.
+  - Limitaciones para escalar el negocio o adaptarse a la transformación digital.
 <br><br>
 
 ### 1.2.2 Lean UX Process
