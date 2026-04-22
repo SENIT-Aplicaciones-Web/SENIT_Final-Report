@@ -639,7 +639,7 @@ Se incluye un verde (#10B981) en uno de los bloques, que funciona como acento vi
 Se usa un azul más oscuro (aproximadamente #1E3A8A), lo que permite diferenciar el texto del ícono y generar un mejor contraste.
 En conjunto, los colores permiten que el logo sea claro, moderno y fácil de reconocer, además de mantener coherencia con la idea de una plataforma tecnológica.
 
-<p aligned = "center">
+<p align = "center">
   <img src="/assets/SENIT_StyleGuideline.webp" alt="SENIT_StyleGuideline" width="auto" height="180"/>
 </p>
 
