@@ -173,13 +173,13 @@ Planteamos esta solución para reemplazar los procesos manuales y herramientas d
 
   ### 1.1.2 Perfiles de integrantes del equipo
   
-| **Integrante**  | **Perfil**  | **Imagen** |
-| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Heredia Hoyos, Danitza Ivonne - U201910803** | Mi nombre es Danitza Ivonne Heredia Hoyos. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con código U201910803. Cuento con conocimientos en UX/UI Design, enfocado en la creación de interfaces intuitivas y centradas en la experiencia del usuario. Me interesa seguir fortaleciendo mis habilidades tanto en el ámbito del desarrollo de software como en el diseño de soluciones digitales, aportando creatividad y enfoque práctico en cada proyecto. | <img src="assets/profiles/Danitza.webp?raw=true" alt="Foto de Heredia Hoyos, Danitza Ivonne" width="150"/> |
-| **Montes Zamora, Edgar Alexander Mauricio - U20241E126** | Escribe aquí | <img src="assets/profiles/Mauricio.webp?raw=true" alt="Montes Zamora, Edgar Alexander Mauricio"/> |
-| **Lozano Leon, Richard Enrique - U20241D990** | Soy Richard Enrique Lozano León, con código U20241D990, estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, cursando el quinto ciclo. Me interesa fortalecer mis competencias en el área tecnológica y actualmente me encuentro enfocado en el aprendizaje y práctica del lenguajes de programación. | <img src="assets/profiles/Richard.png?raw=true" alt="Foto de Lozano Leon, Richard Enrique"/> |
-| **Faustino Hurtado, Anghelo - U20241B331** | Escribe aquí | <img src="assets/profiles/Anghelo.webp?raw=true" alt="Foto de Faustino Hurtado, Anghelo"/> |
-| **Garcia Villanueva, Leonardo Rafael - U20231H059** | Mi nombre es Leonardo Rafael Garcia Villanueva, con el código u20231h059, soy estudiante de la carrera de Ingeniería de Software en quinto ciclo. Poseo conocimientos sobre el lenguaje C++, base de datos SQL, así como HTML, CSS y JavaScript. Tengo mucho interés en el desarrollo de software para dar soluciones a problemas que requieran de creatividad y razonamiento lógico. Me adapto rápidamente a las situaciones que se presentan. | <img src="assets/profiles/Leonardo.webp?raw=true" alt="Garcia Villanueva, Leonardo Rafael"/> |  
+| **Integrante**  | **Perfil**  | **Imagen**                                                                                                   |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------|
+| **Heredia Hoyos, Danitza Ivonne - U201910803** | Mi nombre es Danitza Ivonne Heredia Hoyos. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con código U201910803. Cuento con conocimientos en UX/UI Design, enfocado en la creación de interfaces intuitivas y centradas en la experiencia del usuario. Me interesa seguir fortaleciendo mis habilidades tanto en el ámbito del desarrollo de software como en el diseño de soluciones digitales, aportando creatividad y enfoque práctico en cada proyecto. | <img src="assets/profiles/Danitza.webp?raw=true" alt="Foto de Heredia Hoyos, Danitza Ivonne" width="150"/>   |
+| **Montes Zamora, Edgar Alexander Mauricio - U20241E126** | Escribe aquí | <img src="assets/profiles/Mauricio.webp?raw=true" alt="Montes Zamora, Edgar Alexander Mauricio"/>            |
+| **Lozano Leon, Richard Enrique - U20241D990** | Soy Richard Enrique Lozano León, con código U20241D990, estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, cursando el quinto ciclo. Me interesa fortalecer mis competencias en el área tecnológica y actualmente me encuentro enfocado en el aprendizaje y práctica del lenguajes de programación. | <img src="assets/profiles/Richard.png?raw=true" alt="Foto de Lozano Leon, Richard Enrique"/>                 |
+| **Faustino Hurtado, Anghelo - U20241B331** | Mi nombre es Anghelo Faustino Hurtado, con código u20241b331, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona dedicada, responsable y con facilidad para aprender rápidamente. Mi mayor motivación es diseñar y desarrollar soluciones tecnológicas que tengan un impacto positivo en la vida de las personas y faciliten sus actividades diarias. En este proyecto, enfoco mi aprendizaje en el análisis estratégico del mercado y en la estructuración lógica de sistemas para asegurar una navegación eficiente en el desarrollo de aplicaciones web. | <img src="assets/profiles/perfil-anghelo.png?raw=true" alt="Foto de Faustino Hurtado, Anghelo" width="150"/> |
+| **Garcia Villanueva, Leonardo Rafael - U20231H059** | Mi nombre es Leonardo Rafael Garcia Villanueva, con el código u20231h059, soy estudiante de la carrera de Ingeniería de Software en quinto ciclo. Poseo conocimientos sobre el lenguaje C++, base de datos SQL, así como HTML, CSS y JavaScript. Tengo mucho interés en el desarrollo de software para dar soluciones a problemas que requieran de creatividad y razonamiento lógico. Me adapto rápidamente a las situaciones que se presentan. | <img src="assets/profiles/Leonardo.webp?raw=true" alt="Garcia Villanueva, Leonardo Rafael"/>                 |  
 
 ## 1.2 Solution Profile
 
@@ -397,169 +397,43 @@ Los segmentos objetivo identificados para nuestra plataforma Senit, orientada a 
 # Capítulo II: Requirements Elicitation & Analysis
 
 
-## 2.1 Competidores
+## 2.1. Competidores
 
-En esta sección se identificarán los mejores referentes para posteriormente realizar un análisis competitivo que nos ayudará a saber nuestro posicionamiento y el valor agregado que ofreceremos en el mercado. 
+El mercado de sistemas de gestión hotelera (PMS) en el Perú presenta diversas soluciones, desde plataformas globales hasta registros manuales. **Senit** se posiciona como una alternativa tecnológica que cierra la brecha en el segmento de PyMEs hoteleras y moteles, integrando digitalización con tecnologías de Internet de las Cosas (IoT).
 
-Según la investigación, se descubrieron apps webs y/o aplicaciones similares. Sin embargo, estamos considerando cuatro competidores directos o indirectos que se parezcan más a nuestra startup.
+## 2.1. Competidores
 
-* **C1**<br>
+El mercado de sistemas de gestión hotelera (PMS) en el Perú presenta diversas soluciones, desde plataformas globales hasta registros manuales. **Senit** se posiciona como una alternativa tecnológica que cierra la brecha en el segmento de PyMEs hoteleras y moteles, integrando digitalización con tecnologías de Internet de las Cosas (IoT).
 
+### 2.1.1. Análisis competitivo
 
-* **C2**<br>
+| Característica | Senit (Nuestra Solución) | Cloudbeds | WuBook | Little Hotelier | Métodos Manuales |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Logotipos** | <img src="./assets/SENIT_logo.webp" width="100"> | <img src="./assets/cloudbeds-logo.png" width="100"> | <img src="./assets/wubook-logo.png" width="100"> | <img src="./assets/little-hotelier-logo.png" width="100"> | <img src="./assets/excel-logo.png" width="100"> |
+| **Público Objetivo** | PyMEs hoteleras y moteles en Perú. | Hoteles medianos y grandes a nivel global. | Hoteles y propiedades de todos los tamaños. | B&B, casas de huéspedes y pequeños hoteles. | Microempresas y hospedajes locales. |
+| **Integración IoT** | Nativa con sensores (luces, cerraduras). | No disponible nativamente. | No disponible nativamente. | No disponible. | Nula. |
+| **Flexibilidad de uso** | Rápido aprendizaje y manejo intuitivo. | Complejo, requiere capacitación extensa. | Complejo, requiere capacitación. | Moderado. | Muy simple, pero ineficiente. |
+| **Punto de Venta** | Incluido (Bar, restaurante, minimarket). | Disponible como módulo adicional. | Disponible como módulo adicional. | Limitado o inexistente. | Totalmente manual. |
+| **Facturación** | Integrada con SUNAT (Perú). | Requiere integración de terceros. | Requiere integración de terceros. | Limitada para el mercado peruano. | Manual y lenta. |
+| **Costo** | Suscripción accesible en Soles. | Elevado (Dólares). | Moderado (Euros). | Moderado. | Bajo costo directo. |
 
+#### **Análisis SWOT (FODA)**
 
-* **C3**<br>
+| Categoría | Factores Identificados |
+| :--- | :--- |
+| **Fortalezas** | • Integración nativa de sensores IoT para control administrativo.<br>• Especialización en flujo de alta rotación (gestión por horas).<br>• Localización total con facturación SUNAT y precios en Soles.<br>• Interfaz de usuario (UX) centrada en la facilidad de uso. |
+| **Oportunidades** | • Gran porcentaje del sector hotelero aún no está digitalizado.<br>• Alta demanda de seguridad por parte de dueños para evitar fugas de dinero.<br>• Crecimiento de la tendencia de "Smart Hotels" en el mercado local. |
+| **Debilidades** | • Marca nueva en el mercado frente a gigantes globales.<br>• Inversión inicial necesaria por parte del cliente para instalar sensores.<br>• Equipo de marketing y ventas aún en fase de expansión. |
+| **Amenazas** | • Resistencia al cambio tecnológico por parte de administradores tradicionales.<br>• Competidores grandes podrían intentar replicar funciones de IoT.<br>• Inestabilidad económica que retrase la inversión de las PyMEs. |
 
+### 2.1.2. Estrategias y tácticas frente a competidores
 
-* **C4**<br>
-
-
-### 2.1.1 Análisis Competitivo
-
-En esta sección se realizará el análisis competitivo de los competidores identificados en la sección inicial con el objetivo de tener una idea más clara sobre nuestro producto frente a los competidores y aprender para mejorar nuestro producto.
-
-<table>
-  <thead>
-    <tr><th colspan="7">Competitive Analysis Landscape</th></tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="2">¿Por qué llevar a cabo este análisis?</td>
-      <td colspan="5"> - </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <div align="center">Nombre</div>
-      </td>
-      <td><div align="center"><b>Senit</b></div></td>
-      <td><div align="center"><b>C1</b></div></td>
-      <td><div align="center"><b>C2</b></div></td>
-      <td><div align="center"><b>C3</b></div></td>
-      <td><div align="center"><b>C4</b></div></td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <div align="center">Logo</div>
-      </td>
-      <td><div align="center">
-        <img src="Resources/Competitors/Senit.png?raw=true" alt="Senit logo"/>
-      </div></td>
-      <td><div align="center">
-        <img src="Resources/Competitors/C1.png?raw=true" alt="C1 logo"/>
-      </div></td>
-      <td><div align="center">
-        <img src="Resources/Competitors/C2.png?raw=true" alt="C2 logo"/>
-      </div></td>
-      <td><div align="center">
-        <img src="Resources/Competitors/C3.png?raw=true" alt="C3 logo"/>
-      </div></td>
-      <td><div align="center">
-        <img src="Resources/Competitors/C4.png?raw=true" alt="C4 logo"/>
-      </div></td>
-    </tr>
-    <tr>
-      <td rowspan="2">Perfil</td>
-      <td>Overview</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Ventaja Competitiva</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">Marketing</td>
-      <td>Mercado Objetivo</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Estrategias</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="3">Producto</td>
-      <td>Servicios</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Precios</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Canales</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="4">SWOT</td>
-      <td>Fortalezas</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Debilidades</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Oportunidades</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Amenazas</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-### 2.1.2. Estrategias y tácticas frente a competidores.
-
-**Estrategia de Diferenciación:**
-**Estrategia de Liderazgo en Costos:**
-**Estrategia de Marketing:**
-**Tácticas:**
-
+| Competidor | Perfil | Ventajas del Competidor | Desventajas del Competidor | Estrategias y Tácticas de Senit |
+| :--- | :--- | :--- | :--- | :--- |
+| **Cloudbeds**<br><br><img src="./assets/cloudbeds-logo.png" width="100"> | PMS líder mundial en la nube para hoteles medianos y grandes. | • Ecosistema completo integrado con canales de venta.<br>• Marca global con alta fiabilidad. | • Costo elevado en dólares.<br>• Curva de aprendizaje empinada.<br>• Sin facturación nativa SUNAT. | • **Costo y Localización:** Planes en Soles con SUNAT lista para usar.<br>• **Diferenciación IoT:** Automatización que Cloudbeds no posee. |
+| **WuBook**<br><br><img src="./assets/wubook-logo.png" width="100"> | Sistema europeo popular por su flexibilidad en configuración de tarifas. | • Alta flexibilidad en tarifas dinámicas.<br>• Gestión sólida de pequeñas cadenas. | • Interfaz visual desactualizada.<br>• Soporte técnico con demora por huso horario.<br>• Ausencia de domótica. | • **Soporte Local:** Atención rápida en horario peruano.<br>• **Vanguardia IoT:** Posicionamiento como "Hotel Inteligente" frente a software obsoleto. |
+| **Little Hotelier**<br><br><img src="./assets/little-hotelier-logo.png" width="100"> | Diseñado para pequeños alojamientos, enfocado en la simplicidad para el dueño. | • Interfaz amigable para usuarios sin experiencia.<br>• Aplicación móvil fluida. | • Sin módulos avanzados de Punto de Venta.<br>• Deficiente en gestión de alta rotación (horas). | • **Alta Rotación:** Alertas automáticas de limpieza tras cada check-out.<br>• **Solución Integral:** Módulos de venta incluidos desde el inicio. |
+| **Métodos Manuales**<br><br><img src="./assets/excel-logo.png" width="100"> | Control mediante cuadernos o Excel. Común en hostales de bajo presupuesto. | • Costo de implementación inicial cero.<br>• No requiere equipos tecnológicos modernos. | • Vulnerable al "robo hormiga".<br>• Errores humanos y falta de control real.<br>• Ineficiencia en cuadres de caja. | • **Educación (ROI):** Demostrar que las pérdidas por descontrol superan el pago de Senit.<br>• **Sensor Auditor:** El sensor IoT detecta la ocupación real sin margen de error. |
 ## 2.2 Entrevistas
 
 En esta sección se abordará la investigación en base a la información que se obtendrá de los segmentos entrevistados con el objetivo de conocer mejor a nuestros segmentos objetivos y aprender de ellos y sus procesos.
@@ -707,7 +581,7 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 | :--- | :--- | :--- | :--- | :--- |
 | **EP-01** | Presentación inicial de Senit | Se reúne todo lo necesario para la elaboración de la landing page, con el objetivo de presentar la propuesta de valor de Senit, sus funcionalidades, planes de suscripción y un medio de contacto con los clientes potenciales. | **-** | **-** |
-| **EP-XX** | Titulo | Descripcion del epic | **-** | **-** |
+| **EP-02** | Gestión del Rack y Operaciones de Recepción | Se define el desarrollo del sistema web principal de Senit (PMS), permitiendo a los recepcionistas visualizar la disponibilidad de habitaciones, registrar ingresos por horas, gestionar cuentas y realizar el check-out de manera eficiente. | **-** | **-** |
 | **EP-XX** | Titulo | Descripcion del epic | **-** | **-** |
 | **EP-XX** | Titulo | Descripcion del epic | **-** | **-** |
 | **US-01** | Primera impresión sobre Senit | Como administrador de un hospedaje, quiero entender rápidamente qué es Senit y qué problema resuelve, para saber si puede ayudarme a mejorar la gestión de mi negocio. | **Escenario 1: Visualización de la sección inicial**<br><br>Dado que el administrador ingresa a la landing page<br><br>Cuando se carga la sección de inicio<br>Entonces debe visualizar una descripción clara y breve sobre Senit<br><br> **Escenario 2: Comprensión del servicio**<br><br>Dado que el administrador revisa la información principal<br><br>Cuando lee el contenido<br><br>Entonces debe entender el objetivo principal del producto<br><br> | **EP-01** |
@@ -718,10 +592,14 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | **US-06** | Cambio de idioma | Como administrador bilingüe de un hospedaje, quiero cambiar el idioma de la página entre español e inglés, para entender mejor la información | **Escenario 1: Opción de cambio de idioma**<br><br>Dado que el administrador ingresa a la landing page<br><br>Cuando se carga la página<br><br>Entonces debe visualizar una opción para cambiar el idioma<br><br>**Escenario 2: Cambio de idioma**<br><br>Dado que el administrador quiere cambiar el idioma<br><br>Cuando selecciona un idioma disponible<br><br>Entonces el contenido debe mostrarse en el idioma seleccionado<br><br> | **EP-01** |
 | **US-07** | Redes sociales | Como administrador de un hospedaje interesado en Senit, quiero encontrar enlaces a redes sociales y medios de contacto, para conocer más sobre Senit | **Escenario 1: Sección inferior de la página**<br><br>Dado que el administrador se encuentra en la última sección de la landing page<br><br>Cuando revisa la zona final de la página<br><br>Entonces debe encontrar enlaces a redes sociales y datos de contacto<br><br>**Escenario 2: Redirección**<br><br>Dado que el administrador selecciona una red social<br><br>Cuando hace clic en alguno de los íconos<br><br>Entonces debe ser redirigido a la red social elegida<br><br> | **EP-01** |
 | **US-08** | Compatibilidad de la landing page con dispositivos móviles | Como administrador de un hospedaje que ingresa a la landing page desde su celular, quiero que la página se adapte al tamaño de mi pantalla, para navegar el sitio con normalidad | **Escenario 1: Reordenamiento de la página para celular**<br><br>Dado que el administrador ingresa desde un dispositivo móvil<br><br>Cuando se carga la página<br><br>Entonces los elementos de la página deben ajustarse correctamente al tamaño de la pantalla<br><br>**Escenario 2: Menú de navegación móvil**<br><br>Dado que el administrador ingresó desde un celular<br><br>Cuando presiona el ícono de tres líneas en la parte superior<br><br>Entonces debe mostrarse una barra de navegación vertical con las secciones principales para desplazarse<br><br>**Escenario 3: Navegación móvil**<br><br>Dado que el administrador tiene la barra de navegación vertical activa<br><br>Cuando presiona alguna de las secciones<br><br>Entonces la barra de navegación debe ocultarse y redigirse a la sección elegida<br><br> | **EP-01** |
-| **US-XX** | Titulo | Como, quiero, para | **Escenario 1: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br>**Escenario 2: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br>**Escenario X: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br> | **EP-XX** |
-| **US-XX** | Titulo | Como, quiero, para | **Escenario 1: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br>**Escenario 2: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br>**Escenario X: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br> | **EP-XX** |
-| **US-XX** | Titulo | Como, quiero, para | **Escenario 1: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br>**Escenario 2: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br>**Escenario X: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br> | **EP-XX** |
-| **US-XX** | Titulo | Como, quiero, para | **Escenario 1: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br>**Escenario 2: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br>**Escenario X: Titulo**<br><br>Dado que<br><br>Cuando<br><br>Entonces<br><br> | **EP-XX** |
+| **US-09** | Visualización del Rack Gráfico | Como recepcionista del hospedaje, quiero ver un panel visual con todas las habitaciones y sus estados actuales, para identificar rápidamente la disponibilidad al atender a un cliente. | **Escenario 1: Vista general del estado**<br><br>Dado que el recepcionista ingresa a la plataforma web<br><br>Cuando navega a la sección "Rack de Habitaciones"<br><br>Entonces debe ver los cuartos representados con colores distintos según su estado (Libre, Ocupada, En Limpieza)<br><br>**Escenario 2: Actualización en tiempo real**<br><br>Dado que el recepcionista está mirando el Rack<br><br>Cuando el estado de una habitación cambia<br><br>Entonces el color y estado deben actualizarse inmediatamente sin necesidad de recargar la página<br><br> | **EP-02** |
+| **US-10** | Registro de Check-in por bloques de horas | Como recepcionista del hospedaje, quiero registrar la entrada de un huésped seleccionando un bloque de horas, para calcular automáticamente su hora de salida y el costo inicial. | **Escenario 1: Ingreso exitoso por horas**<br><br>Dado que el recepcionista selecciona una habitación libre<br><br>Cuando ingresa los datos y selecciona una tarifa de "4 horas"<br><br>Entonces el sistema calcula la hora de salida exacta y cambia la habitación a estado Ocupado<br><br>**Escenario 2: Restricción de habitación**<br><br>Dado que el recepcionista intenta hacer check-in<br><br>Cuando selecciona una habitación que está en estado "Sucia"<br><br>Entonces el sistema muestra un mensaje de error impidiendo el registro<br><br> | **EP-02** |
+| **US-11** | Alertas de tiempo de estadía por vencer | Como recepcionista del hospedaje, quiero que el sistema me notifique cuando el tiempo de una habitación esté por expirar, para poder avisar al huésped con anticipación. | **Escenario 1: Alerta visual de tiempo**<br><br>Dado que una habitación está alquilada por horas<br><br>Cuando falten 15 minutos para su hora de salida calculada<br><br>Entonces el sistema debe mostrar un icono de alerta visual parpadeante en esa habitación dentro del Rack<br><br> | **EP-02** |
+| **US-12** | Visualización de detalles de ocupación | Como recepcionista del hospedaje, quiero hacer clic en una habitación ocupada para ver sus detalles, para informar al cliente cuánto tiempo le queda o su deuda actual. | **Escenario 1: Despliegue de información**<br><br>Dado que el recepcionista hace clic en una habitación ocupada<br><br>Cuando se abre la ventana de detalles<br><br>Entonces debe visualizar la hora de entrada, hora límite de salida, y el monto total acumulado a pagar<br><br> | **EP-02** |
+| **US-13** | Agregar consumos adicionales al cuarto | Como recepcionista del hospedaje, quiero agregar productos o servicios extra a la cuenta de la habitación, para cobrar el monto total en una sola transacción al final. | **Escenario 1: Suma de productos a la cuenta**<br><br>Dado que el recepcionista abre los detalles de una habitación ocupada<br><br>Cuando selecciona un producto del inventario (ej. agua) y confirma<br><br>Entonces el costo de ese producto se suma automáticamente a la deuda final de esa habitación<br><br> | **EP-02** |
+| **US-14** | Registro de Check-out y cambio a limpieza | Como recepcionista del hospedaje, quiero finalizar la estadía de una habitación, para realizar el cobro y notificar que el cuarto necesita aseo. | **Escenario 1: Finalización de estadía**<br><br>Dado que el recepcionista selecciona la opción "Check-out"<br><br>Cuando confirma la recepción del pago total<br><br>Entonces el sistema cierra la cuenta y cambia la habitación de "Ocupada" a estado "En Limpieza"<br><br> | **EP-02** |
+| **US-15** | Habilitación de habitación limpia | Como recepcionista del hospedaje, quiero marcar una habitación como "Limpia" una vez finalizado el aseo, para que vuelva a estar disponible para un nuevo alquiler. | **Escenario 1: Liberar la habitación**<br><br>Dado que una habitación se encuentra en estado "En Limpieza"<br><br>Cuando el recepcionista presiona el botón "Marcar como Libre"<br><br>Entonces el color de la habitación cambia y el cuarto vuelve a estar disponible para hacer check-in<br><br> | **EP-02** |
+| **US-16** | Filtros rápidos en el Rack Gráfico | Como recepcionista del hospedaje, quiero filtrar las habitaciones por su estado actual, para encontrar más rápido los cuartos que están listos para ser alquilados. | **Escenario 1: Filtrado de cuartos disponibles**<br><br>Dado que el recepcionista visualiza el Rack completo<br><br>Cuando hace clic en el botón de filtro "Mostrar solo Libres"<br><br>Entonces el panel oculta las habitaciones ocupadas o sucias, mostrando únicamente las disponibles<br><br> | **EP-02** |
 
 ## 3.2. Impact Mapping
 
@@ -769,12 +647,56 @@ La navegación es simple e intuitiva, con las opciones principales visibles y bi
 Además, la plataforma está estructurada por módulos, lo que ayuda a mantener el orden y mejora la experiencia de uso. Todo esto se complementa con un diseño adaptable, que permite usar Senit tanto en computadora como en dispositivos móviles sin perder funcionalidad.
 
 
-## 4.2. Information Architecture.
-### 4.2.1. Organization Systems.
-### 4.2.2. Labeling Systems.
+## 4.2. Information Architecture
+
+La arquitectura de información de **Senit** ha sido diseñada para garantizar que tanto administradores como recepcionistas y personal de limpieza puedan acceder a las funciones críticas de manera rápida y sin fricciones, optimizando la gestión operativa del hotel.
+
+### 4.2.1. Organization Systems
+
+| Tipo de Organización | Descripción | Aplicación en Senit |
+| :--- | :--- | :--- |
+| **Jerárquica** | Estructura de árbol que divide la plataforma por niveles de acceso y módulos generales. | Menú principal dividido en: Dashboard, Operaciones (Rack/Reservas), Administración e IoT. |
+| **Por Tareas** | Organización basada en las acciones específicas que el usuario debe completar. | Módulo de "Check-in rápido", "Corte de caja diario" y "Reporte de limpieza". |
+| **Por Roles** | Segmentación del contenido según los permisos del perfil de usuario. | Recepcionista (Vista operativa), Administrador (Vista gerencial/IoT) y Camarista (Vista de mantenimiento). |
+
+### 4.2.2. Labeling Systems
+
+| Categoría | Etiqueta (Label) | Descripción / Contexto |
+| :--- | :--- | :--- |
+| **Navegación** | Rack Gráfico | Panel visual de estado de habitaciones en tiempo real. |
+| **Navegación** | Gestión IoT | Configuración de sensores y cerraduras inteligentes. |
+| **Acción (Botón)** | Check-in / Out | Registro de ingreso y salida formal del huésped. |
+| **Acción (Botón)** | Emitir Comprobante | Generación de boleta o factura electrónica (SUNAT). |
+| **Estados** | En Limpieza | Indica que la habitación está siendo aseada por el personal. |
+| **Mensajes** | Alerta de Intrusión | Notificación de movimiento detectado en cuarto libre. |
+
 ### 4.2.3. SEO Tags and Meta Tags
-### 4.2.4. Searching Systems.
-### 4.2.5. Navigation Systems.
+
+| Tag | Contenido Sugerido | Propósito |
+| :--- | :--- | :--- |
+| **Title Tag** | Senit | Software de Gestión Hotelera e IoT para PyMEs en Perú | Posicionamiento de marca y descripción clara en buscadores. |
+| **Meta Description** | Optimiza tu hostal o motel con Senit. Control por horas, integración con sensores IoT, facturación SUNAT y gestión de limpieza en tiempo real. | Resumen atractivo para atraer dueños de hoteles en los resultados de búsqueda. |
+| **Keywords** | software hotelero peru, gestión moteles por horas, pms iot, facturacion electronica hoteles, control de hoteles peru. | Palabras clave para atraer tráfico orgánico de clientes potenciales en Perú. |
+| **Author** | Senit Startup Team | Identificación de la propiedad intelectual del sitio. |
+
+### 4.2.4. Searching Systems
+
+| Sistema de Búsqueda | Parámetros de Búsqueda | Funcionalidad |
+| :--- | :--- | :--- |
+| **Búsqueda de Huéspedes** | DNI, RUC, Nombre o Apellido. | Localización rápida de clientes recurrentes o registros actuales. |
+| **Filtros de Rack** | Por piso, tipo de habitación (Simple, Suite) o estado. | Permite al recepcionista encontrar habitaciones disponibles rápidamente. |
+| **Búsqueda de Reservas** | Código de reserva o rango de fechas. | Gestión de reservas futuras y modificaciones. |
+| **Búsqueda de Ventas** | Número de comprobante o fecha de emisión. | Auditoría de pagos y exportación de reportes financieros. |
+
+### 4.2.5. Navigation Systems
+
+| Tipo de Navegación | Elementos Incluidos | Descripción |
+| :--- | :--- | :--- |
+| **Global** | Sidebar (Menú Lateral Izquierdo) | Acceso permanente a los módulos de Inicio, Rack, Caja, Inventario e IoT. |
+| **Local** | Tabs superiores (Pestañas) | Navegación interna dentro de un módulo (ej. Reservas Pendientes vs. Finalizadas). |
+| **Contextual** | Menú desplegable en Habitaciones | Al hacer clic en un cuarto del rack, aparecen acciones como "Ver cuenta", "Check-out" o "Limpieza". |
+| **De Usuario** | Header (Barra Superior) | Notificaciones de alertas IoT, perfil de usuario y opción de cerrar sesión. |
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
