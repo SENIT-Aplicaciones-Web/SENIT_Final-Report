@@ -639,7 +639,9 @@ Se incluye un verde (#10B981) en uno de los bloques, que funciona como acento vi
 Se usa un azul más oscuro (aproximadamente #1E3A8A), lo que permite diferenciar el texto del ícono y generar un mejor contraste.
 En conjunto, los colores permiten que el logo sea claro, moderno y fácil de reconocer, además de mantener coherencia con la idea de una plataforma tecnológica.
 
-<img src="/assets/SENIT_StyleGuideline.webp" alt="SENIT_StyleGuideline" width="auto" height="180"/>
+<p aligned = "center">
+  <img src="/assets/SENIT_StyleGuideline.webp" alt="SENIT_StyleGuideline" width="auto" height="180"/>
+</p>
 
 ### 4.1.2. Web Style Guidelines.
 La plataforma Senit está diseñada para ser fácil de usar y entendible desde el primer momento. Como el sistema reúne varias funciones como reservas, habitaciones, personal y facturación, se busca que todo esté bien organizado y sin elementos que recarguen la pantalla. La idea es que el usuario pueda encontrar lo que necesita rápido y sin complicaciones.
