@@ -790,6 +790,13 @@ La arquitectura de información de **Senit** ha sido diseñada para garantizar q
 
 
 ### 4.3.2. Landing Page Mock-up.
+
+<img src="assets/mockups/landing_page_browser_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
+<br> 
+
+<img src="assets/mockups/landing_page_browser_mobile_1.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
+<br>
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
