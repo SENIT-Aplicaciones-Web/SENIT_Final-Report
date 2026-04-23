@@ -796,8 +796,16 @@ La arquitectura de información de **Senit** ha sido diseñada para garantizar q
 ### 4.4.3. Web Applications Mock-ups.
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+
 ## 4.6. Domain-Driven Software Architecture.
+Para el modelo de arquitectura del sistema Senit se utiliza la técnica de modelado C4 Model, con el objetivo de representar de manera clara la estructura y comportamiento del sistema. 
+
 ### 4.6.1. Design-Level Event Storming.
+En esta sección se representan los principales eventos, comandos, agregados y consultas del dominio, utilizando el lenguaje ubicuo definido. Este modelo permite comprender los flujos clave del sistema y su comportamiento desde la perspectiva de Domain-Driven Design.
+<p align = "center">
+  <img src="/assets/SENIT_DEventStorming.webp" alt="SENIT_DEventStorming" width="auto" height="180"/>
+</p>
+
 ### 4.6.2. Software Architecture Context Diagram.
 Este es el diagrama de Contexto de nuestro sistema:
 <p align = "center">
