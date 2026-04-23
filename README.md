@@ -799,8 +799,20 @@ La arquitectura de información de **Senit** ha sido diseñada para garantizar q
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
 ### 4.6.2. Software Architecture Context Diagram.
+Este es el diagrama de Contexto de nuestro sistema:
+<p align = "center">
+  <img src="/assets/SENIT_ContextDiagram.png" alt="SENIT_ContextDiagram" width="auto" height="180"/>
+</p>
 ### 4.6.3. Software Architecture Container Diagrams.
+Este es el diagrama de Contenedores de nuestro sistema:
+<p align = "center">
+  <img src="/assets/SENIT_ContainerDiagram.png" alt="SENIT_ContainerDiagram" width="auto" height="180"/>
+</p>
 ### 4.6.4. Software Architecture Components Diagrams.
+Estos son los diagramas de componentes de nuestro sistema, incluyen los siguientes Bounded Context:
+<p align = "center">
+  <img src="/assets/SENIT_ComponentDiagram.png" alt="SENIT_ComponentDiagram" width="auto" height="180"/>
+</p>
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ## 4.8. Database Design.
