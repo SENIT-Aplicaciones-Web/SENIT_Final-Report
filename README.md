@@ -563,6 +563,48 @@ Se han diseñado dos bloques de preguntas: uno dirigido al personal administrati
 
 ### 2.2.2 Registro de entrevistas
 
+#### Segmento 1: Personal Administrativo y operativo de hoteles y moteles
+
+**Entrevista 1**
+<p align="center">
+  <img src="assets/interviews/interview_segment_1_n1.png" alt="Entrevista con Antony Paul Ynga Carbajal"/>
+  <br/><i>Evidencia de entrevista: Paul Ynga</i>
+</p>
+
+- **Nombre:** Antony Paul Ynga Carbajal
+- **Edad:** 34 años
+- **Residencia:** Miraflores
+- **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
+- **Duracion:** 15:37
+- **Timing:** 00:00 - 15:37
+
+**Resumen de la entrevista:**
+<div align="justify">
+La entrevista fue realizada a Anthony Paul Inga Carvajal, gerente de turno con más de 13 años de experiencia en el sector hotelero. En su labor, utiliza principalmente computadoras, celulares y radios para la comunicación interna, además de un sistema hotelero llamado Opera PMS, el cual centraliza la gestión de reservas, habitaciones y pagos. Nos indica que uno de los principales problemas es la desinformación de los huéspedes, quienes muchas veces no revisan correctamente las condiciones de su reserva, lo que genera conflictos tanto al ingreso como a la salida. El estado de las habitaciones se actualiza en tiempo real mediante códigos ingresados desde los teléfonos de cada habitación, permitiendo la toma de decisiones rápidas, como la asignación de habitaciones de último minuto o la gestión inmediata de pagos. En cuanto a comunicación con clientes, el correo es el canal más utilizado. Finalmente, el entrevistado destaca la necesidad de implementar una plataforma segura de comunicación directa con los huéspedes, que permita gestionar reservas, solicitudes y datos sensibles sin depender de canales externos como WhatsApp, mejorando así la seguridad y confianza.
+</div>
+<br>
+
+#### Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles
+
+**Entrevista 1**
+<p align="center">
+  <img src="assets" alt="Entrevista con ..."/>
+  <br/><i>Evidencia de entrevista: ...</i>
+</p>
+
+- **Nombre:** ...
+- **Edad:** ... años
+- **Residencia:** ...
+- **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
+- **Duracion:** XX:XX
+- **Timing:** -
+
+**Resumen de la entrevista:**
+<div align="justify">
+
+</div>
+<br>
+
 ### 2.2.3 Análisis de entrevistas
 
 ## 2.3 Needfinding
