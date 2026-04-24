@@ -850,9 +850,9 @@ La arquitectura de información de **Senit** ha sido diseñada para garantizar q
 Para el modelo de arquitectura del sistema Senit se utiliza la técnica de modelado C4 Model, con el objetivo de representar de manera clara la estructura y comportamiento del sistema. 
 
 ### 4.6.1. Design-Level Event Storming.
-En esta sección se representan los principales eventos, comandos, agregados y consultas del dominio, utilizando el lenguaje ubicuo definido. Este modelo permite comprender los flujos clave del sistema y su comportamiento desde la perspectiva de Domain-Driven Design.
+En esta sección se presentan los eventos, comandos, agregados y consultas más importantes del dominio. Esto ayuda a entender los flujos principales del sistema y cómo funciona en la práctica.
 <p align = "center">
-  <img src="/assets/SENIT_DEventStorming.webp" alt="SENIT_DEventStorming" width="auto" height="180"/>
+  <img src="/assets/SENIT_EventStorming.webp" alt="SENIT_EventStorming" width="auto" height="180"/>
 </p>
 
 ### 4.6.2. Software Architecture Context Diagram.
