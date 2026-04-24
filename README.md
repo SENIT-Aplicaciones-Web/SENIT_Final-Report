@@ -588,20 +588,20 @@ La entrevista fue realizada a Anthony Paul Inga Carvajal, gerente de turno con m
 
 **Entrevista 1**
 <p align="center">
-  <img src="assets" alt="Entrevista con ..."/>
-  <br/><i>Evidencia de entrevista: ...</i>
+  <img src="assets/interviews/interview_segment_2_n1.png" alt="Entrevista con Ghorghet Tuncar Vila"/>
+  <br/><i>Evidencia de entrevista: Ghorghet Tuncar Vila</i>
 </p>
 
-- **Nombre:** ...
-- **Edad:** ... años
-- **Residencia:** ...
+- **Nombre:** Ghorghet Tuncar Vila
+- **Edad:** 20 años
+- **Residencia:** Villa María del Triunfo
 - **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
-- **Duracion:** XX:XX
-- **Timing:** -
+- **Duracion:** 08:59
+- **Timing:** 00:00 - 08:59
 
 **Resumen de la entrevista:**
 <div align="justify">
-
+La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele hospedarse en hoteles aproximadamente una vez al mes. Para buscar hospedajes utiliza principalmente su celular o laptop, revisando primero redes sociales como Facebook y TikTok, y luego coordinando por WhatsApp. Durante la entrevista comentó que en su última experiencia tuvo problemas porque la información del establecimiento no era clara respecto a horarios, servicios y disponibilidad, lo que volvió más lento el proceso de reserva. También señaló dificultades en el check-in y check-out debido a la poca comunicación del anfitrión, además de inconvenientes con los métodos de pago por no saber con anticipación si aceptaban efectivo, tarjeta o billeteras digitales. A pesar de ello, indicó que la habitación sí se encontraba limpia y ordenada. Finalmente, destacó que valora mucho el precio, la comodidad y la privacidad, y que le gustaría contar con una plataforma más clara y eficiente que le permita ver información importante, recibir confirmaciones rápidas y realizar un pre check-in sin depender únicamente de WhatsApp.
 </div>
 <br>
 
