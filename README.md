@@ -887,7 +887,7 @@ ERD-Editor: Es una herramienta en línea para diseñar diagramas de bases de dat
 ### 5.1.2. Source Code Management.
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-En el proyecto, para las convenciones de estilo de código, se tomarán como referencia el "HTML Style Guide and Coding Conventions" de W3Schools, el "Google HTML/CSS Style Guide", el "Angular Coding Style Guide", el "Google Java Style Guide" y las convenciones estándar de Gherkin. Además, todos los elementos del código, como nombres de archivos, carpetas, clases, funciones, métodos, componentes, variables y comentarios, serán escritos en inglés.
+En el proyecto, para las convenciones de estilo de código, se tomarán como referencia el "HTML Style Guide and Coding Conventions" de W3Schools, el "Google HTML/CSS Style Guide", el "Google JavaScript Style Guide" , el "Vue Style Guide", el "C# Coding Conventions" y las convenciones estándar de Gherkin. Además, todos los elementos del código, como nombres de archivos, carpetas, clases, funciones, métodos, componentes, variables y comentarios, serán escritos en inglés.
 
 Las convenciones de estilo que se aplicarán en cada uno de los lenguajes y tecnologías utilizadas se detallan a continuación.
 
@@ -916,9 +916,9 @@ Las convenciones de estilo que se aplicarán en cada uno de los lenguajes y tecn
 - Los nombres de las funciones deberán describir con claridad la acción que realizan
 - Los comentarios solo se utilizarán cuando aporten claridad adicional a una lógica que no resulte evidente
 
-**Angular:**
+**Vue:**
 
-- Los nombres de archivos seguirán el formato kebab-case
+- Los nombres de archivos seguirán el formato PascalCaase
 - Cada componente tendrá archivos relacionados con una misma denominación
 - La estructura del proyecto se organizará siguiendo DDD
 - Los componentes deberán tener responsabilidades bien definidas
