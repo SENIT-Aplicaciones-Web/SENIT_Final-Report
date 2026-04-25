@@ -678,8 +678,6 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | :--- | :--- | :--- | :--- | :--- |
 | **EP-01** | Presentación inicial de Senit | Se reúne todo lo necesario para la elaboración de la landing page, con el objetivo de presentar la propuesta de valor de Senit, sus funcionalidades, planes de suscripción y un medio de contacto con los clientes potenciales. | **-** | **-** |
 | **EP-02** | Gestión del Rack y Operaciones de Recepción | Se define el desarrollo del sistema web principal de Senit (PMS), permitiendo a los recepcionistas visualizar la disponibilidad de habitaciones, registrar ingresos por horas, gestionar cuentas y realizar el check-out de manera eficiente. | **-** | **-** |
-| **EP-XX** | Titulo | Descripcion del epic | **-** | **-** |
-| **EP-XX** | Titulo | Descripcion del epic | **-** | **-** |
 | **US-01** | Primera impresión sobre Senit | Como visitante del segmento de administración, quiero entender rápidamente qué es Senit y qué problema resuelve, para saber si puede ayudarme a mejorar la gestión de mi negocio. | **Escenario 1: Visualización de la sección inicial**<br><br>Dado que el administrador ingresa a la landing page<br><br>Cuando se carga la sección de inicio<br>Entonces debe visualizar una descripción clara y breve sobre Senit<br><br> **Escenario 2: Comprensión del servicio**<br><br>Dado que el administrador revisa la información principal<br><br>Cuando lee el contenido<br><br>Entonces debe entender el objetivo principal del producto<br><br> | **EP-01** |
 | **US-02** | Navegación entre secciones | Como visitante, quiero desplazarme fácilmente entre las secciones de la página, para encontrar rápidamente la información que necesito | **Escenario 1: Opciones de navegación**<br><br>Dado que el visitante ingresa a la landing page<br><br>Cuando se carga la página<br><br>Entonces debe visualizar una barra de navegación horizontal con las secciones de inicio, funcionalidades, planes, contacto e ingreso<br><br>**Escenario 2: Redirección automática de secciones**<br><br>Dado que el visitante se encuentra en la landing page<br><br>Cuando selecciona una opción del menú<br><br>Entonces debe dirigirse a la sección correspondiente<br><br> | **EP-01** |
 | **US-03** | Información sobre funcionalidades | Como visitante del segmento de administración, quiero conocer las funcionalidades que ofrece Senit, para evaluar si es útil para las necesidades del hospedaje | **Escenario 1: Revisión de funcionalidades**<br><br>Dado que el administrador revisa la sección de funcionalidades<br><br>Cuando termina de leer el contenido<br><br>Entonces debe comprender que Senit mejora la administración del hospedaje al permitir gestionar reservas, habitaciones, limpieza, personal y facturación<br><br> | **EP-01** |
@@ -698,6 +696,10 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | **US-16** | Filtros rápidos en el Rack Gráfico | Como recepcionista del hospedaje, quiero filtrar las habitaciones por su estado actual, para encontrar más rápido los cuartos que están listos para ser alquilados. | **Escenario 1: Filtrado de cuartos disponibles**<br><br>Dado que el recepcionista visualiza el Rack completo<br><br>Cuando hace clic en el botón de filtro "Mostrar solo Libres"<br><br>Entonces el panel oculta las habitaciones ocupadas o sucias, mostrando únicamente las disponibles<br><br> | **EP-02** |
 
 ## 3.2. Impact Mapping
+
+<br>
+<img src="./assets/SENIT_impact_map.png" alt="Senit Impact Map"/>
+<br>
 
 ## 3.3. Product Backlog
 | # Orden | User Story Id | Título | Descripción | Story Points |
