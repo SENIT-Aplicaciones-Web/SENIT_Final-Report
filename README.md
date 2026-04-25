@@ -610,9 +610,164 @@ La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele 
 ## 2.3 Needfinding
 
 ### 2.3.1. User Personas.
+
+**Segmento 1: Personal administrativo y operativo de hoteles y moteles**
+<p align="center">
+  <img src="assets/Needfinding/UserPersonasSegment_1.png" alt="User Personas de Anthony Ynga Carvajal"/>
+  <br/>
+</p>
+
+**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+<p align="center">
+  <img src="assets/Needfinding/UserPersonasSegment_2.png" alt="User Personas de Lilian Zamora Rua"/>
+  <br/>
+</p>
+
+
 ### 2.3.2. User Task Matrix.
+
+**Segmento 1: Personal administrativo y operativo de hoteles y moteles**
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Task</th>
+      <th colspan="2">Anthony Ynga Carvajal</th>
+    </tr>
+    <tr>
+      <th>Frequency</th>
+      <th>Importance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Check room availability in real time</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+     <tr>
+      <td>Process payments</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Manage check-in/check-out process</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Update room status (clean, dirty, inspected)</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Assign rooms to guests</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Ensure data security in guest interactions</td>
+      <td>Low</td>
+      <td>High</td>
+    </tr>
+  </tbody>
+</table>
+
+
+**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Task</th>
+      <th colspan="2">Anthony Ynga Carvajal</th>
+      <th colspan="2">Ghorghet Tuncar Vila</th>
+    </tr>
+    <tr>
+      <th>Frequency</th>
+      <th>Importance</th>
+      <th>Frequency</th>
+      <th>Importance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Perform check-in at hotel</td>
+      <td>High</td>
+      <td>High</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+     <tr>
+      <td>Make payments</td>
+      <td>High</td>
+      <td>High</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Receive electronic invoice</td>
+      <td>High</td>
+      <td>High</td>
+      <td>Low</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Review room conditions (cleanliness, privacy)</td>
+      <td>High</td>
+      <td>High</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Manage bookings (changes/cancellations)</td>
+      <td>Normally</td>
+      <td>Normally</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Wait during check-in process</td>
+      <td>High</td>
+      <td>Low</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 2.3.3. User Journey Mapping.
+
+
+
+**Segmento 1: Personal administrativo y operativo de hoteles y moteles**
+<p align="center">
+  <img src="assets/Needfinding/journeyMapSegment_1.png" alt="User Journey Mapping de Anthony Ynga Carvajal"/>
+  <br/>
+</p>
+
+**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+<p align="center">
+  <img src="assets/Needfinding/journeyMapSegment_2.png" alt="User Journey Mapping de Lilian Zamora Rua"/>
+  <br/>
+</p>
+
+
 ### 2.3.4. Empathy Mapping.
+**Segmento 1: Personal administrativo y operativo de hoteles y moteles**
+<p align="center">
+  <img src="assets/Needfinding/empathyMappingSegment_1.png" alt="Empathy Mapping de Anthony Ynga Carvajal"/>
+  <br/>
+</p>
+
+**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+<p align="center">
+  <img src="assets/Needfinding/empathyMappingSegment_2.png" alt="Empathy Mapping Mapping de Lilian Zamora Rua"/>
+  <br/>
+</p>
+
+
+
 
 ## 2.4. Big Picture Event Storming.
 
