@@ -1035,7 +1035,7 @@ En esta parte se establecen los puntos más importantes que se incluyeron dentro
 | Heredia Hoyos, Danitza Ivonne | UDnTzh | C | L | C | C | C |
 | Montez Zamora, Edgar Alexander Mauricio | Zenkit0 | C | C | C | C | C |
 | Lozano Leon, Richard Enrique | AikoLz | L | C | C | C | C |
-| Hurtado, Anghelo Faustino | Limos05 | C | C | L | C | C |
+| Hurtado, Anghelo Faustino | limozz05 | C | C | L | C | C |
 | Garcia Villanueva, Leonardo Rafael | LeonardoGV00 | C | C | C | L | L |
 #### 5.2.1.3. Sprint Backlog 1.
 Este Sprint Backlog 1 condensará la elección de aquellas User Stories que se han priorizado con anterioridad y que se utilizarán para la primera entrega discriminada de la funcionalidad de la landing page para Senit. En este sprint, todas las User Stories que se recogen van orientadas hacia la propuesta inicial del producto, la navegación entre las diferentes partes, la descripción de su funcionamiento, la exposición de los planes de suscripción, la creación del formulario de contacto, el cambio de idioma, la adaptabilidad de la landing page a dispositivos móviles y las redes sociales. Finalmente, este sprint tiene como propósito construir la primera versión inicial clara, asequible y de fácil comprensión que explique claramente la propuesta de valor de Senit a los públicos objetivos del proyecto.
@@ -1066,6 +1066,16 @@ Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las ta
 https://trello.com/invite/b/69ec151eac617eff2b332939/ATTId73f9e31a7aca31bff56c7691b2e9e94E8A97DF0/senit-sprint-1
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
+En esta primera iteración el equipo tuvo la decisión de enfocarse primordialmente en la construcción de la primera versión de la landing page de Senit, y por este motivo los resultados de esta iteración tenía que ver con la creación de la estructura del producto, la generación de recursos visuales, definición de las User Stories asociadas a la landing page, así como el desarrollo de wireframes y mockups en su versión desktop y mobile (no considerando en esta iteración el desarrollo de la Web Application o de los Web Services, ya que el alcance de la iteración sólo fue la landing page).
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| SENIT-Aplicaciones-Web/SENIT_Final-Report | main | 5c95dee | docs: add project structure | - | 17/04/2026 |
+| SENIT-Aplicaciones-Web/SENIT_Final-Report | main | d13c194 | docs: added 8 user stories about the landing page | - | 18/04/2026 |
+| SENIT-Aplicaciones-Web/SENIT_Final-Report | main | 01320f7 | docs: add landing page wireframes | - | 22/04/2026 |
+| SENIT-Aplicaciones-Web/SENIT_Final-Report | main | df9a7f9 | docs: add landing page hero section mockup | - | 23/04/2026 |
+| SENIT-Aplicaciones-Web/SENIT_Final-Report | main | 1594528 | docs: add landing page mock ups | - | 24/04/2026 |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
