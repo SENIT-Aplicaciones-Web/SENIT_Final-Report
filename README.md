@@ -809,23 +809,23 @@ La arquitectura de información de **Senit** ha sido diseñada para garantizar q
 <img src="assets/wireframes/landing_page_browser_5.png?raw=true" alt="Wireframe de contacto de la landing page de Senit"/>
 <br>
 
-<img src="assets/wireframes/landing_page_browser_mobile_1.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
 <br>
 <img src="assets/wireframes/landing_page_browser_mobile_2.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_3.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_3.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_4.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_4.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_5.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_5.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_6.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_6.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_7.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_7.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_8.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_8.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_9.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_9.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
 <br>
 <img src="assets/wireframes/landing_page_browser_mobile_10.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
 <br>
@@ -833,10 +833,26 @@ La arquitectura de información de **Senit** ha sido diseñada para garantizar q
 
 ### 4.3.2. Landing Page Mock-up.
 
-<img src="assets/mockups/landing_page_browser_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
+<img src="assets/mockups/landing_page_browser_1.png?raw=true" alt="Mockup de inicio de la landing page de Senit"/>
 <br> 
+<img src="assets/mockups/landing_page_browser_2.png?raw=true" alt="Mockup de funciones de la landing page de Senit"/>
+<br> 
+<img src="assets/mockups/landing_page_browser_3.png?raw=true" alt="Mockup de planes de la landing page de Senit"/>
+<br> 
+<img src="assets/mockups/landing_page_browser_4.png?raw=true" alt="Mockup de términos de la landing page de Senit"/>
+<br> 
+<img src="assets/mockups/landing_page_browser_5.png?raw=true" alt="Mockup de contacto de la landing page de Senit"/>
+<br>
 
-<img src="assets/mockups/landing_page_browser_mobile_1.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
+<img src="assets/mockups/landing_page_browser_mobile_1.png?raw=true" alt="Mockup de inicio en formato móvil de la landing page de Senit"/>
+<br>
+<img src="assets/mockups/landing_page_browser_mobile_2.png?raw=true" alt="Mockup de funciones en formato móvil de la landing page de Senit"/>
+<br>
+<img src="assets/mockups/landing_page_browser_mobile_3.png?raw=true" alt="Mockup de planes en formato móvil de la landing page de Senit"/>
+<br>
+<img src="assets/mockups/landing_page_browser_mobile_4.png?raw=true" alt="Mockup de términos en formato móvil de la landing page de Senit"/>
+<br>
+<img src="assets/mockups/landing_page_browser_mobile_5.png?raw=true" alt="Mockup de contacto en formato móvil de la landing page de Senit"/>
 <br>
 
 ## 4.4. Web Applications UX/UI Design.
