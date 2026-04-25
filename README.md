@@ -610,6 +610,20 @@ La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele 
 ## 2.3 Needfinding
 
 ### 2.3.1. User Personas.
+
+### Segmento 1: Personal administrativo y operativo de hoteles y moteles
+<p align="center">
+  <img src="assets/Needfinding/UserPersonasSegment_1.png" alt="User Personas de Anthony Ynga Carvajal"/>
+  <br/>
+</p>
+
+### Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles
+<p align="center">
+  <img src="assets/Needfinding/UserPersonasSegment_2.png" alt="User Personas de Lilian Zamora Rua"/>
+  <br/>
+</p>
+
+
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
