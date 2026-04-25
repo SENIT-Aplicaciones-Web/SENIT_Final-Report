@@ -1029,6 +1029,33 @@ El Sprint 1 fue una de las primeras etapas clave en el desarrollo de Senit, ya q
 | Sum of Story Points | 28 |
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 #### 5.2.1.3. Sprint Backlog 1.
+Este Sprint Backlog 1 condensará la elección de aquellas User Stories que se han priorizado con anterioridad y que se utilizarán para la primera entrega discriminada de la funcionalidad de la landing page para Senit. En este sprint, todas las User Stories que se recogen van orientadas hacia la propuesta inicial del producto, la navegación entre las diferentes partes, la descripción de su funcionamiento, la exposición de los planes de suscripción, la creación del formulario de contacto, el cambio de idioma, la adaptabilidad de la landing page a dispositivos móviles y las redes sociales. Finalmente, este sprint tiene como propósito construir la primera versión inicial clara, asequible y de fácil comprensión que explique claramente la propuesta de valor de Senit a los públicos objetivos del proyecto.
+
+| Sprint # | Sprint 1 |  |  |  |  |  |  |
+|----------|----------|--|--|--|--|--|--|
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+| US-01 | Primera impresión sobre Senit | T-01 | Implementación de hero section | Diseñar e implementar la sección principal de la landing page con el mensaje inicial, propuesta de valor resumida y llamado a la acción de Senit. | 5 | Leonardo Rafael Garcia Villanueva | Done |
+| US-02 | Navegación entre secciones | T-02 | Implementación de barra de navegación | Desarrollar la barra de navegación superior con accesos a las secciones principales de la landing page y desplazamiento interno. | 4 | Leonardo Rafael Garcia Villanueva | Done |
+| US-03 | Información sobre funcionalidades | T-03 | Desarrollo de sección de funcionalidades | Implementar la sección donde se presentan las funcionalidades principales de Senit orientadas a la gestión de hospedajes. | 4 | Leonardo Rafael Garcia Villanueva | Done |
+| US-04 | Planes de suscripción | T-04 | Implementación de sección de planes | Diseñar e implementar la sección de planes de suscripción para que los visitantes puedan comparar las opciones disponibles. | 4 | Edgar Alexander Mauricio Montez Zamora | Done |
+| US-05 | Sección de contacto | T-05 | Implementación de formulario de contacto | Desarrollar la sección de contacto con formulario funcional, validación de campos y mensajes de confirmación o error. | 5 | Danitza Ivonne Heredia Hoyos | Done |
+| US-06 | Cambio de idioma | T-06 | Implementación de selector de idioma | Desarrollar la funcionalidad para alternar entre español e inglés en el contenido principal de la landing page. | 5 | Anghelo Faustino Hurtado | Done |
+| US-07 | Redes sociales | T-07 | Implementación de footer con enlaces | Agregar íconos y enlaces a redes sociales y medios de contacto en la parte final de la landing page. | 3 | Richard Enrique Lozano Leon | Done |
+| US-08 | Compatibilidad de la landing page con dispositivos móviles | T-08 | Adaptación responsive de la landing page | Ajustar la estructura visual, secciones y navegación de la landing page para asegurar una correcta visualización en dispositivos móviles. | 6 | Leonardo Rafael Garcia Villanueva | Done |
+
+**Board del Sprint 1 en Trello:**  
+Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las tareas correspondientes al Sprint 1.
+
+<p align="center">
+  <img src="assets/Trello.png" alt="Board del Sprint 1 en Trello" width="900"/>
+  <br>
+  <i>Figura del Board del Sprint 1 de Senit en Trello.</i>
+</p>
+
+**URL del board:**  
+https://trello.com/invite/b/69ec151eac617eff2b332939/ATTId73f9e31a7aca31bff56c7691b2e9e94E8A97DF0/senit-sprint-1
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
