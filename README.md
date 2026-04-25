@@ -740,7 +740,17 @@ La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele 
 
 
 
+**Segmento 1: Personal administrativo y operativo de hoteles y moteles**
+<p align="center">
+  <img src="assets/Needfinding/journeyMapSegment_1.png" alt="User Journey Mapping de Anthony Ynga Carvajal"/>
+  <br/>
+</p>
 
+**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+<p align="center">
+  <img src="assets/Needfinding/journeyMapSegment_2.png" alt="User Journey Mapping de Lilian Zamora Rua"/>
+  <br/>
+</p>
 
 
 ### 2.3.4. Empathy Mapping.
