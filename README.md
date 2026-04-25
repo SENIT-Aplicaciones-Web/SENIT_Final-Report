@@ -700,7 +700,18 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 ## 3.2. Impact Mapping
 
 ## 3.3. Product Backlog
-
+| # Orden | User Story Id | Título | Descripción | Story Points |
+|--------:|---------------|--------|-------------|--------------|
+| 1 | US-01 | Primera impresión sobre Senit | Como visitante del segmento de administración, quiero entender rápidamente qué es Senit y qué problema resuelve, para saber si puede ayudarme a mejorar la gestión de mi negocio. | 3 |
+| 2 | US-02 | Navegación entre secciones | Como visitante, quiero desplazarme fácilmente entre las secciones de la página, para encontrar rápidamente la información que necesito. | 2 |
+| 3 | US-03 | Información sobre funcionalidades | Como visitante del segmento de administración, quiero conocer las funcionalidades que ofrece Senit, para evaluar si es útil para las necesidades del hospedaje. | 3 |
+| 4 | US-04 | Planes de suscripción | Como visitante del segmento de administración, quiero revisar los planes disponibles, para identificar cuál se ajusta mejor a mi hospedaje. | 3 |
+| 5 | US-05 | Sección de contacto | Como visitante del segmento de administración, quiero encontrar un formulario de contacto, para poder solicitar más información o una demostración del servicio. | 5 |
+| 6 | US-08 | Compatibilidad de la landing page con dispositivos móviles | Como visitante que ingresa a la landing page desde su celular, quiero que la página se adapte al tamaño de mi pantalla, para navegar el sitio con normalidad. | 5 |
+| 7 | US-06 | Cambio de idioma | Como visitante, quiero cambiar el idioma de la página entre español e inglés, para entender mejor la información. | 5 |
+| 8 | US-07 | Redes sociales | Como administrador de un hospedaje interesado en Senit, quiero encontrar enlaces a redes sociales y medios de contacto, para conocer más sobre Senit. | 2 |
+| 9 | US-09 | Visualización del Rack Gráfico | Como recepcionista del hospedaje, quiero ver un panel visual con todas las habitaciones y sus estados actuales, para identificar rápidamente la disponibilidad al atender a un cliente. | 8 |
+| 10 | US-10 | Registro de Check-in por bloques de horas | Como recepcionista del hospedaje, quiero registrar la entrada de un huésped seleccionando un bloque de horas, para calcular automáticamente su hora de salida y el costo inicial. | 8 |
 ---
 # Capítulo IV: Product Design
 
@@ -809,23 +820,23 @@ La arquitectura de información de **Senit** ha sido diseñada para garantizar q
 <img src="assets/wireframes/landing_page_browser_5.png?raw=true" alt="Wireframe de contacto de la landing page de Senit"/>
 <br>
 
-<img src="assets/wireframes/landing_page_browser_mobile_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_1.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
 <br>
 <img src="assets/wireframes/landing_page_browser_mobile_2.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_3.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_3.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_4.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_4.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_5.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_5.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_6.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_6.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_7.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_7.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_8.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_8.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_9.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
+<img src="assets/wireframes/landing_page_browser_mobile_9.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
 <br>
 <img src="assets/wireframes/landing_page_browser_mobile_10.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
 <br>
@@ -833,26 +844,10 @@ La arquitectura de información de **Senit** ha sido diseñada para garantizar q
 
 ### 4.3.2. Landing Page Mock-up.
 
-<img src="assets/mockups/landing_page_browser_1.png?raw=true" alt="Mockup de inicio de la landing page de Senit"/>
+<img src="assets/mockups/landing_page_browser_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
 <br> 
-<img src="assets/mockups/landing_page_browser_2.png?raw=true" alt="Mockup de funciones de la landing page de Senit"/>
-<br> 
-<img src="assets/mockups/landing_page_browser_3.png?raw=true" alt="Mockup de planes de la landing page de Senit"/>
-<br> 
-<img src="assets/mockups/landing_page_browser_4.png?raw=true" alt="Mockup de términos de la landing page de Senit"/>
-<br> 
-<img src="assets/mockups/landing_page_browser_5.png?raw=true" alt="Mockup de contacto de la landing page de Senit"/>
-<br>
 
-<img src="assets/mockups/landing_page_browser_mobile_1.png?raw=true" alt="Mockup de inicio en formato móvil de la landing page de Senit"/>
-<br>
-<img src="assets/mockups/landing_page_browser_mobile_2.png?raw=true" alt="Mockup de funciones en formato móvil de la landing page de Senit"/>
-<br>
-<img src="assets/mockups/landing_page_browser_mobile_3.png?raw=true" alt="Mockup de planes en formato móvil de la landing page de Senit"/>
-<br>
-<img src="assets/mockups/landing_page_browser_mobile_4.png?raw=true" alt="Mockup de términos en formato móvil de la landing page de Senit"/>
-<br>
-<img src="assets/mockups/landing_page_browser_mobile_5.png?raw=true" alt="Mockup de contacto en formato móvil de la landing page de Senit"/>
+<img src="assets/mockups/landing_page_browser_mobile_1.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
 <br>
 
 ## 4.4. Web Applications UX/UI Design.
@@ -866,9 +861,9 @@ La arquitectura de información de **Senit** ha sido diseñada para garantizar q
 Para el modelo de arquitectura del sistema Senit se utiliza la técnica de modelado C4 Model, con el objetivo de representar de manera clara la estructura y comportamiento del sistema. 
 
 ### 4.6.1. Design-Level Event Storming.
-En esta sección se presentan los eventos, comandos, agregados y consultas más importantes del dominio. Esto ayuda a entender los flujos principales del sistema y cómo funciona en la práctica.
+En esta sección se representan los principales eventos, comandos, agregados y consultas del dominio, utilizando el lenguaje ubicuo definido. Este modelo permite comprender los flujos clave del sistema y su comportamiento desde la perspectiva de Domain-Driven Design.
 <p align = "center">
-  <img src="/assets/SENIT_EventStorming.webp" alt="SENIT_EventStorming" width="auto" height="180"/>
+  <img src="/assets/SENIT_DEventStorming.webp" alt="SENIT_DEventStorming" width="auto" height="180"/>
 </p>
 
 ### 4.6.2. Software Architecture Context Diagram.
@@ -998,12 +993,21 @@ Las convenciones de estilo que se aplicarán en cada uno de los lenguajes y tecn
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
+
+El Sprint 1 fue una de las primeras etapas clave en el desarrollo de Senit, ya que durante este periodo el equipo comenzó a organizarse, repartir responsabilidades y avanzar en la construcción de una primera versión funcional de la landing page, tomando como base el trabajo colaborativo y el enfoque ágil de Scrum.
+
 #### 5.2.1.1. Sprint Planning 1.
+
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En este sprint no se implementaron ni se documentaron Web Services. El alcance del Sprint 1 estuvo enfocado únicamente en el desarrollo de la primera versión funcional de la landing page de Senit, por lo que no se trabajó todavía con endpoints ni con documentación técnica asociada a servicios.
+
+Por esa razón, la descripción de endpoints, verbos HTTP, parámetros, respuestas, capturas de documentación y commits vinculados a Web Services no corresponde a esta iteración. Dichos elementos serán abordados en los siguientes sprints, cuando se inicie la construcción e integración del RESTful API del proyecto.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 ---
