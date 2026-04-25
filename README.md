@@ -563,6 +563,48 @@ Se han diseñado dos bloques de preguntas: uno dirigido al personal administrati
 
 ### 2.2.2 Registro de entrevistas
 
+#### Segmento 1: Personal Administrativo y operativo de hoteles y moteles
+
+**Entrevista 1**
+<p align="center">
+  <img src="assets/interviews/interview_segment_1_n1.png" alt="Entrevista con Antony Paul Ynga Carbajal"/>
+  <br/><i>Evidencia de entrevista: Paul Ynga</i>
+</p>
+
+- **Nombre:** Antony Paul Ynga Carbajal
+- **Edad:** 34 años
+- **Residencia:** Miraflores
+- **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
+- **Duracion:** 15:37
+- **Timing:** 00:00 - 15:37
+
+**Resumen de la entrevista:**
+<div align="justify">
+La entrevista fue realizada a Anthony Paul Inga Carvajal, gerente de turno con más de 13 años de experiencia en el sector hotelero. En su labor, utiliza principalmente computadoras, celulares y radios para la comunicación interna, además de un sistema hotelero llamado Opera PMS, el cual centraliza la gestión de reservas, habitaciones y pagos. Nos indica que uno de los principales problemas es la desinformación de los huéspedes, quienes muchas veces no revisan correctamente las condiciones de su reserva, lo que genera conflictos tanto al ingreso como a la salida. El estado de las habitaciones se actualiza en tiempo real mediante códigos ingresados desde los teléfonos de cada habitación, permitiendo la toma de decisiones rápidas, como la asignación de habitaciones de último minuto o la gestión inmediata de pagos. En cuanto a comunicación con clientes, el correo es el canal más utilizado. Finalmente, el entrevistado destaca la necesidad de implementar una plataforma segura de comunicación directa con los huéspedes, que permita gestionar reservas, solicitudes y datos sensibles sin depender de canales externos como WhatsApp, mejorando así la seguridad y confianza.
+</div>
+<br>
+
+#### Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles
+
+**Entrevista 1**
+<p align="center">
+  <img src="assets/interviews/interview_segment_2_n1.png" alt="Entrevista con Ghorghet Tuncar Vila"/>
+  <br/><i>Evidencia de entrevista: Ghorghet Tuncar Vila</i>
+</p>
+
+- **Nombre:** Ghorghet Tuncar Vila
+- **Edad:** 20 años
+- **Residencia:** Villa María del Triunfo
+- **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
+- **Duracion:** 08:59
+- **Timing:** 00:00 - 08:59
+
+**Resumen de la entrevista:**
+<div align="justify">
+La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele hospedarse en hoteles aproximadamente una vez al mes. Para buscar hospedajes utiliza principalmente su celular o laptop, revisando primero redes sociales como Facebook y TikTok, y luego coordinando por WhatsApp. Durante la entrevista comentó que en su última experiencia tuvo problemas porque la información del establecimiento no era clara respecto a horarios, servicios y disponibilidad, lo que volvió más lento el proceso de reserva. También señaló dificultades en el check-in y check-out debido a la poca comunicación del anfitrión, además de inconvenientes con los métodos de pago por no saber con anticipación si aceptaban efectivo, tarjeta o billeteras digitales. A pesar de ello, indicó que la habitación sí se encontraba limpia y ordenada. Finalmente, destacó que valora mucho el precio, la comodidad y la privacidad, y que le gustaría contar con una plataforma más clara y eficiente que le permita ver información importante, recibir confirmaciones rápidas y realizar un pre check-in sin depender únicamente de WhatsApp.
+</div>
+<br>
+
 ### 2.2.3 Análisis de entrevistas
 
 ## 2.3 Needfinding
@@ -790,17 +832,47 @@ La arquitectura de información de **Senit** ha sido diseñada para garantizar q
 
 
 ### 4.3.2. Landing Page Mock-up.
+
+<img src="assets/mockups/landing_page_browser_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
+<br> 
+
+<img src="assets/mockups/landing_page_browser_mobile_1.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
+<br>
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.3. Web Applications Mock-ups.
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+
 ## 4.6. Domain-Driven Software Architecture.
+Para el modelo de arquitectura del sistema Senit se utiliza la técnica de modelado C4 Model, con el objetivo de representar de manera clara la estructura y comportamiento del sistema. 
+
 ### 4.6.1. Design-Level Event Storming.
+En esta sección se presentan los eventos, comandos, agregados y consultas más importantes del dominio. Esto ayuda a entender los flujos principales del sistema y cómo funciona en la práctica.
+<p align = "center">
+  <img src="/assets/SENIT_EventStorming.webp" alt="SENIT_EventStorming" width="auto" height="180"/>
+</p>
+
 ### 4.6.2. Software Architecture Context Diagram.
+Este es el diagrama de Contexto de nuestro sistema:
+<p align = "center">
+  <img src="/assets/SENIT_ContextDiagram.png" alt="SENIT_ContextDiagram" width="auto" height="180"/>
+</p>
+
 ### 4.6.3. Software Architecture Container Diagrams.
+Este es el diagrama de Contenedores de nuestro sistema:
+<p align = "center">
+  <img src="/assets/SENIT_ContainerDiagram.png" alt="SENIT_ContainerDiagram" width="auto" height="180"/>
+</p>
+
 ### 4.6.4. Software Architecture Components Diagrams.
+Estos son los diagramas de componentes de nuestro sistema, incluyen los siguientes Bounded Context:
+<p align = "center">
+  <img src="/assets/SENIT_ComponentDiagram.png" alt="SENIT_ComponentDiagram" width="auto" height="180"/>
+</p>
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ## 4.8. Database Design.
@@ -857,7 +929,7 @@ ERD-Editor: Es una herramienta en línea para diseñar diagramas de bases de dat
 ### 5.1.2. Source Code Management.
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-En el proyecto, para las convenciones de estilo de código, se tomarán como referencia el "HTML Style Guide and Coding Conventions" de W3Schools, el "Google HTML/CSS Style Guide", el "Angular Coding Style Guide", el "Google Java Style Guide" y las convenciones estándar de Gherkin. Además, todos los elementos del código, como nombres de archivos, carpetas, clases, funciones, métodos, componentes, variables y comentarios, serán escritos en inglés.
+En el proyecto, para las convenciones de estilo de código, se tomarán como referencia el "HTML Style Guide and Coding Conventions" de W3Schools, el "Google HTML/CSS Style Guide", el "Google JavaScript Style Guide" , el "Vue Style Guide", el "C# Coding Conventions" y las convenciones estándar de Gherkin. Además, todos los elementos del código, como nombres de archivos, carpetas, clases, funciones, métodos, componentes, variables y comentarios, serán escritos en inglés.
 
 Las convenciones de estilo que se aplicarán en cada uno de los lenguajes y tecnologías utilizadas se detallan a continuación.
 
@@ -886,9 +958,9 @@ Las convenciones de estilo que se aplicarán en cada uno de los lenguajes y tecn
 - Los nombres de las funciones deberán describir con claridad la acción que realizan
 - Los comentarios solo se utilizarán cuando aporten claridad adicional a una lógica que no resulte evidente
 
-**Angular:**
+**Vue:**
 
-- Los nombres de archivos seguirán el formato kebab-case
+- Los nombres de archivos seguirán el formato PascalCaase
 - Cada componente tendrá archivos relacionados con una misma denominación
 - La estructura del proyecto se organizará siguiendo DDD
 - Los componentes deberán tener responsabilidades bien definidas
