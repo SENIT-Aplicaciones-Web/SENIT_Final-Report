@@ -997,8 +997,18 @@ Las convenciones de estilo que se aplicarán en cada uno de los lenguajes y tecn
 El Sprint 1 fue una de las primeras etapas clave en el desarrollo de Senit, ya que durante este periodo el equipo comenzó a organizarse, repartir responsabilidades y avanzar en la construcción de una primera versión funcional de la landing page, tomando como base el trabajo colaborativo y el enfoque ágil de Scrum.
 
 #### 5.2.1.1. Sprint Planning 1.
-
-
+| Sprint # | Sprint 1 |
+|----------|----------|
+| **Sprint Planning Background** |  |
+| Date | 2026-04-17 |
+| Time | 10:00 PM |
+| Location | Reunión virtual realizada a través de Discord |
+| Prepared By | Danitza Ivonne Heredia Hoyos |
+| Attendees (to planning meeting) | - Danitza Ivonne Heredia Hoyos<br>- Edgar Alexander Mauricio Montez Zamora<br>- Richard Enrique Lozano Leon<br>- Anghelo Faustino Hurtado<br>- Leonardo Rafael Garcia Villanueva |
+| **Sprint Goal & User Stories** |  |
+| Sprint 1 Goal | Contar con una primera versión funcional de la landing page de Senit que permita presentar de forma clara la propuesta de valor del producto, sus principales funcionalidades, los planes de suscripción y los medios de contacto, de modo que los administradores y responsables de hospedajes puedan comprender rápidamente el valor de la solución. |
+| Sprint 1 Velocity | 28 |
+| Sum of Story Points | 28 |
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.
