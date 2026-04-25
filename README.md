@@ -1074,6 +1074,20 @@ En este sprint no se implementaron ni se documentaron Web Services. El alcance d
 Por esa razón, la descripción de endpoints, verbos HTTP, parámetros, respuestas, capturas de documentación y commits vinculados a Web Services no corresponde a esta iteración. Dichos elementos serán abordados en los siguientes sprints, cuando se inicie la construcción e integración del RESTful API del proyecto.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+Para la documentacion de la elaboración de los avances del Sprint 1, que el grupo del proyecto elaboró mediante GitHub su principal elemento de trabajo colaborativo. Regresando a los repositorios del proyecto donde los miembros fueron registrando sus cambios mediante commits y manteniendo actualizados los artefactos que acompañan a la landing page de Senit y a la documentación del informe. En esta iteración se manifestó la participación activa del grupo en la construcción y actualización de los entregables lo cual fue muestra de un trabajo coordinado por la elaboración de la primera versión funcional del producto.
+
+<p align="center">
+  <img src="assets/Git1.png" alt="Analíticos de colaboración del equipo durante el Sprint 1 en GitHub" width="900"/>
+  <br>
+  <i>Analíticos de colaboración del equipo durante el Sprint 1 en GitHub.</i>
+</p>
+
+<p align="center">
+  <img src="assets/Git2.png" alt="Contribuciones individuales de los integrantes durante el Sprint 1 en GitHub" width="900"/>
+  <br>
+  <i>Contribuciones individuales de los integrantes durante el Sprint 1 en GitHub.</i>
+</p>
+
 ---
 # Conclusiones
 # Bibliografía
