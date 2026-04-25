@@ -869,19 +869,19 @@ En esta sección se representan los principales eventos, comandos, agregados y c
 ### 4.6.2. Software Architecture Context Diagram.
 Este es el diagrama de Contexto de nuestro sistema:
 <p align = "center">
-  <img src="/assets/SENIT_ContextDiagram.png" alt="SENIT_ContextDiagram" width="auto" height="180"/>
+  <img src="/assets/SENIT_ContextDiagram.png" alt="SENIT_ContextDiagram" width="auto" height="auto"/>
 </p>
 
 ### 4.6.3. Software Architecture Container Diagrams.
 Este es el diagrama de Contenedores de nuestro sistema:
 <p align = "center">
-  <img src="/assets/SENIT_ContainerDiagram.png" alt="SENIT_ContainerDiagram" width="auto" height="180"/>
+  <img src="/assets/SENIT_ContainerDiagram.png" alt="SENIT_ContainerDiagram" width="auto" height="auto"/>
 </p>
 
 ### 4.6.4. Software Architecture Components Diagrams.
 Estos son los diagramas de componentes de nuestro sistema, incluyen los siguientes Bounded Context:
 <p align = "center">
-  <img src="/assets/SENIT_ComponentDiagram.png" alt="SENIT_ComponentDiagram" width="auto" height="180"/>
+  <img src="/assets/SENIT_ComponentDiagram.png" alt="SENIT_ComponentDiagram" width="auto" height="auto"/>
 </p>
 
 ## 4.7. Software Object-Oriented Design.
