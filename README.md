@@ -1028,6 +1028,15 @@ El Sprint 1 fue una de las primeras etapas clave en el desarrollo de Senit, ya q
 | Sprint 1 Velocity | 28 |
 | Sum of Story Points | 28 |
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+En esta parte se establecen los puntos más importantes que se incluyeron dentro del alcance del Sprint 1, para poder concretar qué miembro ejerció el rol de miembro líder y cuáles hicieron su aportación como miembros colaboradores. En este sprint, los puntos priorizados dealtos con la planificación y la documentación del sprint, las style guidelines, la information architecture, la landing page y la implementación inicial. La distribución mostrada resulta coherente con la carga del trabajo que estableció el equipo y con las tareas que realmente se llevaron a cabo durante el desarrollo de esta iteración.
+
+| Team Member (Last Name, First Name) | GitHub Username | Sprint Planning and Documentation Leader (L) / Collaborator (C) | Style Guidelines Leader (L) / Collaborator (C) | Information Architecture Leader (L) / Collaborator (C) | Landing Page UI Design Leader (L) / Collaborator (C) | Landing Page Implementation Leader (L) / Collaborator (C) |
+|---|---|---|---|---|---|---|
+| Heredia Hoyos, Danitza Ivonne | UDnTzh | C | L | C | C | C |
+| Montez Zamora, Edgar Alexander Mauricio | Zenkit0 | C | C | C | C | C |
+| Lozano Leon, Richard Enrique | AikoLz | L | C | C | C | C |
+| Hurtado, Anghelo Faustino | Limos05 | C | C | L | C | C |
+| Garcia Villanueva, Leonardo Rafael | LeonardoGV00 | C | C | C | L | L |
 #### 5.2.1.3. Sprint Backlog 1.
 Este Sprint Backlog 1 condensará la elección de aquellas User Stories que se han priorizado con anterioridad y que se utilizarán para la primera entrega discriminada de la funcionalidad de la landing page para Senit. En este sprint, todas las User Stories que se recogen van orientadas hacia la propuesta inicial del producto, la navegación entre las diferentes partes, la descripción de su funcionamiento, la exposición de los planes de suscripción, la creación del formulario de contacto, el cambio de idioma, la adaptabilidad de la landing page a dispositivos móviles y las redes sociales. Finalmente, este sprint tiene como propósito construir la primera versión inicial clara, asequible y de fácil comprensión que explique claramente la propuesta de valor de Senit a los públicos objetivos del proyecto.
 
