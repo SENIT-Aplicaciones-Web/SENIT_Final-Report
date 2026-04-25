@@ -754,7 +754,17 @@ La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele 
 
 
 ### 2.3.4. Empathy Mapping.
+**Segmento 1: Personal administrativo y operativo de hoteles y moteles**
+<p align="center">
+  <img src="assets/Needfinding/empathyMappingSegment_1.png" alt="Empathy Mapping de Anthony Ynga Carvajal"/>
+  <br/>
+</p>
 
+**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+<p align="center">
+  <img src="assets/Needfinding/empathyMappingSegment_2.png" alt="Empathy Mapping Mapping de Lilian Zamora Rua"/>
+  <br/>
+</p>
 
 
 
