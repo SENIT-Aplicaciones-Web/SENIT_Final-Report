@@ -1236,7 +1236,9 @@ Estos son los diagramas de componentes de nuestro sistema, incluyen los siguient
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
 
-
+ <p align = "center">
+ <img src="assets/Diagrams/dataBasesDiagram.jpg" alt="Diagrama de base de datos diagramado en ERD"/>
+</p>
 
 ---
 # Capítulo V: Product Implementation, Validation & Deployment.
