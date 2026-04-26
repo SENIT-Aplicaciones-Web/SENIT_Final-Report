@@ -450,44 +450,146 @@ Los segmentos objetivo identificados para nuestra plataforma Senit, orientada a 
 
 # Capítulo II: Requirements Elicitation & Analysis
 
+### 2.1. Competidores
 
-## 2.1. Competidores
-
-El mercado de sistemas de gestión hotelera (PMS) en el Perú presenta diversas soluciones, desde plataformas globales hasta registros manuales. **Senit** se posiciona como una alternativa tecnológica que cierra la brecha en el segmento de PyMEs hoteleras y moteles, integrando digitalización con tecnologías de Internet de las Cosas (IoT).
-
-## 2.1. Competidores
-
-El mercado de sistemas de gestión hotelera (PMS) en el Perú presenta diversas soluciones, desde plataformas globales hasta registros manuales. **Senit** se posiciona como una alternativa tecnológica que cierra la brecha en el segmento de PyMEs hoteleras y moteles, integrando digitalización con tecnologías de Internet de las Cosas (IoT).
+El mercado de sistemas de gestión hotelera (PMS) en el Perú presenta diversas soluciones, desde plataformas globales hasta registros manuales. **Senit** se posiciona como una alternativa tecnológica que cierra la brecha en el segmento de PyMEs hoteleras y moteles, integrando la digitalización de la gestión operativa, el control de reservas por horas y la facturación electrónica en una sola plataforma.
 
 ### 2.1.1. Análisis competitivo
 
-| Característica | Senit (Nuestra Solución) | Cloudbeds | WuBook | Little Hotelier | Métodos Manuales |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **Logotipos** | <img src="./assets/SENIT_logo.webp" width="100"> | <img src="./assets/cloudbeds-logo.png" width="100"> | <img src="./assets/wubook-logo.png" width="100"> | <img src="./assets/little-hotelier-logo.png" width="100"> | <img src="./assets/excel-logo.png" width="100"> |
-| **Público Objetivo** | PyMEs hoteleras y moteles en Perú. | Hoteles medianos y grandes a nivel global. | Hoteles y propiedades de todos los tamaños. | B&B, casas de huéspedes y pequeños hoteles. | Microempresas y hospedajes locales. |
-| **Integración IoT** | Nativa con sensores (luces, cerraduras). | No disponible nativamente. | No disponible nativamente. | No disponible. | Nula. |
-| **Flexibilidad de uso** | Rápido aprendizaje y manejo intuitivo. | Complejo, requiere capacitación extensa. | Complejo, requiere capacitación. | Moderado. | Muy simple, pero ineficiente. |
-| **Punto de Venta** | Incluido (Bar, restaurante, minimarket). | Disponible como módulo adicional. | Disponible como módulo adicional. | Limitado o inexistente. | Totalmente manual. |
-| **Facturación** | Integrada con SUNAT (Perú). | Requiere integración de terceros. | Requiere integración de terceros. | Limitada para el mercado peruano. | Manual y lenta. |
-| **Costo** | Suscripción accesible en Soles. | Elevado (Dólares). | Moderado (Euros). | Moderado. | Bajo costo directo. |
+A continuación, se presenta el *Competitive Analysis Landscape*, donde se contrastan las características de **Senit** frente a los competidores más relevantes del sector:
 
-#### **Análisis SWOT (FODA)**
+<table>
+  <thead>
+    <tr>
+      <th colspan="6" align="left">Competitive Analysis Landscape</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
+      <td colspan="4">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.<br><br><strong>Objetivo:</strong> Identificar las brechas de servicio y las debilidades de los sistemas actuales para posicionar a Senit como la solución más eficiente en control de tiempos, cumplimiento tributario y facilidad de uso para el mercado peruano.</td>
+    </tr>
+    <tr align="center">
+      <td colspan="2" align="left"><strong>(En la cabecera colocar por cada competidor nombre y logo)</strong></td>
+      <td>
+        <strong>Su startup:</strong><br><br>
+        <img src="assets/SENIT_logo.webp" alt="Senit Logo" width="90"><br>
+        <strong>Senit</strong>
+      </td>
+      <td>
+        <strong>Competidor 1:</strong><br><br>
+        <img src="assets/cloudbeds-logo.png" alt="Cloudbeds Logo" width="90"><br>
+        <strong>Cloudbeds</strong>
+      </td>
+      <td>
+        <strong>Competidor 2:</strong><br><br>
+        <img src="assets/wubook-logo.png" alt="WuBook Logo" width="90"><br>
+        <strong>WuBook</strong>
+      </td>
+      <td>
+        <strong>Competidor 3:</strong><br><br>
+        <img src="assets/little-hotelier-logo.png" alt="Little Hotelier Logo" width="90"><br>
+        <strong>Little Hotelier</strong>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2" valign="middle"><strong>Perfil</strong></td>
+      <td><strong>Overview</strong></td>
+      <td>Sistema de gestión hotelera para PyMEs en Perú, especializado en control por horas y facturación SUNAT.</td>
+      <td>Plataforma global en la nube para la gestión de hoteles de mediana y gran envergadura.</td>
+      <td>Proveedor europeo de software hotelero conocido por su flexibilidad en tarifas.</td>
+      <td>Software simplificado para la gestión de pequeños alojamientos y B&Bs.</td>
+    </tr>
+    <tr>
+      <td><strong>Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</strong></td>
+      <td>Especialización en flujos de alta rotación, facturación SUNAT nativa y curva de aprendizaje mínima.</td>
+      <td>Ecosistema masivo con integraciones directas a cientos de canales de venta globales.</td>
+      <td>Gran capacidad de personalización en reglas de precios dinámicos.</td>
+      <td>Interfaz extremadamente intuitiva diseñada para dueños sin experiencia técnica.</td>
+    </tr>
+    <tr>
+      <td rowspan="2" valign="middle"><strong>Perfil de Marketing</strong></td>
+      <td><strong>Mercado objetivo</strong></td>
+      <td>Hoteles, hostales y moteles en zonas urbanas del Perú (PyMEs).</td>
+      <td>Hoteles con presencia internacional y grandes cadenas.</td>
+      <td>Propiedades de diversos tamaños que buscan autogestión tarifaria.</td>
+      <td>Bed & Breakfasts y pequeños hoteles con baja complejidad operativa.</td>
+    </tr>
+    <tr>
+      <td><strong>Estrategias de marketing</strong></td>
+      <td>Venta directa B2B, demostraciones de eficiencia operativa y cumplimiento legal local.</td>
+      <td>SEO global agresivo, marketing de contenidos y alianzas estratégicas con OTAs.</td>
+      <td>Marketing en foros especializados y pruebas gratuitas de larga duración.</td>
+      <td>Campañas digitales enfocadas en la facilidad de gestión para el dueño independiente.</td>
+    </tr>
+    <tr>
+      <td rowspan="3" valign="middle"><strong>Perfil de Producto</strong></td>
+      <td><strong>Productos & Servicios</strong></td>
+      <td>Panel de control (Rack), Gestión de Check-in/out, POS y Facturación Electrónica.</td>
+      <td>PMS, Channel Manager, Motor de reservas y sistema de pagos propio.</td>
+      <td>PMS Zack, Channel Manager y motor de reservas personalizable.</td>
+      <td>PMS básico, gestión de canales y aplicación móvil de administración.</td>
+    </tr>
+    <tr>
+      <td><strong>Precios & Costos</strong></td>
+      <td>Suscripción mensual económica y escalable en Soles.</td>
+      <td>Costos elevados basados en comisiones y mensualidades en Dólares.</td>
+      <td>Precios moderados con estructura de cobro europea (Euros).</td>
+      <td>Costo fijo moderado en Dólares por propiedad.</td>
+    </tr>
+    <tr>
+      <td><strong>Canales de distribución (Web y/o Móvil)</strong></td>
+      <td>Plataforma Web.</td>
+      <td>Web y Aplicación Móvil.</td>
+      <td>Web y Aplicación Móvil.</td>
+      <td>Web y Aplicación Móvil.</td>
+    </tr>
+    <tr>
+      <td rowspan="5" valign="middle"><strong>Análisis SWOT</strong></td>
+      <td colspan="5">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+    </tr>
+    <tr>
+      <td><strong>Fortalezas</strong></td>
+      <td>Localización tributaria, control exacto de ocupación por horas y bajo costo.</td>
+      <td>Alta robustez técnica y soporte global de gran reputación.</td>
+      <td>Versatilidad en la configuración de tarifas dinámicas.</td>
+      <td>Excelente experiencia de usuario (UX) y simplicidad de procesos.</td>
+    </tr>
+    <tr>
+      <td><strong>Debilidades</strong></td>
+      <td>Marca nueva en proceso de expansión y posicionamiento.</td>
+      <td>Elevada curva de aprendizaje y falta de facturación peruana nativa.</td>
+      <td>Interfaz visual poco moderna y soporte en zona horaria distante.</td>
+      <td>Carece de módulos avanzados de punto de venta y gestión de horas.</td>
+    </tr>
+    <tr>
+      <td><strong>Oportunidades</strong></td>
+      <td>Alta informalidad en hostales locales que necesitan digitalizarse urgentemente.</td>
+      <td>Alianzas con nuevos proveedores de tecnología turística en la región.</td>
+      <td>Renovación de interfaz para atraer a un público más joven y digital.</td>
+      <td>Integración con métodos de pago locales en mercados emergentes.</td>
+    </tr>
+    <tr>
+      <td><strong>Amenazas</strong></td>
+      <td>Resistencia al cambio tecnológico de administradores tradicionales.</td>
+      <td>Aparición de competidores locales con precios más agresivos.</td>
+      <td>Obsolescencia frente a sistemas con mejores herramientas visuales.</td>
+      <td>Desarrollo de funciones de facturación local por parte de competidores globales.</td>
+    </tr>
+  </tbody>
+</table>
 
-| Categoría | Factores Identificados |
-| :--- | :--- |
-| **Fortalezas** | • Integración nativa de sensores IoT para control administrativo.<br>• Especialización en flujo de alta rotación (gestión por horas).<br>• Localización total con facturación SUNAT y precios en Soles.<br>• Interfaz de usuario (UX) centrada en la facilidad de uso. |
-| **Oportunidades** | • Gran porcentaje del sector hotelero aún no está digitalizado.<br>• Alta demanda de seguridad por parte de dueños para evitar fugas de dinero.<br>• Crecimiento de la tendencia de "Smart Hotels" en el mercado local. |
-| **Debilidades** | • Marca nueva en el mercado frente a gigantes globales.<br>• Inversión inicial necesaria por parte del cliente para instalar sensores.<br>• Equipo de marketing y ventas aún en fase de expansión. |
-| **Amenazas** | • Resistencia al cambio tecnológico por parte de administradores tradicionales.<br>• Competidores grandes podrían intentar replicar funciones de IoT.<br>• Inestabilidad económica que retrase la inversión de las PyMEs. |
+#### 2.1.2. Estrategias y tácticas frente a competidores
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+En base al análisis previo, se definen las siguientes estrategias para ganar cuota de mercado frente a las soluciones existentes:
 
 | Competidor | Perfil | Ventajas del Competidor | Desventajas del Competidor | Estrategias y Tácticas de Senit |
 | :--- | :--- | :--- | :--- | :--- |
-| **Cloudbeds**<br><br><img src="./assets/cloudbeds-logo.png" width="100"> | PMS líder mundial en la nube para hoteles medianos y grandes. | • Ecosistema completo integrado con canales de venta.<br>• Marca global con alta fiabilidad. | • Costo elevado en dólares.<br>• Curva de aprendizaje empinada.<br>• Sin facturación nativa SUNAT. | • **Costo y Localización:** Planes en Soles con SUNAT lista para usar.<br>• **Diferenciación IoT:** Automatización que Cloudbeds no posee. |
-| **WuBook**<br><br><img src="./assets/wubook-logo.png" width="100"> | Sistema europeo popular por su flexibilidad en configuración de tarifas. | • Alta flexibilidad en tarifas dinámicas.<br>• Gestión sólida de pequeñas cadenas. | • Interfaz visual desactualizada.<br>• Soporte técnico con demora por huso horario.<br>• Ausencia de domótica. | • **Soporte Local:** Atención rápida en horario peruano.<br>• **Vanguardia IoT:** Posicionamiento como "Hotel Inteligente" frente a software obsoleto. |
-| **Little Hotelier**<br><br><img src="./assets/little-hotelier-logo.png" width="100"> | Diseñado para pequeños alojamientos, enfocado en la simplicidad para el dueño. | • Interfaz amigable para usuarios sin experiencia.<br>• Aplicación móvil fluida. | • Sin módulos avanzados de Punto de Venta.<br>• Deficiente en gestión de alta rotación (horas). | • **Alta Rotación:** Alertas automáticas de limpieza tras cada check-out.<br>• **Solución Integral:** Módulos de venta incluidos desde el inicio. |
-| **Métodos Manuales**<br><br><img src="./assets/excel-logo.png" width="100"> | Control mediante cuadernos o Excel. Común en hostales de bajo presupuesto. | • Costo de implementación inicial cero.<br>• No requiere equipos tecnológicos modernos. | • Vulnerable al "robo hormiga".<br>• Errores humanos y falta de control real.<br>• Ineficiencia en cuadres de caja. | • **Educación (ROI):** Demostrar que las pérdidas por descontrol superan el pago de Senit.<br>• **Sensor Auditor:** El sensor IoT detecta la ocupación real sin margen de error. |
+| **Cloudbeds** | PMS líder mundial para hoteles medianos. | Marca global confiable y ecosistema completo. | Precio alto en dólares y configuración muy compleja. | **Localización y Costo:** Ofrecer planes en Soles con SUNAT integrada desde el día uno, eliminando la complejidad técnica. |
+| **WuBook** | Sistema flexible enfocado en tarifas. | Alta flexibilidad en la configuración de precios. | Interfaz visual desactualizada y soporte lento para Perú. | **Soporte y UX:** Atención inmediata en horario local y una interfaz moderna que reduce el tiempo de capacitación del personal. |
+| **Little Hotelier** | Diseñado para pequeños alojamientos. | Muy fácil de usar y aplicación móvil fluida. | Débil en gestión de alta rotación (horas) y sin POS avanzado. | **Alta Rotación:** Implementar alertas automáticas de limpieza post-salida y módulos de venta (snacks/bebidas) integrados. |
+| **Métodos Manuales** | Cuadernos o hojas de cálculo (Excel). | Sin costo de implementación inicial. | Total vulnerabilidad a errores de caja y falta de control real. | **Educación (ROI):** Demostrar cómo el control digital de Senit evita las pérdidas por desorganización, pagando el software por sí solo. |
+
 ## 2.2 Entrevistas
 
 En esta sección se abordará la investigación en base a la información que se obtendrá de los segmentos entrevistados con el objetivo de conocer mejor a nuestros segmentos objetivos y aprender de ellos y sus procesos.
@@ -604,6 +706,24 @@ La entrevista fue realizada a Anthony Paul Inga Carvajal, gerente de turno con m
 La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele hospedarse en hoteles aproximadamente una vez al mes. Para buscar hospedajes utiliza principalmente su celular o laptop, revisando primero redes sociales como Facebook y TikTok, y luego coordinando por WhatsApp. Durante la entrevista comentó que en su última experiencia tuvo problemas porque la información del establecimiento no era clara respecto a horarios, servicios y disponibilidad, lo que volvió más lento el proceso de reserva. También señaló dificultades en el check-in y check-out debido a la poca comunicación del anfitrión, además de inconvenientes con los métodos de pago por no saber con anticipación si aceptaban efectivo, tarjeta o billeteras digitales. A pesar de ello, indicó que la habitación sí se encontraba limpia y ordenada. Finalmente, destacó que valora mucho el precio, la comodidad y la privacidad, y que le gustaría contar con una plataforma más clara y eficiente que le permita ver información importante, recibir confirmaciones rápidas y realizar un pre check-in sin depender únicamente de WhatsApp.
 </div>
 <br>
+
+**Entrevista 2**
+<p align="center">
+  <img src="assets/interviews/interview_segment_2_n2.png" alt="Entrevista con Omar Adriano Rojas"/>
+  <br/><i>Evidencia de entrevista: Omar Adriano Rojas</i>
+</p>
+
+* **Nombre:** Omar Adriano Rojas
+* **Edad:** 20 años
+* **Residencia:** Ate
+* **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
+* **Duracion:** 06:05
+* **Timing:** 
+
+**Resumen de la entrevista:**
+
+La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele hospedarse en hoteles y moteles. Para buscar y reservar hospedajes, actualmente utiliza WhatsApp, aunque expresó una fuerte preferencia por plataformas web que le permitan autogestionar su reserva viendo precios, fotos reales y disponibilidad sin tener que esperar la respuesta de un recepcionista. Durante la entrevista, destacó que su mayor frustración es la desorganización del personal y tener que esperar en recepción para el check-in (especialmente cuando la habitación aún no está limpia). Indicó que le resultaría muy atractivo un sistema que le permita hacer un pre check-in digital desde su celular. Además, señaló como aspectos críticos de su estadía la exigencia de una limpieza impecable, privacidad total y la necesidad innegociable de recibir comprobantes de pago (boletas o facturas) y correos de confirmación de manera inmediata para sentir confianza en el servicio.
+
 
 ### 2.2.3 Análisis de entrevistas
 
@@ -913,55 +1033,67 @@ La navegación es simple e intuitiva, con las opciones principales visibles y bi
 Además, la plataforma está estructurada por módulos, lo que ayuda a mantener el orden y mejora la experiencia de uso. Todo esto se complementa con un diseño adaptable, que permite usar Senit tanto en computadora como en dispositivos móviles sin perder funcionalidad.
 
 
-## 4.2. Information Architecture
+### 4.2. Information Architecture
 
-La arquitectura de información de **Senit** ha sido diseñada para garantizar que tanto administradores como recepcionistas y personal de limpieza puedan acceder a las funciones críticas de manera rápida y sin fricciones, optimizando la gestión operativa del hotel.
+La arquitectura de información de **Senit** ha sido diseñada en dos frentes clave: la **Landing Page** (orientada a la conversión y captación de nuevos clientes) y la **Plataforma Web** (orientada a garantizar que administradores, recepcionistas y personal de limpieza accedan a las funciones operativas de manera rápida y sin fricciones).
 
-### 4.2.1. Organization Systems
+#### 4.2.1. Organization Systems
+
+La información se ha estructurado considerando la naturaleza de cada plataforma:
 
 | Tipo de Organización | Descripción | Aplicación en Senit |
 | :--- | :--- | :--- |
-| **Jerárquica** | Estructura de árbol que divide la plataforma por niveles de acceso y módulos generales. | Menú principal dividido en: Dashboard, Operaciones (Rack/Reservas), Administración e IoT. |
+| **Secuencial (One-Page)** | Flujo de información vertical y continuo diseñado para guiar al visitante hacia la conversión. | Aplicado en la **Landing Page**, estructurando el contenido en: Hero (Inicio) -> Funcionalidades -> Confianza -> Planes -> Contacto. |
+| **Jerárquica** | Estructura de árbol que divide la plataforma por niveles de acceso y módulos generales. | Aplicado en la **App Web** con el menú dividido en: Dashboard, Operaciones (Rack/Reservas), Administración y Reportes. |
 | **Por Tareas** | Organización basada en las acciones específicas que el usuario debe completar. | Módulo de "Check-in rápido", "Corte de caja diario" y "Reporte de limpieza". |
-| **Por Roles** | Segmentación del contenido según los permisos del perfil de usuario. | Recepcionista (Vista operativa), Administrador (Vista gerencial/IoT) y Camarista (Vista de mantenimiento). |
+| **Por Roles** | Segmentación del contenido según los permisos del perfil de usuario. | Recepcionista (Vista operativa), Administrador (Vista gerencial) y Camarista (Vista de mantenimiento). |
 
-### 4.2.2. Labeling Systems
+#### 4.2.2. Labeling Systems
+
+Las etiquetas han sido seleccionadas para utilizar el lenguaje estándar del sector hotelero y facilitar la comprensión inmediata.
 
 | Categoría | Etiqueta (Label) | Descripción / Contexto |
 | :--- | :--- | :--- |
-| **Navegación** | Rack Gráfico | Panel visual de estado de habitaciones en tiempo real. |
-| **Navegación** | Gestión IoT | Configuración de sensores y cerraduras inteligentes. |
-| **Acción (Botón)** | Check-in / Out | Registro de ingreso y salida formal del huésped. |
-| **Acción (Botón)** | Emitir Comprobante | Generación de boleta o factura electrónica (SUNAT). |
-| **Estados** | En Limpieza | Indica que la habitación está siendo aseada por el personal. |
-| **Mensajes** | Alerta de Intrusión | Notificación de movimiento detectado en cuarto libre. |
+| **Navegación (Landing)** | Planes / Funcionalidades | Enlaces principales para conocer el modelo de negocio. |
+| **Navegación (App)** | Rack Gráfico | Panel visual de estado de habitaciones en tiempo real. |
+| **Acción (Botón)** | Comenzar / Ingresa | Llamados a la acción (CTAs) principales en la Landing Page. |
+| **Acción (Botón)** | Check-in / Out | Registro de ingreso y salida formal del huésped en el sistema. |
+| **Acción (Botón)** | Emitir Comprobante | Generación de boleta o factura electrónica integrada con SUNAT. |
+| **Estados (App)** | En Limpieza | Indica que la habitación ha sido desocupada y está siendo aseada. |
 
-### 4.2.3. SEO Tags and Meta Tags
+#### 4.2.3. SEO Tags and Meta Tags
+
+Para asegurar un correcto posicionamiento orgánico de la Landing Page en los motores de búsqueda, se definieron las siguientes etiquetas:
 
 | Tag | Contenido Sugerido | Propósito |
 | :--- | :--- | :--- |
-| **Title Tag** | Senit | Software de Gestión Hotelera e IoT para PyMEs en Perú | Posicionamiento de marca y descripción clara en buscadores. |
-| **Meta Description** | Optimiza tu hostal o motel con Senit. Control por horas, integración con sensores IoT, facturación SUNAT y gestión de limpieza en tiempo real. | Resumen atractivo para atraer dueños de hoteles en los resultados de búsqueda. |
-| **Keywords** | software hotelero peru, gestión moteles por horas, pms iot, facturacion electronica hoteles, control de hoteles peru. | Palabras clave para atraer tráfico orgánico de clientes potenciales en Perú. |
-| **Author** | Senit Startup Team | Identificación de la propiedad intelectual del sitio. |
+| **Title Tag** | Senit \| Software de Gestión Hotelera para PyMEs en Perú | Resumen atractivo y claro para atraer dueños de hospedajes en los resultados de búsqueda. |
+| **Meta Description** | Optimiza tu hostal o motel con Senit. Control por horas, gestión de limpieza en tiempo real y facturación SUNAT integrada. | Descripción directa para aumentar la tasa de clics (CTR) destacando el valor principal. |
+| **Keywords** | software hotelero peru, gestión moteles por horas, sistema para hostales, facturacion electronica hoteles, pms peru. | Palabras clave para atraer tráfico orgánico de clientes potenciales específicos en Perú. |
+| **Author** | Senit Startup Team | Identificación de la propiedad intelectual y desarrollo del sitio. |
 
-### 4.2.4. Searching Systems
+#### 4.2.4. Searching Systems
+
+El sistema de búsqueda está enfocado en la Plataforma Web para agilizar la operatividad diaria del personal:
 
 | Sistema de Búsqueda | Parámetros de Búsqueda | Funcionalidad |
 | :--- | :--- | :--- |
-| **Búsqueda de Huéspedes** | DNI, RUC, Nombre o Apellido. | Localización rápida de clientes recurrentes o registros actuales. |
-| **Filtros de Rack** | Por piso, tipo de habitación (Simple, Suite) o estado. | Permite al recepcionista encontrar habitaciones disponibles rápidamente. |
-| **Búsqueda de Reservas** | Código de reserva o rango de fechas. | Gestión de reservas futuras y modificaciones. |
-| **Búsqueda de Ventas** | Número de comprobante o fecha de emisión. | Auditoría de pagos y exportación de reportes financieros. |
+| **Búsqueda de Huéspedes** | DNI, RUC, Nombre o Apellido. | Localización rápida de clientes recurrentes o registros actuales en recepción. |
+| **Filtros de Rack** | Por piso, tipo de habitación (Simple, Matrimonial) o estado (Libre/Ocupada). | Permite al recepcionista encontrar habitaciones disponibles inmediatamente. |
+| **Búsqueda de Reservas** | Código de reserva o rango de fechas. | Gestión de reservas futuras, confirmaciones y modificaciones. |
+| **Búsqueda de Ventas** | Número de comprobante o fecha de emisión. | Auditoría de pagos, revisión de caja y exportación de reportes financieros. |
 
-### 4.2.5. Navigation Systems
+#### 4.2.5. Navigation Systems
+
+Se han diseñado sistemas de navegación distintos para la cara pública y la herramienta de gestión:
 
 | Tipo de Navegación | Elementos Incluidos | Descripción |
 | :--- | :--- | :--- |
-| **Global** | Sidebar (Menú Lateral Izquierdo) | Acceso permanente a los módulos de Inicio, Rack, Caja, Inventario e IoT. |
+| **Global (Landing Page)** | Header (Barra Superior Estática) | Permite la navegación rápida mediante anclajes (Inicio, Funcionalidades, Planes, Contáctanos). Incluye selector de idioma (EN/ES) y botón "Ingresa". En dispositivos móviles se agrupa en un menú hamburguesa. |
+| **Global (App Web)** | Sidebar (Menú Lateral Izquierdo) | Acceso permanente a los módulos operativos internos: Inicio, Rack, Caja, Inventario y Reportes. |
 | **Local** | Tabs superiores (Pestañas) | Navegación interna dentro de un módulo (ej. Reservas Pendientes vs. Finalizadas). |
-| **Contextual** | Menú desplegable en Habitaciones | Al hacer clic en un cuarto del rack, aparecen acciones como "Ver cuenta", "Check-out" o "Limpieza". |
-| **De Usuario** | Header (Barra Superior) | Notificaciones de alertas IoT, perfil de usuario y opción de cerrar sesión. |
+| **Contextual** | Menú desplegable en Habitaciones | Al hacer clic en un cuarto del rack, despliega acciones inmediatas como "Ver cuenta", "Check-out" o "Pasar a Limpieza". |
+| **De Usuario** | Header interno (Barra Superior) | Muestra el perfil del usuario activo (ej. Recepcionista Turno Mañana), notificaciones del sistema y la opción de cerrar sesión. |
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
