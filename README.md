@@ -1428,6 +1428,9 @@ En esta primera iteración el equipo tuvo la decisión de enfocarse primordialme
 | SENIT-Aplicaciones-Web/SENIT_Final-Report | main | 01320f7 | docs: add landing page wireframes | - | 22/04/2026 |
 | SENIT-Aplicaciones-Web/SENIT_Final-Report | main | df9a7f9 | docs: add landing page hero section mockup | - | 23/04/2026 |
 | SENIT-Aplicaciones-Web/SENIT_Final-Report | main | 1594528 | docs: add landing page mock ups | - | 24/04/2026 |
+| SENIT-Aplicaciones-Web/senit-landing-page | main | 067428d | Initial commit | - | 24/04/2026 |
+| SENIT-Aplicaciones-Web/senit-landing-page | main | a1541c5 | docs: add description of senit | - | 24/04/2026 |
+| SENIT-Aplicaciones-Web/senit-landing-page | main | 60adb91 | feat: add landing page v1 | - | 25/04/2026 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
