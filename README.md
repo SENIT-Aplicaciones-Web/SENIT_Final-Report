@@ -1274,6 +1274,7 @@ Estos son los diagramas de componentes de nuestro sistema, incluyen los siguient
  <img src="assets/Diagrams/roomContext.jpeg" alt="Diagrama de clases del bounded context Room Context"/>
 </p>
 
+
  **Staff Context**
  <p align = "center">
  <img src="assets/Diagrams/staffContext.jpeg" alt="Diagrama de clases del bounded context Staff Context"/>
