@@ -63,6 +63,7 @@ URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
+
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta** |- Heredia Hoyos, Danitza Ivonne: <br> **AV 1:** Me encargué de desarrollar las secciones asignadas (4.1. Style Guidelines y 4.6. Domain-Driven Software Architecture), organizando mi trabajo de manera que se ajuste a los tiempos del equipo. Durante el proceso, mantuve comunicación con mis compañeros y tomé en cuenta el enfoque general del proyecto, buscando que mi aporte se integre de forma coherente con el trabajo del grupo. <br><br> - Montes Zamora, Edgar Alexander Mauricio:<br> **AV 1:** <br><br>- Lozano Leon, Richard Enrique: <br> **AV 1:** Durante esta etapa participé en la elaboración de los segmentos objetivo, el diseño de entrevistas, el lenguaje ubicuo y parte de la documentación del Sprint 1. Mi aporte no solo estuvo en redactar esas secciones, sino también en coordinarlas con el trabajo de mis compañeros para que mantuvieran relación con la problemática, los usuarios y el enfoque general de Senit. Esto me permitió colaborar de manera activa con el equipo y aportar al desarrollo conjunto del avance.<br><br>- Hurtado Faustino, Anghelo:<br> **AV 1:** <br><br>- Garcia Villanueva, Leonardo Rafael:<br> **AV 1:** <br><br>|- Heredia Hoyos, Danitza Ivonne: <br> **AV 1:** En esta etapa, el equipo trabajó bajo una dinámica de responsabilidad compartida, donde cada integrante asumió su rol y contribuyó al avance del proyecto. Esto permitió que el liderazgo se diera de forma distribuida, facilitando el progreso sin depender de una sola persona.<br><br> - Montes Zamora, Edgar Alexander Mauricio:|
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** |- Heredia Hoyos, Danitza Ivonne: <br> **AV 1:** Desarrollé las secciones asignadas (4.1. Style Guidelines y 4.6. Domain-Driven Software Architecture), organizando mi tiempo en función de los plazos de la entrega. A partir de ello, estructuré mi trabajo por etapas para avanzar de manera ordenada y asegurar su finalización dentro del tiempo previsto, manteniendo coherencia con el desarrollo general del proyecto. <br><br>- Montes Zamora, Edgar Alexander Mauricio:<br> **AV 1:** <br><br>- Lozano Leon, Richard Enrique: <br> **AV 1:** Organicé mi trabajo en función de las secciones que me fueron asignadas, avanzando de manera progresiva en segmentos objetivo, entrevistas, lenguaje ubicuo y documentación del Sprint 1. Procuré cumplir con los tiempos acordados y mantener comunicación con el equipo para que mi avance encaje con el resto de entregables. De esa forma, contribuí a que el trabajo se mantenga ordenado, conectado entre sí y orientado al cumplimiento de los objetivos de esta primera entrega.<br><br>- Hurtado Faustino, Anghelo:<br> **AV 1:** <br><br>- Garcia Villanueva, Leonardo Rafael:<br> **AV 1:** <br><br>|- Heredia Hoyos, Danitza Ivonne: <br> **AV 1:** En esta entrega, el equipo logró avanzar a partir de la planificación de tareas y el cumplimiento de los plazos establecidos. La distribución del trabajo permitió que cada integrante se enfoque en su parte, facilitando el desarrollo ordenado del proyecto y el logro de los objetivos planteados para AV1.|
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **- Heredia Hoyos, Danitza Ivonne:**<br>AV 1: Me encargué de desarrollar las secciones asignadas (4.1. Style Guidelines y 4.6. Domain-Driven Software Architecture), organizando mi trabajo de manera que se ajuste a los tiempos del equipo. Durante el proceso, mantuve comunicación con mis compañeros y tomé en cuenta el enfoque general del proyecto, buscando que mi aporte se integre de forma coherente con el trabajo del grupo.<br><br>**- Montes Zamora, Edgar Alexander Mauricio:**<br>AV 1:<br><br>**- Lozano Leon, Richard Enrique:**<br>AV 1: Durante esta etapa participé en la elaboración de los segmentos objetivo, el diseño de entrevistas, el lenguaje ubicuo y parte de la documentación del Sprint 1. Mi aporte no solo estuvo en redactar esas secciones, sino también en coordinarlas con el trabajo de mis compañeros para que mantuvieran relación con la problemática, los usuarios y el enfoque general de Senit. Esto me permitió colaborar de manera activa con el equipo y aportar al desarrollo conjunto del avance.<br><br>**- Hurtado Faustino, Anghelo:**<br>AV 1: Asumí la responsabilidad total del desarrollo y estructuración de las secciones de Análisis Competitivo (2.1), Arquitectura de Información (4.2) y el Big Picture Event Storming (2.4). Durante este proceso, propuse proactivamente soluciones visuales para alinear mis entregables con los mockups del equipo y validé constantemente con el team leader que los diagramas cumplieran con los requerimientos técnicos.<br><br>**- Garcia Villanueva, Leonardo Rafael:**<br>AV 1: | **- Heredia Hoyos, Danitza Ivonne:**<br>AV 1: En esta etapa, el equipo trabajó bajo una dinámica de responsabilidad compartida, donde cada integrante asumió su rol y contribuyó al avance del proyecto. Esto permitió que el liderazgo se diera de forma distribuida, facilitando el progreso sin depender de una sola persona.<br><br>**- Montes Zamora, Edgar Alexander Mauricio:**<br>AV 1:<br><br>**- Lozano Leon, Richard Enrique:**<br>AV 1:<br><br>**- Hurtado Faustino, Anghelo:**<br>AV 1: Entendí que el liderazgo compartido no se trata de dirigir a los demás, sino de tomar la iniciativa dentro de mis propias tareas. Al hacerme cargo de mis secciones y proponer mejoras en constante comunicación con el equipo, comprobé que asumir nuestra responsabilidad individual de forma proactiva agiliza el desarrollo y eleva la calidad del documento final.<br><br>**- Garcia Villanueva, Leonardo Rafael:**<br>AV 1: |
@@ -309,7 +310,7 @@ Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organ
 
     7. **Haremos dinero a través de** planes de suscripción por hospedaje, adaptados al tamaño y necesidades del negocio.
 
-    8. **Nuestras competencias principales son** ...
+    8. **Nuestras competencias principales son** Cloudbeds, Wubbok y Little Hotelier
 
     9. **Los venceremos debido a** que nuestra propuesta estará enfocada en ser más intuitiva y fácil de usar para el personal y adaptada a la realidad operativa de los hospedajes.
 
@@ -678,7 +679,7 @@ Se han diseñado dos bloques de preguntas: uno dirigido al personal administrati
 - **Nombre:** Antony Paul Ynga Carbajal
 - **Edad:** 34 años
 - **Residencia:** Miraflores
-- **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/personal/u20231h059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231h059%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Aplicaciones%20Web%2FEntrevistas%20SENIT%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1db915aa%2D330c%2D43a8%2Da572%2D0bc39bdd6522)
 - **Duracion:** 15:37
 - **Timing:** 00:00 - 15:37
 
@@ -699,9 +700,9 @@ La entrevista fue realizada a Anthony Paul Inga Carvajal, gerente de turno con m
 - **Nombre:** Ghorghet Tuncar Vila
 - **Edad:** 20 años
 - **Residencia:** Villa María del Triunfo
-- **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/personal/u20231h059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231h059%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Aplicaciones%20Web%2FEntrevistas%20SENIT%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1db915aa%2D330c%2D43a8%2Da572%2D0bc39bdd6522)
 - **Duracion:** 08:59
-- **Timing:** 00:00 - 08:59
+- **Timing:** 15:37 - 23:27
 
 **Resumen de la entrevista:**
 <div align="justify">
@@ -718,13 +719,33 @@ La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele 
 * **Nombre:** Omar Adriano Rojas
 * **Edad:** 20 años
 * **Residencia:** Ate
-* **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
+* **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/personal/u20231h059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231h059%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Aplicaciones%20Web%2FEntrevistas%20SENIT%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1db915aa%2D330c%2D43a8%2Da572%2D0bc39bdd6522)
 * **Duracion:** 06:05
-* **Timing:** 
+* **Timing:** 31:05 - 37-18
 
 **Resumen de la entrevista:**
 
 La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele hospedarse en hoteles y moteles. Para buscar y reservar hospedajes, actualmente utiliza WhatsApp, aunque expresó una fuerte preferencia por plataformas web que le permitan autogestionar su reserva viendo precios, fotos reales y disponibilidad sin tener que esperar la respuesta de un recepcionista. Durante la entrevista, destacó que su mayor frustración es la desorganización del personal y tener que esperar en recepción para el check-in (especialmente cuando la habitación aún no está limpia). Indicó que le resultaría muy atractivo un sistema que le permita hacer un pre check-in digital desde su celular. Además, señaló como aspectos críticos de su estadía la exigencia de una limpieza impecable, privacidad total y la necesidad innegociable de recibir comprobantes de pago (boletas o facturas) y correos de confirmación de manera inmediata para sentir confianza en el servicio.
+
+
+**Entrevista 3**
+<p align="center">
+  <img src="assets/interviews/interview_segment_2_n3.jpg" alt="Entrevista con Lilian Zamora Rua"/>
+  <br/><i>Evidencia de entrevista: Lilian Zamora Rua</i>
+</p>
+
+* **Nombre:** Lilian Zamora Rua
+* **Edad:** 51 años
+* **Residencia:** Lurigancho - Chosica
+* **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e126_upc_edu_pe/IQBVCEhPNholRa5EfoGSoWyMAcq8SRIIGkyIQMexaJMhTu8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hVH4To)
+* **Duracion:** 07:38
+* **Timing:** 00:00 - 07:38
+
+**Resumen de la entrevista:**
+
+Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus hábitos de alojamiento y experiencias en hoteles. La entrevistada explica que prefiere realizar sus reservas digitalmente mediante plataformas como Booking o WhatsApp, priorizando siempre la limpieza y la privacidad. Aunque se muestra satisfecha con los servicios generales, señala que el proceso de registro presencial suele ser lento debido a la gestión de documentos de identidad. Por esta razón, manifiesta un fuerte interés en la implementación de sistemas de registro anticipado que agilicen su ingreso. Finalmente, la fuente destaca la importancia de recibir confirmaciones inmediatas y transparencia total en los costos y servicios antes de concretar una estadía.
+
+
 
 
 ### 2.2.3 Análisis de entrevistas
@@ -1432,14 +1453,55 @@ En esta primera iteración el equipo tuvo la decisión de enfocarse primordialme
 | SENIT-Aplicaciones-Web/SENIT_Final-Report | main | 01320f7 | docs: add landing page wireframes | - | 22/04/2026 |
 | SENIT-Aplicaciones-Web/SENIT_Final-Report | main | df9a7f9 | docs: add landing page hero section mockup | - | 23/04/2026 |
 | SENIT-Aplicaciones-Web/SENIT_Final-Report | main | 1594528 | docs: add landing page mock ups | - | 24/04/2026 |
+| SENIT-Aplicaciones-Web/senit-landing-page | main | 067428d | Initial commit | - | 24/04/2026 |
+| SENIT-Aplicaciones-Web/senit-landing-page | main | a1541c5 | docs: add description of senit | - | 24/04/2026 |
+| SENIT-Aplicaciones-Web/senit-landing-page | main | 60adb91 | feat: add landing page v1 | - | 25/04/2026 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+En esta sección se presenta una vista de la primera versión funcional de la landing page de Senit implementada durante el Sprint 1.
+
+<p align="center">
+  <img src="assets/Landing1.png" alt="Primera versión funcional de la landing page de Senit" width="900"/>
+  <br>
+  <i>Primera versión funcional de la landing page de Senit durante el Sprint 1.</i>
+</p>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En este sprint no se implementaron ni se documentaron Web Services. El alcance del Sprint 1 estuvo enfocado únicamente en el desarrollo de la primera versión funcional de la landing page de Senit, por lo que no se trabajó todavía con endpoints ni con documentación técnica asociada a servicios.
 
 Por esa razón, la descripción de endpoints, verbos HTTP, parámetros, respuestas, capturas de documentación y commits vinculados a Web Services no corresponde a esta iteración. Dichos elementos serán abordados en los siguientes sprints, cuando se inicie la construcción e integración del RESTful API del proyecto.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+<p align="center">
+  <img src="assets/Evidence1.png" alt="Evidencia de despliegue de la landing page de Senit 1" width="900"/>
+  <br>
+  <i>Evidencia 1 del despliegue de la landing page de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/Landing2.jpg" alt="Evidencia de despliegue de la landing page de Senit 2" width="900"/>
+  <br>
+  <i>Evidencia 2 del despliegue de la landing page de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/Landing3.jpg" alt="Evidencia de despliegue de la landing page de Senit 3" width="900"/>
+  <br>
+  <i>Evidencia 3 del despliegue de la landing page de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/Landing4.jpg" alt="Evidencia de despliegue de la landing page de Senit 4" width="900"/>
+  <br>
+  <i>Evidencia 4 del despliegue de la landing page de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/Landing5.jpg" alt="Evidencia de despliegue de la landing page de Senit 5" width="900"/>
+  <br>
+  <i>Evidencia 5 del despliegue de la landing page de Senit.</i>
+</p>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 Para la documentacion de la elaboración de los avances del Sprint 1, que el grupo del proyecto elaboró mediante GitHub su principal elemento de trabajo colaborativo. Regresando a los repositorios del proyecto donde los miembros fueron registrando sus cambios mediante commits y manteniendo actualizados los artefactos que acompañan a la landing page de Senit y a la documentación del informe. En esta iteración se manifestó la participación activa del grupo en la construcción y actualización de los entregables lo cual fue muestra de un trabajo coordinado por la elaboración de la primera versión funcional del producto.
 
@@ -1457,9 +1519,33 @@ Para la documentacion de la elaboración de los avances del Sprint 1, que el gru
 
 ---
 # Conclusiones
-# Bibliografía
-# Anexos
+**Conclusiones**
 
+El análisis del sector hotelero en el Perú permitió identificar que una gran parte de los establecimientos de hospedaje aún operan mediante procesos manuales o con herramientas tecnológicas limitadas, lo que genera ineficiencias, errores en la gestión y retrasos en la atención al cliente. A partir de las entrevistas realizadas, se evidenció que tanto el personal administrativo como los huéspedes presentan necesidades claras relacionadas con la rapidez, la organización y la digitalización de procesos, especialmente en actividades críticas como las reservas, el check-in y la facturación.
+
+En este contexto, el desarrollo de Senit como plataforma web surge como una solución pertinente, ya que permite centralizar la gestión de reservas, habitaciones, personal, limpieza y pagos en un solo sistema, mejorando significativamente la eficiencia operativa de los hospedajes. Asimismo, la aplicación de metodologías como Lean UX y Domain-Driven Design (DDD) facilitó la construcción de una solución alineada con las necesidades reales de los usuarios, asegurando que las funcionalidades propuestas aporten valor práctico.
+
+Por otro lado, el uso de herramientas de modelado como diagramas UML, ERD y la definición de bounded contexts permitió comprender de manera estructurada el dominio del problema y diseñar una arquitectura modular, escalable y coherente con la lógica del negocio hotelero. Finalmente, los avances logrados durante el Sprint 1 evidencian una base sólida para el desarrollo del proyecto, especialmente en la definición del producto, la validación de la problemática y la construcción inicial de la solución.<br></br>
+
+
+
+**Recomendaciones**
+
+Se recomienda continuar con el desarrollo del sistema, enfocándose principalmente en la implementación del backend y la integración de servicios que permitan materializar las funcionalidades propuestas en la etapa inicial. Asimismo, es importante realizar pruebas con usuarios reales, tanto administradores como huéspedes, utilizando prototipos más avanzados, con el fin de validar la usabilidad del sistema y detectar oportunidades de mejora antes de su despliegue.
+
+También se sugiere incorporar mecanismos de seguridad robustos para proteger la información sensible de los usuarios, especialmente considerando que el sistema gestionará datos personales y transacciones económicas. De igual manera, es fundamental optimizar la experiencia de usuario, priorizando la reducción de tiempos en procesos clave como el check-in, las reservas y la emisión de comprobantes, ya que estos representan los principales puntos de dolor identificados.
+
+Adicionalmente, se recomienda evaluar la integración con servicios externos, como pasarelas de pago y plataformas de reservas, lo que permitirá incrementar el valor del sistema y su competitividad en el mercado. Finalmente, se sugiere implementar el sistema de manera progresiva en pequeños y medianos hospedajes, manteniendo una retroalimentación constante con los usuarios, lo que permitirá iterar y mejorar la solución de acuerdo con las necesidades reales del entorno.
+
+
+
+# Bibliografía
+
+Ministerio de Comercio Exterior y Turismo. (2023). Perú: oferta y demanda de establecimientos de hospedaje, año 2023. 
+https://www.gob.pe/institucion/mincetur/informes-publicaciones/5671698-informe-peru-oferta-y-demanda-de-establecimientos-de-hospedaje-ano-2023
+
+# Anexos
+Video AV1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgDp_fp4esChRK6kbuD7hr3rAY1MNhbgV34AeZQecIMnPSs?e=QLhQg8
 
 
 
