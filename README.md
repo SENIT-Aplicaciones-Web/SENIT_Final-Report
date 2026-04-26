@@ -1479,7 +1479,7 @@ Por esa razón, la descripción de endpoints, verbos HTTP, parámetros, respuest
 </p>
 
 <p align="center">
-  <img src="assets/Landing2.jpg" alt="Evidencia de despliegue de la landing page de Senit 2" width="900"/>
+  <img src="assets/Landing2.jpeg" alt="Evidencia de despliegue de la landing page de Senit 2" width="900"/>
   <br>
   <i>Evidencia 2 del despliegue de la landing page de Senit.</i>
 </p>
