@@ -1192,8 +1192,34 @@ Se han diseñado sistemas de navegación distintos para la cara pública y la he
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+
+<p align = "center">
+  <img src="assets/webApp/WireFrames3.jpg" alt="SENIT_WebApp"/>
+</p>
+<p align = "center">
+  <img src="assets/webApp/WireFrames4.jpg" alt="SENIT_WebApp"/>
+</p>
+<p align = "center">
+  <img src="assets/webApp/WireFrames1.jpg" alt="SENIT_WebApp"/>
+</p>
+<p align = "center">
+  <img src="assets/webApp/WireFrames2.jpg" alt="SENIT_WebApp"/>
+</p>
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+<p align = "center">
+  <img src="assets/webApp/Wireflow.jpg" alt="SENIT_WebApp"/>
+</p>
+
+
 ### 4.4.3. Web Applications Mock-ups.
+<p align = "center">
+  <img src="assets/webApp/Mockup1.jpg" alt="SENIT_WebApp"/>
+</p>
+<p align = "center">
+  <img src="assets/webApp/Mockup2.jpg" alt="SENIT_WebApp"/>
+</p>
+
 ### 4.4.4. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 
