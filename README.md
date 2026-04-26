@@ -820,7 +820,7 @@ Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus h
   <thead>
     <tr>
       <th rowspan="2">Task</th>
-      <th colspan="2">Anthony Ynga Carvajal</th>
+      <th colspan="2">Lilian Zamora Rua</th>
       <th colspan="2">Ghorghet Tuncar Vila</th>
       <th colspan="2">Omar Adriano</th>
     </tr>
