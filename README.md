@@ -307,7 +307,7 @@ Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organ
 
     7. **Haremos dinero a través de** planes de suscripción por hospedaje, adaptados al tamaño y necesidades del negocio.
 
-    8. **Nuestras competencias principales son** ...
+    8. **Nuestras competencias principales son** Cloudbeds, Wubbok y Little Hotelier
 
     9. **Los venceremos debido a** que nuestra propuesta estará enfocada en ser más intuitiva y fácil de usar para el personal y adaptada a la realidad operativa de los hospedajes.
 
@@ -676,7 +676,7 @@ Se han diseñado dos bloques de preguntas: uno dirigido al personal administrati
 - **Nombre:** Antony Paul Ynga Carbajal
 - **Edad:** 34 años
 - **Residencia:** Miraflores
-- **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/personal/u20231h059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231h059%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Aplicaciones%20Web%2FEntrevistas%20SENIT%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1db915aa%2D330c%2D43a8%2Da572%2D0bc39bdd6522)
 - **Duracion:** 15:37
 - **Timing:** 00:00 - 15:37
 
@@ -697,9 +697,9 @@ La entrevista fue realizada a Anthony Paul Inga Carvajal, gerente de turno con m
 - **Nombre:** Ghorghet Tuncar Vila
 - **Edad:** 20 años
 - **Residencia:** Villa María del Triunfo
-- **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/personal/u20231h059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231h059%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Aplicaciones%20Web%2FEntrevistas%20SENIT%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1db915aa%2D330c%2D43a8%2Da572%2D0bc39bdd6522)
 - **Duracion:** 08:59
-- **Timing:** 00:00 - 08:59
+- **Timing:** 15:37 - 23:27
 
 **Resumen de la entrevista:**
 <div align="justify">
@@ -716,9 +716,9 @@ La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele 
 * **Nombre:** Omar Adriano Rojas
 * **Edad:** 20 años
 * **Residencia:** Ate
-* **Enlace de la entrevista:** [Ver grabación aquí](Aqui aun no va nada, primero terminen el canva y ya se subira un enlace unificado)
+* **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/personal/u20231h059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231h059%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Aplicaciones%20Web%2FEntrevistas%20SENIT%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1db915aa%2D330c%2D43a8%2Da572%2D0bc39bdd6522)
 * **Duracion:** 06:05
-* **Timing:** 
+* **Timing:** 31:05 - 37-18
 
 **Resumen de la entrevista:**
 
@@ -1435,7 +1435,7 @@ Para la documentacion de la elaboración de los avances del Sprint 1, que el gru
 # Conclusiones
 # Bibliografía
 # Anexos
-
+Video AV1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgDp_fp4esChRK6kbuD7hr3rAY1MNhbgV34AeZQecIMnPSs?e=QLhQg8
 
 
 
