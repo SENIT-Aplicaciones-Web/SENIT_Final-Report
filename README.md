@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
   <br>
-  <img src="/assets/UPC_logo.webp" alt="UPC Logo" width="auto" height="180"/>
+  <img src="./assets/UPC_logo.webp" alt="UPC Logo" width="auto" height="180"/>
   <p>
    <br>
     <strong>Carrera:</strong> Ingeniería de Software
@@ -176,11 +176,11 @@ Planteamos esta solución para reemplazar los procesos manuales y herramientas d
   
 | **Integrante**  | **Perfil**  | **Imagen**                                                                                                   |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------|
-| **Heredia Hoyos, Danitza Ivonne - U201910803** | Mi nombre es Danitza Ivonne Heredia Hoyos. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con código U201910803. Cuento con conocimientos en UX/UI Design, enfocado en la creación de interfaces intuitivas y centradas en la experiencia del usuario. Me interesa seguir fortaleciendo mis habilidades tanto en el ámbito del desarrollo de software como en el diseño de soluciones digitales, aportando creatividad y enfoque práctico en cada proyecto. | <img src="assets/profiles/Danitza.webp?raw=true" alt="Foto de Heredia Hoyos, Danitza Ivonne" width="150"/>   |
-| **Montes Zamora, Edgar Alexander Mauricio - U20241E126** | Buenas, soy Edgar Alexander Mauricio Montes Zamora, con codigo u20241e126 y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Por el momento tengo conocimientos en programación como C++ y Python, además de saber HTML, CSS y también tener conocimientos en bases de datos SQL como Microsoft SQL Server. Considero que poseo habilidades blandas como la comunicación, trabajo en equipo o la adaptabilidad a distintos cambios que puedan presentarse tanto en proyectos como en otras situaciones, intento que en trabajos grupales todos puedan colaborar y ayudarse unos a otros, además de colaborar con ideas creativas. | <img src="assets/profiles/Mauricio.jpg" alt="Montes Zamora, Edgar Alexander Mauricio"/>            |
-| **Lozano Leon, Richard Enrique - U20241D990** | Soy Richard Enrique Lozano León, con código U20241D990, estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, cursando el quinto ciclo. Me interesa fortalecer mis competencias en el área tecnológica y actualmente me encuentro enfocado en el aprendizaje y práctica del lenguajes de programación. | <img src="assets/profiles/Richard.png?raw=true" alt="Foto de Lozano Leon, Richard Enrique"/>                 |
-| **Faustino Hurtado, Anghelo - U20241B331** | Mi nombre es Anghelo Faustino Hurtado, con código u20241b331, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona dedicada, responsable y con facilidad para aprender rápidamente. Mi mayor motivación es diseñar y desarrollar soluciones tecnológicas que tengan un impacto positivo en la vida de las personas y faciliten sus actividades diarias. En este proyecto, enfoco mi aprendizaje en el análisis estratégico del mercado y en la estructuración lógica de sistemas para asegurar una navegación eficiente en el desarrollo de aplicaciones web. | <img src="assets/profiles/perfil-anghelo.png?raw=true" alt="Foto de Faustino Hurtado, Anghelo" width="150"/> |
-| **Garcia Villanueva, Leonardo Rafael - U20231H059** | Mi nombre es Leonardo Rafael Garcia Villanueva, con el código u20231h059, soy estudiante de la carrera de Ingeniería de Software en quinto ciclo. Poseo conocimientos sobre el lenguaje C++, base de datos SQL, así como HTML, CSS y JavaScript. Tengo mucho interés en el desarrollo de software para dar soluciones a problemas que requieran de creatividad y razonamiento lógico. Me adapto rápidamente a las situaciones que se presentan. | <img src="assets/profiles/Leonardo.webp?raw=true" alt="Garcia Villanueva, Leonardo Rafael"/>                 |  
+| **Heredia Hoyos, Danitza Ivonne - U201910803** | Mi nombre es Danitza Ivonne Heredia Hoyos. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con código U201910803. Cuento con conocimientos en UX/UI Design, enfocado en la creación de interfaces intuitivas y centradas en la experiencia del usuario. Me interesa seguir fortaleciendo mis habilidades tanto en el ámbito del desarrollo de software como en el diseño de soluciones digitales, aportando creatividad y enfoque práctico en cada proyecto. | <img src="./assets/profiles/Danitza.webp?raw=true" alt="Foto de Heredia Hoyos, Danitza Ivonne" width="150"/>   |
+| **Montes Zamora, Edgar Alexander Mauricio - U20241E126** | Buenas, soy Edgar Alexander Mauricio Montes Zamora, con codigo u20241e126 y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Por el momento tengo conocimientos en programación como C++ y Python, además de saber HTML, CSS y también tener conocimientos en bases de datos SQL como Microsoft SQL Server. Considero que poseo habilidades blandas como la comunicación, trabajo en equipo o la adaptabilidad a distintos cambios que puedan presentarse tanto en proyectos como en otras situaciones, intento que en trabajos grupales todos puedan colaborar y ayudarse unos a otros, además de colaborar con ideas creativas. | <img src="./assets/profiles/Mauricio.jpg" alt="Montes Zamora, Edgar Alexander Mauricio"/>            |
+| **Lozano Leon, Richard Enrique - U20241D990** | Soy Richard Enrique Lozano León, con código U20241D990, estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, cursando el quinto ciclo. Me interesa fortalecer mis competencias en el área tecnológica y actualmente me encuentro enfocado en el aprendizaje y práctica del lenguajes de programación. | <img src="./assets/profiles/Richard.png?raw=true" alt="Foto de Lozano Leon, Richard Enrique"/>                 |
+| **Faustino Hurtado, Anghelo - U20241B331** | Mi nombre es Anghelo Faustino Hurtado, con código u20241b331, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona dedicada, responsable y con facilidad para aprender rápidamente. Mi mayor motivación es diseñar y desarrollar soluciones tecnológicas que tengan un impacto positivo en la vida de las personas y faciliten sus actividades diarias. En este proyecto, enfoco mi aprendizaje en el análisis estratégico del mercado y en la estructuración lógica de sistemas para asegurar una navegación eficiente en el desarrollo de aplicaciones web. | <img src="./assets/profiles/perfil-anghelo.png?raw=true" alt="Foto de Faustino Hurtado, Anghelo" width="150"/> |
+| **Garcia Villanueva, Leonardo Rafael - U20231H059** | Mi nombre es Leonardo Rafael Garcia Villanueva, con el código u20231h059, soy estudiante de la carrera de Ingeniería de Software en quinto ciclo. Poseo conocimientos sobre el lenguaje C++, base de datos SQL, así como HTML, CSS y JavaScript. Tengo mucho interés en el desarrollo de software para dar soluciones a problemas que requieran de creatividad y razonamiento lógico. Me adapto rápidamente a las situaciones que se presentan. | <img src="./assets/profiles/Leonardo.webp?raw=true" alt="Garcia Villanueva, Leonardo Rafael"/>                 |  
 
 ## 1.2 Solution Profile
 
@@ -474,22 +474,22 @@ A continuación, se presenta el *Competitive Analysis Landscape*, donde se contr
       <td colspan="2" align="left"><strong>(En la cabecera colocar por cada competidor nombre y logo)</strong></td>
       <td>
         <strong>Su startup:</strong><br><br>
-        <img src="assets/SENIT_logo.webp" alt="Senit Logo" width="90"><br>
+        <img src="./assets/SENIT_logo.webp" alt="Senit Logo" width="90"><br>
         <strong>Senit</strong>
       </td>
       <td>
         <strong>Competidor 1:</strong><br><br>
-        <img src="assets/cloudbeds-logo.png" alt="Cloudbeds Logo" width="90"><br>
+        <img src="./assets/cloudbeds-logo.png" alt="Cloudbeds Logo" width="90"><br>
         <strong>Cloudbeds</strong>
       </td>
       <td>
         <strong>Competidor 2:</strong><br><br>
-        <img src="assets/wubook-logo.png" alt="WuBook Logo" width="90"><br>
+        <img src="./assets/wubook-logo.png" alt="WuBook Logo" width="90"><br>
         <strong>WuBook</strong>
       </td>
       <td>
         <strong>Competidor 3:</strong><br><br>
-        <img src="assets/little-hotelier-logo.png" alt="Little Hotelier Logo" width="90"><br>
+        <img src="./assets/little-hotelier-logo.png" alt="Little Hotelier Logo" width="90"><br>
         <strong>Little Hotelier</strong>
       </td>
     </tr>
@@ -670,7 +670,7 @@ Se han diseñado dos bloques de preguntas: uno dirigido al personal administrati
 
 **Entrevista 1**
 <p align="center">
-  <img src="assets/interviews/interview_segment_1_n1.png" alt="Entrevista con Antony Paul Ynga Carbajal"/>
+  <img src="./assets/interviews/interview_segment_1_n1.png" alt="Entrevista con Antony Paul Ynga Carbajal"/>
   <br/><i>Evidencia de entrevista: Paul Ynga</i>
 </p>
 
@@ -691,7 +691,7 @@ La entrevista fue realizada a Anthony Paul Inga Carvajal, gerente de turno con m
 
 **Entrevista 1**
 <p align="center">
-  <img src="assets/interviews/interview_segment_2_n1.png" alt="Entrevista con Ghorghet Tuncar Vila"/>
+  <img src="./assets/interviews/interview_segment_2_n1.png" alt="Entrevista con Ghorghet Tuncar Vila"/>
   <br/><i>Evidencia de entrevista: Ghorghet Tuncar Vila</i>
 </p>
 
@@ -710,7 +710,7 @@ La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele 
 
 **Entrevista 2**
 <p align="center">
-  <img src="assets/interviews/interview_segment_2_n2.png" alt="Entrevista con Omar Adriano Rojas"/>
+  <img src="./assets/interviews/interview_segment_2_n2.png" alt="Entrevista con Omar Adriano Rojas"/>
   <br/><i>Evidencia de entrevista: Omar Adriano Rojas</i>
 </p>
 
@@ -728,7 +728,7 @@ La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele ho
 
 **Entrevista 3**
 <p align="center">
-  <img src="assets/interviews/interview_segment_2_n3.jpg" alt="Entrevista con Lilian Zamora Rua"/>
+  <img src="./assets/interviews/interview_segment_2_n3.jpg" alt="Entrevista con Lilian Zamora Rua"/>
   <br/><i>Evidencia de entrevista: Lilian Zamora Rua</i>
 </p>
 
@@ -754,13 +754,13 @@ Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus h
 
 **Segmento 1: Personal administrativo y operativo de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/UserPersonasSegment_1.png" alt="User Personas de Anthony Ynga Carvajal"/>
+  <img src="./assets/Needfinding/UserPersonasSegment_1.png" alt="User Personas de Anthony Ynga Carvajal"/>
   <br/>
 </p>
 
 **Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/UserPersonasSegment_2.png" alt="User Personas de Lilian Zamora Rua"/>
+  <img src="./assets/Needfinding/UserPersonasSegment_2.png" alt="User Personas de Lilian Zamora Rua"/>
   <br/>
 </p>
 
@@ -898,13 +898,13 @@ Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus h
 
 **Segmento 1: Personal administrativo y operativo de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/journeyMapSegment_1.png" alt="User Journey Mapping de Anthony Ynga Carvajal"/>
+  <img src="./assets/Needfinding/journeyMapSegment_1.png" alt="User Journey Mapping de Anthony Ynga Carvajal"/>
   <br/>
 </p>
 
 **Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/journeyMapSegment_2.png" alt="User Journey Mapping de Lilian Zamora Rua"/>
+  <img src="./assets/Needfinding/journeyMapSegment_2.png" alt="User Journey Mapping de Lilian Zamora Rua"/>
   <br/>
 </p>
 
@@ -912,13 +912,13 @@ Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus h
 ### 2.3.4. Empathy Mapping.
 **Segmento 1: Personal administrativo y operativo de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/empathyMappingSegment_1.png" alt="Empathy Mapping de Anthony Ynga Carvajal"/>
+  <img src="./assets/Needfinding/empathyMappingSegment_1.png" alt="Empathy Mapping de Anthony Ynga Carvajal"/>
   <br/>
 </p>
 
 **Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/empathyMappingSegment_2.png" alt="Empathy Mapping Mapping de Lilian Zamora Rua"/>
+  <img src="./assets/Needfinding/empathyMappingSegment_2.png" alt="Empathy Mapping Mapping de Lilian Zamora Rua"/>
   <br/>
 </p>
 
@@ -951,7 +951,7 @@ Para lograr una visión completa, el mapa se dividió en **6 apartados (Bounded 
 
 **Big Picture Event Storming - Mapa**
 
-![Mapa de Operaciones Senit - Big Picture Event Storming](assets/Diagrams/big-picture.png)
+![Mapa de Operaciones Senit - Big Picture Event Storming](./assets/Diagrams/big-picture.png)
 
 **Interpretación de hallazgos clave**
 
@@ -1066,7 +1066,7 @@ El logo busca reflejar:
   - Tecnología
   - Eficiencia
 
-<img src="/assets/SENIT_logo.webp" alt="SENIT Logo" width="auto" height="180"/>
+<img src="./assets/SENIT_logo.webp" alt="SENIT Logo" width="auto" height="180"/>
 
 La **tipografía** utilizada es de estilo sans-serif moderno, con un enfoque geométrico que se adapta bien a entornos digitales.
 En el logotipo, el texto “Senit” utiliza un peso bold o semi-bold, lo que permite que sea fácil de identificar. Las letras tienen formas redondeadas, lo cual se puede notar especialmente en caracteres como la “S”, “e” y “n”. Esto ayuda a que el diseño se vea más amigable y no tan rígido.
@@ -1082,7 +1082,7 @@ Se usa un azul más oscuro (aproximadamente #1E3A8A), lo que permite diferenciar
 En conjunto, los colores permiten que el logo sea claro, moderno y fácil de reconocer, además de mantener coherencia con la idea de una plataforma tecnológica.
 
 <p align = "center">
-  <img src="/assets/SENIT_StyleGuideline.webp" alt="SENIT_StyleGuideline" width="auto" height="180"/>
+  <img src="./assets/SENIT_StyleGuideline.webp" alt="SENIT_StyleGuideline" width="auto" height="180"/>
 </p>
 
 ### 4.1.2. Web Style Guidelines.
@@ -1156,91 +1156,91 @@ Se han diseñado sistemas de navegación distintos para la cara pública y la he
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
-<img src="assets/wireframes/landing_page_browser_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
 <br> 
-<img src="assets/wireframes/landing_page_browser_2.png?raw=true" alt="Wireframe de funciones de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_2.png?raw=true" alt="Wireframe de funciones de la landing page de Senit"/>
 <br> 
-<img src="assets/wireframes/landing_page_browser_3.png?raw=true" alt="Wireframe de planes de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_3.png?raw=true" alt="Wireframe de planes de la landing page de Senit"/>
 <br> 
-<img src="assets/wireframes/landing_page_browser_4.png?raw=true" alt="Wireframe de términos de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_4.png?raw=true" alt="Wireframe de términos de la landing page de Senit"/>
 <br> 
-<img src="assets/wireframes/landing_page_browser_5.png?raw=true" alt="Wireframe de contacto de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_5.png?raw=true" alt="Wireframe de contacto de la landing page de Senit"/>
 <br>
 
-<img src="assets/wireframes/landing_page_browser_mobile_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_2.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_2.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_3.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_3.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_4.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_4.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_5.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_5.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_6.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_6.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_7.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_7.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_8.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_8.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_9.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_9.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_10.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_10.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
 <br>
 
 
 ### 4.3.2. Landing Page Mock-up.
 
-<img src="assets/mockups/landing_page_browser_1.png?raw=true" alt="Mockup de inicio de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_1.png?raw=true" alt="Mockup de inicio de la landing page de Senit"/>
 <br> 
-<img src="assets/mockups/landing_page_browser_2.png?raw=true" alt="Mockup de funciones de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_2.png?raw=true" alt="Mockup de funciones de la landing page de Senit"/>
 <br> 
-<img src="assets/mockups/landing_page_browser_3.png?raw=true" alt="Mockup de planes de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_3.png?raw=true" alt="Mockup de planes de la landing page de Senit"/>
 <br> 
-<img src="assets/mockups/landing_page_browser_4.png?raw=true" alt="Mockup de términos de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_4.png?raw=true" alt="Mockup de términos de la landing page de Senit"/>
 <br> 
-<img src="assets/mockups/landing_page_browser_5.png?raw=true" alt="Mockup de contacto de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_5.png?raw=true" alt="Mockup de contacto de la landing page de Senit"/>
 <br>
 
-<img src="assets/mockups/landing_page_browser_mobile_1.png?raw=true" alt="Mockup de inicio en formato móvil de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_mobile_1.png?raw=true" alt="Mockup de inicio en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/mockups/landing_page_browser_mobile_2.png?raw=true" alt="Mockup de funciones en formato móvil de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_mobile_2.png?raw=true" alt="Mockup de funciones en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/mockups/landing_page_browser_mobile_3.png?raw=true" alt="Mockup de planes en formato móvil de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_mobile_3.png?raw=true" alt="Mockup de planes en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/mockups/landing_page_browser_mobile_4.png?raw=true" alt="Mockup de términos en formato móvil de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_mobile_4.png?raw=true" alt="Mockup de términos en formato móvil de la landing page de Senit"/>
 <br>
-<img src="assets/mockups/landing_page_browser_mobile_5.png?raw=true" alt="Mockup de contacto en formato móvil de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_mobile_5.png?raw=true" alt="Mockup de contacto en formato móvil de la landing page de Senit"/>
 <br>
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
 <p align = "center">
-  <img src="assets/webApp/WireFrames3.jpg" alt="SENIT_WebApp"/>
+  <img src="./assets/webApp/WireFrames3.jpg" alt="SENIT_WebApp"/>
 </p>
 <p align = "center">
-  <img src="assets/webApp/WireFrames4.jpg" alt="SENIT_WebApp"/>
+  <img src="./assets/webApp/WireFrames4.jpg" alt="SENIT_WebApp"/>
 </p>
 <p align = "center">
-  <img src="assets/webApp/WireFrames1.jpg" alt="SENIT_WebApp"/>
+  <img src="./assets/webApp/WireFrames1.jpg" alt="SENIT_WebApp"/>
 </p>
 <p align = "center">
-  <img src="assets/webApp/WireFrames2.jpg" alt="SENIT_WebApp"/>
+  <img src="./assets/webApp/WireFrames2.jpg" alt="SENIT_WebApp"/>
 </p>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 <p align = "center">
-  <img src="assets/webApp/Wireflow.jpg" alt="SENIT_WebApp"/>
+  <img src="./assets/webApp/Wireflow.jpg" alt="SENIT_WebApp"/>
 </p>
 
 
 ### 4.4.3. Web Applications Mock-ups.
 <p align = "center">
-  <img src="assets/webApp/Mockup1.jpg" alt="SENIT_WebApp"/>
+  <img src="./assets/webApp/Mockup1.jpg" alt="SENIT_WebApp"/>
 </p>
 <p align = "center">
-  <img src="assets/webApp/Mockup2.jpg" alt="SENIT_WebApp"/>
+  <img src="./assets/webApp/Mockup2.jpg" alt="SENIT_WebApp"/>
 </p>
 
 ### 4.4.4. Web Applications User Flow Diagrams.
@@ -1252,62 +1252,62 @@ Para el modelo de arquitectura del sistema Senit se utiliza la técnica de model
 ### 4.6.1. Design-Level Event Storming.
 En esta sección se representan los principales eventos, comandos, agregados y consultas del dominio, utilizando el lenguaje ubicuo definido. Este modelo permite comprender los flujos clave del sistema y su comportamiento desde la perspectiva de Domain-Driven Design.
 <p align = "center">
-  <img src="/assets/SENIT_EventStorming.webp" alt="SENIT_DEventStorming" width="auto" height="auto"/>
+  <img src="./assets/SENIT_EventStorming.webp" alt="SENIT_DEventStorming" width="auto" height="auto"/>
 </p>
 
 ### 4.6.2. Software Architecture Context Diagram.
 Este es el diagrama de Contexto de nuestro sistema:
 <p align = "center">
-  <img src="/assets/SENIT_ContextDiagram.png" alt="SENIT_ContextDiagram" width="auto" height="auto"/>
+  <img src="./assets/SENIT_ContextDiagram.png" alt="SENIT_ContextDiagram" width="auto" height="auto"/>
 </p>
 
 ### 4.6.3. Software Architecture Container Diagrams.
 Este es el diagrama de Contenedores de nuestro sistema:
 <p align = "center">
-  <img src="/assets/SENIT_ContainerDiagram.png" alt="SENIT_ContainerDiagram" width="auto" height="auto"/>
+  <img src="./assets/SENIT_ContainerDiagram.png" alt="SENIT_ContainerDiagram" width="auto" height="auto"/>
 </p>
 
 ### 4.6.4. Software Architecture Components Diagrams.
 Estos son los diagramas de componentes de nuestro sistema, incluyen los siguientes Bounded Context:
 <p align = "center">
-  <img src="/assets/SENIT_ComponentDiagram.png" alt="SENIT_ComponentDiagram" width="auto" height="auto"/>
+  <img src="./assets/SENIT_ComponentDiagram.png" alt="SENIT_ComponentDiagram" width="auto" height="auto"/>
 </p>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
 <p align = "center">
- <img src="assets/Diagrams/generalClassDiagrams.png" alt="Diagrama de clases general"/>
+ <img src="./assets/Diagrams/generalClassDiagrams.png" alt="Diagrama de clases general"/>
 </p>
 
 
 
 **Guest Context**
 <p align = "center">
- <img src="assets/Diagrams/guestContext.jpeg" alt="Diagrama de clases del bounded context Guest Context"/>
+ <img src="./assets/Diagrams/guestContext.jpeg" alt="Diagrama de clases del bounded context Guest Context"/>
 </p>
 
 **Reservation Context**
 <p align = "center">
- <img src="assets/Diagrams/reservationContext.jpeg" alt="WDiagrama de clases del bounded context Reservation Context"/>
+ <img src="./assets/Diagrams/reservationContext.jpeg" alt="WDiagrama de clases del bounded context Reservation Context"/>
 </p>
 
 **Room Context**
 <p align = "center">
- <img src="assets/Diagrams/roomContext.jpeg" alt="Diagrama de clases del bounded context Room Context"/>
+ <img src="./assets/Diagrams/roomContext.jpeg" alt="Diagrama de clases del bounded context Room Context"/>
 </p>
 
 
  **Staff Context**
  <p align = "center">
- <img src="assets/Diagrams/staffContext.jpeg" alt="Diagrama de clases del bounded context Staff Context"/>
+ <img src="./assets/Diagrams/staffContext.jpeg" alt="Diagrama de clases del bounded context Staff Context"/>
 </p>
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
 
  <p align = "center">
- <img src="assets/Diagrams/dataBasesDiagram.jpg" alt="Diagrama de base de datos diagramado en ERD"/>
+ <img src="./assets/Diagrams/dataBasesDiagram.jpg" alt="Diagrama de base de datos diagramado en ERD"/>
 </p>
 
 ---
@@ -1460,7 +1460,7 @@ Este Sprint Backlog 1 condensará la elección de aquellas User Stories que se h
 Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las tareas correspondientes al Sprint 1.
 
 <p align="center">
-  <img src="assets/Trello.png" alt="Board del Sprint 1 en Trello" width="900"/>
+  <img src="./assets/Trello.png" alt="Board del Sprint 1 en Trello" width="900"/>
   <br>
   <i>Figura del Board del Sprint 1 de Senit en Trello.</i>
 </p>
@@ -1486,7 +1486,7 @@ En esta primera iteración el equipo tuvo la decisión de enfocarse primordialme
 En esta sección se presenta una vista de la primera versión funcional de la landing page de Senit implementada durante el Sprint 1.
 
 <p align="center">
-  <img src="assets/Landing1.png" alt="Primera versión funcional de la landing page de Senit" width="900"/>
+  <img src="./assets/Landing1.png" alt="Primera versión funcional de la landing page de Senit" width="900"/>
   <br>
   <i>Primera versión funcional de la landing page de Senit durante el Sprint 1.</i>
 </p>
@@ -1498,31 +1498,31 @@ En este sprint no se implementaron ni se documentaron Web Services. El alcance d
 Por esa razón, la descripción de endpoints, verbos HTTP, parámetros, respuestas, capturas de documentación y commits vinculados a Web Services no corresponde a esta iteración. Dichos elementos serán abordados en los siguientes sprints, cuando se inicie la construcción e integración del RESTful API del proyecto.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 <p align="center">
-  <img src="assets/Evidence1.png" alt="Evidencia de despliegue de la landing page de Senit 1" width="900"/>
+  <img src="./assets/Evidence1.png" alt="Evidencia de despliegue de la landing page de Senit 1" width="900"/>
   <br>
   <i>Evidencia 1 del despliegue de la landing page de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/Landing2.jpeg" alt="Evidencia de despliegue de la landing page de Senit 2" width="900"/>
+  <img src="./assets/Landing2.jpeg" alt="Evidencia de despliegue de la landing page de Senit 2" width="900"/>
   <br>
   <i>Evidencia 2 del despliegue de la landing page de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/Landing3.jpg" alt="Evidencia de despliegue de la landing page de Senit 3" width="900"/>
+  <img src="./assets/Landing3.jpg" alt="Evidencia de despliegue de la landing page de Senit 3" width="900"/>
   <br>
   <i>Evidencia 3 del despliegue de la landing page de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/Landing4.jpg" alt="Evidencia de despliegue de la landing page de Senit 4" width="900"/>
+  <img src="./assets/Landing4.jpg" alt="Evidencia de despliegue de la landing page de Senit 4" width="900"/>
   <br>
   <i>Evidencia 4 del despliegue de la landing page de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/Landing5.jpg" alt="Evidencia de despliegue de la landing page de Senit 5" width="900"/>
+  <img src="./assets/Landing5.jpg" alt="Evidencia de despliegue de la landing page de Senit 5" width="900"/>
   <br>
   <i>Evidencia 5 del despliegue de la landing page de Senit.</i>
 </p>
@@ -1531,13 +1531,13 @@ Por esa razón, la descripción de endpoints, verbos HTTP, parámetros, respuest
 Para la documentacion de la elaboración de los avances del Sprint 1, que el grupo del proyecto elaboró mediante GitHub su principal elemento de trabajo colaborativo. Regresando a los repositorios del proyecto donde los miembros fueron registrando sus cambios mediante commits y manteniendo actualizados los artefactos que acompañan a la landing page de Senit y a la documentación del informe. En esta iteración se manifestó la participación activa del grupo en la construcción y actualización de los entregables lo cual fue muestra de un trabajo coordinado por la elaboración de la primera versión funcional del producto.
 
 <p align="center">
-  <img src="assets/Git1.png" alt="Analíticos de colaboración del equipo durante el Sprint 1 en GitHub" width="900"/>
+  <img src="./assets/Git1.png" alt="Analíticos de colaboración del equipo durante el Sprint 1 en GitHub" width="900"/>
   <br>
   <i>Analíticos de colaboración del equipo durante el Sprint 1 en GitHub.</i>
 </p>
 
 <p align="center">
-  <img src="assets/Git2.png" alt="Contribuciones individuales de los integrantes durante el Sprint 1 en GitHub" width="900"/>
+  <img src="./assets/Git2.png" alt="Contribuciones individuales de los integrantes durante el Sprint 1 en GitHub" width="900"/>
   <br>
   <i>Contribuciones individuales de los integrantes durante el Sprint 1 en GitHub.</i>
 </p>
