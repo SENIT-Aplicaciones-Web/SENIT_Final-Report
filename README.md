@@ -1206,8 +1206,37 @@ Estos son los diagramas de componentes de nuestro sistema, incluyen los siguient
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+<p align = "center">
+ <img src="assets/Diagrams/generalClassDiagrams.png" alt="Diagrama de clases general"/>
+</p>
+
+
+
+**Guest Context**
+<p align = "center">
+ <img src="assets/Diagrams/guestContext.jpeg" alt="Diagrama de clases del bounded context Guest Context"/>
+</p>
+
+**Reservation Context**
+<p align = "center">
+ <img src="assets/Diagrams/reservationContext.jpeg" alt="WDiagrama de clases del bounded context Reservation Context"/>
+</p>
+
+**Room Context**
+<p align = "center">
+ <img src="assets/Diagrams/roomContext.jpeg" alt="Diagrama de clases del bounded context Room Context"/>
+</p>
+
+ **Staff Context**
+ <p align = "center">
+ <img src="assets/Diagrams/staffContext.jpeg" alt="Diagrama de clases del bounded context Staff Context"/>
+</p>
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
+
+
 
 ---
 # Capítulo V: Product Implementation, Validation & Deployment.
