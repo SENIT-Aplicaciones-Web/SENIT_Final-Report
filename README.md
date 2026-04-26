@@ -1447,6 +1447,36 @@ En este sprint no se implementaron ni se documentaron Web Services. El alcance d
 
 Por esa razón, la descripción de endpoints, verbos HTTP, parámetros, respuestas, capturas de documentación y commits vinculados a Web Services no corresponde a esta iteración. Dichos elementos serán abordados en los siguientes sprints, cuando se inicie la construcción e integración del RESTful API del proyecto.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+<p align="center">
+  <img src="assets/Evidence1.png" alt="Evidencia de despliegue de la landing page de Senit 1" width="900"/>
+  <br>
+  <i>Evidencia 1 del despliegue de la landing page de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/Landing2.jpg" alt="Evidencia de despliegue de la landing page de Senit 2" width="900"/>
+  <br>
+  <i>Evidencia 2 del despliegue de la landing page de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/Landing3.jpg" alt="Evidencia de despliegue de la landing page de Senit 3" width="900"/>
+  <br>
+  <i>Evidencia 3 del despliegue de la landing page de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/Landing4.jpg" alt="Evidencia de despliegue de la landing page de Senit 4" width="900"/>
+  <br>
+  <i>Evidencia 4 del despliegue de la landing page de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/Landing5.jpg" alt="Evidencia de despliegue de la landing page de Senit 5" width="900"/>
+  <br>
+  <i>Evidencia 5 del despliegue de la landing page de Senit.</i>
+</p>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 Para la documentacion de la elaboración de los avances del Sprint 1, que el grupo del proyecto elaboró mediante GitHub su principal elemento de trabajo colaborativo. Regresando a los repositorios del proyecto donde los miembros fueron registrando sus cambios mediante commits y manteniendo actualizados los artefactos que acompañan a la landing page de Senit y a la documentación del informe. En esta iteración se manifestó la participación activa del grupo en la construcción y actualización de los entregables lo cual fue muestra de un trabajo coordinado por la elaboración de la primera versión funcional del producto.
 
