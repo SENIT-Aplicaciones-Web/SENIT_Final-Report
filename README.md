@@ -1464,6 +1464,24 @@ Para la documentacion de la elaboración de los avances del Sprint 1, que el gru
 
 ---
 # Conclusiones
+**Conclusiones**
+
+El análisis del sector hotelero en el Perú permitió identificar que una gran parte de los establecimientos de hospedaje aún operan mediante procesos manuales o con herramientas tecnológicas limitadas, lo que genera ineficiencias, errores en la gestión y retrasos en la atención al cliente. A partir de las entrevistas realizadas, se evidenció que tanto el personal administrativo como los huéspedes presentan necesidades claras relacionadas con la rapidez, la organización y la digitalización de procesos, especialmente en actividades críticas como las reservas, el check-in y la facturación.
+
+En este contexto, el desarrollo de Senit como plataforma web surge como una solución pertinente, ya que permite centralizar la gestión de reservas, habitaciones, personal, limpieza y pagos en un solo sistema, mejorando significativamente la eficiencia operativa de los hospedajes. Asimismo, la aplicación de metodologías como Lean UX y Domain-Driven Design (DDD) facilitó la construcción de una solución alineada con las necesidades reales de los usuarios, asegurando que las funcionalidades propuestas aporten valor práctico.
+
+Por otro lado, el uso de herramientas de modelado como diagramas UML, ERD y la definición de bounded contexts permitió comprender de manera estructurada el dominio del problema y diseñar una arquitectura modular, escalable y coherente con la lógica del negocio hotelero. Finalmente, los avances logrados durante el Sprint 1 evidencian una base sólida para el desarrollo del proyecto, especialmente en la definición del producto, la validación de la problemática y la construcción inicial de la solución.<br></br>
+
+
+
+**Recomendaciones**
+
+Se recomienda continuar con el desarrollo del sistema, enfocándose principalmente en la implementación del backend y la integración de servicios que permitan materializar las funcionalidades propuestas en la etapa inicial. Asimismo, es importante realizar pruebas con usuarios reales, tanto administradores como huéspedes, utilizando prototipos más avanzados, con el fin de validar la usabilidad del sistema y detectar oportunidades de mejora antes de su despliegue.
+
+También se sugiere incorporar mecanismos de seguridad robustos para proteger la información sensible de los usuarios, especialmente considerando que el sistema gestionará datos personales y transacciones económicas. De igual manera, es fundamental optimizar la experiencia de usuario, priorizando la reducción de tiempos en procesos clave como el check-in, las reservas y la emisión de comprobantes, ya que estos representan los principales puntos de dolor identificados.
+
+Adicionalmente, se recomienda evaluar la integración con servicios externos, como pasarelas de pago y plataformas de reservas, lo que permitirá incrementar el valor del sistema y su competitividad en el mercado. Finalmente, se sugiere implementar el sistema de manera progresiva en pequeños y medianos hospedajes, manteniendo una retroalimentación constante con los usuarios, lo que permitirá iterar y mejorar la solución de acuerdo con las necesidades reales del entorno.
+
 
 
 # Bibliografía
