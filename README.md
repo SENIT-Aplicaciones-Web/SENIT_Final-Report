@@ -801,8 +801,11 @@ La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele ho
       <th rowspan="2">Task</th>
       <th colspan="2">Anthony Ynga Carvajal</th>
       <th colspan="2">Ghorghet Tuncar Vila</th>
+      <th colspan="2">Omar Adriano</th>
     </tr>
     <tr>
+      <th>Frequency</th>
+      <th>Importance</th>
       <th>Frequency</th>
       <th>Importance</th>
       <th>Frequency</th>
@@ -816,9 +819,13 @@ La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele ho
       <td>High</td>
       <td>High</td>
       <td>High</td>
+      <td>High</td>
+      <td>High</td>
     </tr>
      <tr>
       <td>Make payments</td>
+      <td>High</td>
+      <td>High</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
@@ -830,9 +837,13 @@ La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele ho
       <td>High</td>
       <td>Low</td>
       <td>Low</td>
+      <td>High</td>
+      <td>High</td>
     </tr>
     <tr>
       <td>Review room conditions (cleanliness, privacy)</td>
+      <td>High</td>
+      <td>High</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
@@ -844,6 +855,8 @@ La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele ho
       <td>Normally</td>
       <td>High</td>
       <td>High</td>
+      <td>Low</td>
+      <td>High</td>
     </tr>
     <tr>
       <td>Wait during check-in process</td>
@@ -851,6 +864,8 @@ La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele ho
       <td>Low</td>
       <td>High</td>
       <td>High</td>
+      <td>High</td>
+      <td>Low</td>
     </tr>
   </tbody>
 </table>
