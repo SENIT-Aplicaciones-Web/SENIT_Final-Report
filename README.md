@@ -1433,6 +1433,14 @@ En esta primera iteración el equipo tuvo la decisión de enfocarse primordialme
 | SENIT-Aplicaciones-Web/senit-landing-page | main | 60adb91 | feat: add landing page v1 | - | 25/04/2026 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+En esta sección se presenta una vista de la primera versión funcional de la landing page de Senit implementada durante el Sprint 1.
+
+<p align="center">
+  <img src="assets/Landing1.png" alt="Primera versión funcional de la landing page de Senit" width="900"/>
+  <br>
+  <i>Primera versión funcional de la landing page de Senit durante el Sprint 1.</i>
+</p>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En este sprint no se implementaron ni se documentaron Web Services. El alcance del Sprint 1 estuvo enfocado únicamente en el desarrollo de la primera versión funcional de la landing page de Senit, por lo que no se trabajó todavía con endpoints ni con documentación técnica asociada a servicios.
