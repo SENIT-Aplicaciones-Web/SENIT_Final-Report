@@ -43,28 +43,162 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha             | Autor                                                                                                                                                     | Descripción de modificación                                                                                                                                                                                                                                                                                                                                        |
-| ------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **AV 1** | 16/04/2026 | - Danitza Ivonne Heredia Hoyos (U201910803)<br>- Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>- Richard Enrique Lozano Leon (U20241D990)<br>- Anghelo Faustino Hurtado (U20241B331)<br>- Leonardo Rafael Garcia Villanueva (U20231H059) <br>| Adición de secciones:<br>- Capítulo I: Introducción<br>- Capítulo II: Requirements Elicitation & Analysis<br>- Capítulo III: Requirements Specification<br>- Capítulo IV: Product Design<br>- Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el Sprint 1 <br>- Avance de Conclusiones, Bibliografía y Anexos |
-| **TB1** |  | - Danitza Ivonne Heredia Hoyos (U201910803)<br>- Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>- Richard Enrique Lozano Leon (U20241D990)<br>- Anghelo Faustino Hurtado (U20241B331)<br>- Leonardo Rafael Garcia Villanueva (U20231H059)<br>| <br>- |
-| **AV 2** |  | - Danitza Ivonne Heredia Hoyos (U201910803)<br>- Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>- Richard Enrique Lozano Leon (U20241D990)<br>- Anghelo Faustino Hurtado (U20241B331)<br>- Leonardo Rafael Garcia Villanueva (U20231H059) <br>|  <br>- |
-| **TB2** |  | - Danitza Ivonne Heredia Hoyos (U201910803)<br>- Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>- Richard Enrique Lozano Leon (U20241D990)<br>- Anghelo Faustino Hurtado (U20241B331)<br>- Leonardo Rafael Garcia Villanueva (U20231H059)<br>|  <br>- |
+<table>
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>AV 1</strong></td>
+      <td>16/04/2026</td>
+      <td>
+        - Danitza Ivonne Heredia Hoyos (U201910803)<br>
+        - Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>
+        - Richard Enrique Lozano Leon (U20241D990)<br>
+        - Anghelo Faustino Hurtado (U20241B331)<br>
+        - Leonardo Rafael Garcia Villanueva (U20231H059)
+      </td>
+      <td>
+        Adición de secciones:<br>
+        - Capítulo I: Introducción<br>
+        - Capítulo II: Requirements Elicitation &amp; Analysis<br>
+        - Capítulo III: Requirements Specification<br>
+        - Capítulo IV: Product Design<br>
+        - Avance del Capítulo V: Product Implementation, Validation &amp; Deployment hasta el Sprint 1<br>
+        - Avance de Conclusiones, Bibliografía y Anexos
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>TB1</strong></td>
+      <td></td>
+      <td>
+        - Danitza Ivonne Heredia Hoyos (U201910803)<br>
+        - Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>
+        - Richard Enrique Lozano Leon (U20241D990)<br>
+        - Anghelo Faustino Hurtado (U20241B331)<br>
+        - Leonardo Rafael Garcia Villanueva (U20231H059)
+      </td>
+      <td>
+        Correción de secciones:
+        - Capítulo II: Requirements Elicitation &amp; Analysis<br>
+        - Capítulo III: Requirements Specification<br>
+        - Capítulo IV: Product Design<br> 
+        Adición de secciones:
+        - Avance del Capítulo V: Product Implementation, Validation &amp; Deployment hasta el Sprint 2<br>
+      </td>
+    </tr>
+
+    <tr>
+      <td><strong>AV 2</strong></td>
+      <td></td>
+      <td>
+        - Danitza Ivonne Heredia Hoyos (U201910803)<br>
+        - Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>
+        - Richard Enrique Lozano Leon (U20241D990)<br>
+        - Anghelo Faustino Hurtado (U20241B331)<br>
+        - Leonardo Rafael Garcia Villanueva (U20231H059)
+      </td>
+      <td>-</td>
+    </tr>
+
+    <tr>
+      <td><strong>TB2</strong></td>
+      <td></td>
+      <td>
+        - Danitza Ivonne Heredia Hoyos (U201910803)<br>
+        - Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>
+        - Richard Enrique Lozano Leon (U20241D990)<br>
+        - Anghelo Faustino Hurtado (U20241B331)<br>
+        - Leonardo Rafael Garcia Villanueva (U20231H059)
+      </td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
 
 ## Project Report Collaboration Insights
 URL de Organización de GITHUB del equipo https://github.com/SENIT-Aplicaciones-Web <br> 
 URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web/SENIT_Final-Report <br>
 
-<br>
+<hr>
 
-# Student Outcome
+<h1>Student Outcome</h1>
 
-**ABET – EAC - Student Outcome 5**
-<br> *Criterio:* La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+<p><strong>ABET – EAC - Student Outcome 5</strong></p>
 
-| Criterio Específico| Acciones Realizadas | Conclusiones|
-| --------------- | ----- | ------------- |
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**| **- Heredia Hoyos, Danitza Ivonne:**<br>**AV 1:** Me encargué de desarrollar las secciones asignadas (4.1. Style Guidelines y 4.6. Domain-Driven Software Architecture), organizando mi trabajo de manera que se ajuste a los tiempos del equipo. Durante el proceso, mantuve comunicación con mis compañeros y tomé en cuenta el enfoque general del proyecto, buscando que mi aporte se integre de forma coherente con el trabajo del grupo.<br><br>**- Montes Zamora, Edgar Alexander Mauricio:**<br>**AV 1:** Durante esta etapa me encargué del modelado del sistema, desarrollando el diagrama de clases UML y su adecuación a bounded contexts dentro de la arquitectura basada en Domain-Driven Design. Asimismo, trabajé en la construcción y validación del modelo de datos (ERD), asegurando su coherencia con las clases y relaciones definidas. Complementé este trabajo con el análisis de usuarios, elaborando el User Task Matrix y los User Journey Maps a partir de las entrevistas, lo que permitió alinear la solución con las necesidades reales del usuario. Además, mantuve coordinación constante con el equipo para integrar estos elementos dentro del enfoque general del proyecto Senit.<br><br>**- Lozano Leon, Richard Enrique:**<br>**AV 1:** Durante esta etapa aporté en la definición de los segmentos objetivo, el diseño de entrevistas, el lenguaje ubicuo y parte de la documentación del Sprint 1, procurando que estos elementos mantengan coherencia entre sí y con el enfoque general de Senit. Además de elaborar contenido, coordiné con mis compañeros para ajustar información, unificar criterios y conectar mejor las necesidades del negocio con los artefactos del proyecto, contribuyendo así a un trabajo más integrado dentro del equipo.<br><br>**- Hurtado Faustino, Anghelo:**<br>**AV 1:** Participé en el desarrollo de componentes clave como el análisis y estructuración de información del sistema, manteniendo comunicación constante con el equipo y adaptando mis avances según los requerimientos del proyecto para asegurar coherencia con el trabajo grupal.<br><br>**- Garcia Villanueva, Leonardo Rafael:**<br>**AV 1:** Colaboré en el desarrollo de las actividades asignadas, manteniendo coordinación con el equipo para asegurar que mi aporte se integre correctamente con el avance general del proyecto. | **AV 1 (Grupal):** El equipo trabajó bajo una dinámica de responsabilidad compartida, donde cada integrante asumió su rol y contribuyó activamente al avance del proyecto. Esto permitió que el liderazgo se diera de forma distribuida, facilitando el progreso sin depender de una sola persona.                         |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **- Heredia Hoyos, Danitza Ivonne:**<br>**AV 1:** Desarrollé las secciones asignadas (4.1. Style Guidelines y 4.6. Domain-Driven Software Architecture), organizando mi tiempo en función de los plazos de la entrega y estructurando mi trabajo por etapas.<br><br>**- Montes Zamora, Edgar Alexander Mauricio:**<br>**AV 1:** Planifiqué el desarrollo de mis entregables dividiendo el trabajo en etapas (modelado UML, ERD y análisis de usuarios), lo que me permitió avanzar de manera ordenada y cumplir con los plazos establecidos. Asimismo, mantuve comunicación constante con el equipo para asegurar la integración de mis avances con el resto del proyecto.<br><br>**- Lozano Leon, Richard Enrique:**<br>**AV 1:** Organicé mi avance en función de las secciones que me correspondían, distribuyendo el trabajo entre la definición de segmentos, el diseño de entrevistas, el lenguaje ubicuo y la documentación inicial del Sprint 1. Para cumplir con la entrega, fui avanzando por partes y mantuve comunicación con el equipo para validar que mi aporte esté alineado con lo que los demás desarrollaban. De esta manera, contribuí a que el trabajo se mantenga ordenado, conectado y orientado al cumplimiento de los objetivos de esta primera entrega.<br><br>**- Hurtado Faustino, Anghelo:**<br>**AV 1:** Planifiqué mis entregables dividiéndolos en hitos específicos, lo que me permitió cumplir con los plazos y adaptar mi trabajo según el feedback del equipo.<br><br>**- Garcia Villanueva, Leonardo Rafael:**<br>**AV 1:** Organicé mis actividades en función de los objetivos del equipo, cumpliendo con los tiempos establecidos y manteniendo coordinación para asegurar un desarrollo ordenado del proyecto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **AV 1 (Grupal):** El equipo logró avanzar mediante una adecuada planificación de tareas y cumplimiento de plazos. La distribución del trabajo permitió que cada integrante se enfoque en sus responsabilidades, facilitando el desarrollo ordenado del proyecto y el logro de los objetivos planteados para esta entrega. |
+<p>
+  <em>Criterio:</em> La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo,
+  crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Criterio Específico</th>
+      <th>Acciones Realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
+
+      <td>
+        <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
+        <strong>AV 1:</strong> Me encargué de desarrollar las secciones asignadas (4.1. Style Guidelines y 4.6. Domain-Driven Software Architecture), organizando mi trabajo de manera que se ajuste a los tiempos del equipo. Durante el proceso, mantuve comunicación con mis compañeros y tomé en cuenta el enfoque general del proyecto, buscando que mi aporte se integre de forma coherente con el trabajo del grupo.<br><br>
+
+        <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
+        <strong>AV 1:</strong> Durante esta etapa me encargué del modelado del sistema, desarrollando el diagrama de clases UML y su adecuación a bounded contexts dentro de la arquitectura basada en Domain-Driven Design. Asimismo, trabajé en la construcción y validación del modelo de datos (ERD), asegurando su coherencia con las clases y relaciones definidas. Complementé este trabajo con el análisis de usuarios, elaborando el User Task Matrix y los User Journey Maps a partir de las entrevistas, lo que permitió alinear la solución con las necesidades reales del usuario. Además, mantuve coordinación constante con el equipo para integrar estos elementos dentro del enfoque general del proyecto Senit.<br><br>
+
+        <strong>- Lozano Leon, Richard Enrique:</strong><br>
+        <strong>AV 1:</strong> Durante esta etapa aporté en la definición de los segmentos objetivo, el diseño de entrevistas, el lenguaje ubicuo y parte de la documentación del Sprint 1, procurando que estos elementos mantengan coherencia entre sí y con el enfoque general de Senit. Además de elaborar contenido, coordiné con mis compañeros para ajustar información, unificar criterios y conectar mejor las necesidades del negocio con los artefactos del proyecto, contribuyendo así a un trabajo más integrado dentro del equipo.<br><br>
+
+        <strong>- Hurtado Faustino, Anghelo:</strong><br>
+        <strong>AV 1:</strong> Participé en el desarrollo de componentes clave como el análisis y estructuración de información del sistema, manteniendo comunicación constante con el equipo y adaptando mis avances según los requerimientos del proyecto para asegurar coherencia con el trabajo grupal.<br><br>
+
+        <strong>- Garcia Villanueva, Leonardo Rafael:</strong><br>
+        <strong>AV 1:</strong> Durante el desarrollo del proyecto tuve una comunicación constante con los miembros del equipo mediante WhatsApp, donde compartí mis avances y los objetivos que iba cumpliendo en el informe para recibir sugerencias e ideas de los demás y aplicarlas. Además, participé en llamadas grupales por Google Meet y Discord, en las que se propusieron varias ideas para el proyecto y ayudé a identificar cuáles serían las más adecuadas para usar, asi como también apoyé a algunos miembros del equipo resolviendo dudas y dando sugerencias para el cumplimiento de las tareas asignadas.
+      </td>
+
+      <td>
+        <strong>AV 1 (Grupal):</strong> El equipo trabajó de manera conjunta con una comunicación constante a través de un grupo de WhatsApp y reuniones virtuales realizadas por Google Meet y Discord, donde los miembros del equipo pudieron coordinar actividades, y compartir avances y sugerencias. Además, durante estas reuniones, varios miembros del equipo participaron activamente preguntando, proponiendo ideas, y ayudando a corregir errores o mejorar avances de otros integrantes, con lo que el liderazgo fue compartirdo por todos los miembros del grupo.
+      </td>
+
+    </tr>
+
+    <tr>
+      <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</strong></td>
+      <td>
+        <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
+        <strong>AV 1:</strong> Desarrollé las secciones asignadas (4.1. Style Guidelines y 4.6. Domain-Driven Software Architecture), organizando mi tiempo en función de los plazos de la entrega y estructurando mi trabajo por etapas.<br><br>
+
+        <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
+        <strong>AV 1:</strong> Planifiqué el desarrollo de mis entregables dividiendo el trabajo en etapas (modelado UML, ERD y análisis de usuarios), lo que me permitió avanzar de manera ordenada y cumplir con los plazos establecidos. Asimismo, mantuve comunicación constante con el equipo para asegurar la integración de mis avances con el resto del proyecto.<br><br>
+
+        <strong>- Lozano Leon, Richard Enrique:</strong><br>
+        <strong>AV 1:</strong> Organicé mi avance en función de las secciones que me correspondían, distribuyendo el trabajo entre la definición de segmentos, el diseño de entrevistas, el lenguaje ubicuo y la documentación inicial del Sprint 1. Para cumplir con la entrega, fui avanzando por partes y mantuve comunicación con el equipo para validar que mi aporte esté alineado con lo que los demás desarrollaban. De esta manera, contribuí a que el trabajo se mantenga ordenado, conectado y orientado al cumplimiento de los objetivos de esta primera entrega.<br><br>
+
+        <strong>- Hurtado Faustino, Anghelo:</strong><br>
+        <strong>AV 1:</strong> Planifiqué mis entregables dividiéndolos en hitos específicos, lo que me permitió cumplir con los plazos y adaptar mi trabajo según el feedback del equipo.<br><br>
+
+        <strong>- Garcia Villanueva, Leonardo Rafael:</strong><br>
+        <strong>AV 1:</strong> Durante el desarrollo del proyecto tuve una comunicación constante con los miembros del equipo mediante WhatsApp, reuniones virtuales por Google Meet, y llamadas por Discord, donde pude compartir mis avances y los objetivos que cumplí en el informe, asi como también colaboré en la repartición de tareas. Además, propuse varias ideas para el proyecto y apoyé a algunos compañeros resolviendo varias dudas relacionadas con las tareas asignadas, con lo que contribuí a establecer un entorno de trabajo más colaborativo.
+      </td>
+      <td>
+        <strong>AV 1 (Grupal):</strong> 
+        Gracias a la comunicación constante mediante WhatsApp y a las reuniones virtuales realizadas por Google Meet y Discord, el equipo pudo organizar y planificar las tareas de manera conjunta, estableciendo metas y fechas límite para cada actividad del proyecto. Durante las reuniones, todos los integrantes participaron de forma colaborativa ayudándose entre sí, resolviendo dudas y compartiendo ideas y sugerencias sobre sus partes del trabajo. Esto permitió avanzar de manera organizada y cumplir la mayoría de los objetivos establecidos dentro de los plazos acordados, aunque algunos no se completaron en su totalidad.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 # Contenido
