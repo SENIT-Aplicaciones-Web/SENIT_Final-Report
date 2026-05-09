@@ -1038,6 +1038,8 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 <br>
 
 ## 3.3. Product Backlog
+## 3.3. Product Backlog
+
 | # Orden | User Story Id | Título | Descripción | Story Points |
 |--------:|---------------|--------|-------------|--------------|
 | 1 | US-01 | Primera impresión sobre Senit | Como visitante del segmento de administración, quiero entender rápidamente qué es Senit y qué problema resuelve, para saber si puede ayudarme a mejorar la gestión de mi negocio. | 3 |
@@ -1048,8 +1050,14 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | 6 | US-08 | Compatibilidad de la landing page con dispositivos móviles | Como visitante que ingresa a la landing page desde su celular, quiero que la página se adapte al tamaño de mi pantalla, para navegar el sitio con normalidad. | 5 |
 | 7 | US-06 | Cambio de idioma | Como visitante, quiero cambiar el idioma de la página entre español e inglés, para entender mejor la información. | 5 |
 | 8 | US-07 | Redes sociales | Como administrador de un hospedaje interesado en Senit, quiero encontrar enlaces a redes sociales y medios de contacto, para conocer más sobre Senit. | 2 |
-| 9 | US-09 | Visualización del Rack Gráfico | Como recepcionista del hospedaje, quiero ver un panel visual con todas las habitaciones y sus estados actuales, para identificar rápidamente la disponibilidad al atender a un cliente. | 8 |
-| 10 | US-10 | Registro de Check-in por bloques de horas | Como recepcionista del hospedaje, quiero registrar la entrada de un huésped seleccionando un bloque de horas, para calcular automáticamente su hora de salida y el costo inicial. | 8 |
+| 9 | US-09 | Visualización del Rack Gráfico | Como recepcionista del hospedaje, quiero ver un panel visual con todas las habitaciones y sus estados actuales, para identificar rápidamente la disponibilidad al atender a un cliente. | 5 |
+| 10 | US-10 | Registro de Check-in por bloques de horas | Como recepcionista del hospedaje, quiero registrar la entrada de un huésped seleccionando un bloque de horas, para calcular automáticamente su hora de salida y el costo inicial. | 5 |
+| 11 | US-14 | Registro de Check-out y cambio a limpieza | Como recepcionista del hospedaje, quiero finalizar la estadía de una habitación, para realizar el cobro y notificar que el cuarto necesita aseo. | 5 |
+| 12 | US-12 | Visualización de detalles de ocupación | Como recepcionista del hospedaje, quiero hacer clic en una habitación ocupada para ver sus detalles, para informar al cliente cuánto tiempo le queda o su deuda actual. | 3 |
+| 13 | US-13 | Agregar consumos adicionales al cuarto | Como recepcionista del hospedaje, quiero agregar productos o servicios extra a la cuenta de la habitación, para cobrar el monto total en una sola transacción al final. | 3 |
+| 14 | US-15 | Habilitación de habitación limpia | Como recepcionista del hospedaje, quiero marcar una habitación como "Limpia" una vez finalizado el aseo, para que vuelva a estar disponible para un nuevo alquiler. | 3 |
+| 15 | US-11 | Alertas de tiempo de estadía por vencer | Como recepcionista del hospedaje, quiero que el sistema me notifique cuando el tiempo de una habitación esté por expirar, para poder avisar al huésped con anticipación. | 3 |
+| 16 | US-16 | Filtros rápidos en el Rack Gráfico | Como recepcionista del hospedaje, quiero filtrar las habitaciones por su estado actual, para encontrar más rápido los cuartos que están listos para ser alquilados. | 2 |
 ---
 # Capítulo IV: Product Design
 
