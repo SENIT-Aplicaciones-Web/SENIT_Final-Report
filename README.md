@@ -154,8 +154,8 @@ URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web
         <br>
         <br>
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
-        <strong>AV 1:</strong> Durante esta etapa me encargué del modelado del sistema, desarrollando el diagrama de clases UML y su adecuación a bounded contexts dentro de la arquitectura basada en Domain-Driven Design. Asimismo, trabajé en la construcción y validación del modelo de datos (ERD), asegurando su coherencia con las clases y relaciones definidas. Complementé este trabajo con el análisis de usuarios, elaborando el User Task Matrix y los User Journey Maps a partir de las entrevistas, lo que permitió alinear la solución con las necesidades reales del usuario. Además, mantuve coordinación constante con el equipo para integrar estos elementos dentro del enfoque general del proyecto Senit.<br>
-        <strong>TB:</strong> (texto)
+        <strong>AV 1:</strong> En esta etapa participé activamente en la coordinación técnica del equipo, proponiendo soluciones e ideas para estructurar el sistema mediante bounded contexts y asegurando que el modelado UML y el ERD mantuvieran coherencia con la arquitectura definida para Senit. Además, tomé la información obtenida en las entrevistas, necesidades y problemas para mejorar el diseño y funcionalidades de Senit reforzando. También mantuve una comunicación constante con mis compañeros para resolver dudas, unificar criterios y apoyar la toma de decisiones técnicas de manera colaborativa.<br>
+        <strong>TB:</strong> Durante el desarrollo, participé activamente en la comunicación y coordinación con el equipo mediante reuniones virtuales y mensajes grupales a traves de WhatsApp, promoviendo el intercambio de ideas y la resolución conjunta de observaciones realizadas al proyecto. Asimismo, colaboré brindando apoyo y sugerencias a mis compañeros cuando surgían dudas o dificultades, como también acepte las observariones que tenían mis compañeros sobre mi trabajo, contribuyendo a mantener una toma de decisiones más organizada y un trabajo colaborativo dentro del equipo.
         <br>
         <br>
         <strong>- Lozano Leon, Richard Enrique:</strong><br>
@@ -186,8 +186,8 @@ URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web
         <br>
         <br>  
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
-        <strong>AV 1:</strong> Planifiqué el desarrollo de mis entregables dividiendo el trabajo en etapas (modelado UML, ERD y análisis de usuarios), lo que me permitió avanzar de manera ordenada y cumplir con los plazos establecidos. Asimismo, mantuve comunicación constante con el equipo para asegurar la integración de mis avances con el resto del proyecto.<br>
-        <strong>TB:</strong> (texto)
+        <strong>AV 1:</strong> Me enfoqué en tener los tiempos de mi trabajo estableciendo prioridades y metas parciales para cumplir oportunamente con los entregables asignados, distribuyendo el desarrollo entre modelado UML, validación del ERD y análisis de usuarios. Asimismo, coordiné constantemente con el equipo para compartir avances, recibir retroalimentación y adaptar mi trabajo según las necesidades del proyecto, contribuyendo a mantener un flujo de trabajo ordenado, colaborativo y alineado con los objetivos generales de Senit.<br>
+        <strong>TB:</strong> En esta etapa mantuve una participación constante en las actividades grupales, organizando mis tiempos para cumplir con las responsabilidades acordadas y adaptándome a los cambios y correcciones necesarios durante el desarrollo del proyecto. Además, procuré mantener una comunicación respetuosa y abierta con el equipo, compartiendo avances y escuchando sugerencias, lo que ayudó a fortalecer un entorno de trabajo colaborativo y orientado al cumplimiento de los objetivos comunes.
         <br>
         <br>
         <strong>- Lozano Leon, Richard Enrique:</strong><br>
