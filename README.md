@@ -768,8 +768,6 @@ En base al análisis previo, se definen las siguientes estrategias para ganar cu
 
 ### 2.2.2 Registro de entrevistas
 
-#### Segmento 1: Personal Administrativo y operativo de hoteles y moteles
-
 Se han diseñado dos bloques de preguntas: uno dirigido al personal administrativo y operativo de hoteles y moteles, y otro a los dueños y propietarios de estos establecimientos. Las preguntas incluyen aspectos demográficos y variables clave como la gestión de reservas, el proceso de check-in/check-out, el uso de tecnología, los canales de interacción, los objetivos del negocio y las principales frustraciones relacionadas con la operación y supervisión del hospedaje.
 
 ---
@@ -863,24 +861,28 @@ La entrevista fue realizada a Anthony Paul Inga Carvajal, gerente de turno con m
 </div>
 <br>
 
-#### Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles
+#### Segmento 2: Dueños y propietarios de hoteles y moteles
 
 **Entrevista 1**
 <p align="center">
-  <img src="assets/interviews/interview_segment_2_n1.png" alt="Entrevista con Ghorghet Tuncar Vila"/>
-  <br/><i>Evidencia de entrevista: Ghorghet Tuncar Vila</i>
+  <img src="assets/interviews/interview_segment_2_n1.png" alt="Entrevista con Luis Alberto Noriega Ríos"/>
+  <br/><i>Evidencia de entrevista: Luis Alberto Noriega Ríos</i>
 </p>
 
-- **Nombre:** Ghorghet Tuncar Vila
-- **Edad:** 20 años
-- **Residencia:** Villa María del Triunfo
-- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/personal/u20231h059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231h059%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Aplicaciones%20Web%2FEntrevistas%20SENIT%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1db915aa%2D330c%2D43a8%2Da572%2D0bc39bdd6522)
-- **Duracion:** 08:59
-- **Timing:** 15:37 - 23:27
+- **Nombre:** Luis Alberto Noriega Ríos
+- **Edad:** 56
+- **Residencia:** Santa, Áncash
+- **Enlace de la entrevista:** 
+- **Duracion:** 20:00
+- **Timing:** 0:00 - [Completar]
 
 **Resumen de la entrevista:**
 <div align="justify">
-La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele hospedarse en hoteles aproximadamente una vez al mes. Para buscar hospedajes utiliza principalmente su celular o laptop, revisando primero redes sociales como Facebook y TikTok, y luego coordinando por WhatsApp. Durante la entrevista comentó que en su última experiencia tuvo problemas porque la información del establecimiento no era clara respecto a horarios, servicios y disponibilidad, lo que volvió más lento el proceso de reserva. También señaló dificultades en el check-in y check-out debido a la poca comunicación del anfitrión, además de inconvenientes con los métodos de pago por no saber con anticipación si aceptaban efectivo, tarjeta o billeteras digitales. A pesar de ello, indicó que la habitación sí se encontraba limpia y ordenada. Finalmente, destacó que valora mucho el precio, la comodidad y la privacidad, y que le gustaría contar con una plataforma más clara y eficiente que le permita ver información importante, recibir confirmaciones rápidas y realizar un pre check-in sin depender únicamente de WhatsApp.
+La entrevista fue realizada a Luis Alberto Noriega Ríos, propietario de un motel ubicado en Santa, Áncash, con aproximadamente 12 años de experiencia en la gestión de su establecimiento. Durante la conversación comentó que actualmente supervisa su negocio de forma presencial y también mediante cámaras de seguridad, revisando cuadernos, registros y apoyándose en su personal, un administrador y un asesor contable. Señaló que uno de los problemas que más le preocupa es la seguridad, debido a situaciones relacionadas con identidades falsas, documentos falsos y la necesidad de seguir modernizando su sistema de vigilancia.
+
+Asimismo, indicó que no le resulta fácil tener una visión rápida y completa del estado general del negocio, especialmente porque también realiza otras actividades y no puede estar presente todo el tiempo en el establecimiento. En ese sentido, mencionó que le gustaría contar con una solución tecnológica que le permita controlar mejor áreas como la atención al cliente, la seguridad, los registros y la parte administrativa en general. También señaló que, aunque tiene un conocimiento regular sobre herramientas digitales, considera importante que cualquier sistema sea entendible y fácil de usar para el personal que trabaja de manera permanente en el hospedaje.
+
+Finalmente, el entrevistado resaltó que para mantener la rentabilidad del negocio considera clave brindar una buena atención, ofrecer habitaciones limpias y adecuadas, y garantizar seguridad a los huéspedes y sus vehículos. Desde su perspectiva, una solución digital podría ayudarle a dinamizar la gestión del establecimiento, mejorar el control operativo y facilitar la toma de decisiones.
 </div>
 <br>
 
@@ -918,9 +920,6 @@ La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele ho
 **Resumen de la entrevista:**
 
 Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus hábitos de alojamiento y experiencias en hoteles. La entrevistada explica que prefiere realizar sus reservas digitalmente mediante plataformas como Booking o WhatsApp, priorizando siempre la limpieza y la privacidad. Aunque se muestra satisfecha con los servicios generales, señala que el proceso de registro presencial suele ser lento debido a la gestión de documentos de identidad. Por esta razón, manifiesta un fuerte interés en la implementación de sistemas de registro anticipado que agilicen su ingreso. Finalmente, la fuente destaca la importancia de recibir confirmaciones inmediatas y transparencia total en los costos y servicios antes de concretar una estadía.
-
-
-
 
 ### 2.2.3 Análisis de entrevistas
 
@@ -1187,6 +1186,8 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | :--- | :--- | :--- | :--- | :--- |
 | **EP-01** | Presentación inicial de Senit | Se reúne todo lo necesario para la elaboración de la landing page, con el objetivo de presentar la propuesta de valor de Senit, sus funcionalidades, planes de suscripción y un medio de contacto con los clientes potenciales. | **-** | **-** |
 | **EP-02** | Gestión del Rack y Operaciones de Recepción | Se define el desarrollo del sistema web principal de Senit (PMS), permitiendo a los recepcionistas visualizar la disponibilidad de habitaciones, registrar ingresos por horas, gestionar cuentas y realizar el check-out de manera eficiente. | **-** | **-** |
+| **EP-03** | Gestión de Usuarios y Seguridad | Epic relacionada con autenticación de usuarios y protección de información mediante limitaciones de accesos y mejoramientos en tiempos de respuestas. | **-** | **-** |
+| **EP-04** | Facturación Electrónica | Epic relacionada con los comprobantes y pagos digitales durante las distintas transacciones que se registren con la aplicación de SENIT. | **-** | **-** |
 | **US-01** | Primera impresión sobre Senit | Como visitante del segmento de administración, quiero entender rápidamente qué es Senit y qué problema resuelve, para saber si puede ayudarme a mejorar la gestión de mi negocio. | **Escenario 1: Visualización de la sección inicial**<br><br>Dado que el administrador ingresa a la landing page<br><br>Cuando se carga la sección de inicio<br>Entonces debe visualizar una descripción clara y breve sobre Senit<br><br> **Escenario 2: Comprensión del servicio**<br><br>Dado que el administrador revisa la información principal<br><br>Cuando lee el contenido<br><br>Entonces debe entender el objetivo principal del producto<br><br> | **EP-01** |
 | **US-02** | Navegación entre secciones | Como visitante, quiero desplazarme fácilmente entre las secciones de la página, para encontrar rápidamente la información que necesito | **Escenario 1: Opciones de navegación**<br><br>Dado que el visitante ingresa a la landing page<br><br>Cuando se carga la página<br><br>Entonces debe visualizar una barra de navegación horizontal con las secciones de inicio, funcionalidades, planes, contacto e ingreso<br><br>**Escenario 2: Redirección automática de secciones**<br><br>Dado que el visitante se encuentra en la landing page<br><br>Cuando selecciona una opción del menú<br><br>Entonces debe dirigirse a la sección correspondiente<br><br> | **EP-01** |
 | **US-03** | Información sobre funcionalidades | Como visitante del segmento de administración, quiero conocer las funcionalidades que ofrece Senit, para evaluar si es útil para las necesidades del hospedaje | **Escenario 1: Revisión de funcionalidades**<br><br>Dado que el administrador revisa la sección de funcionalidades<br><br>Cuando termina de leer el contenido<br><br>Entonces debe comprender que Senit mejora la administración del hospedaje al permitir gestionar reservas, habitaciones, limpieza, personal y facturación<br><br> | **EP-01** |
@@ -1203,6 +1204,16 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | **US-14** | Registro de Check-out y cambio a limpieza | Como recepcionista del hospedaje, quiero finalizar la estadía de una habitación, para realizar el cobro y notificar que el cuarto necesita aseo. | **Escenario 1: Finalización de estadía**<br><br>Dado que el recepcionista selecciona la opción "Check-out"<br><br>Cuando confirma la recepción del pago total<br><br>Entonces el sistema cierra la cuenta y cambia la habitación de "Ocupada" a estado "En Limpieza"<br><br> | **EP-02** |
 | **US-15** | Habilitación de habitación limpia | Como recepcionista del hospedaje, quiero marcar una habitación como "Limpia" una vez finalizado el aseo, para que vuelva a estar disponible para un nuevo alquiler. | **Escenario 1: Liberar la habitación**<br><br>Dado que una habitación se encuentra en estado "En Limpieza"<br><br>Cuando el recepcionista presiona el botón "Marcar como Libre"<br><br>Entonces el color de la habitación cambia y el cuarto vuelve a estar disponible para hacer check-in<br><br> | **EP-02** |
 | **US-16** | Filtros rápidos en el Rack Gráfico | Como recepcionista del hospedaje, quiero filtrar las habitaciones por su estado actual, para encontrar más rápido los cuartos que están listos para ser alquilados. | **Escenario 1: Filtrado de cuartos disponibles**<br><br>Dado que el recepcionista visualiza el Rack completo<br><br>Cuando hace clic en el botón de filtro "Mostrar solo Libres"<br><br>Entonces el panel oculta las habitaciones ocupadas o sucias, mostrando únicamente las disponibles<br><br> | **EP-02** |
+| **TS-01** | Persistencia de datos de reservas | Como desarrollador, quiero almacenar las reservas en una base de datos relacional para garantizar integridad y trazabilidad sobre la información de los usuarios, reservas y cortes de cajas. | **Escenario 1: Almacenamiento de datos**<br><br>Dada un cambio en los registros del hotel<br><br> Cuando el sistema guarda la información<br><br> Entonces los datos permanecen registrados correctamente en la base de datos.<br><br> | **EP-01** |
+| **TS-02** | Actualización en tiempo real del estado de habitaciones | Como desarrollador, quiero sincronizar el estado de las habitaciones en tiempo real para evitar conflictos de asignación o inconvenientes con clientes. | **Escenario 1: Actualización en tiempo real**<br><br>Dado que una habitación cambia de estado<br><br> Cuando el sistema procesa la actualización<br><br> Entonces se muestra la información actualizada en el panel administrativo.<br><br> | **EP-02** |
+| **TS-03** | Diseño responsive Mobile y Desktop | Como desarrollador, quiero que la plataforma sea responsive para garantizar una correcta visualización en dispositivos móviles y cambios de tamaño en computadoras. | **Escenario 1: Cambio de tamaño de interfaz**<br><br>Dado que el usuario accede desde un dispositivo móvil o de escritorio<br><br> Cuando el sistema carga la interdaz<br><br> Entonces el contenido se adapta correctamente al tamaño de pantalla manteniendo toda la información visible.<br><br> | **EP-02** |
+| **TS-04** | Autenticación segura  | Como desarrollador, quiero implementar autenticación segura para restringir accesos no autorizados al sistema. | **Escenario 1: Ingreso de crededenciales validas**<br><br>Dado que las credenciales son válidas.<br><br> Cuando el usuario inicia sesión.<br><br> Entonces el sistema permite el acceso correctamente.<br><br>**Escenario 1: Ingreso de crededenciales invalidas**<br><br>Dado que las credenciales son inválidas.<br><br> Cuando el usuario inicia sesión y se detecta un error.<br><br>Entonces se le niega el acceso.<br><br>| **EP-03** |
+| **TS-05** | Registro de accesos del personal | Como desarrollador, quiero registrar los accesos de usuarios para mantener trazabilidad y monitoreo de actividad. | **Escenario 1: Registro de acceso de personal**<br><br>Dado que un usuario inicia sesión.<br><br> Cuando el acceso es procesado.<br><br> Entonces el sistema registra fecha, IP y resultado del intento.<br><br>| **EP-03** |
+| **TS-06** | Optimización del tiempo de respuesta | Como desarrollador, quiero optimizar el rendimiento del sistema para reducir tiempos de carga y mejorar la experiencia del usuario. | **Escenario 1: Respuesta ágil de solicitudes**<br><br>Dado que se da una solicitud del usuario.<br><br> Cuando el sistema procesa la petición.<br><br> Entonces la respuesta se genera en un tiempo adecuado sin afectar la experiencia de uso.<br><br>| **EP-03** |
+| **TS-07** | Integración con facturación electrónica | Como desarrollador, quiero integrar servicios de facturación electrónica para emitir comprobantes automáticamente. | **Emisión de factura valida**<br><br>Dada una transacción válida.<br><br> Cuando el sistema procesa el pago.<br><br> Entonces el comprobante electrónico se genera correctamente.<br><br>| **EP-04** |
+| **TS-08** | Validación de datos | Como desarrollador, quiero validar los datos ingresados por los usuarios para evitar registros erróneos en el sistema. | **Información erronea o incompleta**<br><br>Dada una información incompleta o inválida.<br><br> Cuando el sistema detecta inconsistencias.<br><br> Entonces la operación es rechazada mostrando un mensaje de validación.<br><br>| **EP-04** |
+| **TS-09** | Arquitectura basada en bounded contexts | Como desarrollador, quiero estructurar el sistema mediante bounded contexts para mejorar la mantenibilidad y escalabilidad del proyecto. | **Emisión de factura valida**<br><br>Dado que los módulos del sistema están definidos.<br><br> Cuando el sistema organiza sus componentes.<br><br> Entonces cada bounded context mantiene responsabilidades separadas y coherentes.<br><br>| **EP-04** |
+
 
 ## 3.2. Impact Mapping
 
