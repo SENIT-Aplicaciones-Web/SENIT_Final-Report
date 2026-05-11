@@ -933,9 +933,9 @@ Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un
   <br/>
 </p>
 
-**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+**Segmento 2: Dueños y propietarios de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/UserPersonasSegment_2.png" alt="User Personas de Lilian Zamora Rua"/>
+  <img src="assets/Needfinding/UserPersonasSegment_2.png" alt="User Personas de Santos Ignacio Aranda Ramirez"/>
   <br/>
 </p>
 
@@ -989,19 +989,16 @@ Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un
 </table>
 
 
-**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+**Segmento 2: Dueños y propietarios de hoteles y moteles**
 
 <table>
   <thead>
     <tr>
       <th rowspan="2">Task</th>
-      <th colspan="2">Lilian Zamora Rua</th>
-      <th colspan="2">Ghorghet Tuncar Vila</th>
-      <th colspan="2">Omar Adriano</th>
+      <th colspan="2">Santos Ignacio Aranda Ramírez</th>
+      <th colspan="2">Luis Alberto Noriega Ríos</th>
     </tr>
     <tr>
-      <th>Frequency</th>
-      <th>Importance</th>
       <th>Frequency</th>
       <th>Importance</th>
       <th>Frequency</th>
@@ -1010,58 +1007,46 @@ Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un
   </thead>
   <tbody>
     <tr>
-      <td>Perform check-in at hotel</td>
-      <td>High</td>
-      <td>High</td>
+      <td>Supervise the overall condition of the establishment</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
     </tr>
      <tr>
-      <td>Make payments</td>
-      <td>High</td>
-      <td>High</td>
-      <td>High</td>
-      <td>High</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Receive electronic invoice</td>
-      <td>High</td>
-      <td>High</td>
-      <td>Low</td>
-      <td>Low</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Review room conditions (cleanliness, privacy)</td>
-      <td>High</td>
-      <td>High</td>
+      <td>Supervise staff and internal operations</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
     </tr>
     <tr>
-      <td>Manage bookings (changes/cancellations)</td>
-      <td>Normally</td>
+      <td>Review administrative and financial records</td>
       <td>Normally</td>
       <td>High</td>
       <td>High</td>
-      <td>Low</td>
       <td>High</td>
     </tr>
     <tr>
-      <td>Wait during check-in process</td>
+      <td>Analyze operational reports to make decisions</td>
+      <td>Normally</td>
       <td>High</td>
-      <td>Low</td>
+      <td>Normally</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Use digital tools for monitoring</td>
       <td>High</td>
       <td>High</td>
+      <td>Normally</td>
+      <td>Normally</td>
+    </tr>
+    <tr>
+      <td>Adjust strategies to maintain profitability</td>
       <td>High</td>
-      <td>Low</td>
+      <td>High</td>
+      <td>Normally</td>
+      <td>High</td>
     </tr>
   </tbody>
 </table>
@@ -1077,7 +1062,7 @@ Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un
   <br/>
 </p>
 
-**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+**Segmento 2: Dueños y propietarios de hoteles y moteles**
 <p align="center">
   <img src="assets/Needfinding/journeyMapSegment_2.png" alt="User Journey Mapping de Lilian Zamora Rua"/>
   <br/>
@@ -1091,7 +1076,7 @@ Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un
   <br/>
 </p>
 
-**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+**Segmento 2: Dueños y propietarios de hoteles y moteles**
 <p align="center">
   <img src="assets/Needfinding/empathyMappingSegment_2.png" alt="Empathy Mapping Mapping de Lilian Zamora Rua"/>
   <br/>
