@@ -913,20 +913,20 @@ La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele ho
 
 **Entrevista 3**
 <p align="center">
-  <img src="assets/interviews/interview_segment_2_n3.jpg" alt="Entrevista con Lilian Zamora Rua"/>
-  <br/><i>Evidencia de entrevista: Lilian Zamora Rua</i>
+  <img src="assets/interviews/interview_segment_2_n3.jpg" alt="Entrevista con Santos Ignacio Aranda Ramirez"/>
+  <br/><i>Evidencia de entrevista: Santos Ignacio Aranda Ramirez</i>
 </p>
 
-* **Nombre:** Lilian Zamora Rua
-* **Edad:** 51 años
+* **Nombre:** Santos Ignacio Aranda Ramirez
+* **Edad:** 53 años
 * **Residencia:** Lurigancho - Chosica
-* **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e126_upc_edu_pe/IQBVCEhPNholRa5EfoGSoWyMAcq8SRIIGkyIQMexaJMhTu8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hVH4To)
-* **Duracion:** 07:38
-* **Timing:** 00:00 - 07:38
+* **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e126_upc_edu_pe/IQDW5iZ0wk_QSZ97C6zRqGTjAQpTe1AqtOZMRgwdNhcK0y8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=A1mjnO)
+* **Duracion:** 16:42
+* **Timing:** 00:00 - 16:42
 
 **Resumen de la entrevista:**
 
-Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus hábitos de alojamiento y experiencias en hoteles. La entrevistada explica que prefiere realizar sus reservas digitalmente mediante plataformas como Booking o WhatsApp, priorizando siempre la limpieza y la privacidad. Aunque se muestra satisfecha con los servicios generales, señala que el proceso de registro presencial suele ser lento debido a la gestión de documentos de identidad. Por esta razón, manifiesta un fuerte interés en la implementación de sistemas de registro anticipado que agilicen su ingreso. Finalmente, la fuente destaca la importancia de recibir confirmaciones inmediatas y transparencia total en los costos y servicios antes de concretar una estadía.
+Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un hotel en Máncora, quien detalla su experiencia tras veinte años administrando el negocio. El propietario explica que actualmente supervisa la operatividad de forma remota mediante el uso de cámaras de seguridad y la plataforma Dropbox para revisar hojas de cálculo. Durante la conversación, subraya que los principales desafíos operativos incluyen la alta rotación de personal inexperto y el impacto negativo de los transportistas locales que desvían a los turistas. Aranda reconoce la importancia crítica del marketing digital en redes sociales y se muestra abierto a implementar nuevas herramientas tecnológicas que ofrezcan reportes en tiempo real. El objetivo principal de integrar estos sistemas sería mejorar la gestión de reservas y ajustar tarifas dinámicamente para mantenerse competitivo en el sector..
 
 ### 2.2.3 Análisis de entrevistas
 
@@ -940,9 +940,9 @@ Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus h
   <br/>
 </p>
 
-**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+**Segmento 2: Dueños y propietarios de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/UserPersonasSegment_2.png" alt="User Personas de Lilian Zamora Rua"/>
+  <img src="assets/Needfinding/UserPersonasSegment_2.png" alt="User Personas de Santos Ignacio Aranda Ramirez"/>
   <br/>
 </p>
 
@@ -996,19 +996,16 @@ Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus h
 </table>
 
 
-**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+**Segmento 2: Dueños y propietarios de hoteles y moteles**
 
 <table>
   <thead>
     <tr>
       <th rowspan="2">Task</th>
-      <th colspan="2">Lilian Zamora Rua</th>
-      <th colspan="2">Ghorghet Tuncar Vila</th>
-      <th colspan="2">Omar Adriano</th>
+      <th colspan="2">Santos Ignacio Aranda Ramírez</th>
+      <th colspan="2">Luis Alberto Noriega Ríos</th>
     </tr>
     <tr>
-      <th>Frequency</th>
-      <th>Importance</th>
       <th>Frequency</th>
       <th>Importance</th>
       <th>Frequency</th>
@@ -1017,58 +1014,46 @@ Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus h
   </thead>
   <tbody>
     <tr>
-      <td>Perform check-in at hotel</td>
-      <td>High</td>
-      <td>High</td>
+      <td>Supervise the overall condition of the establishment</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
     </tr>
      <tr>
-      <td>Make payments</td>
-      <td>High</td>
-      <td>High</td>
-      <td>High</td>
-      <td>High</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Receive electronic invoice</td>
-      <td>High</td>
-      <td>High</td>
-      <td>Low</td>
-      <td>Low</td>
-      <td>High</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Review room conditions (cleanliness, privacy)</td>
-      <td>High</td>
-      <td>High</td>
+      <td>Supervise staff and internal operations</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
     </tr>
     <tr>
-      <td>Manage bookings (changes/cancellations)</td>
-      <td>Normally</td>
+      <td>Review administrative and financial records</td>
       <td>Normally</td>
       <td>High</td>
       <td>High</td>
-      <td>Low</td>
       <td>High</td>
     </tr>
     <tr>
-      <td>Wait during check-in process</td>
+      <td>Analyze operational reports to make decisions</td>
+      <td>Normally</td>
       <td>High</td>
-      <td>Low</td>
+      <td>Normally</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Use digital tools for monitoring</td>
       <td>High</td>
       <td>High</td>
+      <td>Normally</td>
+      <td>Normally</td>
+    </tr>
+    <tr>
+      <td>Adjust strategies to maintain profitability</td>
       <td>High</td>
-      <td>Low</td>
+      <td>High</td>
+      <td>Normally</td>
+      <td>High</td>
     </tr>
   </tbody>
 </table>
@@ -1084,7 +1069,7 @@ Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus h
   <br/>
 </p>
 
-**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+**Segmento 2: Dueños y propietarios de hoteles y moteles**
 <p align="center">
   <img src="assets/Needfinding/journeyMapSegment_2.png" alt="User Journey Mapping de Lilian Zamora Rua"/>
   <br/>
@@ -1098,7 +1083,7 @@ Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus h
   <br/>
 </p>
 
-**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
+**Segmento 2: Dueños y propietarios de hoteles y moteles**
 <p align="center">
   <img src="assets/Needfinding/empathyMappingSegment_2.png" alt="Empathy Mapping Mapping de Lilian Zamora Rua"/>
   <br/>
