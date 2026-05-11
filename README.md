@@ -1446,27 +1446,84 @@ Para el modelo de arquitectura del sistema Senit se utiliza la técnica de model
 
 ### 4.6.1. Design-Level Event Storming.
 En esta sección se representan los principales eventos, comandos, agregados y consultas del dominio, utilizando el lenguaje ubicuo definido. Este modelo permite comprender los flujos clave del sistema y su comportamiento desde la perspectiva de Domain-Driven Design.
-<p align = "center">
-  <img src="/assets/SENIT_EventStorming.webp" alt="SENIT_DEventStorming" width="auto" height="auto"/>
+
+<p align="center">
+  <img src="/assets/Diagrams/eventStorming_1.png" alt="Event Storming 1" width="600"/>
+  <br/>
+  <img src="/assets/Diagrams/eventStorming_2.png" alt="Event Storming 2" width="600"/>
 </p>
+
+
+| Bounded Context                     | Responsability |
+|-------------------------------------|----------|
+| IAM — Identity and Access Management | Gestiona el registro de usuarios, inicio de sesión, generación de tokens JWT, asignación de roles (administrador, personal y huésped) y control de acceso a las funcionalidades de la plataforma. |
+| Subscription and Payment Management | Administra la generación de facturas, el procesamiento de pagos mediante pasarelas externas, los planes de suscripción y el historial completo de facturación para trazabilidad financiera.       |
+| Housekeeping Management | Controla la creación de tareas de limpieza, la asignación automática basada en pisos, el seguimiento del estado de las tareas y la actualización en tiempo real del estado de limpieza de las habitaciones.       |
+| Room Management | Supervisa la disponibilidad de habitaciones en tiempo real, asigna habitaciones a reservas confirmadas y las libera después del check-out con verificación del área de limpieza.       |
+| Guest Stay Management  | Administra el ciclo completo del huésped desde el check-in hasta el check-out, gestionando las transiciones de estado, la duración de la estadía y el historial completo de estancias.       |
+| Front Desk Management  | Soporta las operaciones diarias de recepción: registro de huéspedes al llegar, verificación de identidad, actualización de estados y coordinación general entre áreas del hotel.       |
+| Reservation Management  | Administra el ciclo completo de las reservas: creación con verificación de disponibilidad, confirmación asociada al pago, procesos de cancelación y listado de reservas.       |
+
+
+
+  </div>
+
 
 ### 4.6.2. Software Architecture Context Diagram.
 Este es el diagrama de Contexto de nuestro sistema:
+
 <p align = "center">
-  <img src="/assets/SENIT_ContextDiagram.png" alt="SENIT_ContextDiagram" width="auto" height="auto"/>
+  <img src="/assets/Diagrams/c4_ContextDiagram.png" alt="SENIT_ContextDiagram" width="auto" height="auto"/>
 </p>
+
+| Actor / Sistema        | Tipo             | Rol en la plataforma |
+|-----------------------|------------------|----------------------|
+| Customer              | Persona interna  | Reserva habitaciones de hotel y realiza pagos a través de la aplicación web. Puede o no ser el huésped final. |
+| Guest                 | Persona interna  | Persona que se hospeda en el hotel. Realiza el check-in y check-out mediante la plataforma o en la recepción. |
+| Front Desk Staff      | Persona interna  | Gestiona las operaciones diarias de recepción: registra huéspedes, asigna habitaciones y coordina los procesos de check-in y check-out. |
+| Hotel Manager         | Persona interna  | Supervisa todas las operaciones del hotel, monitorea la actividad de la plataforma y gestiona al personal del sistema. |
+| Housekeeping Staff    | Persona interna  | Recibe asignaciones de tareas de limpieza, actualiza el estado de las habitaciones y reporta la finalización de las tareas. |
+| Payment Gateway       | Sistema externo  | Servicio externo que procesa pagos con tarjetas de crédito/débito y devuelve los resultados de las transacciones a la plataforma. |
+| Email Service         | Sistema externo  | Proveedor de correo electrónico (por ejemplo, SendGrid) utilizado para enviar confirmaciones de reservas, alertas y recibos. |
+| Auth Provider         | Sistema externo  | Proveedor OAuth2 / JWT utilizado para validar tokens de acceso y soportar flujos seguros de autenticación. |
 
 ### 4.6.3. Software Architecture Container Diagrams.
 Este es el diagrama de Contenedores de nuestro sistema:
 <p align = "center">
-  <img src="/assets/SENIT_ContainerDiagram.png" alt="SENIT_ContainerDiagram" width="auto" height="auto"/>
+  <img src="/assets/Diagrams/c4_ContainerDiagram.png" alt="SENIT_ContainerDiagram" width="auto" height="auto"/>
 </p>
+
+| Container            | Technology           | Responsibility |
+|---------------------|----------------------|----------------|
+| Landing Page        | React / HTML         | Página pública que presenta la plataforma y redirige a los usuarios autenticados hacia la aplicación web. |
+| Web Application     | React SPA            | Interfaz principal para todos los roles (Cliente, Huésped, Personal y Administrador). Se comunica con la API REST mediante HTTPS/JSON. |
+| API REST            | Node.js / Express    | Backend central. Valida tokens JWT, aplica RBAC y enruta las solicitudes hacia los módulos de cada bounded context. |
+| IAM Module          | Node.js BC Module    | Gestiona registro de usuarios, login, generación de JWT y control de acceso basado en roles en toda la plataforma. |
+| Reservation BC      | Node.js BC Module    | Administra el ciclo completo de reservas: creación con verificación de disponibilidad, confirmación, cancelación y listado. |
+| Guest Stay BC       | Node.js BC Module    | Controla el estado del huésped desde el check-in hasta el check-out, manteniendo historial y transiciones de estado. |
+| Room Management BC  | Node.js BC Module    | Gestiona la disponibilidad de habitaciones en tiempo real, asignación a reservas confirmadas y liberación tras el check-out. |
+| Front Desk BC       | Node.js BC Module    | Soporta las operaciones diarias de recepción: registro de huéspedes, verificación de identidad y actualización de estados. |
+| Housekeeping BC     | Node.js BC Module    | Crea y asigna tareas de limpieza por piso, monitorea su finalización y actualiza el estado de limpieza de habitaciones. |
+| Billing & Payments BC| Node.js BC Module    | Genera facturas, procesa pagos mediante pasarelas externas y mantiene el historial completo de facturación. |
+| Database            | PostgreSQL           | Base de datos relacional central. Almacena usuarios, habitaciones, reservas, pagos, tareas de limpieza, sesiones y logs de auditoría. |
 
 ### 4.6.4. Software Architecture Components Diagrams.
 Estos son los diagramas de componentes de nuestro sistema, incluyen los siguientes Bounded Context:
 <p align = "center">
-  <img src="/assets/SENIT_ComponentDiagram.png" alt="SENIT_ComponentDiagram" width="auto" height="auto"/>
+  <img src="/assets/Diagrams/c4_ComponentDiagram.png" alt="SENIT_ComponentDiagram" width="auto" height="auto"/>
 </p>
+
+| Component              | Technology           | Responsibility |
+|-----------------------|----------------------|----------------|
+| IAM Module            | Node.js / Express    | Gestiona el registro de usuarios, flujos de login, generación de tokens JWT, asignación de roles (admin, front desk, housekeeping, guest) y la aplicación de control de acceso basado en roles (RBAC) en todas las funcionalidades. |
+| Reservation Module    | Node.js / Express    | Administra el ciclo completo de reservas: creación con verificación de disponibilidad en tiempo real, confirmación automática tras el pago, cancelaciones y listado de reservas para huéspedes y personal. |
+| Guest Stay Module     | Node.js / Express    | Controla el ciclo de estadía del huésped desde el check-in hasta el check-out, gestionando transiciones de estado, duración de la estadía y el historial completo del huésped. |
+| Room Management Module| Node.js / Express    | Supervisa la disponibilidad y estado de habitaciones en tiempo real, asigna habitaciones a reservas confirmadas y las libera tras el check-out con verificación de housekeeping. |
+| Front Desk Module     | Node.js / Express    | Soporta las operaciones diarias de recepción: registro de huéspedes al llegar, verificación de identidad mediante documento oficial, gestión de estados y coordinación entre áreas. |
+| Housekeeping Module   | Node.js / Express    | Crea y asigna automáticamente tareas de limpieza por piso, monitorea la finalización por parte del personal y actualiza el estado de limpieza en tiempo real. |
+| Billing & Payments Module | Node.js / Express | Genera facturas detalladas de estadías y servicios, procesa pagos mediante una pasarela externa y mantiene un historial completo y auditable de pagos. |
+| DB Connector / ORM    | Sequelize / Prisma   | Centraliza el acceso a la base de datos, abstrae consultas SQL, asegura la integridad de datos y gestiona transacciones entre módulos de bounded context. |
+| Database              | PostgreSQL           | Base de datos relacional central del sistema. Almacena usuarios, sesiones, habitaciones, reservas, pagos, tareas de limpieza y logs de auditoría. El acceso es exclusivamente a través del ORM. |
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
