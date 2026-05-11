@@ -157,7 +157,7 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
       <td>
         <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
         <strong>AV 1:</strong> Me encargué de desarrollar las secciones asignadas (4.1. Style Guidelines y 4.6. Domain-Driven Software Architecture), organizando mi trabajo de manera que se ajuste a los tiempos del equipo. Durante el proceso, mantuve comunicación con mis compañeros y tomé en cuenta el enfoque general del proyecto, buscando que mi aporte se integre de forma coherente con el trabajo del grupo.<br>
-        <strong>TB:</strong> (texto)
+        <strong>TB:</strong> Durante esta etapa, participé en el desarrollo y corrección de distintas secciones del proyecto, colaborando con el avance grupal y adaptándome a los cambios realizados en la arquitectura y diseño de la aplicación. Asimismo, mantuve comunicación con mis compañeros para asegurar coherencia entre las partes trabajadas y contribuir al cumplimiento de la entrega de manera conjunta.
         <br>
         <br>
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
@@ -189,7 +189,7 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
       <td>
         <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
         <strong>AV 1:</strong> Desarrollé las secciones asignadas (4.1. Style Guidelines y 4.6. Domain-Driven Software Architecture), organizando mi tiempo en función de los plazos de la entrega y estructurando mi trabajo por etapas.<br>
-        <strong>TB:</strong> (texto)
+        <strong>TB:</strong> Contribuí al avance del proyecto mediante la actualización del C4 Model y elaboración de los mockups de la web application, organizando mi trabajo de acuerdo con los tiempos establecidos por el equipo. Esto permitió mantener continuidad en el desarrollo de las secciones corregidas y apoyar el cumplimiento de los objetivos planteados para la entrega.
         <br>
         <br>  
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
