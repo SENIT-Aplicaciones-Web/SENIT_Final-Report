@@ -123,14 +123,7 @@
 
 ## Project Report Collaboration Insights
 URL de Organización de GITHUB del equipo https://github.com/SENIT-Aplicaciones-Web <br> 
-URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web/SENIT_Final-Report<br>
-URL de la Landing Page: https://senit-aplicaciones-web.github.io/senit-landing-page/<br>
-
-Entrega AV1: Para este avance el equipo se organizó mediante un grupo de WhatsApp, donde se envió un documento para separar las tareas y actividades a realizar por cada miembro del equipo, así como también las que se tenian que realizar en grupo, y se llegó al acuerdo de que solo los avances y correcciones completos se suban al repositorio de GitHub. Los gráficos de analíticas de colaboración en GitHub, considerando únicamente hasta el 20 de abril.
-<img src="./assets/Insights/contributors.png" alt="Gráfico de contribuidores del primer avance"/>
-
-Entrega TB1: Para este avance se envió al equipo otro documento de asignación de actividades y correcciones para cada integrante del equipo, en este caso las secciones trabajadas por los miembros en la anterior entrega y que tuvieron observaciones fueron corregidos por los mismos. Los gráficos de analíticas de colaboración en GitHub, considerando desde el 28 de abril hasta el 11 de mayo.
-<img src="./assets/Insights/contributors.png" alt="Gráfico de contribuidores del segundo avance"/>
+URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web/SENIT_Final-Report <br>
 
 <hr>
 
@@ -161,8 +154,8 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
         <br>
         <br>
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
-        <strong>AV 1:</strong> En esta etapa participé activamente en la coordinación técnica del equipo, proponiendo soluciones e ideas para estructurar el sistema mediante bounded contexts y asegurando que el modelado UML y el ERD mantuvieran coherencia con la arquitectura definida para Senit. Además, tomé la información obtenida en las entrevistas, necesidades y problemas para mejorar el diseño y funcionalidades de Senit reforzando. También mantuve una comunicación constante con mis compañeros para resolver dudas, unificar criterios y apoyar la toma de decisiones técnicas de manera colaborativa.<br>
-        <strong>TB:</strong> Durante el desarrollo, participé activamente en la comunicación y coordinación con el equipo mediante reuniones virtuales y mensajes grupales a traves de WhatsApp, promoviendo el intercambio de ideas y la resolución conjunta de observaciones realizadas al proyecto. Asimismo, colaboré brindando apoyo y sugerencias a mis compañeros cuando surgían dudas o dificultades, como también acepte las observariones que tenían mis compañeros sobre mi trabajo, contribuyendo a mantener una toma de decisiones más organizada y un trabajo colaborativo dentro del equipo.
+        <strong>AV 1:</strong> Durante esta etapa me encargué del modelado del sistema, desarrollando el diagrama de clases UML y su adecuación a bounded contexts dentro de la arquitectura basada en Domain-Driven Design. Asimismo, trabajé en la construcción y validación del modelo de datos (ERD), asegurando su coherencia con las clases y relaciones definidas. Complementé este trabajo con el análisis de usuarios, elaborando el User Task Matrix y los User Journey Maps a partir de las entrevistas, lo que permitió alinear la solución con las necesidades reales del usuario. Además, mantuve coordinación constante con el equipo para integrar estos elementos dentro del enfoque general del proyecto Senit.<br>
+        <strong>TB:</strong> (texto)
         <br>
         <br>
         <strong>- Lozano Leon, Richard Enrique:</strong><br>
@@ -193,8 +186,8 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
         <br>
         <br>  
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
-        <strong>AV 1:</strong> Me enfoqué en tener los tiempos de mi trabajo estableciendo prioridades y metas parciales para cumplir oportunamente con los entregables asignados, distribuyendo el desarrollo entre modelado UML, validación del ERD y análisis de usuarios. Asimismo, coordiné constantemente con el equipo para compartir avances, recibir retroalimentación y adaptar mi trabajo según las necesidades del proyecto, contribuyendo a mantener un flujo de trabajo ordenado, colaborativo y alineado con los objetivos generales de Senit.<br>
-        <strong>TB:</strong> En esta etapa mantuve una participación constante en las actividades grupales, organizando mis tiempos para cumplir con las responsabilidades acordadas y adaptándome a los cambios y correcciones necesarios durante el desarrollo del proyecto. Además, procuré mantener una comunicación respetuosa y abierta con el equipo, compartiendo avances y escuchando sugerencias, lo que ayudó a fortalecer un entorno de trabajo colaborativo y orientado al cumplimiento de los objetivos comunes.
+        <strong>AV 1:</strong> Planifiqué el desarrollo de mis entregables dividiendo el trabajo en etapas (modelado UML, ERD y análisis de usuarios), lo que me permitió avanzar de manera ordenada y cumplir con los plazos establecidos. Asimismo, mantuve comunicación constante con el equipo para asegurar la integración de mis avances con el resto del proyecto.<br>
+        <strong>TB:</strong> (texto)
         <br>
         <br>
         <strong>- Lozano Leon, Richard Enrique:</strong><br>
@@ -432,17 +425,17 @@ Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organ
 
  + **User Assumptions:** 
 
-    + **¿Quién es el usuario?** <br> Hay dos grupos de usuarios, el primero está conformado por el personal administrativo y operativo de hoteles y moteles, como recepcionistas, administradores y supervisores, mientras que el segundo está compuesto por dueños y propietarios de hoteles y moteles. <br>
+    + **¿Quién es el usuario?** <br> Hay dos grupos de usuarios, el primero está conformado por los hospedajes, es decir, el personal administrativo y de gestión como recepcionistas y administradores, y el segundo grupo está compuesto por los huéspedes. <br>
 
-    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?** <br> En el caso del personal administrativo y operativo, Senit encaja en la gestión diaria del hospedaje, permitiendo administrar reservas, habitaciones, limpieza, personal y facturación en un solo sistema. Para los dueños y propietarios, encaja como una herramienta de supervisión y control del negocio, que les permite revisar la operación, monitorear reservas, ocupación, ingresos y desempeño general del establecimiento. <br>
+    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?** <br> En los hospedajes, Senit encaja en la gestión diaria, administrando reservas, habitaciones, limpieza, personal y facturación en un solo sistema. Para los huéspedes, encaja como una herramienta que les permite tener una experiencia más fluida desde antes de su llegada al hospedaje, durante su estancia y también su salida. <br>
 
-    + **¿Cuándo y cómo se utiliza nuestro producto?** <br> Se utiliza durante todo el proceso de operación del hospedaje. Su funcionamiento se basa en una plataforma web donde el personal puede registrar, revisar y actualizar información en tiempo real, mientras que los dueños y propietarios pueden consultar indicadores y el estado general del negocio para tomar decisiones más rápidas y acertadas. <br>
+    + **¿Cuándo y cómo se utiliza nuestro producto?** <br> Se utiliza durante todo el proceso de hospedaje, desde la reserva hasta el check-out. Su funcionamiento se basa en una plataforma web donde el personal puede registrar, revisar y actualizar información en tiempo real, mientras que el huésped puede gestionar su reserva y realizar su registro de entrada y salida de forma más rápida, evitando largas esperas y mejorando su experiencia. <br>
 
-    + **¿Qué problemas resuelve nuestro producto?** <br> Resuelve la ineficiencia y lentitud de los procesos manuales, los errores en el registro de información, la asignación duplicada de tareas, la falta de control sobre habitaciones y limpieza, y la poca visibilidad sobre la operación general del hospedaje. Para los dueños y propietarios, reduce la dependencia de procesos manuales y mejora la supervisión del negocio. <br>
+    + **¿Qué problemas resuelve nuestro producto?** <br> Resuelve la ineficiencia y lentitud de los procesos de registro manuales, casos de asignación de tareas duplicadas, errores en el registro de huéspedes, y la falta de control sobre habitaciones y limpieza. Para el huésped reduce el tiempo de espera y mejora su experiencia. <br>
 
-    + **¿Qué características son importantes?** <br> La facilidad de uso, una vista clara y detallada sobre el estado de las habitaciones, la gestión de reservas, el registro de entrada y salida, la asignación de tareas de limpieza, los roles de acceso, los reportes de facturación, los indicadores de gestión y la velocidad en la actualización de datos. <br>
+    + **¿Qué características son importantes?** <br> La facilidad de uso, una vista clara y detallada sobre el estado de las habitaciones, la gestión de reservas, el registro de entrada y salida, la asignación de tareas de limpieza, los roles de acceso, las facturaciones y la velocidad en la actualización de datos . <br>
 
-    + **¿Cómo debe verse y comportarse nuestro producto?** <br> Debe tener una interfaz profesional, intuitiva y rápida de usar. Debe comportarse como una herramienta confiable que ayude al personal a tener una gestión ordenada y a los dueños a supervisar su negocio de manera clara, eficiente y en tiempo real. <br>
+    + **¿Cómo debe verse y comportarse nuestro producto?** <br> Debe tener una interfaz profesional, intuitiva y rápida de usar. Debe comportarse como una herramienta confiable que ayude a los hospedajes a tener una gestión ordenada, y a los huéspedes a tener una mejor experiencia de reserva de habitaciones. <br>
 
  + **Business Outcomes:** 
 
@@ -450,11 +443,11 @@ Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organ
 
     2. **Estas necesidades se pueden resolver con** un servicio que centralice el manejo de reservas, habitaciones, limpieza, personal, check-in, check-out y facturación en un solo lugar.
 
-    3. **Nuestros usuarios iniciales son** hoteles y moteles pequeños y medianos que aún trabajan con procesos manuales, junto con su personal administrativo y sus dueños o propietarios.
+    3. **Nuestros usuarios iniciales son** hospedajes pequeños y medianos que aún trabajan con procesos manuales, junto con personas que usan servicios de hospedaje frecuentemente.
 
-    4. **El valor #1 que un cliente quiere de nuestro servicio es que** le permita ahorrar tiempo, reducir errores y tener un mayor control sobre la gestión del hospedaje.
+    4. **El valor #1 que un cliente quiere de nuestro servicio es que** le permita ahorrar tiempo, reducir errores y tener un mayor control de gestión.
 
-    5. **El usuario también puede obtener beneficios adicionales como** una coordinación más eficiente entre el personal, menos carga de trabajo, mejor supervisión del negocio y mayor control sobre la operación diaria.
+    5. **El usuario también puede obtener beneficios adicionales como** una coordinación más eficiente entre el personal del hotel, menos carga de trabajo y un mejor seguimiento de tareas asignadas.
 
     6. **Vamos a adquirir la mayoría de nuestros clientes a través de** contacto directo con hospedajes, demostraciones del sistema, publicidad y ofertas personalizadas. 
 
@@ -468,42 +461,42 @@ Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organ
 
     11. **Resolveremos esto a través de** una interfaz sencilla, capacitación de uso, acompañamiento en la implementación, y propuestas personalizadas que muestren beneficios rápidos desde el principio.
     
-    13. **¿Qué otras suposiciones tenemos?** Suponemos que los hoteles y moteles valorarán más la rapidez, el orden y el control que mantener métodos manuales, y que los dueños y propietarios preferirán una solución que les permita supervisar su negocio sin depender completamente de otras personas.
+    13. **¿Qué otras suposiciones tenemos?** Suponemos que los hospedajes valorarán más la rapidez, el orden y el control que mantener métodos manuales, y que los huéspedes preferirán un servicio más rápido aunque tengan que aprender a como usarlo.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 ###### Hipótesis 1:
-Creemos que si el personal administrativo y operativo de hoteles y moteles cuenta con una herramienta centralizada para gestionar información y coordinar tareas diarias, podrá reducir errores operativos y mejorar la organización de las actividades del hospedaje. Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios indiquen que perciben una mejora en el control y coordinación de las operaciones.
+Creemos que un panel con el estado de las habitaciones, reservas y tareas de limpieza en tiempo real para el personal administrativo, mejorará la coordinación de las operaciones, reduciendo retrasos en la asignación de habitaciones, sabremos que hemos tenido éxito cuando el 70% de usuarios administrativos comuniquen que el control del hospedaje mejoró y que el tiempo de atención disminuyó considerablemente.
 
--   **Business Outcome:** Mejorar la eficiencia operativa de hoteles y moteles mediante la digitalización de procesos.
+-   **Business Outcome:** Aumentar la adopción de Senit en los hospedajes al mejorar la eficiencia operativa.
     
 -   **Users:** Personal administrativo y de gestión de los hospedajes.
     
 -   **User Outcome:** Tener mayor control y coordinación sobre las tareas de jornada diarias.
     
--   **Feature:** Visualización en tiempo real del estado de habitaciones, reservas y tareas.
+-   **Feature:** Panel principal con el estado de habitaciones, reservas y limpieza en tiempo real.
 
 ###### Hipótesis 2:
-Creemos que si los dueños y propietarios de hoteles y moteles tienen acceso rápido y centralizado a la información relevante de su negocio, podrán supervisar mejor las operaciones y tomar decisiones con mayor rapidez y seguridad. Sabremos que hemos tenido éxito cuando al menos el 80% de los propietarios indiquen que tienen una mejor visibilidad y control del hospedaje.
+Creemos que si permitimos a los huéspedes reservar y registrar su llegada de forma digital podrán reducir el tiempo de espera en recepción y tener una experiencia más fluida, sabremos que hemos tenido éxito cuando el 80% de los usuarios reporten que el proceso fue más rápido comparado a lo habitual.
 
--   **Business Outcome:** Aumentar la adopción de Senit en hoteles y moteles al mejorar la eficiencia operativa.
+-   **Business Outcome:** Incrementar el uso de Senit en los hospedajes al mejorar la experiencia de los huéspedes al agilizar el proceso de atención.
     
--   **Users:** Dueños y propietarios de hoteles y moteles.
+-   **Users:** Huéspedes y personas que usan servicios de hospedaje.
     
--   **User Outcome:** Tener una supervisión más clara y eficiente de las operaciones del hospedaje.
+-   **User Outcome:** Realizar su registro de manera más rápida y cómoda.
     
--   **Feature:** Acceso centralizado a indicadores de reservas, ocupación e ingresos.
+-   **Feature:** Panel simplificado de reserva y registro de entrada y salida.
 
 
 ###### Hipótesis 3:
-Creemos que si los hoteles y moteles reemplazan procesos manuales por herramientas digitales integradas, el personal administrativo podrá reducir el tiempo dedicado a tareas repetitivas y organizar mejor sus actividades diarias. Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios administrativos reporten una disminución considerable en el tiempo dedicado a tareas operativas.
+Creemos que si unimos en una sola plataforma la información de habitaciones, personal, tareas y facturación para su gestionamiento, el personal administrativo podrá reducir su carga de trabajo manual y organizar mejor sus actividades diarias, sabremos que hemos tenido éxito cuando el 70% de los usuarios administrativos comuniquen que el tiempo que les tomaba en realizar sus actividades disminuyó considerablemente.
 
--   **Business Outcome:** Posicionar a Senit como una solución eficiente para optimizar la gestión hotelera.
+-   **Business Outcome:** Posicionar a Senit como una solución accesible y eficiente al reducir errores operativos y optimizar las labores del personal administrativo hotelero.
     
--   **Users:** Personal administrativo y operativo de hoteles y moteles.
+-   **Users:** Personal administrativo y de gestión del hospedaje.
     
--   **User Outcome:** Reducir carga laboral y mejorar la eficiencia en sus actividades.
+-   **User Outcome:** Tener menos carga de trabajo y más orden en sus actividades laborales.
     
--   **Feature:** Panel centralizado de reservas, tareas, personal y facturación en una sola interfaz.
+-   **Feature:** Panel centralizado con módulos de gestión integrados.
 
 #### 1.2.2.4 Lean UX Canvas
 
@@ -511,16 +504,16 @@ Creemos que si los hoteles y moteles reemplazan procesos manuales por herramient
     <tr>
         <td valign="top" >
             <div align="center"> <br><b>Business Problem</b> </div><br>
-            <p> - Los hoteles y moteles aún dependen de procesos manuales o registros en papel que generan demoras, errores y sobrecarga de trabajo<br>
-                - Los dueños y propietarios tienen poca visibilidad sobre el estado operativo y administrativo del hospedaje<br>
+            <p> - Los hospedajes aún dependen de procesos manuales o registros en papel que generan demoras en la asignación de habitaciones, errores y sobrecarga de trabajo <br> 
+                - Los huéspedes enfrentan tiempos de espera largos durante el registro <br> 
             </p><br>
         </td>
         <td rowspan="2" valign="top">
             <div align="center"><br><b>Solutions</b> </div><br>
-            <p> - Plataforma web para centralizar reservas, habitaciones, limpieza, personal y facturación<br>
-                - Visualización en tiempo real del estado operativo del hospedaje<br>
-                - Acceso centralizado a información relevante para supervisión y control<br>
-                - Herramientas digitales para mejorar la coordinación y organización del personal<br>
+            <p> - Plataforma web para centralizar reservas, habitaciones, limpieza, personal y facturación. <br> 
+                - Flujo de registro y atención más rápido y ordenado para los huéspedes <br> 
+                - Panel de control en tiempo real del estado de las reservas y habitaciones <br> 
+                - Panel de asignación de tareas y roles para mejorar la coordinación del personal <br> <br> 
             </p><br>
         </td>
             <td valign="top">
@@ -535,23 +528,23 @@ Creemos que si los hoteles y moteles reemplazan procesos manuales por herramient
         <td valign="top">
             <div align="center"><br><b>Users</b></div><br>
             <p> - Personal administrativo y de gestión de hospedajes <br> 
-                - Dueños y propietarios de hoteles y moteles <br> 
+                - Huéspedes o personas que usan servicios de hospedaje <br> 
             </p><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>User Outcomes & Benefits</b></div><br>
-            <p> - Mayor organización y coordinacion de tareas laborales <br> 
-                - Mejor supervisión y control del negocio <br> 
-                - Reducción de carga laboral y tiempo en procesos manuales <br> 
+            <p> - Mayor control y coordinacion de sus tareas laborales <br> 
+                - Incremento en la velocidad de registro de los huéspedes <br> 
+                - Menor carga laboral <br> 
             </p><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
             <div align="center"> <br><b>Hypotheses</b> </div><br>
-            <p> - Si el personal administrativo cuenta con información operativa centralizada y actualizada en tiempo real, podrá mejorar la coordinación de actividades y reducir errores operativos<br>
-                - Si los dueños y propietarios tienen acceso rápido a información relevante del hospedaje, podrán supervisar mejor las operaciones y tomar decisiones con mayor seguridad<br>
-                - Si los hoteles y moteles reemplazan procesos manuales por herramientas digitales integradas, el personal podrá reducir tiempo en tareas repetitivas y organizar mejor sus actividades<br>
+            <p> - Un panel con el estado de las habitaciones, reservas y tareas de limpieza en tiempo real para el personal administrativo, mejorará la coordinación de las operaciones, reduciendo retrasos en la asignación de habitaciones <br> 
+                - Si permitimos a los huéspedes reservar y registrar su llegada de forma digital podrán reducir el tiempo de espera en recepción y tener una experiencia más fluida <br> 
+                - Si unimos en una sola plataforma la información de habitaciones, personal, tareas y facturación para su gestionamiento, el personal administrativo podrá reducir su carga de trabajo manual y organizar mejor sus actividades diarias <br> 
             </p><br>
         </td>
         <td valign="top">
@@ -562,7 +555,7 @@ Creemos que si los hoteles y moteles reemplazan procesos manuales por herramient
         <td valign="top">
             <div align="center">  <br><b>What's the least amount of work we need to do to learn the next most important thing?</b> </div><br>
             <p> - Crear un prototipo básico del panel principal y del flujo de registro. <br> 
-                - Probarlo con personal administrativo y propietarios de hospedajes para validar si la propuesta les resulta útil y fácil de utilizar.<br>
+                - Probarlo con algunos usuarios del hospedaje y con huéspedes frecuentes para validar si entienden y valoran la propuesta. <br> 
             </p><br>
         </td>
     </tr>
@@ -626,22 +619,22 @@ A continuación, se presenta el *Competitive Analysis Landscape*, donde se contr
       <td colspan="2" align="left"><strong>(En la cabecera colocar por cada competidor nombre y logo)</strong></td>
       <td>
         <strong>Su startup:</strong><br><br>
-        <img src="./assets/SENIT_logo.webp" alt="Senit Logo" width="90"><br>
+        <img src="assets/SENIT_logo.webp" alt="Senit Logo" width="90"><br>
         <strong>Senit</strong>
       </td>
       <td>
         <strong>Competidor 1:</strong><br><br>
-        <img src="./assets/cloudbeds-logo.png" alt="Cloudbeds Logo" width="90"><br>
+        <img src="assets/cloudbeds-logo.png" alt="Cloudbeds Logo" width="90"><br>
         <strong>Cloudbeds</strong>
       </td>
       <td>
         <strong>Competidor 2:</strong><br><br>
-        <img src="./assets/wubook-logo.png" alt="WuBook Logo" width="90"><br>
+        <img src="assets/wubook-logo.png" alt="WuBook Logo" width="90"><br>
         <strong>WuBook</strong>
       </td>
       <td>
         <strong>Competidor 3:</strong><br><br>
-        <img src="./assets/little-hotelier-logo.png" alt="Little Hotelier Logo" width="90"><br>
+        <img src="assets/little-hotelier-logo.png" alt="Little Hotelier Logo" width="90"><br>
         <strong>Little Hotelier</strong>
       </td>
     </tr>
@@ -913,20 +906,20 @@ La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele ho
 
 **Entrevista 3**
 <p align="center">
-  <img src="assets/interviews/interview_segment_2_n3.jpg" alt="Entrevista con Santos Ignacio Aranda Ramirez"/>
-  <br/><i>Evidencia de entrevista: Santos Ignacio Aranda Ramirez</i>
+  <img src="assets/interviews/interview_segment_2_n3.jpg" alt="Entrevista con Lilian Zamora Rua"/>
+  <br/><i>Evidencia de entrevista: Lilian Zamora Rua</i>
 </p>
 
-* **Nombre:** Santos Ignacio Aranda Ramirez
-* **Edad:** 53 años
+* **Nombre:** Lilian Zamora Rua
+* **Edad:** 51 años
 * **Residencia:** Lurigancho - Chosica
-* **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e126_upc_edu_pe/IQDW5iZ0wk_QSZ97C6zRqGTjAQpTe1AqtOZMRgwdNhcK0y8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=A1mjnO)
-* **Duracion:** 16:42
-* **Timing:** 00:00 - 16:42
+* **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e126_upc_edu_pe/IQBVCEhPNholRa5EfoGSoWyMAcq8SRIIGkyIQMexaJMhTu8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hVH4To)
+* **Duracion:** 07:38
+* **Timing:** 00:00 - 07:38
 
 **Resumen de la entrevista:**
 
-Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un hotel en Máncora, quien detalla su experiencia tras veinte años administrando el negocio. El propietario explica que actualmente supervisa la operatividad de forma remota mediante el uso de cámaras de seguridad y la plataforma Dropbox para revisar hojas de cálculo. Durante la conversación, subraya que los principales desafíos operativos incluyen la alta rotación de personal inexperto y el impacto negativo de los transportistas locales que desvían a los turistas. Aranda reconoce la importancia crítica del marketing digital en redes sociales y se muestra abierto a implementar nuevas herramientas tecnológicas que ofrezcan reportes en tiempo real. El objetivo principal de integrar estos sistemas sería mejorar la gestión de reservas y ajustar tarifas dinámicamente para mantenerse competitivo en el sector..
+Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus hábitos de alojamiento y experiencias en hoteles. La entrevistada explica que prefiere realizar sus reservas digitalmente mediante plataformas como Booking o WhatsApp, priorizando siempre la limpieza y la privacidad. Aunque se muestra satisfecha con los servicios generales, señala que el proceso de registro presencial suele ser lento debido a la gestión de documentos de identidad. Por esta razón, manifiesta un fuerte interés en la implementación de sistemas de registro anticipado que agilicen su ingreso. Finalmente, la fuente destaca la importancia de recibir confirmaciones inmediatas y transparencia total en los costos y servicios antes de concretar una estadía.
 
 ### 2.2.3 Análisis de entrevistas
 
@@ -940,9 +933,9 @@ Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un
   <br/>
 </p>
 
-**Segmento 2: Dueños y propietarios de hoteles y moteles**
+**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/UserPersonasSegment_2.png" alt="User Personas de Santos Ignacio Aranda Ramirez"/>
+  <img src="assets/Needfinding/UserPersonasSegment_2.png" alt="User Personas de Lilian Zamora Rua"/>
   <br/>
 </p>
 
@@ -996,16 +989,19 @@ Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un
 </table>
 
 
-**Segmento 2: Dueños y propietarios de hoteles y moteles**
+**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
 
 <table>
   <thead>
     <tr>
       <th rowspan="2">Task</th>
-      <th colspan="2">Santos Ignacio Aranda Ramírez</th>
-      <th colspan="2">Luis Alberto Noriega Ríos</th>
+      <th colspan="2">Lilian Zamora Rua</th>
+      <th colspan="2">Ghorghet Tuncar Vila</th>
+      <th colspan="2">Omar Adriano</th>
     </tr>
     <tr>
+      <th>Frequency</th>
+      <th>Importance</th>
       <th>Frequency</th>
       <th>Importance</th>
       <th>Frequency</th>
@@ -1014,46 +1010,58 @@ Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un
   </thead>
   <tbody>
     <tr>
-      <td>Supervise the overall condition of the establishment</td>
+      <td>Perform check-in at hotel</td>
+      <td>High</td>
+      <td>High</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
     </tr>
      <tr>
-      <td>Supervise staff and internal operations</td>
+      <td>Make payments</td>
+      <td>High</td>
+      <td>High</td>
+      <td>High</td>
+      <td>High</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Receive electronic invoice</td>
+      <td>High</td>
+      <td>High</td>
+      <td>Low</td>
+      <td>Low</td>
+      <td>High</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Review room conditions (cleanliness, privacy)</td>
+      <td>High</td>
+      <td>High</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
       <td>High</td>
     </tr>
     <tr>
-      <td>Review administrative and financial records</td>
+      <td>Manage bookings (changes/cancellations)</td>
+      <td>Normally</td>
       <td>Normally</td>
       <td>High</td>
       <td>High</td>
+      <td>Low</td>
       <td>High</td>
     </tr>
     <tr>
-      <td>Analyze operational reports to make decisions</td>
-      <td>Normally</td>
+      <td>Wait during check-in process</td>
       <td>High</td>
-      <td>Normally</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td>Use digital tools for monitoring</td>
+      <td>Low</td>
       <td>High</td>
       <td>High</td>
-      <td>Normally</td>
-      <td>Normally</td>
-    </tr>
-    <tr>
-      <td>Adjust strategies to maintain profitability</td>
       <td>High</td>
-      <td>High</td>
-      <td>Normally</td>
-      <td>High</td>
+      <td>Low</td>
     </tr>
   </tbody>
 </table>
@@ -1069,7 +1077,7 @@ Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un
   <br/>
 </p>
 
-**Segmento 2: Dueños y propietarios de hoteles y moteles**
+**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
 <p align="center">
   <img src="assets/Needfinding/journeyMapSegment_2.png" alt="User Journey Mapping de Lilian Zamora Rua"/>
   <br/>
@@ -1083,7 +1091,7 @@ Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un
   <br/>
 </p>
 
-**Segmento 2: Dueños y propietarios de hoteles y moteles**
+**Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
 <p align="center">
   <img src="assets/Needfinding/empathyMappingSegment_2.png" alt="Empathy Mapping Mapping de Lilian Zamora Rua"/>
   <br/>
@@ -1177,12 +1185,9 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 | :--- | :--- | :--- | :--- | :--- |
 | **EP-01** | Presentación inicial de Senit | Se reúne todo lo necesario para la elaboración de la landing page, con el objetivo de presentar la propuesta de valor de Senit, sus funcionalidades, planes de suscripción y un medio de contacto con los clientes potenciales. | **-** | **-** |
-| **EP-02** | Gestión de recepción y estadía | Se agrupan las funcionalidades relacionadas con disponibilidad de habitaciones, check-in, check-out, control de estadías, consumos y atención al huésped. | **-** | **-** |
-| **EP-03** | Gestión y supervisión de habitaciones | Se agrupan las funcionalidades relacionadas con los estados de las habitaciones, su limpieza y disponibilidad para nuevas estadías. | **-** | **-** |
-| **EP-04** | Gestión de reservas | Se agrupan las funcionalidades relacionadas con reservas anticipadas, disponibilidad de habitaciones y prevención de overbooking. | **-** | **-** |
-| **EP-05** | Gestión de acceso | Se agrupan las funcionalidades relacionadas con autenticación, control de acceso y asignación de roles del personal. | **-** | **-** |
-| **EP-06** | Facturaciones y pagos | Se agrupan las funcionalidades relacionadas con consumos, pagos, comprobantes electrónicos e ingresos generados por las estadías del hospedaje. | **-** | **-** |
-| **EP-07** | Integraciones técnicas de Senit | Se agrupan las funcionalidades técnicas relacionadas con RESTful API e internacionalización para el soporte de la plataforma. | **-** | **-** |
+| **EP-02** | Gestión del Rack y Operaciones de Recepción | Se define el desarrollo del sistema web principal de Senit (PMS), permitiendo a los recepcionistas visualizar la disponibilidad de habitaciones, registrar ingresos por horas, gestionar cuentas y realizar el check-out de manera eficiente. | **-** | **-** |
+| **EP-03** | Gestión de Usuarios y Seguridad | Epic relacionada con autenticación de usuarios y protección de información mediante limitaciones de accesos y mejoramientos en tiempos de respuestas. | **-** | **-** |
+| **EP-04** | Facturación Electrónica | Epic relacionada con los comprobantes y pagos digitales durante las distintas transacciones que se registren con la aplicación de SENIT. | **-** | **-** |
 | **US-01** | Primera impresión sobre Senit | Como visitante del segmento de administración, quiero entender rápidamente qué es Senit y qué problema resuelve, para saber si puede ayudarme a mejorar la gestión de mi negocio. | **Escenario 1: Visualización de la sección inicial**<br><br>Dado que el administrador ingresa a la landing page<br><br>Cuando se carga la sección de inicio<br>Entonces debe visualizar una descripción clara y breve sobre Senit<br><br> **Escenario 2: Comprensión del servicio**<br><br>Dado que el administrador revisa la información principal<br><br>Cuando lee el contenido<br><br>Entonces debe entender el objetivo principal del producto<br><br> | **EP-01** |
 | **US-02** | Navegación entre secciones | Como visitante, quiero desplazarme fácilmente entre las secciones de la página, para encontrar rápidamente la información que necesito | **Escenario 1: Opciones de navegación**<br><br>Dado que el visitante ingresa a la landing page<br><br>Cuando se carga la página<br><br>Entonces debe visualizar una barra de navegación horizontal con las secciones de inicio, funcionalidades, planes, contacto e ingreso<br><br>**Escenario 2: Redirección automática de secciones**<br><br>Dado que el visitante se encuentra en la landing page<br><br>Cuando selecciona una opción del menú<br><br>Entonces debe dirigirse a la sección correspondiente<br><br> | **EP-01** |
 | **US-03** | Información sobre funcionalidades | Como visitante del segmento de administración, quiero conocer las funcionalidades que ofrece Senit, para evaluar si es útil para las necesidades del hospedaje | **Escenario 1: Revisión de funcionalidades**<br><br>Dado que el administrador revisa la sección de funcionalidades<br><br>Cuando termina de leer el contenido<br><br>Entonces debe comprender que Senit mejora la administración del hospedaje al permitir gestionar reservas, habitaciones, limpieza, personal y facturación<br><br> | **EP-01** |
@@ -1191,35 +1196,24 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | **US-06** | Cambio de idioma | Como visitante, quiero cambiar el idioma de la página entre español e inglés, para entender mejor la información | **Escenario 1: Opción de cambio de idioma**<br><br>Dado que el visitante ingresa a la landing page<br><br>Cuando se carga la página<br><br>Entonces debe visualizar una opción para cambiar el idioma<br><br>**Escenario 2: Cambio de idioma**<br><br>Dado que el visitante quiere cambiar el idioma<br><br>Cuando selecciona un idioma disponible<br><br>Entonces el contenido debe mostrarse en el idioma seleccionado<br><br> | **EP-01** |
 | **US-07** | Redes sociales | Como administrador de un hospedaje interesado en Senit, quiero encontrar enlaces a redes sociales y medios de contacto, para conocer más sobre Senit | **Escenario 1: Sección inferior de la página**<br><br>Dado que el administrador se encuentra en la última sección de la landing page<br><br>Cuando revisa la zona final de la página<br><br>Entonces debe encontrar enlaces a redes sociales y datos de contacto<br><br>**Escenario 2: Redirección**<br><br>Dado que el administrador selecciona una red social<br><br>Cuando hace clic en alguno de los íconos<br><br>Entonces debe ser redirigido a la red social elegida<br><br> | **EP-01** |
 | **US-08** | Compatibilidad de la landing page con dispositivos móviles | Como visitante que ingresa a la landing page desde su celular, quiero que la página se adapte al tamaño de mi pantalla, para navegar el sitio con normalidad | **Escenario 1: Reordenamiento de la página para celular**<br><br>Dado que el visitante ingresa desde un dispositivo móvil<br><br>Cuando se carga la página<br><br>Entonces los elementos de la página deben ajustarse correctamente al tamaño de la pantalla<br><br>**Escenario 2: Menú de navegación móvil**<br><br>Dado que el visitante ingresó desde un celular<br><br>Cuando presiona el ícono de tres líneas en la parte superior<br><br>Entonces debe mostrarse una barra de navegación vertical con las secciones principales para desplazarse<br><br>**Escenario 3: Navegación móvil**<br><br>Dado que el visitante tiene la barra de navegación vertical activa<br><br>Cuando presiona alguna de las secciones<br><br>Entonces la barra de navegación debe ocultarse y redigirse a la sección elegida<br><br> | **EP-01** |
-| **US-09** | Visualización de habitaciones | Como recepcionista del hospedaje, quiero consultar las habitaciones según su estado actual, para identificar cuáles están disponibles, ocupadas, en limpieza o en mantenimiento. | **Escenario 1: Consulta de habitaciones registradas**<br><br>Dado que existen habitaciones registradas en el hospedaje<br><br>Cuando el recepcionista consulta las habitaciones<br><br>Entonces debe visualizar las habitaciones clasificadas por su estado actual<br><br> | **EP-02** |
-| **US-10** | Registro de check-in por horas | Como recepcionista del hospedaje, quiero registrar los tiempos de las estadías solicitadas por los huéspedes, para calcular automáticamente el costo inicial y la hora límite de salida, reduciendo el tiempo de atención necesario. | **Escenario 1: Registro exitoso de estadía**<br><br>Dado que existe una habitación disponible<br><br>Cuando el recepcionista registra la estadía y selecciona una tarifa por horas<br><br>Entonces se debe calcular automáticamente la hora límite de salida y el costo inicial<br><br>**Escenario 2: Restricción de habitación no disponible**<br><br>Dado que una habitación se encuentra ocupada, en limpieza o en mantenimiento<br><br>Cuando el recepcionista intenta registrar una estadía<br><br>Entonces se debe impedir la asignación de la habitación<br><br> | **EP-02** |
-| **US-11** | Alertas de estadías a punto de finalizar | Como recepcionista del hospedaje, quiero recibir alertas cuando una estadía esté próxima a finalizar, para avisar al huésped antes de que termine su tiempo de uso. | **Escenario 1: Alerta de tiempo próximo a finalizar**<br><br>Dado que existe una estadía activa<br><br>Cuando faltan 15 minutos para la hora límite de salida<br><br>Entonces se debe alertar que la estadía está próxima a finalizar<br><br>**Escenario 2: Consulta de alertas activas**<br><br>Dado que existen estadías próximas a finalizar<br><br>Cuando el recepcionista consulta las alertas activas<br><br>Entonces debe visualizar las habitaciones junto con su hora límite de salida<br><br> | **EP-02** |
-| **US-12** | Consulta de detalles de estadía | Como recepcionista del hospedaje, quiero consultar los detalles de una estadía activa, para informar al huésped sobre el tiempo restante y el monto pendiente de la estadía. | **Escenario 1: Consulta de información de estadía**<br><br>Dado que existe una estadía activa<br><br>Cuando el recepcionista consulta el detalle de la estadía<br><br>Entonces debe visualizar la fecha de ingreso, la fecha límite de salida y el monto de pago pendiente<br><br>**Escenario 2: Consulta de consumos registrados**<br><br>Dado que existen consumos asociados a una estadía<br><br>Cuando el recepcionista consulta el detalle de la estadía<br><br>Entonces debe visualizar los consumos registrados asociados a la estadía<br><br> | **EP-02** |
-| **US-13** | Registro de consumos adicionales | Como recepcionista del hospedaje, quiero registrar consumos adicionales durante una estadía, para incluirlos en el cobro final del huésped. | **Escenario 1: Registro de consumo adicional**<br><br>Dado que existe una estadía activa<br><br>Cuando el recepcionista registra un producto o servicio adicional<br><br>Entonces el consumo debe agregarse al monto pendiente de pago<br><br>**Escenario 2: Actualización de monto pendiente**<br><br>Dado que existe un nuevo consumo registrado<br><br>Cuando el recepcionista consulta la información de la estadía<br><br>Entonces debe visualizar el monto pendiente actualizado<br><br> | **EP-06** |
-| **US-14** | Registro de check-out | Como recepcionista del hospedaje, quiero registrar la salida del huésped, para cerrar la estadía y liberar la habitación para limpieza. | **Escenario 1: Registro de salida del huésped**<br><br>Dado que existe una estadía activa<br><br>Cuando el recepcionista confirma que el huésped realizó el pago correspondiente<br><br>Entonces la estadía debe cerrarse y la habitación debe cambiar al estado en limpieza<br><br>**Escenario 2: Restricción de salida con pago pendiente**<br><br>Dado que la estadía aún no fue pagada<br><br>Cuando el recepcionista intenta registrar la salida del huésped<br><br>Entonces se debe impedir el cierre de la estadía<br><br> | **EP-02** |
-| **US-16** | Actualización de estado de habitación | Como personal operativo del hospedaje, quiero actualizar el estado de una habitación después de su limpieza e inspección, para dejarla disponible o derivarla a mantenimiento según su condición. | **Escenario 1: Confirmación de habitación disponible**<br><br>Dado que una habitación se encuentra en limpieza<br><br>Cuando el personal confirma que la habitación ya está lista para uso<br><br>Entonces la habitación debe cambiar al estado disponible<br><br>**Escenario 2: Cambio a mantenimiento por incidencia**<br><br>Dado que una habitación se encuentra en limpieza<br><br>Cuando el personal detecta una falla o incidencia que requiere reparación<br><br>Entonces la habitación debe cambiar al estado mantenimiento<br><br> | **EP-03** |
-| **US-17** | Filtros de habitaciones | Como recepcionista del hospedaje, quiero filtrar habitaciones por su estado actual, para encontrar rápidamente las habitaciones que necesito revisar, incluidas las que están cerca de desocuparse. | **Escenario 1: Filtrado de habitaciones disponibles**<br><br>Dado que existen habitaciones registradas<br><br>Cuando el recepcionista filtra habitaciones disponibles<br><br>Entonces debe visualizar únicamente habitaciones disponibles<br><br>**Escenario 2: Filtrado de habitaciones por estado**<br><br>Dado que existen habitaciones ocupadas, en limpieza, en mantenimiento o cerca de desocuparse<br><br>Cuando el recepcionista selecciona un estado específico<br><br>Entonces debe visualizar únicamente habitaciones correspondientes a ese estado<br><br> | **EP-03** |
-| **US-18** | Registro de reservas | Como recepcionista del hospedaje, quiero registrar reservas anticipadas, para organizar la disponibilidad de habitaciones antes de la llegada del huésped. | **Escenario 1: Registro exitoso de reserva**<br><br>Dado que existe una habitación disponible para el periodo solicitado<br><br>Cuando el recepcionista registra la reserva<br><br>Entonces la habitación debe quedar reservada para las fechas seleccionadas<br><br> | **EP-04** |
-| **US-19** | Prevención de sobrereservas | Como administrador del hospedaje, quiero evitar reservas con fechas que se superpongan para una misma habitación, para reducir conflictos durante la atención de huéspedes. | **Escenario 1: Validación de disponibilidad de habitación**<br><br>Dado que una habitación ya se encuentra reservada para un periodo específico<br><br>Cuando el recepcionista intenta registrar otra reserva con fechas que se superponen<br><br>Entonces se debe impedir el registro de la nueva reserva<br><br>**Escenario 2: Restricción por falta de habitaciones disponibles**<br><br>Dado que no existen habitaciones disponibles para el periodo solicitado<br><br>Cuando el recepcionista intenta registrar una reserva<br><br>Entonces se debe indicar que no existen habitaciones disponibles para esas fechas<br><br> | **EP-04** |
-| **US-20** | Registro de huéspedes sin reserva | Como recepcionista del hospedaje, quiero registrar huéspedes sin reserva previa, para asignar habitaciones disponibles durante la atención del huésped. | **Escenario 1: Registro de huésped sin reserva**<br><br>Dado que existen habitaciones disponibles<br><br>Cuando el recepcionista registra el ingreso del huésped<br><br>Entonces la habitación seleccionada debe cambiar al estado ocupada<br><br>**Escenario 2: Restricción por falta de disponibilidad**<br><br>Dado que no existen habitaciones disponibles<br><br>Cuando el recepcionista consulta habitaciones disponibles<br><br>Entonces debe informarse que no hay habitaciones libres en ese momento<br><br> | **EP-02** |
-| **US-21** | Inicio de sesión | Como trabajador del hospedaje, quiero iniciar sesión con mis credenciales, para acceder a las funciones correspondientes a mi rol. | **Escenario 1: Inicio de sesión válido**<br><br>Dado que el trabajador cuenta con credenciales registradas<br><br>Cuando ingresa correctamente su correo y contraseña<br><br>Entonces debe acceder a las funciones correspondientes a su rol<br><br>**Escenario 2: Restricción de acceso inválido**<br><br>Dado que las credenciales ingresadas son incorrectas<br><br>Cuando el trabajador intenta iniciar sesión<br><br>Entonces se debe impedir el acceso a la plataforma<br><br> | **EP-05** |
-| **US-22** | Registro de cuenta administrativa | Como administrador del hospedaje, quiero registrar una cuenta administrativa para mi establecimiento, para acceder a la plataforma y gestionar al personal del hospedaje. | **Escenario 1: Registro exitoso de cuenta administrativa**<br><br>Dado que el administrador cuenta con la información requerida del hospedaje<br><br>Cuando registra sus datos y los datos del establecimiento<br><br>Entonces la cuenta administrativa debe quedar habilitada para acceder a la plataforma<br><br>**Escenario 2: Restricción de correo ya registrado**<br><br>Dado que existe una cuenta registrada con el mismo correo electrónico<br><br>Cuando el administrador intenta registrar una nueva cuenta<br><br>Entonces se debe impedir el registro duplicado<br><br> | **EP-05** |
-| **US-23** | Gestión de roles de usuario | Como administrador del hospedaje, quiero asignar roles al personal registrado, para controlar el acceso según sus responsabilidades operativas. | **Escenario 1: Asignación de rol operativo**<br><br>Dado que existe un usuario registrado<br><br>Cuando el administrador selecciona un rol para el usuario<br><br>Entonces se debe actualizar el rol asignado<br><br>**Escenario 2: Consulta de roles registrados**<br><br>Dado que existen usuarios registrados<br><br>Cuando el administrador consulta la lista de personal<br><br>Entonces debe visualizar el rol asignado a cada usuario<br><br> | **EP-05** |
-| **US-24** | Registro de usuarios del personal | Como administrador del hospedaje, quiero registrar usuarios del personal, para permitir su acceso a la plataforma. | **Escenario 1: Registro de nuevo usuario**<br><br>Dado que el administrador cuenta con la información del trabajador<br><br>Cuando el administrador registra los datos de un nuevo usuario<br><br>Entonces el usuario debe quedar habilitado para iniciar sesión<br><br>**Escenario 2: Restricción de correo duplicado**<br><br>Dado que existe un usuario registrado con el mismo correo<br><br>Cuando el administrador intenta registrar un nuevo usuario<br><br>Entonces se debe impedir el registro duplicado<br><br> | **EP-05** |
-| **US-25** | Emisión de comprobantes electrónicos | Como recepcionista del hospedaje, quiero emitir el comprobante electrónico correspondiente al pago de una estadía, para entregar un respaldo formal de la transacción. | **Escenario 1: Emisión de comprobante electrónico**<br><br>Dado que el huésped realizó el pago de la estadía<br><br>Cuando el recepcionista solicita emitir el comprobante<br><br>Entonces se debe generar el comprobante electrónico correspondiente<br><br> | **EP-06** |
-| **US-26** | Supervisión de ocupación de habitaciones | Como administrador del hospedaje, quiero consultar el estado de ocupación de las habitaciones, para supervisar la disponibilidad y el uso del establecimiento. | **Escenario 1: Consulta de estados de habitaciones**<br><br>Dado que existen habitaciones registradas<br><br>Cuando el administrador consulta la ocupación actual<br><br>Entonces debe visualizar habitaciones disponibles, ocupadas, en limpieza y en mantenimiento<br><br>**Escenario 2: Consulta de ocupación general**<br><br>Dado que existen habitaciones registradas<br><br>Cuando el administrador consulta el resumen de ocupación<br><br>Entonces debe visualizar la cantidad de habitaciones por cada estado<br><br> | **EP-03** |
-| **US-27** | Consulta de ingresos del hospedaje | Como administrador del hospedaje, quiero consultar los ingresos generados por estadías y consumos, para supervisar el rendimiento económico del establecimiento. | **Escenario 1: Consulta de ingresos registrados**<br><br>Dado que existen pagos asociados a estadías y consumos<br><br>Cuando el administrador consulta los ingresos del hospedaje<br><br>Entonces debe visualizar los montos registrados por las operaciones realizadas<br><br>**Escenario 2: Consulta de ingresos por periodo**<br><br>Dado que existen pagos registrados<br><br>Cuando el administrador selecciona un rango de fechas<br><br>Entonces debe visualizar los ingresos correspondientes al periodo seleccionado<br><br> | **EP-06** |
-| **TS-01** | Internacionalización de la plataforma | Como developer, quiero implementar internacionalización en la plataforma web, para permitir la visualización en español e inglés. | **Escenario 1: Cambio de idioma**<br><br>Dado que el usuario utiliza la plataforma<br><br>Cuando selecciona un idioma disponible<br><br>Entonces los textos deben mostrarse en el idioma seleccionado<br><br>**Escenario 2: Persistencia de idioma seleccionado**<br><br>Dado que el usuario seleccionó un idioma previamente<br><br>Cuando vuelve a ingresar a la plataforma<br><br>Entonces el idioma seleccionado debe mantenerse | **EP-07** |
-| **TS-02** | Gestión de habitaciones por API REST | Como developer, quiero integrar la consulta y actualización de habitaciones mediante una RESTful API, para administrar su disponibilidad y estado operativo. | **Escenario 1: Consulta de habitaciones**<br><br>Dado que existen habitaciones registradas<br><br>Cuando la aplicación realiza una petición GET /rooms<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar las habitaciones junto con su estado actual<br><br>**Escenario 2: Actualización de estado de habitación**<br><br>Dado que existe una habitación registrada<br><br>Cuando la aplicación realiza una petición PATCH /rooms/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar el estado correspondiente | **EP-07** |
-| **TS-03** | Gestión de reservas por API REST | Como developer, quiero integrar el registro y consulta de reservas mediante una RESTful API, para gestionar la disponibilidad de habitaciones del hospedaje. | **Escenario 1: Registro de reserva**<br><br>Dado que existe disponibilidad de habitaciones<br><br>Cuando la aplicación realiza una petición POST /reservations<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar la reserva correspondiente<br><br>**Escenario 2: Consulta de reservas**<br><br>Dado que existen reservas registradas<br><br>Cuando la aplicación realiza una petición GET /reservations<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar las reservas registradas | **EP-07** |
-| **TS-04** | Gestión de estadías por API REST | Como developer, quiero integrar el registro y actualización de estadías mediante una RESTful API, para gestionar el check-in y check-out de huéspedes. | **Escenario 1: Registro de check-in**<br><br>Dado que existe una habitación disponible<br><br>Cuando la aplicación realiza una petición POST /guest-stays<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar la estadía correspondiente<br><br>**Escenario 2: Registro de check-out**<br><br>Dado que existe una estadía activa<br><br>Cuando la aplicación realiza una petición PATCH /guest-stays/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar la estadía como finalizada | **EP-07** |
-| **TS-05** | Gestión de consumos por API REST | Como developer, quiero integrar el registro y consulta de consumos mediante una RESTful API, para mantener actualizado el cobro asociado a cada estadía. | **Escenario 1: Registro de consumo**<br><br>Dado que existe una estadía activa<br><br>Cuando la aplicación realiza una petición POST /consumptions<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar el consumo correspondiente<br><br>**Escenario 2: Consulta de consumos**<br><br>Dado que existen consumos registrados<br><br>Cuando la aplicación realiza una petición GET /consumptions<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los consumos asociados a estadías | **EP-07** |
-| **TS-06** | Gestión de pagos por API REST | Como developer, quiero integrar el registro y consulta de pagos mediante una RESTful API, para mantener actualizados los montos pendientes de las estadías. | **Escenario 1: Registro de pago**<br><br>Dado que existe una estadía con montos pendientes<br><br>Cuando la aplicación realiza una petición POST /payments<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar el pago correspondiente<br><br>**Escenario 2: Consulta de pagos**<br><br>Dado que existen pagos registrados<br><br>Cuando la aplicación realiza una petición GET /payments<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los pagos asociados a estadías | **EP-07** |
-| **TS-07** | Emisión de comprobantes electrónicos por API REST | Como developer, quiero integrar la emisión y consulta de comprobantes electrónicos mediante una RESTful API, para generar comprobantes asociados a pagos registrados. | **Escenario 1: Emisión de comprobante**<br><br>Dado que existe un pago registrado<br><br>Cuando la aplicación realiza una petición POST /invoices<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe generar el comprobante correspondiente<br><br>**Escenario 2: Consulta de comprobantes**<br><br>Dado que existen comprobantes emitidos<br><br>Cuando la aplicación realiza una petición GET /invoices<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los comprobantes registrados | **EP-07** |
-| **TS-08** | Autenticación por API REST | Como developer, quiero integrar la autenticación mediante una RESTful API, para validar el acceso según los roles del personal. | **Escenario 1: Inicio de sesión válido**<br><br>Dado que existen credenciales registradas<br><br>Cuando la aplicación realiza una petición POST /authentication/sign-in<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar la información del usuario autenticado<br><br>**Escenario 2: Restricción de acceso inválido**<br><br>Dado que las credenciales son incorrectas<br><br>Cuando la aplicación realiza una petición POST /authentication/sign-in<br><br>Entonces la API debe responder con código 401 Unauthorized | **EP-07** |
-| **TS-09** | Gestión de usuarios por API REST | Como developer, quiero integrar el registro y consulta de usuarios mediante una RESTful API, para administrar el acceso del personal a la plataforma. | **Escenario 1: Registro de usuario**<br><br>Dado que existe información válida del trabajador<br><br>Cuando la aplicación realiza una petición POST /users<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar el nuevo usuario<br><br>**Escenario 2: Consulta de usuarios**<br><br>Dado que existen usuarios registrados<br><br>Cuando la aplicación realiza una petición GET /users<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los usuarios registrados junto con sus roles | **EP-07** |
-| **TS-11** | Alertas operativas por API REST | Como developer, quiero integrar la consulta de alertas operativas mediante una RESTful API, para identificar estadías próximas a finalizar y estados relevantes de operación. | **Escenario 1: Consulta de estadías activas**<br><br>Dado que existen estadías activas<br><br>Cuando la aplicación realiza una petición GET /guest-stays/active<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar las estadías activas<br><br>**Escenario 2: Consulta de alertas operativas**<br><br>Dado que existen estadías próximas a finalizar<br><br>Cuando la aplicación realiza una petición GET /alerts/stay-expiration<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar las alertas de estadías próximas a finalizar | **EP-07** |
-| **TS-12** | Reportes de ocupación e ingresos por API REST | Como developer, quiero integrar la consulta de reportes mediante una RESTful API, para visualizar la ocupación e ingresos del hospedaje. | **Escenario 1: Consulta de ocupación**<br><br>Dado que existen habitaciones registradas<br><br>Cuando la aplicación realiza una petición GET /reports/occupancy<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar la información de ocupación del hospedaje<br><br>**Escenario 2: Consulta de ingresos**<br><br>Dado que existen pagos registrados<br><br>Cuando la aplicación realiza una petición GET /reports/revenue<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los ingresos registrados del hospedaje | **EP-07** |
+| **US-09** | Visualización del Rack Gráfico | Como recepcionista del hospedaje, quiero ver un panel visual con todas las habitaciones y sus estados actuales, para identificar rápidamente la disponibilidad al atender a un cliente. | **Escenario 1: Vista general del estado**<br><br>Dado que el recepcionista ingresa a la plataforma web<br><br>Cuando navega a la sección "Rack de Habitaciones"<br><br>Entonces debe ver los cuartos representados con colores distintos según su estado (Libre, Ocupada, En Limpieza)<br><br>**Escenario 2: Actualización en tiempo real**<br><br>Dado que el recepcionista está mirando el Rack<br><br>Cuando el estado de una habitación cambia<br><br>Entonces el color y estado deben actualizarse inmediatamente sin necesidad de recargar la página<br><br> | **EP-02** |
+| **US-10** | Registro de Check-in por bloques de horas | Como recepcionista del hospedaje, quiero registrar la entrada de un huésped seleccionando un bloque de horas, para calcular automáticamente su hora de salida y el costo inicial. | **Escenario 1: Ingreso exitoso por horas**<br><br>Dado que el recepcionista selecciona una habitación libre<br><br>Cuando ingresa los datos y selecciona una tarifa de "4 horas"<br><br>Entonces el sistema calcula la hora de salida exacta y cambia la habitación a estado Ocupado<br><br>**Escenario 2: Restricción de habitación**<br><br>Dado que el recepcionista intenta hacer check-in<br><br>Cuando selecciona una habitación que está en estado "Sucia"<br><br>Entonces el sistema muestra un mensaje de error impidiendo el registro<br><br> | **EP-02** |
+| **US-11** | Alertas de tiempo de estadía por vencer | Como recepcionista del hospedaje, quiero que el sistema me notifique cuando el tiempo de una habitación esté por expirar, para poder avisar al huésped con anticipación. | **Escenario 1: Alerta visual de tiempo**<br><br>Dado que una habitación está alquilada por horas<br><br>Cuando falten 15 minutos para su hora de salida calculada<br><br>Entonces el sistema debe mostrar un icono de alerta visual parpadeante en esa habitación dentro del Rack<br><br> | **EP-02** |
+| **US-12** | Visualización de detalles de ocupación | Como recepcionista del hospedaje, quiero hacer clic en una habitación ocupada para ver sus detalles, para informar al cliente cuánto tiempo le queda o su deuda actual. | **Escenario 1: Despliegue de información**<br><br>Dado que el recepcionista hace clic en una habitación ocupada<br><br>Cuando se abre la ventana de detalles<br><br>Entonces debe visualizar la hora de entrada, hora límite de salida, y el monto total acumulado a pagar<br><br> | **EP-02** |
+| **US-13** | Agregar consumos adicionales al cuarto | Como recepcionista del hospedaje, quiero agregar productos o servicios extra a la cuenta de la habitación, para cobrar el monto total en una sola transacción al final. | **Escenario 1: Suma de productos a la cuenta**<br><br>Dado que el recepcionista abre los detalles de una habitación ocupada<br><br>Cuando selecciona un producto del inventario (ej. agua) y confirma<br><br>Entonces el costo de ese producto se suma automáticamente a la deuda final de esa habitación<br><br> | **EP-02** |
+| **US-14** | Registro de Check-out y cambio a limpieza | Como recepcionista del hospedaje, quiero finalizar la estadía de una habitación, para realizar el cobro y notificar que el cuarto necesita aseo. | **Escenario 1: Finalización de estadía**<br><br>Dado que el recepcionista selecciona la opción "Check-out"<br><br>Cuando confirma la recepción del pago total<br><br>Entonces el sistema cierra la cuenta y cambia la habitación de "Ocupada" a estado "En Limpieza"<br><br> | **EP-02** |
+| **US-15** | Habilitación de habitación limpia | Como recepcionista del hospedaje, quiero marcar una habitación como "Limpia" una vez finalizado el aseo, para que vuelva a estar disponible para un nuevo alquiler. | **Escenario 1: Liberar la habitación**<br><br>Dado que una habitación se encuentra en estado "En Limpieza"<br><br>Cuando el recepcionista presiona el botón "Marcar como Libre"<br><br>Entonces el color de la habitación cambia y el cuarto vuelve a estar disponible para hacer check-in<br><br> | **EP-02** |
+| **US-16** | Filtros rápidos en el Rack Gráfico | Como recepcionista del hospedaje, quiero filtrar las habitaciones por su estado actual, para encontrar más rápido los cuartos que están listos para ser alquilados. | **Escenario 1: Filtrado de cuartos disponibles**<br><br>Dado que el recepcionista visualiza el Rack completo<br><br>Cuando hace clic en el botón de filtro "Mostrar solo Libres"<br><br>Entonces el panel oculta las habitaciones ocupadas o sucias, mostrando únicamente las disponibles<br><br> | **EP-02** |
+| **TS-01** | Persistencia de datos de reservas | Como desarrollador, quiero almacenar las reservas en una base de datos relacional para garantizar integridad y trazabilidad sobre la información de los usuarios, reservas y cortes de cajas. | **Escenario 1: Almacenamiento de datos**<br><br>Dada un cambio en los registros del hotel<br><br> Cuando el sistema guarda la información<br><br> Entonces los datos permanecen registrados correctamente en la base de datos.<br><br> | **EP-01** |
+| **TS-02** | Actualización en tiempo real del estado de habitaciones | Como desarrollador, quiero sincronizar el estado de las habitaciones en tiempo real para evitar conflictos de asignación o inconvenientes con clientes. | **Escenario 1: Actualización en tiempo real**<br><br>Dado que una habitación cambia de estado<br><br> Cuando el sistema procesa la actualización<br><br> Entonces se muestra la información actualizada en el panel administrativo.<br><br> | **EP-02** |
+| **TS-03** | Diseño responsive Mobile y Desktop | Como desarrollador, quiero que la plataforma sea responsive para garantizar una correcta visualización en dispositivos móviles y cambios de tamaño en computadoras. | **Escenario 1: Cambio de tamaño de interfaz**<br><br>Dado que el usuario accede desde un dispositivo móvil o de escritorio<br><br> Cuando el sistema carga la interdaz<br><br> Entonces el contenido se adapta correctamente al tamaño de pantalla manteniendo toda la información visible.<br><br> | **EP-02** |
+| **TS-04** | Autenticación segura  | Como desarrollador, quiero implementar autenticación segura para restringir accesos no autorizados al sistema. | **Escenario 1: Ingreso de crededenciales validas**<br><br>Dado que las credenciales son válidas.<br><br> Cuando el usuario inicia sesión.<br><br> Entonces el sistema permite el acceso correctamente.<br><br>**Escenario 1: Ingreso de crededenciales invalidas**<br><br>Dado que las credenciales son inválidas.<br><br> Cuando el usuario inicia sesión y se detecta un error.<br><br>Entonces se le niega el acceso.<br><br>| **EP-03** |
+| **TS-05** | Registro de accesos del personal | Como desarrollador, quiero registrar los accesos de usuarios para mantener trazabilidad y monitoreo de actividad. | **Escenario 1: Registro de acceso de personal**<br><br>Dado que un usuario inicia sesión.<br><br> Cuando el acceso es procesado.<br><br> Entonces el sistema registra fecha, IP y resultado del intento.<br><br>| **EP-03** |
+| **TS-06** | Optimización del tiempo de respuesta | Como desarrollador, quiero optimizar el rendimiento del sistema para reducir tiempos de carga y mejorar la experiencia del usuario. | **Escenario 1: Respuesta ágil de solicitudes**<br><br>Dado que se da una solicitud del usuario.<br><br> Cuando el sistema procesa la petición.<br><br> Entonces la respuesta se genera en un tiempo adecuado sin afectar la experiencia de uso.<br><br>| **EP-03** |
+| **TS-07** | Integración con facturación electrónica | Como desarrollador, quiero integrar servicios de facturación electrónica para emitir comprobantes automáticamente. | **Emisión de factura valida**<br><br>Dada una transacción válida.<br><br> Cuando el sistema procesa el pago.<br><br> Entonces el comprobante electrónico se genera correctamente.<br><br>| **EP-04** |
+| **TS-08** | Validación de datos | Como desarrollador, quiero validar los datos ingresados por los usuarios para evitar registros erróneos en el sistema. | **Información erronea o incompleta**<br><br>Dada una información incompleta o inválida.<br><br> Cuando el sistema detecta inconsistencias.<br><br> Entonces la operación es rechazada mostrando un mensaje de validación.<br><br>| **EP-04** |
+| **TS-09** | Arquitectura basada en bounded contexts | Como desarrollador, quiero estructurar el sistema mediante bounded contexts para mejorar la mantenibilidad y escalabilidad del proyecto. | **Emisión de factura valida**<br><br>Dado que los módulos del sistema están definidos.<br><br> Cuando el sistema organiza sus componentes.<br><br> Entonces cada bounded context mantiene responsabilidades separadas y coherentes.<br><br>| **EP-04** |
+
 
 ## 3.2. Impact Mapping
 
@@ -1241,7 +1235,21 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | 8 | US-07 | Redes sociales | Como administrador de un hospedaje interesado en Senit, quiero encontrar enlaces a redes sociales y medios de contacto, para conocer más sobre Senit. | 2 |
 | 9 | US-09 | Visualización del Rack Gráfico | Como recepcionista del hospedaje, quiero ver un panel visual con todas las habitaciones y sus estados actuales, para identificar rápidamente la disponibilidad al atender a un cliente. | 5 |
 | 10 | US-10 | Registro de Check-in por bloques de horas | Como recepcionista del hospedaje, quiero registrar la entrada de un huésped seleccionando un bloque de horas, para calcular automáticamente su hora de salida y el costo inicial. | 5 |
-
+| 11 | US-12 | Visualización de detalles de ocupación | Como recepcionista del hospedaje, quiero hacer clic en una habitación ocupada para ver sus detalles, para informar al cliente cuánto tiempo le queda o su deuda actual. | 3 |
+| 12 | US-14 | Registro de Check-out y cambio a limpieza | Como recepcionista del hospedaje, quiero finalizar la estadía de una habitación, para realizar el cobro y notificar que el cuarto necesita aseo. | 5 |
+| 13 | US-15 | Habilitación de habitación limpia | Como recepcionista del hospedaje, quiero marcar una habitación como "Limpia" una vez finalizado el aseo, para que vuelva a estar disponible para un nuevo alquiler. | 3 |
+| 14 | US-16 | Filtros rápidos en el Rack Gráfico | Como recepcionista del hospedaje, quiero filtrar las habitaciones por su estado actual, para encontrar más rápido los cuartos que están listos para ser alquilados. | 2 |
+| 15 | US-11 | Alertas de tiempo de estadía por vencer | Como recepcionista del hospedaje, quiero que el sistema me notifique cuando el tiempo de una habitación esté por expirar, para poder avisar al huésped con anticipación. | 3 |
+| 16 | US-13 | Agregar consumos adicionales al cuarto | Como recepcionista del hospedaje, quiero agregar productos o servicios extra a la cuenta de la habitación, para cobrar el monto total en una sola transacción al final. | 3 |
+| 17 | TS-01 | Persistencia de datos de reservas | Como desarrollador, quiero almacenar las reservas en una base de datos relacional para garantizar integridad y trazabilidad sobre la información de los usuarios, reservas y cortes de caja. | 5 |
+| 18 | TS-02 | Actualización en tiempo real del estado de habitaciones | Como desarrollador, quiero sincronizar el estado de las habitaciones en tiempo real para evitar conflictos de asignación o inconvenientes con clientes. | 5 |
+| 19 | TS-08 | Validación de datos | Como desarrollador, quiero validar los datos ingresados por los usuarios para evitar registros erróneos en el sistema. | 3 |
+| 20 | TS-03 | Diseño responsive Mobile y Desktop | Como desarrollador, quiero que la plataforma sea responsive para garantizar una correcta visualización en dispositivos móviles y cambios de tamaño en computadoras. | 3 |
+| 21 | TS-04 | Autenticación segura | Como desarrollador, quiero implementar autenticación segura para restringir accesos no autorizados al sistema. | 5 |
+| 22 | TS-05 | Registro de accesos del personal | Como desarrollador, quiero registrar los accesos de usuarios para mantener trazabilidad y monitoreo de actividad. | 3 |
+| 23 | TS-06 | Optimización del tiempo de respuesta | Como desarrollador, quiero optimizar el rendimiento del sistema para reducir tiempos de carga y mejorar la experiencia del usuario. | 3 |
+| 24 | TS-07 | Integración con facturación electrónica | Como desarrollador, quiero integrar servicios de facturación electrónica para emitir comprobantes automáticamente. | 5 |
+| 25 | TS-09 | Arquitectura basada en bounded contexts | Como desarrollador, quiero estructurar el sistema mediante bounded contexts para mejorar la mantenibilidad y escalabilidad del proyecto. | 3 |
 ---
 # Capítulo IV: Product Design
 
@@ -1737,6 +1745,23 @@ Para la documentacion de la elaboración de los avances del Sprint 1, que el gru
   <i>Contribuciones individuales de los integrantes durante el Sprint 1 en GitHub.</i>
 </p>
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 ---
 # Conclusiones
 **Conclusiones**
