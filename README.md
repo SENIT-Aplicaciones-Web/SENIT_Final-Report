@@ -123,7 +123,14 @@
 
 ## Project Report Collaboration Insights
 URL de Organización de GITHUB del equipo https://github.com/SENIT-Aplicaciones-Web <br> 
-URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web/SENIT_Final-Report <br>
+URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web/SENIT_Final-Report<br>
+URL de la Landing Page: https://senit-aplicaciones-web.github.io/senit-landing-page/<br>
+
+Entrega AV1: Para este avance el equipo se organizó mediante un grupo de WhatsApp, donde se envió un documento para separar las tareas y actividades a realizar por cada miembro del equipo, así como también las que se tenian que realizar en grupo, y se llegó al acuerdo de que solo los avances y correcciones completos se suban al repositorio de GitHub. Los gráficos de analíticas de colaboración en GitHub, considerando únicamente hasta el 20 de abril.
+<img src="./assets/Insights/contributors.png" alt="Gráfico de contribuidores del primer avance"/>
+
+Entrega TB1: Para este avance se envió al equipo otro documento de asignación de actividades y correcciones para cada integrante del equipo, en este caso las secciones trabajadas por los miembros en la anterior entrega y que tuvieron observaciones fueron corregidos por los mismos. Los gráficos de analíticas de colaboración en GitHub, considerando desde el 28 de abril hasta el 11 de mayo.
+<img src="./assets/Insights/contributors.png" alt="Gráfico de contribuidores del segundo avance"/>
 
 <hr>
 
