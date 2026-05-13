@@ -156,7 +156,7 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
       <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
       <td>
         <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
-        <strong>AV 1:</strong> Me encargué de desarrollar las secciones asignadas (4.1. Style Guidelines y 4.6. Domain-Driven Software Architecture), organizando mi trabajo de manera que se ajuste a los tiempos del equipo. Durante el proceso, mantuve comunicación con mis compañeros y tomé en cuenta el enfoque general del proyecto, buscando que mi aporte se integre de forma coherente con el trabajo del grupo.<br>
+        <strong>AV 1:</strong> Me encargué del desarrollo de las secciones asignadas, organizando mis actividades de acuerdo con los tiempos definidos por el equipo. Durante el proceso, mantuve una comunicación constante con mis compañeros y consideré el enfoque general del proyecto, procurando que mi aporte se integrara de manera coherente con el trabajo grupal.<br>
         <strong>TB:</strong> Durante esta etapa, participé en el desarrollo y corrección de distintas secciones del proyecto, colaborando con el avance grupal y adaptándome a los cambios realizados en la arquitectura y diseño de la aplicación. Asimismo, mantuve comunicación con mis compañeros para asegurar coherencia entre las partes trabajadas y contribuir al cumplimiento de la entrega de manera conjunta.
         <br>
         <br>
@@ -188,8 +188,8 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
       <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</strong></td>
       <td>
         <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
-        <strong>AV 1:</strong> Desarrollé las secciones asignadas (4.1. Style Guidelines y 4.6. Domain-Driven Software Architecture), organizando mi tiempo en función de los plazos de la entrega y estructurando mi trabajo por etapas.<br>
-        <strong>TB:</strong> Contribuí al avance del proyecto mediante la actualización del C4 Model y elaboración de los mockups de la web application, organizando mi trabajo de acuerdo con los tiempos establecidos por el equipo. Esto permitió mantener continuidad en el desarrollo de las secciones corregidas y apoyar el cumplimiento de los objetivos planteados para la entrega.
+        <strong>AV 1:</strong> Desarrollé las secciones asignadas, organizando mi tiempo en función de los plazos de entrega y estructurando mi trabajo por etapas.<br>
+        <strong>TB:</strong> Contribuí al avance del proyecto mediante el desarrollo y actualización de distintos entregables, organizando mi trabajo de acuerdo con los tiempos establecidos por el equipo. Esto permitió mantener continuidad en las secciones corregidas y apoyar el cumplimiento de los objetivos planteados para la entrega.
         <br>
         <br>  
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
@@ -1518,11 +1518,55 @@ User goal: Cerrar mi sesión para que nadie más pueda entrar a mi cuenta por se
 
 
 ### 4.4.3. Web Applications Mock-ups.
-<p align = "center">
-  <img src="assets/webApp/Mockup1.jpg" alt="SENIT_WebApp"/>
+
+RECEPCIONISTA: 
+
+<p align="center">
+  <img src="/assets/webApp/mockups_web/receptionist/Dashboard%20de%20Recepción.png" alt="Dashboard" width="600"/>
 </p>
-<p align = "center">
-  <img src="assets/webApp/Mockup2.jpg" alt="SENIT_WebApp"/>
+
+<p align="center">
+ <p align="center">
+  <img src="/assets/webApp/mockups_web/receptionist/Login.png" alt="Login" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/Registration.png" alt="Registro" width="45%"/>
+</p>
+
+<p align="center">
+ <p align="center">
+  <img src="/assets/webApp/mockups_web/receptionist/Dashboard%20de%20Recepción.png" alt="Dashboard" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/Configuración.png" alt="Configuracion" width="45%"/>
+</p>
+
+<p align="center">
+ <p align="center">
+  <img src="/assets/webApp/mockups_web/receptionist/Check-out.png" alt="Checkout" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/Alertas.png" alt="Alertas" width="45%"/>
+</p>
+
+<p align="center">
+ <p align="center">
+  <img src="/assets/webApp/mockups_web/receptionist/Reservas.png" alt="Reservas" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/Registro%20de%20reservas.png" alt="RegistroR" width="45%"/>
+</p>
+
+<p align="center">
+ <p align="center">
+  <img src="/assets/webApp/mockups_web/receptionist/Lista%20de%20estadias.png" alt="VistaHab" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/Registro%20de%20estadia%20(Check%20in).png" alt="RegistroEst" width="45%"/>
+</p>
+
+<p align="center">
+ <p align="center">
+  <img src="/assets/webApp/mockups_web/receptionist/Detalle%20de%20estadia.png" alt="DetalleEstadia" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/Vista%20de%20habitaciones.png" alt="VistaHab" width="45%"/>
+</p>
+
+ADMIN: 
+
+<p align="center">
+  <img src="/assets/webApp/mockups_web/admin/Dashboard%20de%20supervision.png" alt="DashboardSup" width="600"/>
+<img src="/assets/webApp/mockups_web/admin/Gestión%20del%20hotel.png" alt="GestionHotel" width="600"/>
+<img src="/assets/webApp/mockups_web/admin/Registro%20de%20habitaciones.png" alt="RegistroHab" width="600"/>
 </p>
 
 ### 4.4.4. Web Applications User Flow Diagrams.
@@ -1536,7 +1580,6 @@ En esta sección se representan los principales eventos, comandos, agregados y c
 
 <p align="center">
   <img src="/assets/Diagrams/eventStorming_1.png" alt="Event Storming 1" width="600"/>
-  <br/>
   <img src="/assets/Diagrams/eventStorming_2.png" alt="Event Storming 2" width="600"/>
 </p>
 
