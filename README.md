@@ -123,7 +123,14 @@
 
 ## Project Report Collaboration Insights
 URL de Organización de GITHUB del equipo https://github.com/SENIT-Aplicaciones-Web <br> 
-URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web/SENIT_Final-Report <br>
+URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web/SENIT_Final-Report<br>
+URL de la Landing Page: https://senit-aplicaciones-web.github.io/senit-landing-page/<br>
+
+Entrega AV1: Para este avance el equipo se organizó mediante un grupo de WhatsApp, donde se envió un documento para separar las tareas y actividades a realizar por cada miembro del equipo, así como también las que se tenian que realizar en grupo, y se llegó al acuerdo de que solo los avances y correcciones completos se suban al repositorio de GitHub. Los gráficos de analíticas de colaboración en GitHub, considerando únicamente hasta el 20 de abril.
+<img src="./assets/Insights/contributors.png" alt="Gráfico de contribuidores del primer avance"/>
+
+Entrega TB1: Para este avance se envió al equipo otro documento de asignación de actividades y correcciones para cada integrante del equipo, en este caso las secciones trabajadas por los miembros en la anterior entrega y que tuvieron observaciones fueron corregidos por los mismos. Los gráficos de analíticas de colaboración en GitHub, considerando desde el 28 de abril hasta el 11 de mayo.
+<img src="./assets/Insights/contributors.png" alt="Gráfico de contribuidores del segundo avance"/>
 
 <hr>
 
@@ -434,17 +441,17 @@ Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organ
 
  + **User Assumptions:** 
 
-    + **¿Quién es el usuario?** <br> Hay dos grupos de usuarios, el primero está conformado por los hospedajes, es decir, el personal administrativo y de gestión como recepcionistas y administradores, y el segundo grupo está compuesto por los huéspedes. <br>
+    + **¿Quién es el usuario?** <br> Hay dos grupos de usuarios, el primero está conformado por el personal administrativo y operativo de hoteles y moteles, como recepcionistas, administradores y supervisores, mientras que el segundo está compuesto por dueños y propietarios de hoteles y moteles. <br>
 
-    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?** <br> En los hospedajes, Senit encaja en la gestión diaria, administrando reservas, habitaciones, limpieza, personal y facturación en un solo sistema. Para los huéspedes, encaja como una herramienta que les permite tener una experiencia más fluida desde antes de su llegada al hospedaje, durante su estancia y también su salida. <br>
+    + **¿Dónde encaja nuestro producto en su trabajo o en su vida?** <br> En el caso del personal administrativo y operativo, Senit encaja en la gestión diaria del hospedaje, permitiendo administrar reservas, habitaciones, limpieza, personal y facturación en un solo sistema. Para los dueños y propietarios, encaja como una herramienta de supervisión y control del negocio, que les permite revisar la operación, monitorear reservas, ocupación, ingresos y desempeño general del establecimiento. <br>
 
-    + **¿Cuándo y cómo se utiliza nuestro producto?** <br> Se utiliza durante todo el proceso de hospedaje, desde la reserva hasta el check-out. Su funcionamiento se basa en una plataforma web donde el personal puede registrar, revisar y actualizar información en tiempo real, mientras que el huésped puede gestionar su reserva y realizar su registro de entrada y salida de forma más rápida, evitando largas esperas y mejorando su experiencia. <br>
+    + **¿Cuándo y cómo se utiliza nuestro producto?** <br> Se utiliza durante todo el proceso de operación del hospedaje. Su funcionamiento se basa en una plataforma web donde el personal puede registrar, revisar y actualizar información en tiempo real, mientras que los dueños y propietarios pueden consultar indicadores y el estado general del negocio para tomar decisiones más rápidas y acertadas. <br>
 
-    + **¿Qué problemas resuelve nuestro producto?** <br> Resuelve la ineficiencia y lentitud de los procesos de registro manuales, casos de asignación de tareas duplicadas, errores en el registro de huéspedes, y la falta de control sobre habitaciones y limpieza. Para el huésped reduce el tiempo de espera y mejora su experiencia. <br>
+    + **¿Qué problemas resuelve nuestro producto?** <br> Resuelve la ineficiencia y lentitud de los procesos manuales, los errores en el registro de información, la asignación duplicada de tareas, la falta de control sobre habitaciones y limpieza, y la poca visibilidad sobre la operación general del hospedaje. Para los dueños y propietarios, reduce la dependencia de procesos manuales y mejora la supervisión del negocio. <br>
 
-    + **¿Qué características son importantes?** <br> La facilidad de uso, una vista clara y detallada sobre el estado de las habitaciones, la gestión de reservas, el registro de entrada y salida, la asignación de tareas de limpieza, los roles de acceso, las facturaciones y la velocidad en la actualización de datos . <br>
+    + **¿Qué características son importantes?** <br> La facilidad de uso, una vista clara y detallada sobre el estado de las habitaciones, la gestión de reservas, el registro de entrada y salida, la asignación de tareas de limpieza, los roles de acceso, los reportes de facturación, los indicadores de gestión y la velocidad en la actualización de datos. <br>
 
-    + **¿Cómo debe verse y comportarse nuestro producto?** <br> Debe tener una interfaz profesional, intuitiva y rápida de usar. Debe comportarse como una herramienta confiable que ayude a los hospedajes a tener una gestión ordenada, y a los huéspedes a tener una mejor experiencia de reserva de habitaciones. <br>
+    + **¿Cómo debe verse y comportarse nuestro producto?** <br> Debe tener una interfaz profesional, intuitiva y rápida de usar. Debe comportarse como una herramienta confiable que ayude al personal a tener una gestión ordenada y a los dueños a supervisar su negocio de manera clara, eficiente y en tiempo real. <br>
 
  + **Business Outcomes:** 
 
@@ -452,11 +459,11 @@ Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organ
 
     2. **Estas necesidades se pueden resolver con** un servicio que centralice el manejo de reservas, habitaciones, limpieza, personal, check-in, check-out y facturación en un solo lugar.
 
-    3. **Nuestros usuarios iniciales son** hospedajes pequeños y medianos que aún trabajan con procesos manuales, junto con personas que usan servicios de hospedaje frecuentemente.
+    3. **Nuestros usuarios iniciales son** hoteles y moteles pequeños y medianos que aún trabajan con procesos manuales, junto con su personal administrativo y sus dueños o propietarios.
 
-    4. **El valor #1 que un cliente quiere de nuestro servicio es que** le permita ahorrar tiempo, reducir errores y tener un mayor control de gestión.
+    4. **El valor #1 que un cliente quiere de nuestro servicio es que** le permita ahorrar tiempo, reducir errores y tener un mayor control sobre la gestión del hospedaje.
 
-    5. **El usuario también puede obtener beneficios adicionales como** una coordinación más eficiente entre el personal del hotel, menos carga de trabajo y un mejor seguimiento de tareas asignadas.
+    5. **El usuario también puede obtener beneficios adicionales como** una coordinación más eficiente entre el personal, menos carga de trabajo, mejor supervisión del negocio y mayor control sobre la operación diaria.
 
     6. **Vamos a adquirir la mayoría de nuestros clientes a través de** contacto directo con hospedajes, demostraciones del sistema, publicidad y ofertas personalizadas. 
 
@@ -470,42 +477,42 @@ Por ello planteamos lo siguiente: ¿Cómo ayudar a los hoteles y moteles a organ
 
     11. **Resolveremos esto a través de** una interfaz sencilla, capacitación de uso, acompañamiento en la implementación, y propuestas personalizadas que muestren beneficios rápidos desde el principio.
     
-    13. **¿Qué otras suposiciones tenemos?** Suponemos que los hospedajes valorarán más la rapidez, el orden y el control que mantener métodos manuales, y que los huéspedes preferirán un servicio más rápido aunque tengan que aprender a como usarlo.
+    13. **¿Qué otras suposiciones tenemos?** Suponemos que los hoteles y moteles valorarán más la rapidez, el orden y el control que mantener métodos manuales, y que los dueños y propietarios preferirán una solución que les permita supervisar su negocio sin depender completamente de otras personas.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 ###### Hipótesis 1:
-Creemos que un panel con el estado de las habitaciones, reservas y tareas de limpieza en tiempo real para el personal administrativo, mejorará la coordinación de las operaciones, reduciendo retrasos en la asignación de habitaciones, sabremos que hemos tenido éxito cuando el 70% de usuarios administrativos comuniquen que el control del hospedaje mejoró y que el tiempo de atención disminuyó considerablemente.
+Creemos que si el personal administrativo y operativo de hoteles y moteles cuenta con una herramienta centralizada para gestionar información y coordinar tareas diarias, podrá reducir errores operativos y mejorar la organización de las actividades del hospedaje. Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios indiquen que perciben una mejora en el control y coordinación de las operaciones.
 
--   **Business Outcome:** Aumentar la adopción de Senit en los hospedajes al mejorar la eficiencia operativa.
+-   **Business Outcome:** Mejorar la eficiencia operativa de hoteles y moteles mediante la digitalización de procesos.
     
 -   **Users:** Personal administrativo y de gestión de los hospedajes.
     
 -   **User Outcome:** Tener mayor control y coordinación sobre las tareas de jornada diarias.
     
--   **Feature:** Panel principal con el estado de habitaciones, reservas y limpieza en tiempo real.
+-   **Feature:** Visualización en tiempo real del estado de habitaciones, reservas y tareas.
 
 ###### Hipótesis 2:
-Creemos que si permitimos a los huéspedes reservar y registrar su llegada de forma digital podrán reducir el tiempo de espera en recepción y tener una experiencia más fluida, sabremos que hemos tenido éxito cuando el 80% de los usuarios reporten que el proceso fue más rápido comparado a lo habitual.
+Creemos que si los dueños y propietarios de hoteles y moteles tienen acceso rápido y centralizado a la información relevante de su negocio, podrán supervisar mejor las operaciones y tomar decisiones con mayor rapidez y seguridad. Sabremos que hemos tenido éxito cuando al menos el 80% de los propietarios indiquen que tienen una mejor visibilidad y control del hospedaje.
 
--   **Business Outcome:** Incrementar el uso de Senit en los hospedajes al mejorar la experiencia de los huéspedes al agilizar el proceso de atención.
+-   **Business Outcome:** Aumentar la adopción de Senit en hoteles y moteles al mejorar la eficiencia operativa.
     
--   **Users:** Huéspedes y personas que usan servicios de hospedaje.
+-   **Users:** Dueños y propietarios de hoteles y moteles.
     
--   **User Outcome:** Realizar su registro de manera más rápida y cómoda.
+-   **User Outcome:** Tener una supervisión más clara y eficiente de las operaciones del hospedaje.
     
--   **Feature:** Panel simplificado de reserva y registro de entrada y salida.
+-   **Feature:** Acceso centralizado a indicadores de reservas, ocupación e ingresos.
 
 
 ###### Hipótesis 3:
-Creemos que si unimos en una sola plataforma la información de habitaciones, personal, tareas y facturación para su gestionamiento, el personal administrativo podrá reducir su carga de trabajo manual y organizar mejor sus actividades diarias, sabremos que hemos tenido éxito cuando el 70% de los usuarios administrativos comuniquen que el tiempo que les tomaba en realizar sus actividades disminuyó considerablemente.
+Creemos que si los hoteles y moteles reemplazan procesos manuales por herramientas digitales integradas, el personal administrativo podrá reducir el tiempo dedicado a tareas repetitivas y organizar mejor sus actividades diarias. Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios administrativos reporten una disminución considerable en el tiempo dedicado a tareas operativas.
 
--   **Business Outcome:** Posicionar a Senit como una solución accesible y eficiente al reducir errores operativos y optimizar las labores del personal administrativo hotelero.
+-   **Business Outcome:** Posicionar a Senit como una solución eficiente para optimizar la gestión hotelera.
     
--   **Users:** Personal administrativo y de gestión del hospedaje.
+-   **Users:** Personal administrativo y operativo de hoteles y moteles.
     
--   **User Outcome:** Tener menos carga de trabajo y más orden en sus actividades laborales.
+-   **User Outcome:** Reducir carga laboral y mejorar la eficiencia en sus actividades.
     
--   **Feature:** Panel centralizado con módulos de gestión integrados.
+-   **Feature:** Panel centralizado de reservas, tareas, personal y facturación en una sola interfaz.
 
 #### 1.2.2.4 Lean UX Canvas
 
@@ -513,16 +520,16 @@ Creemos que si unimos en una sola plataforma la información de habitaciones, pe
     <tr>
         <td valign="top" >
             <div align="center"> <br><b>Business Problem</b> </div><br>
-            <p> - Los hospedajes aún dependen de procesos manuales o registros en papel que generan demoras en la asignación de habitaciones, errores y sobrecarga de trabajo <br> 
-                - Los huéspedes enfrentan tiempos de espera largos durante el registro <br> 
+            <p>  - Los hoteles y moteles aún dependen de procesos manuales o registros en papel que generan demoras, errores y sobrecarga de trabajo<br>
+                - Los dueños y propietarios tienen poca visibilidad sobre el estado operativo y administrativo del hospedaje<br>
             </p><br>
         </td>
         <td rowspan="2" valign="top">
             <div align="center"><br><b>Solutions</b> </div><br>
-            <p> - Plataforma web para centralizar reservas, habitaciones, limpieza, personal y facturación. <br> 
-                - Flujo de registro y atención más rápido y ordenado para los huéspedes <br> 
-                - Panel de control en tiempo real del estado de las reservas y habitaciones <br> 
-                - Panel de asignación de tareas y roles para mejorar la coordinación del personal <br> <br> 
+            <p> - Plataforma web para centralizar reservas, habitaciones, limpieza, personal y facturación<br>
+                - Visualización en tiempo real del estado operativo del hospedaje<br>
+                - Acceso centralizado a información relevante para supervisión y control<br>
+                - Herramientas digitales para mejorar la coordinación y organización del personal<br>
             </p><br>
         </td>
             <td valign="top">
@@ -537,23 +544,23 @@ Creemos que si unimos en una sola plataforma la información de habitaciones, pe
         <td valign="top">
             <div align="center"><br><b>Users</b></div><br>
             <p> - Personal administrativo y de gestión de hospedajes <br> 
-                - Huéspedes o personas que usan servicios de hospedaje <br> 
+                - Dueños y propietarios de hoteles y moteles <br> 
             </p><br>
         </td>
         <td valign="top">
             <div align="center"><br><b>User Outcomes & Benefits</b></div><br>
-            <p> - Mayor control y coordinacion de sus tareas laborales <br> 
-                - Incremento en la velocidad de registro de los huéspedes <br> 
-                - Menor carga laboral <br> 
+            <p> - Mayor organización y coordinacion de tareas laborales <br> 
+                - Mejor supervisión y control del negocio <br> 
+                - Reducción de carga laboral y tiempo en procesos manuales <br> 
             </p><br>
         </td>
     </tr>
     <tr>
         <td valign="top">
             <div align="center"> <br><b>Hypotheses</b> </div><br>
-            <p> - Un panel con el estado de las habitaciones, reservas y tareas de limpieza en tiempo real para el personal administrativo, mejorará la coordinación de las operaciones, reduciendo retrasos en la asignación de habitaciones <br> 
-                - Si permitimos a los huéspedes reservar y registrar su llegada de forma digital podrán reducir el tiempo de espera en recepción y tener una experiencia más fluida <br> 
-                - Si unimos en una sola plataforma la información de habitaciones, personal, tareas y facturación para su gestionamiento, el personal administrativo podrá reducir su carga de trabajo manual y organizar mejor sus actividades diarias <br> 
+            <p> - Si el personal administrativo cuenta con información operativa centralizada y actualizada en tiempo real, podrá mejorar la coordinación de actividades y reducir errores operativos<br>
+                - Si los dueños y propietarios tienen acceso rápido a información relevante del hospedaje, podrán supervisar mejor las operaciones y tomar decisiones con mayor seguridad<br>
+                - Si los hoteles y moteles reemplazan procesos manuales por herramientas digitales integradas, el personal podrá reducir tiempo en tareas repetitivas y organizar mejor sus actividades<br>
             </p><br>
         </td>
         <td valign="top">
@@ -564,7 +571,7 @@ Creemos que si unimos en una sola plataforma la información de habitaciones, pe
         <td valign="top">
             <div align="center">  <br><b>What's the least amount of work we need to do to learn the next most important thing?</b> </div><br>
             <p> - Crear un prototipo básico del panel principal y del flujo de registro. <br> 
-                - Probarlo con algunos usuarios del hospedaje y con huéspedes frecuentes para validar si entienden y valoran la propuesta. <br> 
+                - Probarlo con personal administrativo y propietarios de hospedajes para validar si la propuesta les resulta útil y fácil de utilizar.<br>
             </p><br>
         </td>
     </tr>
@@ -901,7 +908,21 @@ Finalmente, el entrevistado resaltó que para mantener la rentabilidad del negoc
 
 Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un hotel en Máncora, quien detalla su experiencia tras veinte años administrando el negocio. El propietario explica que actualmente supervisa la operatividad de forma remota mediante el uso de cámaras de seguridad y la plataforma Dropbox para revisar hojas de cálculo. Durante la conversación, subraya que los principales desafíos operativos incluyen la alta rotación de personal inexperto y el impacto negativo de los transportistas locales que desvían a los turistas. Aranda reconoce la importancia crítica del marketing digital en redes sociales y se muestra abierto a implementar nuevas herramientas tecnológicas que ofrezcan reportes en tiempo real. El objetivo principal de integrar estos sistemas sería mejorar la gestión de reservas y ajustar tarifas dinámicamente para mantenerse competitivo en el sector..
 
-### 2.2.3 Análisis de entrevistas
+### 2.2. Análisis de entrevistas
+
+El análisis detallado de las interacciones con nuestro público objetivo revela patrones, necesidades y puntos de dolor que validan la urgencia de implementar **Senit** en el mercado. A continuación, se presenta la síntesis de hallazgos por cada segmento:
+
+#### Segmento 1: Personal administrativo y operativo de hoteles y moteles
+La gestión de recepción y gerencia de turno evidencia una dependencia crítica de procesos manuales y canales de comunicación no oficiales. Aunque existen establecimientos que intentan digitalizarse, la gran mayoría de la operación diaria se sostiene en cuadernos, hojas de Excel y grupos de WhatsApp, generando los siguientes cuellos de botella:
+* **Riesgo de sobreocupación:** El registro manual de reservas desde distintos canales (redes sociales, llamadas) ocasiona cruces de horarios y asignaciones dobles (doble reserva) debido a la desorganización de personal nuevo o inexperto.
+* **Descoordinación con Housekeeping:** La comunicación del estado de las habitaciones (limpia/sucia) a través de WhatsApp es altamente ineficiente. Los mensajes suelen perderse entre el flujo de trabajo, provocando que recepción asigne habitaciones que aún no están listas, lo que genera largas esperas y quejas en el mostrador.
+* **Demoras en facturación y seguridad:** El ingreso manual de datos al portal de la SUNAT para emitir comprobantes ralentiza significativamente el proceso de check-out. Adicionalmente, el personal requiere canales centralizados y seguros para manejar datos sensibles de los huéspedes, evitando la informalidad de aplicaciones de mensajería externa.
+
+#### Segmento 2: Dueños y propietarios de hoteles y moteles
+Desde la perspectiva de los inversionistas y gerentes propietarios, la mayor frustración radica en la **pérdida de control operativo en tiempo real**. Al no estar presentes físicamente durante toda la jornada, recurren a herramientas fragmentadas como cámaras de seguridad, visitas interdiarias o revisión de carpetas compartidas (Dropbox) para intentar medir la rentabilidad. Los hallazgos clave incluyen:
+* **Falta de visibilidad instantánea:** Los propietarios necesitan conocer la ocupación real al instante para aplicar estrategias de marketing y precios dinámicos (ej. reducir las tarifas en horas de baja afluencia para no perder ingresos).
+* **Vulnerabilidad ante factores externos:** Existen fugas de ingresos por situaciones no controladas desde el sistema, como el desvío de clientes con reservas por parte de transportistas locales, lo que deja habitaciones bloqueadas innecesariamente.
+* **Necesidad de supervisión remota y amigable:** Debido a que muchos propietarios pertenecen a una generación de migrantes digitales, requieren que la solución tecnológica sea visual, práctica y con una curva de aprendizaje mínima. Buscan un mapa interactivo o panel de control que les permita supervisar el rendimiento, el cuadre de caja y la seguridad del establecimiento desde su celular sin depender netamente de los reportes verbales de su personal.
 
 ## 2.3 Needfinding
 
@@ -1209,23 +1230,35 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | 6 | US-08 | Compatibilidad de la landing page con dispositivos móviles | Como visitante que ingresa a la landing page desde su celular, quiero que la página se adapte al tamaño de mi pantalla, para navegar el sitio con normalidad. | 5 |
 | 7 | US-06 | Cambio de idioma | Como visitante, quiero cambiar el idioma de la página entre español e inglés, para entender mejor la información. | 5 |
 | 8 | US-07 | Redes sociales | Como administrador de un hospedaje interesado en Senit, quiero encontrar enlaces a redes sociales y medios de contacto, para conocer más sobre Senit. | 2 |
-| 9 | US-09 | Visualización del Rack Gráfico | Como recepcionista del hospedaje, quiero ver un panel visual con todas las habitaciones y sus estados actuales, para identificar rápidamente la disponibilidad al atender a un cliente. | 5 |
-| 10 | US-10 | Registro de Check-in por bloques de horas | Como recepcionista del hospedaje, quiero registrar la entrada de un huésped seleccionando un bloque de horas, para calcular automáticamente su hora de salida y el costo inicial. | 5 |
-| 11 | US-12 | Visualización de detalles de ocupación | Como recepcionista del hospedaje, quiero hacer clic en una habitación ocupada para ver sus detalles, para informar al cliente cuánto tiempo le queda o su deuda actual. | 3 |
-| 12 | US-14 | Registro de Check-out y cambio a limpieza | Como recepcionista del hospedaje, quiero finalizar la estadía de una habitación, para realizar el cobro y notificar que el cuarto necesita aseo. | 5 |
-| 13 | US-15 | Habilitación de habitación limpia | Como recepcionista del hospedaje, quiero marcar una habitación como "Limpia" una vez finalizado el aseo, para que vuelva a estar disponible para un nuevo alquiler. | 3 |
-| 14 | US-16 | Filtros rápidos en el Rack Gráfico | Como recepcionista del hospedaje, quiero filtrar las habitaciones por su estado actual, para encontrar más rápido los cuartos que están listos para ser alquilados. | 2 |
-| 15 | US-11 | Alertas de tiempo de estadía por vencer | Como recepcionista del hospedaje, quiero que el sistema me notifique cuando el tiempo de una habitación esté por expirar, para poder avisar al huésped con anticipación. | 3 |
-| 16 | US-13 | Agregar consumos adicionales al cuarto | Como recepcionista del hospedaje, quiero agregar productos o servicios extra a la cuenta de la habitación, para cobrar el monto total en una sola transacción al final. | 3 |
-| 17 | TS-01 | Persistencia de datos de reservas | Como desarrollador, quiero almacenar las reservas en una base de datos relacional para garantizar integridad y trazabilidad sobre la información de los usuarios, reservas y cortes de caja. | 5 |
-| 18 | TS-02 | Actualización en tiempo real del estado de habitaciones | Como desarrollador, quiero sincronizar el estado de las habitaciones en tiempo real para evitar conflictos de asignación o inconvenientes con clientes. | 5 |
-| 19 | TS-08 | Validación de datos | Como desarrollador, quiero validar los datos ingresados por los usuarios para evitar registros erróneos en el sistema. | 3 |
-| 20 | TS-03 | Diseño responsive Mobile y Desktop | Como desarrollador, quiero que la plataforma sea responsive para garantizar una correcta visualización en dispositivos móviles y cambios de tamaño en computadoras. | 3 |
-| 21 | TS-04 | Autenticación segura | Como desarrollador, quiero implementar autenticación segura para restringir accesos no autorizados al sistema. | 5 |
-| 22 | TS-05 | Registro de accesos del personal | Como desarrollador, quiero registrar los accesos de usuarios para mantener trazabilidad y monitoreo de actividad. | 3 |
-| 23 | TS-06 | Optimización del tiempo de respuesta | Como desarrollador, quiero optimizar el rendimiento del sistema para reducir tiempos de carga y mejorar la experiencia del usuario. | 3 |
-| 24 | TS-07 | Integración con facturación electrónica | Como desarrollador, quiero integrar servicios de facturación electrónica para emitir comprobantes automáticamente. | 5 |
-| 25 | TS-09 | Arquitectura basada en bounded contexts | Como desarrollador, quiero estructurar el sistema mediante bounded contexts para mejorar la mantenibilidad y escalabilidad del proyecto. | 3 |
+| 9 | US-09 | Visualización de habitaciones | Como recepcionista del hospedaje, quiero consultar las habitaciones según su estado actual, para identificar cuáles están disponibles, ocupadas, en limpieza o en mantenimiento. | 3 |
+| 10 | US-10 | Registro de check-in por horas | Como recepcionista del hospedaje, quiero registrar los tiempos de las estadías solicitadas por los huéspedes, para calcular automáticamente el costo inicial y la hora límite de salida, reduciendo el tiempo de atención necesario. | 5 |
+| 11 | US-12 | Consulta de detalles de estadía | Como recepcionista del hospedaje, quiero consultar los detalles de una estadía activa, para informar al huésped sobre el tiempo restante y el monto pendiente de la estadía. | 4 |
+| 12 | US-14 | Registro de check-out | Como recepcionista del hospedaje, quiero registrar la salida del huésped, para cerrar la estadía y liberar la habitación para limpieza. | 5 |
+| 13 | US-16 | Actualización de estado de habitación | Como personal operativo del hospedaje, quiero actualizar el estado de una habitación después de su limpieza e inspección, para dejarla disponible o derivarla a mantenimiento según su condición. | 3 |
+| 14 | US-17 | Filtros de habitaciones | Como recepcionista del hospedaje, quiero filtrar habitaciones por su estado actual, para encontrar rápidamente las habitaciones que necesito revisar, incluidas las que están cerca de desocuparse. | 3 |
+| 15 | US-20 | Registro de huéspedes sin reserva | Como recepcionista del hospedaje, quiero registrar huéspedes sin reserva previa, para asignar habitaciones disponibles durante la atención del huésped. | 5 |
+| 16 | TS-01 | Internacionalización de la plataforma | Como developer, quiero implementar internacionalización en la plataforma web, para permitir la visualización en español e inglés. | 3 |
+| 17 | US-11 | Alertas de estadías a punto de finalizar | Como recepcionista del hospedaje, quiero recibir alertas cuando una estadía esté próxima a finalizar, para avisar al huésped antes de que termine su tiempo de uso. | 3 |
+| 18 | US-13 | Registro de consumos adicionales | Como recepcionista del hospedaje, quiero registrar consumos adicionales durante una estadía, para incluirlos en el cobro final del huésped. | 3 |
+| 19 | US-18 | Registro de reservas | Como recepcionista del hospedaje, quiero registrar reservas anticipadas, para organizar la disponibilidad de habitaciones antes de la llegada del huésped. | 5 |
+| 20 | US-19 | Prevención de sobrereservas | Como administrador del hospedaje, quiero evitar reservas con fechas que se superpongan para una misma habitación, para reducir conflictos durante la atención de huéspedes. | 5 |
+| 21 | US-21 | Inicio de sesión | Como trabajador del hospedaje, quiero iniciar sesión con mis credenciales, para acceder a las funciones correspondientes a mi rol. | 3 |
+| 22 | US-22 | Registro de cuenta administrativa | Como administrador del hospedaje, quiero registrar una cuenta administrativa para mi establecimiento, para acceder a la plataforma y gestionar al personal del hospedaje. | 5 |
+| 23 | US-24 | Registro de usuarios del personal | Como administrador del hospedaje, quiero registrar usuarios del personal, para permitir su acceso a la plataforma. | 3 |
+| 24 | US-23 | Gestión de roles de usuario | Como administrador del hospedaje, quiero asignar roles al personal registrado, para controlar el acceso según sus responsabilidades operativas. | 3 |
+| 25 | US-25 | Emisión de comprobantes electrónicos | Como recepcionista del hospedaje, quiero emitir el comprobante electrónico correspondiente al pago de una estadía, para entregar un respaldo formal de la transacción. | 5 |
+| 26 | US-26 | Supervisión de ocupación de habitaciones | Como administrador del hospedaje, quiero consultar el estado de ocupación de las habitaciones, para supervisar la disponibilidad y el uso del establecimiento. | 3 |
+| 27 | US-27 | Consulta de ingresos del hospedaje | Como administrador del hospedaje, quiero consultar los ingresos generados por estadías y consumos, para supervisar el rendimiento económico del establecimiento. | 5 |
+| 28 | TS-02 | Gestión de habitaciones por API REST | Como developer, quiero integrar la consulta y actualización de habitaciones mediante una RESTful API, para administrar su disponibilidad y estado operativo. | 5 |
+| 29 | TS-04 | Gestión de estadías por API REST | Como developer, quiero integrar el registro y actualización de estadías mediante una RESTful API, para gestionar el check-in y check-out de huéspedes. | 5 |
+| 30 | TS-03 | Gestión de reservas por API REST | Como developer, quiero integrar el registro y consulta de reservas mediante una RESTful API, para gestionar la disponibilidad de habitaciones del hospedaje. | 5 |
+| 31 | TS-05 | Gestión de consumos por API REST | Como developer, quiero integrar el registro y consulta de consumos mediante una RESTful API, para mantener actualizado el cobro asociado a cada estadía. | 3 |
+| 32 | TS-06 | Gestión de pagos por API REST | Como developer, quiero integrar el registro y consulta de pagos mediante una RESTful API, para mantener actualizados los montos pendientes de las estadías. | 3 |
+| 33 | TS-07 | Emisión de comprobantes electrónicos por API REST | Como developer, quiero integrar la emisión y consulta de comprobantes electrónicos mediante una RESTful API, para generar comprobantes asociados a pagos registrados. | 5 |
+| 34 | TS-08 | Autenticación por API REST | Como developer, quiero integrar la autenticación mediante una RESTful API, para validar el acceso según los roles del personal. | 5 |
+| 35 | TS-09 | Gestión de usuarios por API REST | Como developer, quiero integrar el registro y consulta de usuarios mediante una RESTful API, para administrar el acceso del personal a la plataforma. | 3 |
+| 36 | TS-11 | Alertas operativas por API REST | Como developer, quiero integrar la consulta de alertas operativas mediante una RESTful API, para identificar estadías próximas a finalizar y estados relevantes de operación. | 3 |
+| 37 | TS-12 | Reportes de ocupación e ingresos por API REST | Como developer, quiero integrar la consulta de reportes mediante una RESTful API, para visualizar la ocupación e ingresos del hospedaje. | 5 |
 ---
 # Capítulo IV: Product Design
 
