@@ -1428,23 +1428,93 @@ Se han diseñado sistemas de navegación distintos para la cara pública y la he
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
-<p align = "center">
-  <img src="assets/webApp/WireFrames3.jpg" alt="SENIT_WebApp"/>
-</p>
-<p align = "center">
-  <img src="assets/webApp/WireFrames4.jpg" alt="SENIT_WebApp"/>
-</p>
-<p align = "center">
-  <img src="assets/webApp/WireFrames1.jpg" alt="SENIT_WebApp"/>
-</p>
-<p align = "center">
-  <img src="assets/webApp/WireFrames2.jpg" alt="SENIT_WebApp"/>
-</p>
+Wireframes del rol de recepción:
+<br>
+<img src="assets/ReceptionWireframe/12.png"/>
+<br>
+<img src="assets/ReceptionWireframe/11.png"/>
+<br>
+<img src="assets/ReceptionWireframe/10.png"/>
+<br>
+<img src="assets/ReceptionWireframe/9.png"/>
+<br>
+<img src="assets/ReceptionWireframe/8.png"/>
+<br>
+<img src="assets/ReceptionWireframe/7.png"/>
+<br>
+<img src="assets/ReceptionWireframe/6.png"/>
+<br>
+<img src="assets/ReceptionWireframe/5.png"/>
+<br>
+<img src="assets/ReceptionWireframe/4.png"/>
+<br>
+<img src="assets/ReceptionWireframe/3.png"/>
+<br>
+<img src="assets/ReceptionWireframe/2.png"/>
+<br>
+<img src="assets/ReceptionWireframe/1.png"/>
+<br>
+
+Wireframes del rol de administración (Se tiene 3 pantallas diferenciadas del rol de recepción):
+<img src="assets/AdminWireframe/1.png"/>
+<br>
+<img src="assets/AdminWireframe/2.png"/>
+<br>
+<img src="assets/AdminWireframe/3.png"/>
+<br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-<p align = "center">
-  <img src="assets/webApp/Wireflow.jpg" alt="SENIT_WebApp"/>
-</p>
+Wireflows del rol de recepción:
+<br>
+User goal: Tener un resumen del estado de las habitaciones y reservas del hospedaje<br>
+<img src="assets/ReceptionWireflows/8.png"/>
+<br>
+
+User goal: Registrar una reserva para un huesped<br>
+<img src="assets/ReceptionWireflows/7.png"/>
+<br>
+
+User goal: Saber el estado de las habitaciones a detalle<br>
+<img src="assets/ReceptionWireflows/6.png"/>
+<br>
+
+User goal: Realizar el check in a un huesped para alojarlo en el hospedaje<br>
+<img src="assets/ReceptionWireflows/5.png"/>
+<br>
+
+User goal: Saber cuantas estadías hay actualmente en el hospedaje<br>
+<img src="assets/ReceptionWireflows/4.png"/>
+<br>
+
+User goal: Saber que huespedes estan a punto de terminar su tiempo de estadía para avisarles<br>
+<img src="assets/ReceptionWireflows/3.png"/>
+<br>
+
+User goal: Saber las reservas que estan activas en el hospedaje<br>
+<img src="assets/ReceptionWireflows/2.png"/>
+<br>
+
+User goal: Cerrar mi sesión para que nadie más pueda entrar a mi cuenta por seguridad <br>
+<img src="assets/ReceptionWireflows/1.png"/>
+<br>
+
+Wireflows del rol de administración:
+<br>
+User goal: Tener un resumen del estado de las habitaciones, reservas del hospedaje e ingresos<br>
+<img src="assets/AdminWireflows/1.png"/>
+<br>
+
+User goal: Registrar las habitaciones que tiene mi hospedaje<br>
+<img src="assets/AdminWireflows/2.png"/>
+<br>
+
+User goal: Registrar, gestionar y revisar el personal registrado en mi hospedaje<br>
+<img src="assets/AdminWireflows/3.png"/>
+<br>
+
+User goal: Cerrar mi sesión para que nadie más pueda entrar a mi cuenta por seguridad<br>
+<img src="assets/AdminWireflows/4.png"/>
+<br>
 
 
 ### 4.4.3. Web Applications Mock-ups.
@@ -1950,4 +2020,4 @@ https://www.gob.pe/institucion/mincetur/informes-publicaciones/5671698-informe-p
 Video AV1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgDp_fp4esChRK6kbuD7hr3rAY1MNhbgV34AeZQecIMnPSs?e=QLhQg8
 <br>
 Video TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgBeyHTcUnpISL0REWDG7u1PAZwjiyo87REFgAUzvHa4QI0?e=t8MbKL
-
+<br>
