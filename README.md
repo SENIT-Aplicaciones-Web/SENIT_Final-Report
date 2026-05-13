@@ -1896,6 +1896,9 @@ https://trello.com/invite/b/6a04bca651225609f911fdfa/ATTI806cfc4f17149a32f88dead
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+En este sprint no se realizó la implementación ni se documentó ningún Web Service. El alcance del Sprint 2 fue el desarrollo de la primera base funcional de la Web Application de Senit, priorizando la visualización de habitaciones, el flujo de Check In por horas, la consulta de los detalles de estadía, el Check Out, los filtros por estado y el soporte inicial de internacionalización.
+<br>
+Por ello, la especificación de los endpoints, de los verbos HTTP, de los parámetros, de las respuestas, de las capturas de documentación o de commits relacionados con Web Services no corresponde a esta iteración, sino que será objeto de desarrollo en los siguientes sprints cuando se inicie la implementación formal de los servicios que dan soporte a la lógica del sistema.
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
