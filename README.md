@@ -1492,9 +1492,6 @@ User goal: Cerrar mi sesión para que nadie más pueda entrar a mi cuenta por se
   <img src="assets/webApp/Mockup2.jpg" alt="SENIT_WebApp"/>
 </p>
 
-### 4.4.4. Web Applications User Flow Diagrams.
-## 4.5. Web Applications Prototyping.
-
 ## 4.6. Domain-Driven Software Architecture.
 Para el modelo de arquitectura del sistema Senit se utiliza la técnica de modelado C4 Model, con el objetivo de representar de manera clara la estructura y comportamiento del sistema. 
 
