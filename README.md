@@ -916,16 +916,16 @@ Finalmente, el entrevistado resaltó que para mantener la rentabilidad del negoc
 
 **Entrevista 2**
 <p align="center">
-  <img src="assets/interviews/interview_segment_2_n3.jpg" alt="Entrevista con Santos Ignacio Aranda Ramirez"/>
-  <br/><i>Evidencia de entrevista: Santos Ignacio Aranda Ramirez</i>
+  <img src="assets/interviews/interview_segment_2_n3.jpg" alt="Entrevista con Lilian Zamora Rua"/>
+  <br/><i>Evidencia de entrevista: Lilian Zamora Rua</i>
 </p>
 
-* **Nombre:** Santos Ignacio Aranda Ramirez
-* **Edad:** 53 años
+* **Nombre:** Lilian Zamora Rua
+* **Edad:** 51 años
 * **Residencia:** Lurigancho - Chosica
-* **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e126_upc_edu_pe/IQDW5iZ0wk_QSZ97C6zRqGTjAQpTe1AqtOZMRgwdNhcK0y8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=A1mjnO)
-* **Duracion:** 16:42
-* **Timing:**  00:00 - 16:42
+* **Enlace de la entrevista:** [Ver grabación aquí]()
+* **Duracion:** 
+* **Timing:** 
 
 **Resumen de la entrevista:**
 
