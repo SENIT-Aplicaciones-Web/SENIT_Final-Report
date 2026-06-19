@@ -2127,6 +2127,103 @@ La evaluación se divide en dos componentes principales:
 ### 5.3.2. Registro de Entrevistas
 
 ---
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+### UX Heuristics & Principles Evaluation
+
+#### Tabla resumen de problemas encontrados
+
+| # | Problema                                                                                  | Escala de severidad | Heurística / Principio violado                                                                   |
+| - | ----------------------------------------------------------------------------------------- | ------------------: | ------------------------------------------------------------------------------------------------ |
+| 1 | El estado de las habitaciones no se diferencia visualmente de forma clara.                |                   3 | Usability: Visibility of system status / Information Architecture: Is it understandable?         |
+| 2 | El formulario de reservas permite registrar datos incompletos o inconsistentes.           |                   3 | Usability: Error prevention / Usability: Help users recognize, diagnose, and recover from errors |
+| 3 | La navegación lateral contiene demasiadas opciones visibles simultáneamente.              |                   2 | Usability: Aesthetic and minimalist design / Information Architecture: Is it usable?             |
+| 4 | No existe confirmación visual clara al registrar o actualizar una reserva.                |                   2 | Usability: Visibility of system status                                                           |
+| 5 | Algunos iconos y etiquetas administrativas pueden resultar ambiguos para usuarios nuevos. |                   2 | Usability: Match between system and the real world / Consistency and standards                   |
+
+---
+
+#### Problema #1: El estado de las habitaciones no se diferencia visualmente de forma clara
+
+**Severidad:** 3
+**Heurística violada:** Usability: Visibility of system status / Information Architecture: Is it understandable?
+
+**Problema:**
+Dentro del panel de administración, el estado de las habitaciones presenta diferencias visuales poco claras entre habitaciones disponibles, ocupadas, reservadas o en limpieza.
+
+Esto obliga al usuario a leer constantemente el texto de cada tarjeta o registro para comprender el estado actual de la habitación, aumentando el tiempo de interpretación y la posibilidad de cometer errores operativos durante momentos de alta demanda.
+
+**Recomendación:**
+Implementar indicadores visuales más diferenciados mediante colores, etiquetas y estados gráficos consistentes. También se recomienda incluir iconos representativos y mantener una leyenda visible para facilitar el reconocimiento rápido del estado de cada habitación.
+
+---
+
+#### Problema #2: El formulario de reservas permite registrar datos incompletos o inconsistentes
+
+**Severidad:** 3
+**Heurística violada:** Usability: Error prevention / Usability: Help users recognize, diagnose, and recover from errors
+
+**Problema:**
+Durante el registro de reservas, algunos campos permiten ingresar información incompleta o con formatos inconsistentes, especialmente en datos relacionados con fechas, teléfonos y cantidad de huéspedes.
+
+Esto puede provocar errores operativos, reservas inválidas o inconsistencias en la gestión interna del hospedaje.
+
+**Recomendación:**
+Agregar validaciones tanto en frontend como backend para asegurar la integridad de los datos ingresados. Se recomienda validar formatos de fechas, longitud mínima de campos, caracteres permitidos y mostrar mensajes claros junto al campo que presenta el error.
+
+---
+
+#### Problema #3: La navegación lateral contiene demasiadas opciones visibles simultáneamente
+
+**Severidad:** 2
+**Heurística violada:** Usability: Aesthetic and minimalist design / Information Architecture: Is it usable?
+
+**Problema:**
+El menú lateral del sistema muestra múltiples módulos administrativos al mismo tiempo, lo que puede generar sobrecarga visual y dificultar que nuevos usuarios identifiquen rápidamente las funciones más importantes.
+
+Esto afecta especialmente a recepcionistas o administradores con poca experiencia en sistemas digitales.
+
+**Recomendación:**
+Agrupar funcionalidades relacionadas mediante categorías desplegables y priorizar visualmente las opciones más utilizadas. También se recomienda reducir elementos secundarios visibles simultáneamente para mejorar la claridad de navegación.
+
+---
+
+#### Problema #4: No existe confirmación visual clara al registrar o actualizar una reserva
+
+**Severidad:** 2
+**Heurística violada:** Usability: Visibility of system status
+
+**Problema:**
+Después de registrar o actualizar una reserva, la interfaz no siempre muestra una confirmación clara e inmediata sobre el resultado de la acción realizada.
+
+Esto puede generar incertidumbre en el usuario y provocar acciones repetidas innecesarias, como registrar varias veces la misma reserva.
+
+**Recomendación:**
+Implementar mensajes visuales de confirmación, notificaciones temporales o indicadores de éxito que informen claramente cuándo una operación fue realizada correctamente.
+
+---
+
+#### Problema #5: Algunos iconos y etiquetas administrativas pueden resultar ambiguos para usuarios nuevos
+
+**Severidad:** 2
+**Heurística violada:** Usability: Match between system and the real world / Consistency and standards
+
+**Problema:**
+Algunas opciones del sistema utilizan términos técnicos o iconos poco intuitivos para representar acciones administrativas relacionadas con reservas, reportes o control operativo.
+
+Esto puede dificultar el aprendizaje inicial del sistema y aumentar la dependencia de capacitación previa.
+
+**Recomendación:**
+Utilizar etiquetas más descriptivas y acompañar los iconos con texto visible. También se recomienda mantener una terminología consistente y alineada con el contexto hotelero real utilizado por administradores y recepcionistas.
+
+---
+
+
+
+
+
+---
 # Conclusiones
 **Conclusiones**
 
