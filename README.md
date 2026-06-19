@@ -2002,6 +2002,17 @@ https://trello.com/invite/b/6a04bca651225609f911fdfa/ATTI806cfc4f17149a32f88dead
 
 Durante este sprint, el equipo se enfocó en el desarrollo de la primera base funcional de la Web Application de Senit, priorizando el módulo operativo del sistema. En esta iteración, los avances estuvieron relacionados con la visualización de habitaciones, el flujo de check-in por horas, la consulta de detalles de estadía, el registro de check-out, los filtros por estado y la configuración inicial del cambio de idioma dentro de la aplicación.
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on |
+|---|---|---|---|---|---|
+| SENIT-Aplicaciones-Web/senit-webapp | main | 9f6cc09 | fix: get items by hotel id | Se corrigió la obtención de elementos asociados a un hotel específico, permitiendo mostrar información filtrada según el hotel seleccionado. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | fe2b80e | fix: hotels only show assigned users | Se ajustó la visualización de hoteles para mostrar únicamente los usuarios asignados, mejorando el control de acceso a la información. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | b8f8bc4 | feat: connection with backend deployed | Se implementó la conexión de la aplicación web con el backend desplegado, permitiendo el consumo de servicios desde un entorno operativo. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | be60170 | feat: fix for backend implementation | Se realizaron ajustes en la aplicación frontend para adaptar correctamente la integración con los endpoints del backend. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | b26ed16 | feat: fixed env.production | Se corrigió la configuración del ambiente de producción para permitir una correcta ejecución de la aplicación desplegada. | 17/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | c1a15f1 | feat: fix .env.development | Se actualizó la configuración del ambiente de desarrollo para mantener consistencia entre las variables locales y las usadas por la aplicación. | 17/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | f409f04 | fix: temporal render fake api | Se corrigió la configuración temporal de la API falsa en Render para facilitar pruebas mientras se completaba la integración con servicios reales. | 16/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | ed0a1be | fix: prepare frontend deployment | Se preparó la aplicación frontend para su despliegue, ajustando configuraciones necesarias para su publicación en entorno web. | 16/06/2026 |
+
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
 En este Sprint 2 se desarrolló la Web Application de Senit, enfocada en la administración hotelera. Se implementaron las principales vistas del sistema para que el usuario administrador pueda visualizar indicadores generales del hotel, gestionar información del establecimiento, administrar habitaciones, revisar estadías, controlar la suscripción y configurar datos básicos de la cuenta. Además, se validó la navegación entre los módulos principales desde la aplicación desplegada.
