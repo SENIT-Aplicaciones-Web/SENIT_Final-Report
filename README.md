@@ -157,7 +157,8 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
       <td>
         <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
         <strong>AV 1:</strong> Me encargué del desarrollo de las secciones asignadas, organizando mis actividades de acuerdo con los tiempos definidos por el equipo. Durante el proceso, mantuve una comunicación constante con mis compañeros y consideré el enfoque general del proyecto, procurando que mi aporte se integrara de manera coherente con el trabajo grupal.<br>
-        <strong>TB:</strong> Durante esta etapa, participé en el desarrollo y corrección de distintas secciones del proyecto, colaborando con el avance grupal y adaptándome a los cambios realizados en la arquitectura y diseño de la aplicación. Asimismo, mantuve comunicación con mis compañeros para asegurar coherencia entre las partes trabajadas y contribuir al cumplimiento de la entrega de manera conjunta.
+        <strong>TB:</strong> Durante esta etapa, participé en el desarrollo y corrección de distintas secciones del proyecto, colaborando con el avance grupal y adaptándome a los cambios realizados en la arquitectura y diseño de la aplicación. Asimismo, mantuve comunicación con mis compañeros para asegurar coherencia entre las partes trabajadas y contribuir al cumplimiento de la entrega de manera conjunta.<br>
+        <strong>AV2:</strong> Participé en el desarrollo de las actividades asignadas para el avance, coordinando con mis compañeros la distribución de tareas y compartiendo los resultados obtenidos para mantener coherencia con los objetivos del proyecto.
         <br>
         <br>
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
@@ -189,7 +190,8 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
       <td>
         <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
         <strong>AV 1:</strong> Desarrollé las secciones asignadas, organizando mi tiempo en función de los plazos de entrega y estructurando mi trabajo por etapas.<br>
-        <strong>TB:</strong> Contribuí al avance del proyecto mediante el desarrollo y actualización de distintos entregables, organizando mi trabajo de acuerdo con los tiempos establecidos por el equipo. Esto permitió mantener continuidad en las secciones corregidas y apoyar el cumplimiento de los objetivos planteados para la entrega.
+        <strong>TB:</strong> Contribuí al avance del proyecto mediante el desarrollo y actualización de distintos entregables, organizando mi trabajo de acuerdo con los tiempos establecidos por el equipo. Esto permitió mantener continuidad en las secciones corregidas y apoyar el cumplimiento de los objetivos planteados para la entrega.<br>
+        <strong>AV2:</strong> Durante esta etapa, elaboré los instrumentos de entrevista correspondientes a los segmentos de usuarios definidos, organizando mi trabajo de acuerdo con los plazos establecidos y manteniendo comunicación con el equipo para contribuir al cumplimiento de las actividades programadas.
         <br>
         <br>  
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
@@ -1941,6 +1943,13 @@ El proceso de validación de SENIT se realizará mediante entrevistas dirigidas 
 La evaluación se divide en dos componentes principales:
 - Evaluación de la Landing Page: Comprensión de la propuesta de valor, claridad de las funcionalidades ofrecidas y percepción de confianza en la solución. 
 - Validación de los Flujos de la WebApp: Gestión de reservas, control de habitaciones, administración de clientes y seguimiento de operaciones dentro del establecimiento.
+
+### Preguntas complementarias
+
+- ¿Cuál es su nombre completo?
+- ¿Cuántos años tiene?
+- ¿Qué tipo de establecimiento posee o administra? (hotel, motel, hostal u otro)
+- ¿Cuál es su ocupación o rol principal dentro del negocio?
 
 **Segmento 1: Personal Administrativo y Operativo de Hoteles y Moteles**
 
