@@ -2097,7 +2097,26 @@ Si bien en esta iteración el mayor avance estuvo concentrado en el reporte y en
   <i>Commits registrados en el repositorio de la landing page durante el Sprint 2.</i>
 </p>
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+#### 5.2.3.3. Sprint Backlog 3
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
 ## 5.3 Validation Interviews
+
 ### 5.3.1. Diseño de Entrevistas
 El proceso de validación de SENIT se realizará mediante entrevistas dirigidas a los segmentos objetivo identificados. El propósito es evaluar la percepción de los usuarios sobre la propuesta de valor presentada en la Landing Page y validar la utilidad de los flujos principales de la plataforma web para la gestión de hoteles y moteles.
 
