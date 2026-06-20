@@ -2935,6 +2935,29 @@ A partir de su revisión de SENIT, Dario consideró que la plataforma resuelve p
 </div>
 <br>
 
+
+
+**Entrevista 3**
+<p align="center">
+   <img src="assets/interviews/interview_2_segment_2_n2.png" alt="Entrevista con Santos Ignacio Aranda Ramírez"/>
+  <br/><i>Evidencia de entrevista: Santos Ignacio Aranda Ramírez</i>
+</p>
+
+- **Nombre:** Santos Ignacio Aranda Ramírez
+- **Edad:** 53 años
+- **Cargo:** Dueño
+- **Tipo de establecimiento:** Hotel
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20241e126_upc_edu_pe/IgAUwQXW8TL6RY8o9Lzp_92TARgYT7qPIOQr-SE_9c6HtdE?e=0txKNE)
+- **Duracion:** 13:34
+- **Timing:** 00:00-13:34
+
+**Resumen de la entrevista:**
+<div align="justify">
+Santos señaló que la plataforma le generó una impresión positiva debido a que centraliza procesos importantes del negocio en una sola herramienta, lo que facilitaría el control operativo y administrativo del hotel. Mencionó que las funcionalidades presentadas resultan prácticas para el seguimiento de reservas y la gestión de habitaciones, permitiendo un mejor manejo de la información. Como sugerencia de mejora, recomendó adoptar una apariencia visual más formal y corporativa para transmitir mayor confianza y profesionalismo. Asimismo, indicó que algunos elementos de la interfaz podrían ser más intuitivos, especialmente en la identificación rápida del estado de las habitaciones y en la organización de las opciones del menú, con el fin de agilizar el aprendizaje y uso diario del sistema.
+</div>
+<br>
+
+
 ---
 
 ### 5.3.3. Evaluaciones según heurísticas.
