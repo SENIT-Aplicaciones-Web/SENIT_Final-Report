@@ -34,7 +34,7 @@
     Leonardo Rafael Garcia Villanueva - U20231H059
     <br><br>
   </p>
-    <h3>Mayo, 2026</h3>
+    <h3>Junio, 2026</h3>
 </div>
 
 <br>
