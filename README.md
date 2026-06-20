@@ -3028,9 +3028,11 @@ Utilizar etiquetas más descriptivas y acompañar los iconos con texto visible. 
 
 ---
 
+## 5.4 Video About-The-Product
 
-
-
+<img src="assets/webappui/aboutproduct/screenshot.png"/>
+<br>
+Link: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgCoCdrE-jqMT6Te-i8ls3m3AVmuyjztfLloZKDWECkJlnM?e=UH5yDl
 
 ---
 # Conclusiones
@@ -3042,8 +3044,6 @@ En este contexto, el desarrollo de Senit como plataforma web surge como una solu
 
 Por otro lado, el uso de herramientas de modelado como diagramas UML, ERD y la definición de bounded contexts permitió comprender de manera estructurada el dominio del problema y diseñar una arquitectura modular, escalable y coherente con la lógica del negocio hotelero. Finalmente, los avances logrados durante el Sprint 1 evidencian una base sólida para el desarrollo del proyecto, especialmente en la definición del producto, la validación de la problemática y la construcción inicial de la solución.<br></br>
 
-
-
 **Recomendaciones**
 
 Se recomienda continuar con el desarrollo del sistema, enfocándose principalmente en la implementación del backend y la integración de servicios que permitan materializar las funcionalidades propuestas en la etapa inicial. Asimismo, es importante realizar pruebas con usuarios reales, tanto administradores como huéspedes, utilizando prototipos más avanzados, con el fin de validar la usabilidad del sistema y detectar oportunidades de mejora antes de su despliegue.
@@ -3052,7 +3052,8 @@ También se sugiere incorporar mecanismos de seguridad robustos para proteger la
 
 Adicionalmente, se recomienda evaluar la integración con servicios externos, como pasarelas de pago y plataformas de reservas, lo que permitirá incrementar el valor del sistema y su competitividad en el mercado. Finalmente, se sugiere implementar el sistema de manera progresiva en pequeños y medianos hospedajes, manteniendo una retroalimentación constante con los usuarios, lo que permitirá iterar y mejorar la solución de acuerdo con las necesidades reales del entorno.
 
-
+**About The Team**
+Link: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgAh2sBRT9TjQ4ai7C0yh_oXAdRwAqz30p2rG8o9bMk7-cw?e=crJERO  
 
 # Bibliografía
 
@@ -3060,5 +3061,5 @@ Ministerio de Comercio Exterior y Turismo. (2023). Perú: oferta y demanda de es
 https://www.gob.pe/institucion/mincetur/informes-publicaciones/5671698-informe-peru-oferta-y-demanda-de-establecimientos-de-hospedaje-ano-2023
 
 # Anexos
-Video AV2: 
+Video AV2: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgDgChYKNZS2Q6NMxj5C42wtASmOLZ9GBYe0EGPUFKPBkSY?e=rmHpgI
 <br>
