@@ -292,10 +292,10 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
     - [5.1.2. Source Code Management](#512-source-code-management)
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+ - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
       - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
       - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
@@ -304,13 +304,23 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-      - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
       - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
       - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
       - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+      
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -911,6 +921,24 @@ Finalmente, el entrevistado resaltó que para mantener la rentabilidad del negoc
 **Resumen de la entrevista:**
 
 Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un hotel en Máncora, quien detalla su experiencia tras veinte años administrando el negocio. El propietario explica que actualmente supervisa la operatividad de forma remota mediante el uso de cámaras de seguridad y la plataforma Dropbox para revisar hojas de cálculo. Durante la conversación, subraya que los principales desafíos operativos incluyen la alta rotación de personal inexperto y el impacto negativo de los transportistas locales que desvían a los turistas. Aranda reconoce la importancia crítica del marketing digital en redes sociales y se muestra abierto a implementar nuevas herramientas tecnológicas que ofrezcan reportes en tiempo real. El objetivo principal de integrar estos sistemas sería mejorar la gestión de reservas y ajustar tarifas dinámicamente para mantenerse competitivo en el sector..
+
+**Entrevista 3**
+<p align="center">
+  <img src="assets/interviews/interview_segment_2_n4.png" alt="Entrevista con Lucas Alejandro Moreno Olivos
+"/>
+  <br/><i>Evidencia de entrevista: Lucas Alejandro Moreno Olivos</i>
+</p>
+
+* **Nombre:** Lucas Alejandro Moreno Olivos
+* **Edad:** 29 años
+* **Residencia:** San Miguel, Lima
+* **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910803_upc_edu_pe/IQD84TLpnAVkSYpz8TN4Pcb1AUn1H1sreSvmp36xwsuMD28?e=loy0Sc)
+* **Duracion:** 11:06
+* **Timing:** 00:00 - 11:06
+
+**Resumen de la entrevista:**
+La entrevista fue realizada a Lucas Alejandro Moreno Olivos, dueño y administrador de un hotel en San Miguel. Actualmente gestiona las reservas, habitaciones e ingresos mediante registros manuales en cuadernos, complementados con cámaras de vigilancia para supervisión. Señala que los principales problemas se presentan durante temporadas de alta demanda, cuando aumenta la dificultad para controlar la disponibilidad de habitaciones y se incrementan los errores operativos.
+Asimismo, manifestó interés en implementar una solución tecnológica que le permita monitorear en tiempo real las reservas, habitaciones e ingresos, además de mejorar el control de caja y el seguimiento del desempeño del personal mediante reportes y registros de reclamos.
 
 ### 2.2. Análisis de entrevistas
 
@@ -2308,6 +2336,18 @@ https://github.com/SENIT-Aplicaciones-Web/senit-backend
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 3, el equipo mantuvo una dinámica de trabajo colaborativa enfocada principalmente en el desarrollo del backend de Senit. En esta iteración se trabajó sobre el repositorio de Web Services, donde se registraron avances relacionados con la implementación inicial de la API REST, la documentación de endpoints mediante Swagger/OpenAPI, la corrección de rutas, el filtrado de datos por hotel y la configuración del despliegue en Render.
+
+GitHub fue utilizado como principal herramienta de control de versiones, permitiendo evidenciar los cambios realizados en el backend a través de commits. Estos registros muestran la evolución del repositorio durante el sprint y permiten identificar las actividades realizadas para consolidar la primera versión funcional de los servicios backend.
+
+Asimismo, el equipo mantuvo comunicación para revisar avances, validar el funcionamiento de los endpoints y asegurar que los servicios implementados respondieran a las necesidades de la Web Application. De esta manera, el Sprint 3 permitió avanzar en la integración técnica del sistema y dejar una base backend desplegada, documentada y preparada para su consumo desde la aplicación web.
+
+<p align="center">
+  <img src="assets/sprint-3/collaboration/backend-commits.jpeg" alt="Commits realizados en el repositorio backend durante el Sprint 3" width="900"/>
+  <br>
+  <i>Commits registrados en el repositorio senit-backend durante el Sprint 3.</i>
+</p>
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
@@ -2403,6 +2443,28 @@ La evaluación se divide en dos componentes principales:
 - ¿Qué funcionalidades adicionales le gustaría incorporar al sistema?
 
 ### 5.3.2. Registro de Entrevistas
+
+#### Segmento 2: Dueños y propietarios de hoteles y moteles
+
+**Entrevista 1**
+<p align="center">
+  <img src="assets/interviews/interview_2_segment_2_n1.png" alt="Entrevista con Lucas Alejandro Moreno Olivos"/>
+  <br/><i>Evidencia de entrevista: Lucas Alejandro Moreno Olivos</i>
+</p>
+
+- **Nombre:** Lucas Alejandro Moreno Olivos
+- **Edad:** 29 años
+- **Cargo:** Dueño y Administrador
+- **Tipo de establecimiento:** Hotel
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910803_upc_edu_pe/IQCuEbSUQbUATY0ut2192wK_ARH2cwMN8vn4LQaYaupSROA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lHt9k5)
+- **Duracion:** 9:15
+- **Timing:** 00:00-09:15
+
+**Resumen de la entrevista:**
+<div align="justify">
+Tras revisar la Landing Page y la Web App de Senit, Lucas opinó que la plataforma sí responde a las necesidades reales de un hotel o hostal y que las funciones de control de habitaciones, reservas y facturación le resultan especialmente útiles. Comentó que el sistema le daría una visión clara del estado del negocio y le permitiría dejar de depender del papel y la confianza en terceros. Como principal mejora, sugirió incorporar un módulo de reclamos para relacionar incidencias con el desempeño del personal y así tomar mejores decisiones administrativas.
+</div>
+<br>
 
 ---
 
