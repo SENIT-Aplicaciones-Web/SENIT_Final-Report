@@ -2207,6 +2207,76 @@ https://youtu.be/IegwlSo5rnI
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Durante el Sprint 3 se realizó la documentación de los Web Services implementados para la primera versión funcional del backend de Senit. Esta documentación fue generada mediante Swagger/OpenAPI y permite visualizar los endpoints disponibles, los verbos HTTP soportados, la sintaxis de llamada, los parámetros requeridos y las respuestas esperadas de cada servicio.
+
+La documentación desplegada permite validar los servicios relacionados con el alcance del sprint, principalmente autenticación, gestión de hoteles, habitaciones, reservas, estadías, usuarios, suscripciones y pagos de suscripción. Además, esta documentación facilita la integración con la Web Application, ya que permite probar los endpoints directamente desde el navegador utilizando datos de muestra.
+
+**URL de documentación Swagger:**  
+https://senit-backend.onrender.com/swagger/index.html
+
+**URL base de la API:**  
+https://senit-backend.onrender.com/api/v1
+
+**Repositorio de Web Services:**  
+https://github.com/SENIT-Aplicaciones-Web/senit-backend
+
+| Endpoint Group | HTTP Verb | Syntax | Parameters | Example Response | Response Explanation |
+|---|---|---|---|---|---|
+| Authentication | POST | `/api/v1/authentication/sign-in` | Body: `email`, `password` | `200 OK` | Retorna la información del usuario autenticado cuando las credenciales son válidas. |
+| Authentication | POST | `/api/v1/authentication/sign-up` | Body: `username`, `email`, `password` | `201 Created` | Registra una nueva cuenta de usuario dentro del sistema. |
+| Hotels | GET | `/api/v1/hotels` | None | `200 OK` | Retorna la lista de hoteles registrados en la plataforma. |
+| Hotels | PUT | `/api/v1/hotels/{hotelId}` | Path: `hotelId` / Body: hotel data | `200 OK` | Actualiza la información principal del hotel seleccionado. |
+| Hotels | DELETE | `/api/v1/hotels/{hotelId}/staff/{userId}` | Path: `hotelId`, `userId` | `200 OK` | Remueve un usuario del personal asociado a un hotel. |
+| Rooms | GET | `/api/v1/rooms` | None | `200 OK` | Retorna las habitaciones registradas con sus datos principales y estado actual. |
+| Rooms | POST | `/api/v1/rooms` | Body: room data | `201 Created` | Registra una nueva habitación asociada a un hotel. |
+| Rooms | PUT | `/api/v1/rooms/{roomId}` | Path: `roomId` / Body: room data | `200 OK` | Actualiza la información o el estado operativo de una habitación. |
+| Rooms | DELETE | `/api/v1/rooms/{roomId}` | Path: `roomId` | `200 OK` | Elimina una habitación registrada en el sistema. |
+| Reservations | GET | `/api/v1/reservations` | None | `200 OK` | Retorna la lista de reservas registradas. |
+| Reservations | POST | `/api/v1/reservations` | Body: reservation data | `201 Created` | Registra una nueva reserva para un huésped y habitación determinada. |
+| Reservations | PUT | `/api/v1/reservations/{reservationId}` | Path: `reservationId` / Body: reservation data | `200 OK` | Actualiza la información o estado de una reserva existente. |
+| GuestStays | GET | `/api/v1/guest-stays` | None | `200 OK` | Retorna las estadías registradas en la plataforma. |
+| GuestStays | POST | `/api/v1/guest-stays` | Body: guest stay data | `201 Created` | Registra una nueva estadía o check-in de huésped. |
+| Users | GET | `/api/v1/users` | Optional query parameters | `200 OK` | Retorna los usuarios registrados en el sistema. |
+| Users | POST | `/api/v1/users` | Body: user data | `201 Created` | Registra un nuevo usuario del personal o administrador. |
+| Users | GET | `/api/v1/users/{userId}` | Path: `userId` | `200 OK` | Retorna la información de un usuario específico. |
+| Users | PUT | `/api/v1/users/{userId}` | Path: `userId` / Body: user data | `200 OK` | Actualiza la información de un usuario registrado. |
+| Subscriptions | GET | `/api/v1/subscriptions` | None | `200 OK` | Retorna las suscripciones registradas y el plan activo del hotel. |
+| Subscriptions | PUT | `/api/v1/subscriptions/{subscriptionId}` | Path: `subscriptionId` / Body: subscription data | `200 OK` | Actualiza la información de una suscripción existente. |
+| SubscriptionPayments | GET | `/api/v1/subscription-payments` | None | `200 OK` | Retorna el historial de pagos de suscripción registrados. |
+| SubscriptionPayments | POST | `/api/v1/subscription-payments` | Body: subscription payment data | `201 Created` | Registra un nuevo pago asociado a una suscripción. |
+
+Además de los endpoints relacionados directamente con el alcance principal del Sprint 3, Swagger también documenta servicios complementarios como huéspedes, consumos, pagos, comprobantes, tareas de limpieza y notificaciones. Estos endpoints permiten ampliar el soporte operativo de la plataforma y preparar futuras integraciones con los módulos restantes de la Web Application.
+
+A continuación, se presentan capturas de la documentación y pruebas realizadas desde Swagger/OpenAPI utilizando datos de muestra.
+
+<p align="center">
+  <img src="assets/sprint-3/execution/swagger-overview.jpeg" alt="Vista general de Swagger del backend de Senit" width="900"/>
+  <br>
+  <i>Figura de la vista general de Swagger/OpenAPI del backend de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-3/execution/authentication-response.jpeg" alt="Respuesta de endpoint de autenticación en Swagger" width="900"/>
+  <br>
+  <i>Figura de la prueba de un endpoint de autenticación con respuesta exitosa desde Swagger.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-3/execution/swagger-endpoints-list.jpeg" alt="Lista de endpoints documentados en Swagger" width="900"/>
+  <br>
+  <i>Figura de endpoints documentados para habitaciones, suscripciones y usuarios.</i>
+</p>
+
+Los commits relacionados con la documentación de servicios y publicación de enlaces del backend se presentan a continuación:
+
+| Repository | Branch | Commit Id | Commit Message | Description | Committed on |
+|---|---|---|---|---|---|
+| SENIT-Aplicaciones-Web/senit-backend | main | 908e520 | docs: added list of endpoints | Se agregó la lista de endpoints disponibles del backend. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | a651871 | docs: fix endpoint route | Se corrigieron rutas documentadas para mantener coherencia con la API implementada. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 2936026 | fix: swagger visibility | Se habilitó la visibilidad de Swagger para revisar la documentación desde el entorno desplegado. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 992b195 | docs: added links to deployment | Se añadieron enlaces del despliegue y documentación del backend. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | colocar-id | docs: add main endpoint descriptions | Se agregaron descripciones de endpoints principales en el README del backend. | 19/06/2026 |
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
