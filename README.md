@@ -1465,151 +1465,567 @@ Se han diseñado sistemas de navegación distintos para la cara pública y la he
 <br>
 
 ## 4.4. Web Applications UX/UI Design.
+
 ### 4.4.1. Web Applications Wireframes.
 
-Wireframes del rol de recepción:
-<br>
-<img src="assets/ReceptionWireframe/12.png"/>
-<br>
-<img src="assets/ReceptionWireframe/11.png"/>
-<br>
-<img src="assets/ReceptionWireframe/10.png"/>
-<br>
-<img src="assets/ReceptionWireframe/9.png"/>
-<br>
-<img src="assets/ReceptionWireframe/8.png"/>
-<br>
-<img src="assets/ReceptionWireframe/7.png"/>
-<br>
-<img src="assets/ReceptionWireframe/6.png"/>
-<br>
-<img src="assets/ReceptionWireframe/5.png"/>
-<br>
-<img src="assets/ReceptionWireframe/4.png"/>
-<br>
-<img src="assets/ReceptionWireframe/3.png"/>
-<br>
-<img src="assets/ReceptionWireframe/2.png"/>
-<br>
-<img src="assets/ReceptionWireframe/1.png"/>
+User persona: Personal administrativo y operativo de hoteles y moteles
+
+Wireframes del rol de recepción / operativo:
 <br>
 
-Wireframes del rol de administración (Se tiene 3 pantallas diferenciadas del rol de recepción):
-<img src="assets/AdminWireframe/1.png"/>
+<img src="/assets/webappui/shared/wireframes/login.png"/>
 <br>
-<img src="assets/AdminWireframe/2.png"/>
+<img src="/assets/webappui/recepcion/wireframes/recepcion_1.png"/>
 <br>
-<img src="assets/AdminWireframe/3.png"/>
+<img src="/assets/webappui/recepcion/wireframes/recepcion_2.png"/>
+<br>
+<img src="/assets/webappui/recepcion/wireframes/recepcion_3.png"/>
+<br>
+<img src="/assets/webappui/recepcion/wireframes/recepcion_4.png"/>
+<br>
+<img src="/assets/webappui/recepcion/wireframes/recepcion_5.png"/>
+<br>
+<img src="/assets/webappui/recepcion/wireframes/recepcion_6.png"/>
+<br>
+<img src="/assets/webappui/recepcion/wireframes/recepcion_7.png"/>
+<br>
+<img src="/assets/webappui/recepcion/wireframes/recepcion_8.png"/>
+<br>
+
+User persona: Dueños y propietarios de hoteles y moteles
+
+Wireframes del rol de dueño / gerente:
+<br>
+
+<img src="/assets/webappui/shared/wireframes/register.png"/>
+<br>
+<img src="/assets/webappui/shared/wireframes/login.png"/>
+<br>
+<img src="/assets/webappui/admin/wireframes/admin_1.png"/>
+<br>
+<img src="/assets/webappui/admin/wireframes/admin_2.png"/>
+<br>
+<img src="/assets/webappui/admin/wireframes/admin_3.png"/>
+<br>
+<img src="/assets/webappui/admin/wireframes/admin_4.png"/>
+<br>
+<img src="/assets/webappui/admin/wireframes/admin_5.png"/>
+<br>
+<img src="/assets/webappui/admin/wireframes/admin_6.png"/>
+<br>
+<img src="/assets/webappui/admin/wireframes/admin_7.png"/>
+<br>
+<img src="/assets/webappui/admin/wireframes/admin_8.png"/>
+<br>
+<img src="/assets/webappui/admin/wireframes/admin_9.png"/>
+<br>
+<img src="/assets/webappui/admin/wireframes/admin_10.png"/>
 <br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflows del rol de recepción:
-<br>
-User goal: Tener un resumen del estado de las habitaciones y reservas del hospedaje<br>
-<img src="assets/ReceptionWireflows/8.png"/>
+
+User persona: Personal administrativo y operativo de hoteles y moteles
+
+Wireflows del rol de recepción / operativo:
 <br>
 
-User goal: Registrar una reserva para un huesped<br>
-<img src="assets/ReceptionWireflows/7.png"/>
+User goal: Ingresar a la plataforma Senit para acceder al panel operativo del hospedaje.
+
+<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_1.png"/>
 <br>
 
-User goal: Saber el estado de las habitaciones a detalle<br>
-<img src="assets/ReceptionWireflows/6.png"/>
+User goal: Revisar el panel de recepción para conocer el estado general de check-ins, check-outs, habitaciones disponibles, ocupación, reservas confirmadas y alertas operativas.
+
+<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_2.png"/>
 <br>
 
-User goal: Realizar el check in a un huesped para alojarlo en el hospedaje<br>
-<img src="assets/ReceptionWireflows/5.png"/>
+User goal: Consultar el estado de las habitaciones para identificar cuáles están disponibles, ocupadas, por vencer, vencidas, en limpieza o mantenimiento.
+
+<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_3.png"/>
 <br>
 
-User goal: Saber cuantas estadías hay actualmente en el hospedaje<br>
-<img src="assets/ReceptionWireflows/4.png"/>
+User goal: Consultar las estadías activas para saber qué huéspedes se encuentran alojados actualmente en el hospedaje.
+
+<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_4.png"/>
 <br>
 
-User goal: Saber que huespedes estan a punto de terminar su tiempo de estadía para avisarles<br>
-<img src="assets/ReceptionWireflows/3.png"/>
+User goal: Realizar el check-in de un huésped para registrar su ingreso y asignarle una habitación disponible.
+
+<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_5.png"/>
 <br>
 
-User goal: Saber las reservas que estan activas en el hospedaje<br>
-<img src="assets/ReceptionWireflows/2.png"/>
+User goal: Registrar una reserva para guardar los datos del huésped, habitación, fechas, horarios y pago de garantía.
+
+<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_6.png"/>
 <br>
 
-User goal: Cerrar mi sesión para que nadie más pueda entrar a mi cuenta por seguridad <br>
-<img src="assets/ReceptionWireflows/1.png"/>
+User goal: Consultar las reservas registradas para preparar ingresos próximos o cancelar reservas cuando corresponda.
+
+<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_7.png"/>
 <br>
 
-Wireflows del rol de administración:
-<br>
-User goal: Tener un resumen del estado de las habitaciones, reservas del hospedaje e ingresos<br>
-<img src="assets/AdminWireflows/1.png"/>
+User goal: Revisar alertas de estadía para identificar salidas vencidas, estadías por vencer o habitaciones con atención pendiente.
+
+<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_8.png"/>
 <br>
 
-User goal: Registrar las habitaciones que tiene mi hospedaje<br>
-<img src="assets/AdminWireflows/2.png"/>
+User goal: Actualizar la configuración de cuenta para mantener sus datos personales y contraseña vigentes.
+
+<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_9.png"/>
 <br>
 
-User goal: Registrar, gestionar y revisar el personal registrado en mi hospedaje<br>
-<img src="assets/AdminWireflows/3.png"/>
+User goal: Cerrar sesión para evitar que otra persona acceda a la cuenta del recepcionista o administrador operativo.
+
+<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_10.png"/>
 <br>
 
-User goal: Cerrar mi sesión para que nadie más pueda entrar a mi cuenta por seguridad<br>
-<img src="assets/AdminWireflows/4.png"/>
+User persona: Dueños y propietarios de hoteles y moteles
+
+Wireflows del rol de dueño / gerente:
 <br>
 
+User goal: Registrarse como dueño o gerente para crear una cuenta administrativa y habilitar el acceso al sistema.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_1.png"/>
+<br>
+
+User goal: Ingresar a la plataforma Senit para acceder al panel de administración del hospedaje.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_2.png"/>
+<br>
+
+User goal: Revisar el panel de administración para conocer el estado general de habitaciones, estadías activas, ingresos y operación del hospedaje.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_3.png"/>
+<br>
+
+User goal: Registrar o actualizar los datos del hotel para mantener la información del establecimiento correctamente configurada.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_4.png"/>
+<br>
+
+User goal: Gestionar las habitaciones del hospedaje para registrar nuevas habitaciones, modificar sus datos y revisar su estado.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_5.png"/>
+<br>
+
+User goal: Consultar y registrar reservas para supervisar la ocupación futura del hospedaje.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_6.png"/>
+<br>
+
+User goal: Revisar las estadías activas para controlar huéspedes alojados, pagos, salidas y procesos de check-out.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_7.png"/>
+<br>
+
+User goal: Revisar alertas de estadía para detectar salidas vencidas, estadías por vencer o habitaciones con atención pendiente.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_8.png"/>
+<br>
+
+User goal: Revisar la suscripción activa y el historial de pagos para controlar el estado del servicio contratado.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_9.png"/>
+<br>
+
+User goal: Registrar, gestionar y revisar el personal del hospedaje para asignar usuarios, roles y permisos de acceso.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_10.png"/>
+<br>
+
+User goal: Actualizar la configuración de cuenta para mantener sus datos personales y contraseña vigentes.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_11.png"/>
+<br>
+
+User goal: Cerrar sesión para evitar accesos no autorizados a la cuenta administrativa del hospedaje.
+
+<img src="/assets/webappui/admin/wireflows/wireflow_admin_12.png"/>
+<br>
 
 ### 4.4.3. Web Applications Mock-ups.
 
-RECEPCIONISTA: 
+User persona: Personal administrativo y operativo de hoteles y moteles
 
-<p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/SeccionInicial.png" alt="Inicio" width="600"/>
-</p>
+Mockups del rol de recepción / operativo:
+<br>
 
-<p align="center">
- <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/Login.png" alt="Login" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/Registration.png" alt="Registro" width="45%"/>
-</p>
+<img src="/assets/webappui/shared/mockups/login.png"/>
+<br>
+<img src="/assets/webappui/recepcion/mockups/recepcion_1.png"/>
+<br>
+<img src="/assets/webappui/recepcion/mockups/recepcion_2.png"/>
+<br>
+<img src="/assets/webappui/recepcion/mockups/recepcion_3.png"/>
+<br>
+<img src="/assets/webappui/recepcion/mockups/recepcion_4.png"/>
+<br>
+<img src="/assets/webappui/recepcion/mockups/recepcion_5.png"/>
+<br>
+<img src="/assets/webappui/recepcion/mockups/recepcion_6.png"/>
+<br>
+<img src="/assets/webappui/recepcion/mockups/recepcion_7.png"/>
+<br>
+<img src="/assets/webappui/recepcion/mockups/recepcion_8.png"/>
+<br>
 
-<p align="center">
- <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/DashboardRecepcion.png" alt="Dashboard" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/Configuracion.png" alt="Configuracion" width="45%"/>
-</p>
+User persona: Dueños y propietarios de hoteles y moteles
 
-<p align="center">
- <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/Check-out.png" alt="Checkout" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/Alertas.png" alt="Alertas" width="45%"/>
-</p>
+Mockups del rol de dueño / gerente:
+<br>
 
-<p align="center">
- <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/Reservas.png" alt="Reservas" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/RegistroReservas.png" alt="RegistroR" width="45%"/>
-</p>
+<img src="/assets/webappui/shared/mockups/register.png"/>
+<br>
+<img src="/assets/webappui/shared/mockups/login.png"/>
+<br>
+<img src="/assets/webappui/admin/mockups/admin_1.png"/>
+<br>
+<img src="/assets/webappui/admin/mockups/admin_2.png"/>
+<br>
+<img src="/assets/webappui/admin/mockups/admin_3.png"/>
+<br>
+<img src="/assets/webappui/admin/mockups/admin_4.png"/>
+<br>
+<img src="/assets/webappui/admin/mockups/admin_5.png"/>
+<br>
+<img src="/assets/webappui/admin/mockups/admin_6.png"/>
+<br>
+<img src="/assets/webappui/admin/mockups/admin_7.png"/>
+<br>
+<img src="/assets/webappui/admin/mockups/admin_8.png"/>
+<br>
+<img src="/assets/webappui/admin/mockups/admin_9.png"/>
+<br>
+<img src="/assets/webappui/admin/mockups/admin_10.png"/>
+<br>
 
-<p align="center">
- <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/ListaEstadias.png" alt="ListaEst" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/RegistroEstadia(Check%20in).png" alt="RegistroEst" width="45%"/>
-</p>
+### 4.4.4. Web Applications User Flow Diagrams
 
-<p align="center">
- <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/DetalleEstadia.png" alt="DetalleEstadia" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/VistaHabitaciones.png" alt="VistaHab" width="45%"/>
-</p>
+User persona: Personal administrativo y operativo de hoteles y moteles
 
-ADMIN: 
+User Flows del rol de recepción / operativo:
+<br>
 
-<p align="center">
-  <img src="/assets/webApp/mockups_web/admin/DashboardSupervision.png" alt="DashboardSup" width="600"/>
-<img src="/assets/webApp/mockups_web/admin/GestionHotel.png" alt="GestionHotel" width="600"/>
-<img src="/assets/webApp/mockups_web/admin/RegistroHabitaciones.png" alt="RegistroHab" width="600"/>
-</p>
+User flow: Iniciar sesión y acceder al panel de recepción
 
-### 4.4.4. Web Applications User Flow Diagrams.
-## 4.5. Web Applications Prototyping.
+**Descripción:** Permite que el recepcionista o administrador operativo acceda a la plataforma usando una cuenta creada previamente por el dueño o gerente del hospedaje.
+
+<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_1.png"/>
+<br>
+<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_1.png"/>
+<br>
+
+**Happy path:** El usuario entra desde la landing page, selecciona iniciar sesión, ingresa su correo y contraseña, el sistema valida las credenciales y lo redirige al panel de recepción.
+
+**Unhappy paths:** Credenciales incorrectas, campos vacíos, usuario no registrado, usuario sin rol asignado o error al cargar la sesión.
+<br>
+
+User flow: Consultar panel de recepción
+
+**Descripción:** Permite revisar rápidamente el estado operativo del hospedaje desde una vista general.
+
+<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_2.png"/>
+<br>
+<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_2.png"/>
+<br>
+
+**Happy path:** El usuario ingresa al panel de recepción, revisa tarjetas de resumen, reservas confirmadas, alertas operativas y la vista rápida de habitaciones.
+
+**Unhappy paths:** No existen reservas registradas, no cargan los indicadores, no hay habitaciones disponibles o el sistema no muestra alertas actualizadas.
+<br>
+
+User flow: Consultar estado de habitaciones
+
+**Descripción:** Permite revisar el estado de las habitaciones para identificar disponibilidad, ocupación, salidas vencidas, limpieza o mantenimiento.
+
+<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_3.png"/>
+<br>
+<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_3.png"/>
+<br>
+
+**Happy path:** El usuario entra a habitaciones, revisa las habitaciones por piso, aplica filtros por piso, tipo o estado, y selecciona la acción correspondiente.
+
+**Unhappy paths:** No hay habitaciones registradas, los filtros no devuelven resultados o falla la carga del listado.
+<br>
+
+User flow: Consultar estadías activas
+
+**Descripción:** Permite revisar huéspedes alojados, estados de pago, horarios límite y acciones de checkout.
+
+<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_4.png"/>
+<br>
+<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_4.png"/>
+<br>
+
+**Happy path:** El usuario entra a estadías, revisa indicadores, busca o filtra una estadía y selecciona una acción de checkout o detalle.
+
+**Unhappy paths:** No hay estadías activas, no carga el listado o no se puede acceder a la acción asociada.
+<br>
+
+User flow: Realizar check-in de huésped
+
+**Descripción:** Permite registrar el ingreso de un huésped y asociarlo a una habitación disponible.
+
+<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_5.png"/>
+<br>
+<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_5.png"/>
+<br>
+
+**Happy path:** El usuario entra a check-in, completa los datos del huésped titular, selecciona una habitación disponible, define horas de estadía y método de pago, confirma el check-in y el sistema crea una estadía activa.
+
+**Unhappy paths:** Faltan datos obligatorios, DNI inválido, teléfono o correo inválido, habitación no disponible o error al registrar la estadía.
+<br>
+
+User flow: Registrar reserva
+
+**Descripción:** Permite registrar una reserva para un huésped antes de su llegada al hospedaje.
+
+<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_6.png"/>
+<br>
+<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_6.png"/>
+<br>
+
+**Happy path:** El usuario entra a reservas, selecciona nueva reserva, ingresa los datos del huésped, habitación, cantidad de huéspedes, fechas, horarios, método de pago y monto, y guarda la reserva.
+
+**Unhappy paths:** Faltan datos obligatorios, la habitación no está disponible, las fechas no son válidas o falla el registro.
+<br>
+
+User flow: Consultar reservas registradas
+
+**Descripción:** Permite revisar reservas registradas y controlar su estado.
+
+<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_7.png"/>
+<br>
+<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_7.png"/>
+<br>
+
+**Happy path:** El usuario entra a reservas, revisa la lista, busca por nombre de huésped y cancela una reserva si corresponde.
+
+**Unhappy paths:** No hay reservas registradas, la búsqueda no devuelve resultados o no se puede cargar la lista.
+<br>
+
+User flow: Revisar alertas de estadía
+
+**Descripción:** Permite identificar situaciones operativas pendientes como salidas vencidas o estadías próximas a terminar.
+
+<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_8.png"/>
+<br>
+<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_8.png"/>
+<br>
+
+**Happy path:** El usuario entra a alertas, revisa indicadores, busca por habitación o huésped, selecciona una alerta y accede a la estadía relacionada.
+
+**Unhappy paths:** No hay alertas activas, las alertas no cargan o no se puede abrir la estadía asociada.
+<br>
+
+User flow: Actualizar configuración de cuenta
+
+**Descripción:** Permite revisar los datos del usuario, cambiar idioma y actualizar la contraseña.
+
+<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_9.png"/>
+<br>
+<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_9.png"/>
+<br>
+
+**Happy path:** El usuario entra a configuración, revisa su perfil, cambia idioma si lo necesita, ingresa una nueva contraseña, confirma la contraseña y guarda los cambios.
+
+**Unhappy paths:** La contraseña es muy corta, las contraseñas no coinciden o ocurre un error al actualizar la información.
+<br>
+
+User flow: Cerrar sesión
+
+**Descripción:** Permite finalizar la sesión para proteger el acceso a la plataforma.
+
+<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_10.png"/>
+<br>
+<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_10.png"/>
+<br>
+
+**Happy path:** El usuario selecciona cerrar sesión, el sistema finaliza la sesión activa y lo redirige al inicio de sesión.
+
+**Unhappy paths:** Ocurre un error al cerrar sesión o la sesión ya expiró previamente.
+<br>
+
+User persona: Dueños y propietarios de hoteles y moteles
+
+User Flows del rol de dueño / gerente:
+<br>
+
+User flow: Registrarse como dueño o gerente del hospedaje
+
+**Descripción:** Permite que el dueño o gerente cree una cuenta administrativa para empezar a usar Senit en su hospedaje.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_1.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_1.png"/>
+<br>
+
+**Happy path:** El usuario entra desde la landing page, selecciona registrarse, completa correo, usuario y contraseña, el sistema valida los datos, crea la cuenta administrativa y lo redirige al panel de administración.
+
+**Unhappy paths:** El correo es inválido, el usuario está vacío, la contraseña tiene menos de seis caracteres, el correo ya está registrado o ocurre un error al crear la cuenta.
+<br>
+
+User flow: Iniciar sesión y acceder al panel de administración
+
+**Descripción:** Permite que el dueño o gerente acceda a las funciones administrativas del hospedaje.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_2.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_2.png"/>
+<br>
+
+**Happy path:** El usuario entra desde la landing page, selecciona iniciar sesión, ingresa correo y contraseña, el sistema valida la cuenta y lo redirige al panel de administración.
+
+**Unhappy paths:** Las credenciales son inválidas, los campos están vacíos, la cuenta no está registrada o ocurre un error de sesión.
+<br>
+
+User flow: Consultar panel de administración
+
+**Descripción:** Permite revisar el estado general del hospedaje desde una vista ejecutiva.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_3.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_3.png"/>
+<br>
+
+**Happy path:** El dueño o gerente revisa el total de habitaciones, habitaciones disponibles, estadías activas, ingresos generados, gráfico de ingresos, estado de habitaciones y accesos rápidos.
+
+**Unhappy paths:** No cargan los indicadores, no existen datos registrados o el gráfico de ingresos aparece vacío.
+<br>
+
+User flow: Registrar o actualizar datos del hotel
+
+**Descripción:** Permite configurar la información principal del establecimiento dentro del sistema.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_4.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_4.png"/>
+<br>
+
+**Happy path:** El dueño o gerente entra a hotel, completa o actualiza nombre comercial, RUC, dirección, teléfono, correo y plan, y guarda los cambios.
+
+**Unhappy paths:** Faltan datos obligatorios, el RUC es inválido, el correo es incorrecto o ocurre un error al guardar.
+<br>
+
+User flow: Gestionar habitaciones del hospedaje
+
+**Descripción:** Permite registrar, editar, eliminar y revisar habitaciones del hospedaje.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_5.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_5.png"/>
+<br>
+
+**Happy path:** El dueño o gerente entra a habitaciones, completa número, piso, tipo, capacidad, precio por hora y estado inicial, guarda la habitación y revisa el listado actualizado.
+
+**Unhappy paths:** Faltan datos obligatorios, el número está duplicado, el precio es inválido, la capacidad es inválida o ocurre un error al registrar.
+<br>
+
+User flow: Consultar y registrar reservas
+
+**Descripción:** Permite supervisar las reservas del hospedaje y crear nuevas reservas cuando sea necesario.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_6.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_6.png"/>
+<br>
+
+**Happy path:** El dueño o gerente entra a reservas, revisa el listado, busca por huésped o crea una nueva reserva con datos del titular, habitación, fechas, horarios y pago de garantía.
+
+**Unhappy paths:** No hay reservas registradas, la búsqueda no devuelve resultados, faltan datos o la habitación no está disponible.
+<br>
+
+User flow: Revisar estadías activas
+
+**Descripción:** Permite controlar estadías activas, salidas de hoy, estadías por vencer y vencidas.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_7.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_7.png"/>
+<br>
+
+**Happy path:** El dueño o gerente entra a estadías, revisa indicadores, busca o filtra una estadía y accede a checkout o detalle operativo.
+
+**Unhappy paths:** No hay estadías activas, no carga el listado o no se puede abrir la acción asociada.
+<br>
+
+User flow: Revisar alertas de estadía
+
+**Descripción:** Permite detectar situaciones operativas que requieren atención, como salidas vencidas o estadías próximas a terminar.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_8.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_8.png"/>
+<br>
+
+**Happy path:** El dueño o gerente entra a alertas, revisa indicadores, identifica una habitación con alerta activa y accede a la estadía relacionada.
+
+**Unhappy paths:** No hay alertas activas, falla la carga de alertas o no se puede abrir el detalle.
+<br>
+
+User flow: Revisar suscripción y pagos
+
+**Descripción:** Permite controlar el plan activo, el estado del servicio, los pagos realizados y las opciones disponibles.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_9.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_9.png"/>
+<br>
+
+**Happy path:** El dueño o gerente entra a suscripción, revisa el plan actual, estado, costo mensual, historial de pagos y planes disponibles, y cambia de plan si corresponde.
+
+**Unhappy paths:** No hay suscripción activa, no carga el historial de pagos o falla el cambio de plan.
+<br>
+
+User flow: Gestionar personal y roles
+
+**Descripción:** Permite registrar, editar, eliminar y revisar usuarios del hospedaje con roles de administrador o recepción.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_10.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_10.png"/>
+<br>
+
+**Happy path:** El dueño o gerente entra a personal y roles, registra un nuevo usuario con nombre, usuario, correo, rol y contraseña inicial, y revisa el listado actualizado.
+
+**Unhappy paths:** Faltan datos, el correo es inválido, el usuario está duplicado, no se selecciona un rol o ocurre un error al registrar.
+<br>
+
+User flow: Actualizar configuración de cuenta
+
+**Descripción:** Permite que el dueño o gerente revise su perfil, cambie idioma y actualice su contraseña.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_11.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_11.png"/>
+<br>
+
+**Happy path:** El usuario entra a configuración, revisa su perfil, cambia idioma si lo necesita, actualiza su contraseña y guarda los cambios.
+
+**Unhappy paths:** La contraseña es inválida, la confirmación es incorrecta o ocurre un error al guardar la configuración.
+<br>
+
+User flow: Cerrar sesión
+
+**Descripción:** Permite finalizar la sesión administrativa para proteger la información del hospedaje.
+
+<img src="/assets/webappui/admin/userflows/userflow_admin_12.png"/>
+<br>
+<img src="/assets/webappui/admin/userflows/flow_diagram_admin_12.png"/>
+<br>
+
+**Happy path:** El dueño o gerente selecciona cerrar sesión, el sistema finaliza la sesión activa y lo redirige al inicio de sesión.
+
+**Unhappy paths:** Ocurre un error al cerrar sesión o la sesión ya expiró previamente.
+<br>
+
+## 4.5. Web Applications Prototyping
+
+<img src="/assets/webappui/prototype/screenshot.png"/>
+<br>
+
+Link: 
 
 ## 4.6. Domain-Driven Software Architecture.
 Para el modelo de arquitectura del sistema Senit se utiliza la técnica de modelado C4 Model, con el objetivo de representar de manera clara la estructura y comportamiento del sistema. 
