@@ -157,7 +157,8 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
       <td>
         <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
         <strong>AV 1:</strong> Me encargué del desarrollo de las secciones asignadas, organizando mis actividades de acuerdo con los tiempos definidos por el equipo. Durante el proceso, mantuve una comunicación constante con mis compañeros y consideré el enfoque general del proyecto, procurando que mi aporte se integrara de manera coherente con el trabajo grupal.<br>
-        <strong>TB:</strong> Durante esta etapa, participé en el desarrollo y corrección de distintas secciones del proyecto, colaborando con el avance grupal y adaptándome a los cambios realizados en la arquitectura y diseño de la aplicación. Asimismo, mantuve comunicación con mis compañeros para asegurar coherencia entre las partes trabajadas y contribuir al cumplimiento de la entrega de manera conjunta.
+        <strong>TB:</strong> Durante esta etapa, participé en el desarrollo y corrección de distintas secciones del proyecto, colaborando con el avance grupal y adaptándome a los cambios realizados en la arquitectura y diseño de la aplicación. Asimismo, mantuve comunicación con mis compañeros para asegurar coherencia entre las partes trabajadas y contribuir al cumplimiento de la entrega de manera conjunta.<br>
+        <strong>AV2:</strong> Participé en el desarrollo de las actividades asignadas para el avance, coordinando con mis compañeros la distribución de tareas y compartiendo los resultados obtenidos para mantener coherencia con los objetivos del proyecto.
         <br>
         <br>
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
@@ -168,6 +169,7 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
         <strong>- Lozano Leon, Richard Enrique:</strong><br>
         <strong>AV 1:</strong> Durante esta etapa aporté en la definición de los segmentos objetivo, el diseño de entrevistas, el lenguaje ubicuo y parte de la documentación del Sprint 1, procurando que estos elementos mantengan coherencia entre sí y con el enfoque general de Senit. Además de elaborar contenido, coordiné con mis compañeros para ajustar información, unificar criterios y conectar mejor las necesidades del negocio con los artefactos del proyecto, contribuyendo así a un trabajo más integrado dentro del equipo.<br>
         <strong>TB:</strong> Durante esta etapa contribuí en la revisión y ajuste de secciones clave del proyecto, como los segmentos objetivo, el diseño de entrevistas, el product backlog y parte de la documentación de los sprints. Mi aporte no se limitó a redactar contenido, sino también a coordinar con el equipo para alinear los cambios con la retroalimentación recibida, mantener coherencia entre las distintas secciones y evitar contradicciones dentro del avance general. De esta manera, participé activamente en un trabajo conjunto donde el liderazgo se dio de forma compartida, apoyando la integración y mejora del proyecto.
+        <strong>AV2:</strong> Durante esta etapa se evidenció una participación orientada al liderazgo compartido, manteniendo comunicación con el equipo para organizar el avance del Sprint 3 y asegurar que la información del backend se integre de forma coherente con el resto del proyecto. Asimismo, se contribuyó a resolver dudas, ordenar ideas y apoyar la toma de decisiones grupales, promoviendo que el trabajo no dependa de una sola persona, sino de la coordinación entre los integrantes.
         <br>
         <br>
         <strong>- Hurtado Faustino, Anghelo:</strong><br>
@@ -189,7 +191,8 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
       <td>
         <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
         <strong>AV 1:</strong> Desarrollé las secciones asignadas, organizando mi tiempo en función de los plazos de entrega y estructurando mi trabajo por etapas.<br>
-        <strong>TB:</strong> Contribuí al avance del proyecto mediante el desarrollo y actualización de distintos entregables, organizando mi trabajo de acuerdo con los tiempos establecidos por el equipo. Esto permitió mantener continuidad en las secciones corregidas y apoyar el cumplimiento de los objetivos planteados para la entrega.
+        <strong>TB:</strong> Contribuí al avance del proyecto mediante el desarrollo y actualización de distintos entregables, organizando mi trabajo de acuerdo con los tiempos establecidos por el equipo. Esto permitió mantener continuidad en las secciones corregidas y apoyar el cumplimiento de los objetivos planteados para la entrega.<br>
+        <strong>AV2:</strong> Durante esta etapa, elaboré los instrumentos de entrevista correspondientes a los segmentos de usuarios definidos, organizando mi trabajo de acuerdo con los plazos establecidos y manteniendo comunicación con el equipo para contribuir al cumplimiento de las actividades programadas.
         <br>
         <br>  
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
@@ -200,6 +203,7 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
         <strong>- Lozano Leon, Richard Enrique:</strong><br>
         <strong>AV 1:</strong> Organicé mi avance en función de las secciones que me correspondían, distribuyendo el trabajo entre la definición de segmentos, el diseño de entrevistas, el lenguaje ubicuo y la documentación inicial del Sprint 1. Para cumplir con la entrega, fui avanzando por partes y mantuve comunicación con el equipo para validar que mi aporte esté alineado con lo que los demás desarrollaban. De esta manera, contribuí a que el trabajo se mantenga ordenado, conectado y orientado al cumplimiento de los objetivos de esta primera entrega.<br>
         <strong>TB:</strong> Reorganice mi avance en función de las correcciones y entregables que debían ajustarse para esta etapa, priorizando primero los aspectos más observados en la retroalimentación, como segmentos, entrevistas, backlog y documentación de sprint. Para cumplir con los tiempos, fui resolviendo cada parte de manera progresiva y mantuve comunicación con el equipo para validar que los cambios realizados encajaran con el resto del trabajo. Esto me permitió aportar a un entorno colaborativo más ordenado, en el que las tareas se orientaron al cumplimiento de objetivos concretos y al fortalecimiento de la calidad del entregable.
+        <strong>AV2:</strong> En este avance se mantuvo una actitud colaborativa y organizada, participando en la planificación de tareas del Sprint 3 y apoyando la coordinación del equipo para cumplir con los objetivos establecidos. También se promovió un ambiente de apoyo mediante la revisión conjunta de avances, la comunicación constante y la disposición para adaptar el trabajo según las necesidades del proyecto, contribuyendo a que el equipo avance de manera ordenada y cumpla con la entrega.
         <br>
         <br>
         <strong>- Hurtado Faustino, Anghelo:</strong><br>
@@ -298,10 +302,10 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 1](#522-sprint-2)
-      - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-2)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
       - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
-      - [5.2.2.3. Sprint Backlog 1](#5223-sprint-backlog-2)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
       - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
       - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
@@ -1201,16 +1205,19 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | **US-26** | Supervisión de ocupación de habitaciones | Como administrador del hospedaje, quiero consultar el estado de ocupación de las habitaciones, para supervisar la disponibilidad y el uso del establecimiento. | **Escenario 1: Consulta de estados de habitaciones**<br><br>Dado que existen habitaciones registradas<br><br>Cuando el administrador consulta la ocupación actual<br><br>Entonces debe visualizar habitaciones disponibles, ocupadas, en limpieza y en mantenimiento<br><br>**Escenario 2: Consulta de ocupación general**<br><br>Dado que existen habitaciones registradas<br><br>Cuando el administrador consulta el resumen de ocupación<br><br>Entonces debe visualizar la cantidad de habitaciones por cada estado<br><br> | **EP-03** |
 | **US-27** | Consulta de ingresos del hospedaje | Como administrador del hospedaje, quiero consultar los ingresos generados por estadías y consumos, para supervisar el rendimiento económico del establecimiento. | **Escenario 1: Consulta de ingresos registrados**<br><br>Dado que existen pagos asociados a estadías y consumos<br><br>Cuando el administrador consulta los ingresos del hospedaje<br><br>Entonces debe visualizar los montos registrados por las operaciones realizadas<br><br>**Escenario 2: Consulta de ingresos por periodo**<br><br>Dado que existen pagos registrados<br><br>Cuando el administrador selecciona un rango de fechas<br><br>Entonces debe visualizar los ingresos correspondientes al periodo seleccionado<br><br> | **EP-06** |
 | **TS-01** | Internacionalización de la plataforma | Como developer, quiero implementar internacionalización en la plataforma web, para permitir la visualización en español e inglés. | **Escenario 1: Cambio de idioma**<br><br>Dado que el usuario utiliza la plataforma<br><br>Cuando selecciona un idioma disponible<br><br>Entonces los textos deben mostrarse en el idioma seleccionado<br><br>**Escenario 2: Persistencia de idioma seleccionado**<br><br>Dado que el usuario seleccionó un idioma previamente<br><br>Cuando vuelve a ingresar a la plataforma<br><br>Entonces el idioma seleccionado debe mantenerse | **EP-07** |
-| **TS-02** | Gestión de habitaciones por API REST | Como developer, quiero integrar la consulta y actualización de habitaciones mediante una RESTful API, para administrar su disponibilidad y estado operativo. | **Escenario 1: Consulta de habitaciones**<br><br>Dado que existen habitaciones registradas<br><br>Cuando la aplicación realiza una petición GET /rooms<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar las habitaciones junto con su estado actual<br><br>**Escenario 2: Actualización de estado de habitación**<br><br>Dado que existe una habitación registrada<br><br>Cuando la aplicación realiza una petición PATCH /rooms/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar el estado correspondiente | **EP-07** |
-| **TS-03** | Gestión de reservas por API REST | Como developer, quiero integrar el registro y consulta de reservas mediante una RESTful API, para gestionar la disponibilidad de habitaciones del hospedaje. | **Escenario 1: Registro de reserva**<br><br>Dado que existe disponibilidad de habitaciones<br><br>Cuando la aplicación realiza una petición POST /reservations<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar la reserva correspondiente<br><br>**Escenario 2: Consulta de reservas**<br><br>Dado que existen reservas registradas<br><br>Cuando la aplicación realiza una petición GET /reservations<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar las reservas registradas | **EP-07** |
-| **TS-04** | Gestión de estadías por API REST | Como developer, quiero integrar el registro y actualización de estadías mediante una RESTful API, para gestionar el check-in y check-out de huéspedes. | **Escenario 1: Registro de check-in**<br><br>Dado que existe una habitación disponible<br><br>Cuando la aplicación realiza una petición POST /guest-stays<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar la estadía correspondiente<br><br>**Escenario 2: Registro de check-out**<br><br>Dado que existe una estadía activa<br><br>Cuando la aplicación realiza una petición PATCH /guest-stays/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar la estadía como finalizada | **EP-07** |
-| **TS-05** | Gestión de consumos por API REST | Como developer, quiero integrar el registro y consulta de consumos mediante una RESTful API, para mantener actualizado el cobro asociado a cada estadía. | **Escenario 1: Registro de consumo**<br><br>Dado que existe una estadía activa<br><br>Cuando la aplicación realiza una petición POST /consumptions<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar el consumo correspondiente<br><br>**Escenario 2: Consulta de consumos**<br><br>Dado que existen consumos registrados<br><br>Cuando la aplicación realiza una petición GET /consumptions<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los consumos asociados a estadías | **EP-07** |
-| **TS-06** | Gestión de pagos por API REST | Como developer, quiero integrar el registro y consulta de pagos mediante una RESTful API, para mantener actualizados los montos pendientes de las estadías. | **Escenario 1: Registro de pago**<br><br>Dado que existe una estadía con montos pendientes<br><br>Cuando la aplicación realiza una petición POST /payments<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar el pago correspondiente<br><br>**Escenario 2: Consulta de pagos**<br><br>Dado que existen pagos registrados<br><br>Cuando la aplicación realiza una petición GET /payments<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los pagos asociados a estadías | **EP-07** |
-| **TS-07** | Emisión de comprobantes electrónicos por API REST | Como developer, quiero integrar la emisión y consulta de comprobantes electrónicos mediante una RESTful API, para generar comprobantes asociados a pagos registrados. | **Escenario 1: Emisión de comprobante**<br><br>Dado que existe un pago registrado<br><br>Cuando la aplicación realiza una petición POST /invoices<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe generar el comprobante correspondiente<br><br>**Escenario 2: Consulta de comprobantes**<br><br>Dado que existen comprobantes emitidos<br><br>Cuando la aplicación realiza una petición GET /invoices<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los comprobantes registrados | **EP-07** |
-| **TS-08** | Autenticación por API REST | Como developer, quiero integrar la autenticación mediante una RESTful API, para validar el acceso según los roles del personal. | **Escenario 1: Inicio de sesión válido**<br><br>Dado que existen credenciales registradas<br><br>Cuando la aplicación realiza una petición POST /authentication/sign-in<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar la información del usuario autenticado<br><br>**Escenario 2: Restricción de acceso inválido**<br><br>Dado que las credenciales son incorrectas<br><br>Cuando la aplicación realiza una petición POST /authentication/sign-in<br><br>Entonces la API debe responder con código 401 Unauthorized | **EP-07** |
-| **TS-09** | Gestión de usuarios por API REST | Como developer, quiero integrar el registro y consulta de usuarios mediante una RESTful API, para administrar el acceso del personal a la plataforma. | **Escenario 1: Registro de usuario**<br><br>Dado que existe información válida del trabajador<br><br>Cuando la aplicación realiza una petición POST /users<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar el nuevo usuario<br><br>**Escenario 2: Consulta de usuarios**<br><br>Dado que existen usuarios registrados<br><br>Cuando la aplicación realiza una petición GET /users<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los usuarios registrados junto con sus roles | **EP-07** |
-| **TS-11** | Alertas operativas por API REST | Como developer, quiero integrar la consulta de alertas operativas mediante una RESTful API, para identificar estadías próximas a finalizar y estados relevantes de operación. | **Escenario 1: Consulta de estadías activas**<br><br>Dado que existen estadías activas<br><br>Cuando la aplicación realiza una petición GET /guest-stays/active<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar las estadías activas<br><br>**Escenario 2: Consulta de alertas operativas**<br><br>Dado que existen estadías próximas a finalizar<br><br>Cuando la aplicación realiza una petición GET /alerts/stay-expiration<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar las alertas de estadías próximas a finalizar | **EP-07** |
-| **TS-12** | Reportes de ocupación e ingresos por API REST | Como developer, quiero integrar la consulta de reportes mediante una RESTful API, para visualizar la ocupación e ingresos del hospedaje. | **Escenario 1: Consulta de ocupación**<br><br>Dado que existen habitaciones registradas<br><br>Cuando la aplicación realiza una petición GET /reports/occupancy<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar la información de ocupación del hospedaje<br><br>**Escenario 2: Consulta de ingresos**<br><br>Dado que existen pagos registrados<br><br>Cuando la aplicación realiza una petición GET /reports/revenue<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los ingresos registrados del hospedaje | **EP-07** |
+| **TS-02** | Gestión de hoteles por API REST | Como developer, quiero integrar el registro, consulta y actualización de hoteles mediante una RESTful API, para administrar los datos principales del establecimiento asociado a cada administrador. | **Escenario 1: Registro de hotel**<br><br>Dado que un administrador registra una nueva cuenta<br><br>Cuando la aplicación realiza una petición POST /hotels<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar un hotel con identificador único asociado al administrador<br><br>**Escenario 2: Actualización de datos del hotel**<br><br>Dado que existe un hotel registrado<br><br>Cuando la aplicación realiza una petición PATCH /hotels/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar nombre comercial, RUC, dirección, teléfono, correo o plan del hotel | **EP-07** |
+| **TS-03** | Gestión de habitaciones por API REST | Como developer, quiero integrar la consulta, registro, actualización y eliminación de habitaciones mediante una RESTful API, para administrar disponibilidad, precios y estados operativos del hospedaje. | **Escenario 1: Consulta de habitaciones**<br><br>Dado que existen habitaciones registradas<br><br>Cuando la aplicación realiza una petición GET /rooms<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar las habitaciones junto con número, piso, tipo, capacidad, precio por hora, hotel asociado y estado actual<br><br>**Escenario 2: Registro de habitación**<br><br>Dado que existe información válida de una nueva habitación<br><br>Cuando la aplicación realiza una petición POST /rooms<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar la habitación para el hotel correspondiente<br><br>**Escenario 3: Actualización de habitación**<br><br>Dado que existe una habitación registrada<br><br>Cuando la aplicación realiza una petición PATCH /rooms/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar sus datos o su estado operativo<br><br>**Escenario 4: Eliminación de habitación**<br><br>Dado que existe una habitación sin estadía activa vinculada<br><br>Cuando la aplicación realiza una petición DELETE /rooms/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe eliminar la habitación registrada | **EP-07** |
+| **TS-04** | Gestión de reservas por API REST | Como developer, quiero integrar el registro, consulta, cancelación y finalización de reservas mediante una RESTful API, para gestionar reservas anticipadas y evitar superposiciones de habitaciones. | **Escenario 1: Registro de reserva**<br><br>Dado que existe disponibilidad de habitación en el rango solicitado<br><br>Cuando la aplicación realiza una petición POST /reservations<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar la reserva con huésped, habitación, fechas, horas, estado y pago de garantía<br><br>**Escenario 2: Consulta de reservas**<br><br>Dado que existen reservas registradas<br><br>Cuando la aplicación realiza una petición GET /reservations<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar reservas confirmadas, canceladas y finalizadas<br><br>**Escenario 3: Cancelación de reserva**<br><br>Dado que existe una reserva confirmada<br><br>Cuando la aplicación realiza una petición PATCH /reservations/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar la reserva con estado cancelada<br><br>**Escenario 4: Validación de superposición**<br><br>Dado que existe una reserva o estadía para una habitación en un rango de fechas<br><br>Cuando la aplicación intenta registrar otra reserva para la misma habitación y rango superpuesto<br><br>Entonces la API debe rechazar la operación con código 409 Conflict<br><br>Y debe indicar que la habitación no está disponible para ese periodo | **EP-07** |
+| **TS-05** | Gestión de estadías por API REST | Como developer, quiero integrar el registro, consulta y actualización de estadías mediante una RESTful API, para gestionar check-in, estados de salida y check-out de huéspedes. | **Escenario 1: Registro de check-in**<br><br>Dado que existe una habitación disponible o una reserva confirmada vigente<br><br>Cuando la aplicación realiza una petición POST /guest-stays<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar la estadía con huésped, habitación, hora de ingreso, límite de salida, estado y estado de pago<br><br>**Escenario 2: Consulta de estadías**<br><br>Dado que existen estadías registradas<br><br>Cuando la aplicación realiza una petición GET /guest-stays<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar estadías activas, próximas a vencer, vencidas sin checkout y finalizadas<br><br>**Escenario 3: Actualización de estadía**<br><br>Dado que existe una estadía registrada<br><br>Cuando la aplicación realiza una petición PATCH /guest-stays/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar estado, pago, fecha de checkout o datos relacionados<br><br>**Escenario 4: Registro de check-out**<br><br>Dado que existe una estadía con pago confirmado y comprobante emitido<br><br>Cuando la aplicación realiza una petición PATCH /guest-stays/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar la estadía como finalizada | **EP-07** |
+| **TS-06** | Gestión de consumos por API REST | Como developer, quiero integrar el registro, consulta, edición y eliminación de consumos mediante una RESTful API, para mantener actualizado el cobro adicional asociado a cada estadía. | **Escenario 1: Registro de consumo**<br><br>Dado que existe una estadía activa y no pagada<br><br>Cuando la aplicación realiza una petición POST /consumptions<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar producto o servicio, cantidad, precio unitario, subtotal y estadía asociada<br><br>**Escenario 2: Consulta de consumos**<br><br>Dado que existen consumos registrados<br><br>Cuando la aplicación realiza una petición GET /consumptions<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los consumos asociados a estadías<br><br>**Escenario 3: Edición de consumo**<br><br>Dado que existe un consumo registrado para una estadía no pagada<br><br>Cuando la aplicación realiza una petición PATCH /consumptions/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar descripción, cantidad, precio unitario o subtotal<br><br>**Escenario 4: Eliminación de consumo**<br><br>Dado que existe un consumo registrado para una estadía no pagada<br><br>Cuando la aplicación realiza una petición DELETE /consumptions/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe eliminar el consumo correspondiente | **EP-07** |
+| **TS-07** | Gestión de pagos por API REST | Como developer, quiero integrar el registro y consulta de pagos mediante una RESTful API, para mantener actualizados los montos pagados de reservas, estadías y suscripciones. | **Escenario 1: Registro de pago de estadía**<br><br>Dado que existe una estadía con monto pendiente<br><br>Cuando la aplicación realiza una petición POST /payments<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar monto, método de pago, fecha, hotel, estadía y usuario responsable<br><br>**Escenario 2: Registro de pago de reserva**<br><br>Dado que se confirma una reserva anticipada<br><br>Cuando la aplicación realiza una petición POST /payments<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar el pago de garantía asociado a la reserva<br><br>**Escenario 3: Consulta de pagos**<br><br>Dado que existen pagos registrados<br><br>Cuando la aplicación realiza una petición GET /payments<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los pagos asociados a reservas, estadías o reportes de ingresos | **EP-07** |
+| **TS-08** | Emisión de comprobantes por API REST | Como developer, quiero integrar la emisión y consulta de comprobantes mediante una RESTful API, para generar constancias asociadas a pagos registrados y cierre de estadías. | **Escenario 1: Emisión de comprobante**<br><br>Dado que existe un pago confirmado para una estadía<br><br>Cuando la aplicación realiza una petición POST /invoices<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe generar el comprobante con datos del huésped, habitación, estadía, consumos, pago de reserva aplicado y total final<br><br>**Escenario 2: Consulta de comprobantes**<br><br>Dado que existen comprobantes emitidos<br><br>Cuando la aplicación realiza una petición GET /invoices<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar los comprobantes registrados<br><br>**Escenario 3: Finalización posterior al comprobante**<br><br>Dado que una estadía tiene pago confirmado y comprobante emitido<br><br>Cuando la aplicación actualiza la estadía mediante PATCH /guest-stays/{id}<br><br>Entonces la API debe marcar la estadía como finalizada y liberar la habitación para limpieza | **EP-07** |
+| **TS-09** | Autenticación por API REST | Como developer, quiero integrar autenticación mediante una RESTful API, para validar acceso y navegación según rol de usuario. | **Escenario 1: Inicio de sesión válido**<br><br>Dado que existen credenciales registradas<br><br>Cuando la aplicación realiza una petición GET /users?email={email}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y la aplicación debe validar la contraseña y cargar la información del usuario autenticado<br><br>**Escenario 2: Restricción de acceso inválido**<br><br>Dado que las credenciales son incorrectas<br><br>Cuando la aplicación consulta GET /users?email={email}<br><br>Entonces la autenticación debe rechazarse<br><br>Y la interfaz debe mostrar un mensaje de error sin iniciar sesión<br><br>**Escenario 3: Persistencia mínima de sesión**<br><br>Dado que un usuario inició sesión correctamente<br><br>Cuando el navegador recarga la aplicación<br><br>Entonces la sesión puede mantenerse usando almacenamiento local únicamente para el usuario actual, idioma y último acceso | **EP-07** |
+| **TS-10** | Gestión de usuarios por API REST | Como developer, quiero integrar el registro, consulta, edición y eliminación de usuarios mediante una RESTful API, para administrar el acceso del personal y administradores del hotel. | **Escenario 1: Registro de administrador**<br><br>Dado que una persona crea una cuenta inicial del hotel<br><br>Cuando la aplicación realiza una petición POST /users<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar el usuario con rol ADMIN y fecha de creación<br><br>**Escenario 2: Registro de personal**<br><br>Dado que existe un administrador autenticado<br><br>Cuando la aplicación realiza una petición POST /users<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar al trabajador con rol operativo y hotelId correspondiente<br><br>**Escenario 3: Consulta de usuarios**<br><br>Dado que existen usuarios registrados<br><br>Cuando la aplicación realiza una petición GET /users<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar usuarios con rol, correo, hotel asociado y fecha de registro<br><br>**Escenario 4: Actualización de usuario**<br><br>Dado que existe un usuario registrado<br><br>Cuando la aplicación realiza una petición PATCH /users/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar nombre, usuario, correo, rol o contraseña<br><br>**Escenario 5: Eliminación de usuario**<br><br>Dado que existe un usuario de personal registrado<br><br>Cuando la aplicación realiza una petición DELETE /users/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retirar el acceso del usuario a la plataforma | **EP-07** |
+| **TS-11** | Gestión de tareas de limpieza por API REST | Como developer, quiero integrar la consulta y actualización de tareas de limpieza mediante una RESTful API, para controlar habitaciones liberadas después del checkout. | **Escenario 1: Registro de tarea de limpieza**<br><br>Dado que una estadía fue finalizada por checkout<br><br>Cuando la aplicación realiza una petición POST /cleaning-tasks<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar una tarea de limpieza vinculada a la habitación<br><br>**Escenario 2: Consulta de tareas de limpieza**<br><br>Dado que existen tareas de limpieza registradas<br><br>Cuando la aplicación realiza una petición GET /cleaning-tasks<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar tareas pendientes o completadas<br><br>**Escenario 3: Finalización de limpieza**<br><br>Dado que existe una habitación en limpieza<br><br>Cuando la aplicación realiza una petición PATCH /cleaning-tasks/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe marcar la tarea como completada y permitir que la habitación vuelva a disponible | **EP-07** |
+| **TS-12** | Alertas operativas por API REST | Como developer, quiero integrar la consulta de estadías y notificaciones mediante una RESTful API, para identificar habitaciones próximas a finalizar o vencidas sin checkout. | **Escenario 1: Consulta de estadías para alertas**<br><br>Dado que existen estadías registradas<br><br>Cuando la aplicación realiza una petición GET /guest-stays<br><br>Entonces la API debe responder con código 200 OK<br><br>Y la aplicación debe identificar estadías por vencer o vencidas sin checkout según fecha límite de salida<br><br>**Escenario 2: Consulta de notificaciones internas**<br><br>Dado que existen notificaciones operativas registradas<br><br>Cuando la aplicación realiza una petición GET /notifications<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar notificaciones internas de reservas, checkout, limpieza o cambios operativos<br><br>**Escenario 3: Actualización de alerta operativa**<br><br>Dado que una estadía vencida fue cerrada por checkout<br><br>Cuando la aplicación realiza una petición PATCH /guest-stays/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y la alerta debe dejar de mostrarse como pendiente | **EP-07** |
+| **TS-13** | Reportes de ocupación e ingresos por API REST | Como developer, quiero integrar reportes operativos mediante una RESTful API, para visualizar ocupación, reservas, estadías e ingresos del hotel. | **Escenario 1: Reporte de ocupación**<br><br>Dado que existen habitaciones registradas<br><br>Cuando la aplicación realiza una petición GET /rooms<br><br>Entonces la API debe responder con código 200 OK<br><br>Y la aplicación debe calcular disponibilidad, ocupación, limpieza y mantenimiento del hotel<br><br>**Escenario 2: Reporte de ingresos**<br><br>Dado que existen pagos registrados<br><br>Cuando la aplicación realiza una petición GET /payments<br><br>Entonces la API debe responder con código 200 OK<br><br>Y la aplicación debe mostrar ingresos generados por fecha y rango seleccionado<br><br>**Escenario 3: Exportación de reportes PDF**<br><br>Dado que el hotel tiene plan Pro activo<br><br>Cuando el usuario solicita exportar un reporte desde administración, reservas o estadías<br><br>Entonces la aplicación debe generar el PDF correspondiente<br><br>Y debe usar los datos obtenidos de /rooms, /reservations, /guest-stays y /payments | **EP-07** |
+| **TS-14** | Gestión de suscripción por API REST | Como developer, quiero integrar la consulta, actualización e historial de suscripción mediante una RESTful API, para controlar el plan activo del hotel y sus pagos asociados. | **Escenario 1: Consulta de suscripción**<br><br>Dado que existe un hotel registrado<br><br>Cuando la aplicación realiza una petición GET /subscriptions<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar el plan activo, estado, costo mensual y hotel asociado<br><br>**Escenario 2: Cambio de plan**<br><br>Dado que el administrador selecciona un nuevo plan<br><br>Cuando la aplicación realiza una petición PATCH /subscriptions/{id}<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe actualizar el plan activo del hotel<br><br>**Escenario 3: Registro de pago de suscripción**<br><br>Dado que se confirma un cambio o renovación de plan<br><br>Cuando la aplicación realiza una petición POST /subscription-payments<br><br>Entonces la API debe responder con código 201 Created<br><br>Y debe registrar fecha, plan, monto, estado y hotel asociado<br><br>**Escenario 4: Consulta de historial de pagos**<br><br>Dado que existen pagos de suscripción registrados<br><br>Cuando la aplicación realiza una petición GET /subscription-payments<br><br>Entonces la API debe responder con código 200 OK<br><br>Y debe retornar el historial de pagos de suscripción del hotel | **EP-07** |
 
 ## 3.2. Impact Mapping
 
@@ -1232,7 +1239,7 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | 8 | US-07 | Redes sociales | Como administrador de un hospedaje interesado en Senit, quiero encontrar enlaces a redes sociales y medios de contacto, para conocer más sobre Senit. | 2 |
 | 9 | US-09 | Visualización de habitaciones | Como recepcionista del hospedaje, quiero consultar las habitaciones según su estado actual, para identificar cuáles están disponibles, ocupadas, en limpieza o en mantenimiento. | 3 |
 | 10 | US-10 | Registro de check-in por horas | Como recepcionista del hospedaje, quiero registrar los tiempos de las estadías solicitadas por los huéspedes, para calcular automáticamente el costo inicial y la hora límite de salida, reduciendo el tiempo de atención necesario. | 5 |
-| 11 | US-12 | Consulta de detalles de estadía | Como recepcionista del hospedaje, quiero consultar los detalles de una estadía activa, para informar al huésped sobre el tiempo restante y el monto pendiente de la estadía. | 4 |
+| 11 | US-12 | Consulta de detalles de estadía | Como recepcionista del hospedaje, quiero consultar los detalles de una estadía activa, para informar al huésped sobre el tiempo restante y el monto pendiente de la estadía. | 5 |
 | 12 | US-14 | Registro de check-out | Como recepcionista del hospedaje, quiero registrar la salida del huésped, para cerrar la estadía y liberar la habitación para limpieza. | 5 |
 | 13 | US-16 | Actualización de estado de habitación | Como personal operativo del hospedaje, quiero actualizar el estado de una habitación después de su limpieza e inspección, para dejarla disponible o derivarla a mantenimiento según su condición. | 3 |
 | 14 | US-17 | Filtros de habitaciones | Como recepcionista del hospedaje, quiero filtrar habitaciones por su estado actual, para encontrar rápidamente las habitaciones que necesito revisar, incluidas las que están cerca de desocuparse. | 3 |
@@ -1249,16 +1256,20 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | 25 | US-25 | Emisión de comprobantes electrónicos | Como recepcionista del hospedaje, quiero emitir el comprobante electrónico correspondiente al pago de una estadía, para entregar un respaldo formal de la transacción. | 5 |
 | 26 | US-26 | Supervisión de ocupación de habitaciones | Como administrador del hospedaje, quiero consultar el estado de ocupación de las habitaciones, para supervisar la disponibilidad y el uso del establecimiento. | 3 |
 | 27 | US-27 | Consulta de ingresos del hospedaje | Como administrador del hospedaje, quiero consultar los ingresos generados por estadías y consumos, para supervisar el rendimiento económico del establecimiento. | 5 |
-| 28 | TS-02 | Gestión de habitaciones por API REST | Como developer, quiero integrar la consulta y actualización de habitaciones mediante una RESTful API, para administrar su disponibilidad y estado operativo. | 5 |
-| 29 | TS-04 | Gestión de estadías por API REST | Como developer, quiero integrar el registro y actualización de estadías mediante una RESTful API, para gestionar el check-in y check-out de huéspedes. | 5 |
-| 30 | TS-03 | Gestión de reservas por API REST | Como developer, quiero integrar el registro y consulta de reservas mediante una RESTful API, para gestionar la disponibilidad de habitaciones del hospedaje. | 5 |
-| 31 | TS-05 | Gestión de consumos por API REST | Como developer, quiero integrar el registro y consulta de consumos mediante una RESTful API, para mantener actualizado el cobro asociado a cada estadía. | 3 |
-| 32 | TS-06 | Gestión de pagos por API REST | Como developer, quiero integrar el registro y consulta de pagos mediante una RESTful API, para mantener actualizados los montos pendientes de las estadías. | 3 |
-| 33 | TS-07 | Emisión de comprobantes electrónicos por API REST | Como developer, quiero integrar la emisión y consulta de comprobantes electrónicos mediante una RESTful API, para generar comprobantes asociados a pagos registrados. | 5 |
-| 34 | TS-08 | Autenticación por API REST | Como developer, quiero integrar la autenticación mediante una RESTful API, para validar el acceso según los roles del personal. | 5 |
-| 35 | TS-09 | Gestión de usuarios por API REST | Como developer, quiero integrar el registro y consulta de usuarios mediante una RESTful API, para administrar el acceso del personal a la plataforma. | 3 |
-| 36 | TS-11 | Alertas operativas por API REST | Como developer, quiero integrar la consulta de alertas operativas mediante una RESTful API, para identificar estadías próximas a finalizar y estados relevantes de operación. | 3 |
-| 37 | TS-12 | Reportes de ocupación e ingresos por API REST | Como developer, quiero integrar la consulta de reportes mediante una RESTful API, para visualizar la ocupación e ingresos del hospedaje. | 5 |
+| 28 | TS-02 | Gestión de hoteles por API REST | Como developer, quiero integrar el registro, consulta y actualización de hoteles mediante una RESTful API, para administrar los datos principales del establecimiento asociado a cada administrador. | 3 |
+| 29 | TS-03 | Gestión de habitaciones por API REST | Como developer, quiero integrar la consulta, registro, actualización y eliminación de habitaciones mediante una RESTful API, para administrar disponibilidad, precios y estados operativos del hospedaje. | 5 |
+| 30 | TS-04 | Gestión de reservas por API REST | Como developer, quiero integrar el registro, consulta, cancelación y finalización de reservas mediante una RESTful API, para gestionar reservas anticipadas y evitar superposiciones de habitaciones. | 5 |
+| 31 | TS-05 | Gestión de estadías por API REST | Como developer, quiero integrar el registro, consulta y actualización de estadías mediante una RESTful API, para gestionar check-in, estados de salida y check-out de huéspedes. | 5 |
+| 32 | TS-06 | Gestión de consumos por API REST | Como developer, quiero integrar el registro, consulta, edición y eliminación de consumos mediante una RESTful API, para mantener actualizado el cobro adicional asociado a cada estadía. | 3 |
+| 33 | TS-07 | Gestión de pagos por API REST | Como developer, quiero integrar el registro y consulta de pagos mediante una RESTful API, para mantener actualizados los montos pagados de reservas, estadías y suscripciones. | 3 |
+| 34 | TS-08 | Emisión de comprobantes por API REST | Como developer, quiero integrar la emisión y consulta de comprobantes mediante una RESTful API, para generar constancias asociadas a pagos registrados y cierre de estadías. | 5 |
+| 35 | TS-09 | Autenticación por API REST | Como developer, quiero integrar autenticación mediante una RESTful API, para validar acceso y navegación según rol de usuario. | 5 |
+| 36 | TS-10 | Gestión de usuarios por API REST | Como developer, quiero integrar el registro, consulta, edición y eliminación de usuarios mediante una RESTful API, para administrar el acceso del personal y administradores del hotel. | 5 |
+| 37 | TS-11 | Gestión de tareas de limpieza por API REST | Como developer, quiero integrar la consulta y actualización de tareas de limpieza mediante una RESTful API, para controlar habitaciones liberadas después del checkout. | 3 |
+| 38 | TS-12 | Alertas operativas por API REST | Como developer, quiero integrar la consulta de estadías y notificaciones mediante una RESTful API, para identificar habitaciones próximas a finalizar o vencidas sin checkout. | 3 |
+| 39 | TS-13 | Reportes de ocupación e ingresos por API REST | Como developer, quiero integrar reportes operativos mediante una RESTful API, para visualizar ocupación, reservas, estadías e ingresos del hotel. | 5 |
+| 40 | TS-14 | Gestión de suscripción por API REST | Como developer, quiero integrar la consulta, actualización e historial de suscripción mediante una RESTful API, para controlar el plan activo del hotel y sus pagos asociados. | 3 |
+
 ---
 # Capítulo IV: Product Design
 
@@ -1522,7 +1533,7 @@ User goal: Cerrar mi sesión para que nadie más pueda entrar a mi cuenta por se
 RECEPCIONISTA: 
 
 <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/Dashboard%20de%20Recepción.png" alt="Dashboard" width="600"/>
+  <img src="/assets/webApp/mockups_web/receptionist/SeccionInicial.png" alt="Inicio" width="600"/>
 </p>
 
 <p align="center">
@@ -1533,8 +1544,8 @@ RECEPCIONISTA:
 
 <p align="center">
  <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/Dashboard%20de%20Recepción.png" alt="Dashboard" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/Configuración.png" alt="Configuracion" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/DashboardRecepcion.png" alt="Dashboard" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/Configuracion.png" alt="Configuracion" width="45%"/>
 </p>
 
 <p align="center">
@@ -1546,27 +1557,27 @@ RECEPCIONISTA:
 <p align="center">
  <p align="center">
   <img src="/assets/webApp/mockups_web/receptionist/Reservas.png" alt="Reservas" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/Registro%20de%20reservas.png" alt="RegistroR" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/RegistroReservas.png" alt="RegistroR" width="45%"/>
 </p>
 
 <p align="center">
  <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/Lista%20de%20estadias.png" alt="VistaHab" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/Registro%20de%20estadia%20(Check%20in).png" alt="RegistroEst" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/ListaEstadias.png" alt="ListaEst" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/RegistroEstadia(Check%20in).png" alt="RegistroEst" width="45%"/>
 </p>
 
 <p align="center">
  <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/Detalle%20de%20estadia.png" alt="DetalleEstadia" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/Vista%20de%20habitaciones.png" alt="VistaHab" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/DetalleEstadia.png" alt="DetalleEstadia" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/VistaHabitaciones.png" alt="VistaHab" width="45%"/>
 </p>
 
 ADMIN: 
 
 <p align="center">
-  <img src="/assets/webApp/mockups_web/admin/Dashboard%20de%20supervision.png" alt="DashboardSup" width="600"/>
-<img src="/assets/webApp/mockups_web/admin/Gestión%20del%20hotel.png" alt="GestionHotel" width="600"/>
-<img src="/assets/webApp/mockups_web/admin/Registro%20de%20habitaciones.png" alt="RegistroHab" width="600"/>
+  <img src="/assets/webApp/mockups_web/admin/DashboardSupervision.png" alt="DashboardSup" width="600"/>
+<img src="/assets/webApp/mockups_web/admin/GestionHotel.png" alt="GestionHotel" width="600"/>
+<img src="/assets/webApp/mockups_web/admin/RegistroHabitaciones.png" alt="RegistroHab" width="600"/>
 </p>
 
 ## 4.6. Domain-Driven Software Architecture.
@@ -1990,23 +2001,80 @@ https://trello.com/invite/b/6a04bca651225609f911fdfa/ATTI806cfc4f17149a32f88dead
 
 Durante este sprint, el equipo se enfocó en el desarrollo de la primera base funcional de la Web Application de Senit, priorizando el módulo operativo del sistema. En esta iteración, los avances estuvieron relacionados con la visualización de habitaciones, el flujo de check-in por horas, la consulta de detalles de estadía, el registro de check-out, los filtros por estado y la configuración inicial del cambio de idioma dentro de la aplicación.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on |
+|---|---|---|---|---|---|
+| SENIT-Aplicaciones-Web/senit-webapp | main | 9f6cc09 | fix: get items by hotel id | Se corrigió la obtención de elementos asociados a un hotel específico, permitiendo mostrar información filtrada según el hotel seleccionado. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | fe2b80e | fix: hotels only show assigned users | Se ajustó la visualización de hoteles para mostrar únicamente los usuarios asignados, mejorando el control de acceso a la información. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | b8f8bc4 | feat: connection with backend deployed | Se implementó la conexión de la aplicación web con el backend desplegado, permitiendo el consumo de servicios desde un entorno operativo. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | be60170 | feat: fix for backend implementation | Se realizaron ajustes en la aplicación frontend para adaptar correctamente la integración con los endpoints del backend. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | b26ed16 | feat: fixed env.production | Se corrigió la configuración del ambiente de producción para permitir una correcta ejecución de la aplicación desplegada. | 17/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | c1a15f1 | feat: fix .env.development | Se actualizó la configuración del ambiente de desarrollo para mantener consistencia entre las variables locales y las usadas por la aplicación. | 17/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | f409f04 | fix: temporal render fake api | Se corrigió la configuración temporal de la API falsa en Render para facilitar pruebas mientras se completaba la integración con servicios reales. | 16/06/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | ed0a1be | fix: prepare frontend deployment | Se preparó la aplicación frontend para su despliegue, ajustando configuraciones necesarias para su publicación en entorno web. | 16/06/2026 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
+
+En este Sprint 2 se desarrolló la Web Application de Senit, enfocada en la administración hotelera. Se implementaron las principales vistas del sistema para que el usuario administrador pueda visualizar indicadores generales del hotel, gestionar información del establecimiento, administrar habitaciones, revisar estadías, controlar la suscripción y configurar datos básicos de la cuenta. Además, se validó la navegación entre los módulos principales desde la aplicación desplegada.
+
+<p align="center">
+  <img src="assets/sprint-2/execution/admin-dashboard.jpeg" alt="Administration Dashboard de Senit" width="900"/>
+  <br>
+  <i>Figura del panel principal de administración de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/recepcion-dashboard.jpeg" alt="Administration Dashboard de Senit" width="900"/>
+  <br>
+  <i>Figura del panel principal de recepcionista de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/hotel-registration.jpeg" alt="Vista de registro del hotel en Senit" width="900"/>
+  <br>
+  <i>Figura de la vista de registro y edición de datos del hotel.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/room-management.jpeg" alt="Vista de gestión de habitaciones en Senit" width="900"/>
+  <br>
+  <i>Figura de la vista de gestión y registro de habitaciones.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/stays-management.jpeg" alt="Vista de gestión de estadías en Senit" width="900"/>
+  <br>
+  <i>Figura de la vista de gestión de estadías de huéspedes.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/subscription-management.jpeg" alt="Vista de gestión de suscripción en Senit" width="900"/>
+  <br>
+  <i>Figura de la vista de gestión de suscripción del hotel.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/settings.jpeg" alt="Vista de configuración de cuenta en Senit" width="900"/>
+  <br>
+  <i>Figura de la vista de configuración de cuenta y preferencias del sistema.</i>
+</p>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 En este sprint no se realizó la implementación ni se documentó ningún Web Service. El alcance del Sprint 2 fue el desarrollo de la primera base funcional de la Web Application de Senit, priorizando la visualización de habitaciones, el flujo de Check In por horas, la consulta de los detalles de estadía, el Check Out, los filtros por estado y el soporte inicial de internacionalización.
 <br>
 Por ello, la especificación de los endpoints, de los verbos HTTP, de los parámetros, de las respuestas, de las capturas de documentación o de commits relacionados con Web Services no corresponde a esta iteración, sino que será objeto de desarrollo en los siguientes sprints cuando se inicie la implementación formal de los servicios que dan soporte a la lógica del sistema.
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+En este Sprint 2 se realizó el despliegue de la Web Application de Senit utilizando GitHub Pages. Para ello, se configuró el repositorio `senit-webapp` con GitHub Actions como fuente de despliegue, permitiendo publicar la aplicación en un entorno web accesible desde el navegador. Esta configuración permitió validar que la WebApp se encuentre disponible en línea y que los usuarios puedan acceder a las principales vistas implementadas durante el Sprint.
+
+URL de despliegue: https://senit-aplicaciones-web.github.io/senit-webapp/
+
+<p align="center">
+  <img src="assets/deployment-sprint-2.jpeg" alt="Deployment de la Web Application de Senit en GitHub Pages" width="900"/>
+  <br>
+  <i>Figura del despliegue de la Web Application de Senit mediante GitHub Pages.</i>
+</p>
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -2027,6 +2095,410 @@ Si bien en esta iteración el mayor avance estuvo concentrado en el reporte y en
   <br>
   <i>Commits registrados en el repositorio de la landing page durante el Sprint 2.</i>
 </p>
+
+### 5.2.3. Sprint 3
+
+En esta tercera iteración, el equipo orientó sus esfuerzos al desarrollo inicial de los **Web Services** de Senit. A diferencia del Sprint 1, enfocado en la landing page, y del Sprint 2, enfocado en la Web Application, este sprint se centró en la construcción del backend del sistema, con el objetivo de brindar soporte a las principales operaciones de la plataforma mediante una RESTful API.
+
+Durante este sprint se priorizó la implementación de servicios relacionados con la gestión de hoteles, habitaciones, reservas, estadías, autenticación, usuarios y suscripciones. Además, se consideró la documentación de los endpoints mediante Swagger/OpenAPI, con la finalidad de facilitar las pruebas, validar las respuestas del backend y permitir una futura integración más ordenada con la Web Application.
+
+#### 5.2.3.1. Sprint Planning 3
+
+| Sprint # | Sprint 3 |
+|----------|----------|
+| **Sprint Planning Background** |  |
+| Date | 2026-06-12 |
+| Time | 10:00 PM |
+| Location | Reunión virtual realizada a través de Discord |
+| Prepared By | Danitza Ivonne Heredia Hoyos |
+| Attendees (to planning meeting) | - Danitza Ivonne Heredia Hoyos<br>- Edgar Alexander Mauricio Montes Zamora<br>- Richard Enrique Lozano Leon<br>- Anghelo Faustino Hurtado<br>- Leonardo Rafael Garcia Villanueva |
+| Sprint n – 1 Review Summary | En el Sprint 2 se logró desarrollar la primera base funcional de la Web Application de Senit, incluyendo vistas principales para la administración hotelera, gestión de habitaciones, estadías, suscripción, configuración de cuenta y navegación entre módulos. Además, se realizó el despliegue de la aplicación mediante GitHub Pages, permitiendo validar su acceso desde un entorno web operativo. |
+| Sprint n – 1 Retrospective Summary | A partir del Sprint 2, el equipo identificó la necesidad de avanzar hacia la implementación del backend para reemplazar progresivamente los datos simulados y permitir que la Web Application consuma servicios reales. También se reconoció la importancia de documentar correctamente los endpoints mediante Swagger/OpenAPI, con el fin de facilitar las pruebas e integración entre frontend y backend. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 3 Goal | **Our focus is on** implementing the first functional version of Senit’s RESTful API for hotel, room, reservation, guest stay, authentication, user and subscription management.<br>**We believe it delivers** a more reliable and integrated backend support to hotel administrators and operational staff by allowing the Web Application to consume documented services instead of relying only on local or simulated data.<br>**This will be confirmed when** the API exposes testable endpoints for hotels, rooms, reservations, guest stays, users, authentication and subscriptions through Swagger/OpenAPI, and the main services can be validated through HTTP requests. |
+| Sprint 3 Velocity | 34 |
+| Sum of Story Points | 31 |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+En esta parte se exponen los aspectos principales tratados en el Sprint 3, especificando el nombre del miembro que asumió el rol de líder y el de los miembros que participaron de colaboradores. En esta iteración, el equipo optó por poner el foco en la implantación de los Web Services de Senit, de modo que los puntos que fueron hechos en esta base fueron: planificación y documentación del sprint, la arquitectura inicial del backend, la puesta en funcionamiento de los principales endpoints, la gestión de usuarios y de la autenticación, la gestión de las suscripciones y la documentación de servicios a través de Swagger/OpenAPI.
+
+| Team Member (Last Name, First Name) | GitHub Username | Sprint Planning and Documentation Leader (L) / Collaborator (C) | Backend Architecture Leader (L) / Collaborator (C) | Hotel, Rooms and Stays API Leader (L) / Collaborator (C) | Users and Authentication API Leader (L) / Collaborator (C) | Subscriptions API and Swagger Documentation Leader (L) / Collaborator (C) |
+|---|---|---|---|---|---|---|
+| Heredia Hoyos, Danitza Ivonne | UDnTzh | L | C | C | C | C |
+| Montes Zamora, Edgar Alexander Mauricio | Zenkit0 | C | L | C | C | C |
+| Lozano Leon, Richard Enrique | AikoLz | C | C | C | L | C |
+| Hurtado Faustino, Anghelo | Limos05 | C | C | L | C | C |
+| Garcia Villanueva, Leonardo Rafael | LeonardoGV00 | C | C | C | C | L |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+El Sprint Backlog 3 contempla las Technical Stories priorizadas para construir la versión 1 de los Web Services de Senit. En esta iteración, el team decidió desarrollarla mediante una RESTful API, garantizando así el soporte a las operaciones principales que permitirían implementar las funcionalidades de gestión de hoteles, habitaciones, reservas, estadías, usuarios, autenticación o subscripciones. El sprint tuvo como finalidad, así pues, partir de una Web Application apoyado en datos simulados y moverse hacia una solución que incorpora servicios backend documentados y dispuestos para la integración.
+
+| Sprint # | Sprint 3 |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+| TS-02 | Gestión de hoteles por API REST | T3-01 | Implementación de endpoints de hoteles | Desarrollar los servicios para registrar, consultar y actualizar la información principal de los hoteles asociados a los administradores. | 5 | Montes Zamora, Edgar Alexander Mauricio | Done |
+| TS-03 | Gestión de habitaciones por API REST | T3-02 | Implementación de endpoints de habitaciones | Implementar los servicios para consultar, registrar, actualizar y eliminar habitaciones, considerando número, piso, tipo, capacidad, precio por hora, estado y hotel asociado. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-04 | Gestión de reservas por API REST | T3-03 | Implementación de endpoints de reservas | Desarrollar los endpoints para registrar, consultar, cancelar y finalizar reservas, incluyendo validaciones para evitar superposición de habitaciones. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-05 | Gestión de estadías por API REST | T3-04 | Implementación de endpoints de estadías | Implementar los servicios necesarios para registrar check-in, consultar estadías activas, actualizar estados y gestionar el check-out de huéspedes. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-09 | Autenticación por API REST | T3-05 | Implementación de autenticación de usuarios | Desarrollar el servicio de autenticación para validar credenciales y permitir el acceso según el rol correspondiente. | 5 | Lozano Leon, Richard Enrique | Done |
+| TS-10 | Gestión de usuarios por API REST | T3-06 | Implementación de endpoints de usuarios | Implementar los endpoints para registrar, consultar, editar y eliminar usuarios del personal y administradores del hotel. | 6 | Hurtado Faustino, Anghelo | Done |
+| TS-14 | Gestión de suscripción por API REST | T3-07 | Implementación de endpoints de suscripciones | Desarrollar los servicios para consultar y actualizar la suscripción activa del hotel, así como registrar pagos asociados. | 5 | Heredia Hoyos, Danitza Ivonne | Done |
+| TS-02, TS-03, TS-04, TS-05, TS-09, TS-10, TS-14 | Documentación de servicios backend | T3-08 | Documentación de endpoints con Swagger/OpenAPI | Configurar Swagger/OpenAPI para documentar los endpoints implementados, permitiendo visualizar rutas, verbos HTTP, parámetros y respuestas de prueba. | 4 | Garcia Villanueva, Leonardo Rafael | Done |
+
+**Board del Sprint 3 en Trello:**  
+Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las tareas correspondientes al Sprint 3.
+
+<p align="center">
+  <img src="assets/Trello 3.jpeg" alt="Board del Sprint 3 en Trello" width="900"/>
+  <br>
+  <i>Figura del Board del Sprint 3 de Senit en Trello.</i>
+</p>
+
+**URL del board:**  
+https://trello.com/invite/b/6a35d8e872fb291b146afc97/ATTIf1506ff5d58679dd21c996830719b4427BA29BE0/senit-sprint-3
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante este Sprint 3, el equipo se enfocó en la implementación de la primera versión funcional del backend de Senit. Los avances estuvieron relacionados con el desarrollo de los Web Services principales de la plataforma, permitiendo gestionar hoteles, habitaciones, reservas, estadías, usuarios, autenticación y suscripciones mediante una RESTful API.
+
+Además, se trabajó en la configuración inicial del proyecto backend, la organización de endpoints, la corrección de rutas, el filtrado de datos por hotel y la documentación técnica mediante Swagger/OpenAPI. Estos avances permiten que la Web Application pueda consumir servicios backend de forma más ordenada y validable.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on |
+|---|---|---|---|---|---|
+| SENIT-Aplicaciones-Web/senit-backend | main | c8bdc04 | Initial commit | Se creó la estructura inicial del repositorio backend para comenzar la implementación de los Web Services de Senit. | 17/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 8457418 | feat: finished backend v1 | Se completó la primera versión funcional del backend, incluyendo los endpoints principales para la gestión operativa de Senit. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 908e520 | docs: added list of endpoints | Se agregó la lista de endpoints disponibles para facilitar la revisión y prueba de los servicios implementados. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | a651871 | docs: fix endpoint route | Se corrigieron rutas documentadas de los endpoints para mantener coherencia entre la documentación y la implementación del backend. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 2936026 | fix: swagger visibility | Se ajustó la visibilidad de Swagger para permitir la revisión de la documentación de servicios desde el entorno desplegado. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 1e4bb31 | fix: users get by hotel id | Se corrigió la consulta de usuarios por identificador de hotel, permitiendo filtrar correctamente el personal asociado a cada establecimiento. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 992b195 | docs: added links to deployment | Se añadieron enlaces relacionados con el despliegue del backend para facilitar el acceso a la API y su documentación. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | e264cb5 | fix: endpoints with hotel for parameter | Se ajustaron endpoints para recibir el hotel como parámetro, permitiendo retornar información específica según el establecimiento seleccionado. | 18/06/2026 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este Sprint 3 se logró ejecutar la primera versión funcional del backend de Senit. La API REST desarrollada permite validar los servicios principales del sistema, como autenticación, gestión de hoteles, habitaciones, reservas, estadías, usuarios, pagos, consumos, suscripciones y tareas de limpieza. Además, se comprobó el funcionamiento de los endpoints mediante Swagger/OpenAPI, permitiendo revisar las rutas disponibles, los verbos HTTP, los parámetros y las respuestas generadas por el backend.
+
+A continuación, se presentan las evidencias de ejecución del backend desplegado y documentado mediante Swagger.
+
+<p align="center">
+  <img src="assets/sprint-3/execution/swagger-overview.jpeg" alt="Vista general de Swagger del backend de Senit" width="900"/>
+  <br>
+  <i>Figura de la vista general de Swagger del backend de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-3/execution/authentication-response.jpeg" alt="Prueba de endpoint de autenticación en Swagger" width="900"/>
+  <br>
+  <i>Figura de la prueba de un endpoint de autenticación con respuesta exitosa desde Swagger.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-3/execution/swagger-endpoints-list.jpeg" alt="Lista de endpoints disponibles en Swagger" width="900"/>
+  <br>
+  <i>Figura de los endpoints disponibles para habitaciones, suscripciones y usuarios en Swagger.</i>
+</p>
+
+**Enlace del video de ejecución:**  
+https://youtu.be/IegwlSo5rnI
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3 se realizó la documentación de los Web Services implementados para la primera versión funcional del backend de Senit. Esta documentación fue generada mediante Swagger/OpenAPI y permite visualizar los endpoints disponibles, los verbos HTTP soportados, la sintaxis de llamada, los parámetros requeridos y las respuestas esperadas de cada servicio.
+
+La documentación desplegada permite validar los servicios relacionados con el alcance del sprint, principalmente autenticación, gestión de hoteles, habitaciones, reservas, estadías, usuarios, suscripciones y pagos de suscripción. Además, esta documentación facilita la integración con la Web Application, ya que permite probar los endpoints directamente desde el navegador utilizando datos de muestra.
+
+**URL de documentación Swagger:**  
+https://senit-backend.onrender.com/swagger/index.html
+
+**URL base de la API:**  
+https://senit-backend.onrender.com/api/v1
+
+**Repositorio de Web Services:**  
+https://github.com/SENIT-Aplicaciones-Web/senit-backend
+
+| Endpoint Group | HTTP Verb | Syntax | Parameters | Example Response | Response Explanation |
+|---|---|---|---|---|---|
+| Authentication | POST | `/api/v1/authentication/sign-in` | Body: `email`, `password` | `200 OK` | Retorna la información del usuario autenticado cuando las credenciales son válidas. |
+| Authentication | POST | `/api/v1/authentication/sign-up` | Body: `username`, `email`, `password` | `201 Created` | Registra una nueva cuenta de usuario dentro del sistema. |
+| Hotels | GET | `/api/v1/hotels` | None | `200 OK` | Retorna la lista de hoteles registrados en la plataforma. |
+| Hotels | PUT | `/api/v1/hotels/{hotelId}` | Path: `hotelId` / Body: hotel data | `200 OK` | Actualiza la información principal del hotel seleccionado. |
+| Hotels | DELETE | `/api/v1/hotels/{hotelId}/staff/{userId}` | Path: `hotelId`, `userId` | `200 OK` | Remueve un usuario del personal asociado a un hotel. |
+| Rooms | GET | `/api/v1/rooms` | None | `200 OK` | Retorna las habitaciones registradas con sus datos principales y estado actual. |
+| Rooms | POST | `/api/v1/rooms` | Body: room data | `201 Created` | Registra una nueva habitación asociada a un hotel. |
+| Rooms | PUT | `/api/v1/rooms/{roomId}` | Path: `roomId` / Body: room data | `200 OK` | Actualiza la información o el estado operativo de una habitación. |
+| Rooms | DELETE | `/api/v1/rooms/{roomId}` | Path: `roomId` | `200 OK` | Elimina una habitación registrada en el sistema. |
+| Reservations | GET | `/api/v1/reservations` | None | `200 OK` | Retorna la lista de reservas registradas. |
+| Reservations | POST | `/api/v1/reservations` | Body: reservation data | `201 Created` | Registra una nueva reserva para un huésped y habitación determinada. |
+| Reservations | PUT | `/api/v1/reservations/{reservationId}` | Path: `reservationId` / Body: reservation data | `200 OK` | Actualiza la información o estado de una reserva existente. |
+| GuestStays | GET | `/api/v1/guest-stays` | None | `200 OK` | Retorna las estadías registradas en la plataforma. |
+| GuestStays | POST | `/api/v1/guest-stays` | Body: guest stay data | `201 Created` | Registra una nueva estadía o check-in de huésped. |
+| Users | GET | `/api/v1/users` | Optional query parameters | `200 OK` | Retorna los usuarios registrados en el sistema. |
+| Users | POST | `/api/v1/users` | Body: user data | `201 Created` | Registra un nuevo usuario del personal o administrador. |
+| Users | GET | `/api/v1/users/{userId}` | Path: `userId` | `200 OK` | Retorna la información de un usuario específico. |
+| Users | PUT | `/api/v1/users/{userId}` | Path: `userId` / Body: user data | `200 OK` | Actualiza la información de un usuario registrado. |
+| Subscriptions | GET | `/api/v1/subscriptions` | None | `200 OK` | Retorna las suscripciones registradas y el plan activo del hotel. |
+| Subscriptions | PUT | `/api/v1/subscriptions/{subscriptionId}` | Path: `subscriptionId` / Body: subscription data | `200 OK` | Actualiza la información de una suscripción existente. |
+| SubscriptionPayments | GET | `/api/v1/subscription-payments` | None | `200 OK` | Retorna el historial de pagos de suscripción registrados. |
+| SubscriptionPayments | POST | `/api/v1/subscription-payments` | Body: subscription payment data | `201 Created` | Registra un nuevo pago asociado a una suscripción. |
+
+Además de los endpoints relacionados directamente con el alcance principal del Sprint 3, Swagger también documenta servicios complementarios como huéspedes, consumos, pagos, comprobantes, tareas de limpieza y notificaciones. Estos endpoints permiten ampliar el soporte operativo de la plataforma y preparar futuras integraciones con los módulos restantes de la Web Application.
+
+A continuación, se presentan capturas de la documentación y pruebas realizadas desde Swagger/OpenAPI utilizando datos de muestra.
+
+<p align="center">
+  <img src="assets/sprint-3/execution/swagger-overview.jpeg" alt="Vista general de Swagger del backend de Senit" width="900"/>
+  <br>
+  <i>Figura de la vista general de Swagger/OpenAPI del backend de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-3/execution/authentication-response.jpeg" alt="Respuesta de endpoint de autenticación en Swagger" width="900"/>
+  <br>
+  <i>Figura de la prueba de un endpoint de autenticación con respuesta exitosa desde Swagger.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-3/execution/swagger-endpoints-list.jpeg" alt="Lista de endpoints documentados en Swagger" width="900"/>
+  <br>
+  <i>Figura de endpoints documentados para habitaciones, suscripciones y usuarios.</i>
+</p>
+
+Los commits relacionados con la documentación de servicios y publicación de enlaces del backend se presentan a continuación:
+
+| Repository | Branch | Commit Id | Commit Message | Description | Committed on |
+|---|---|---|---|---|---|
+| SENIT-Aplicaciones-Web/senit-backend | main | 908e520 | docs: added list of endpoints | Se agregó la lista de endpoints disponibles del backend. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | a651871 | docs: fix endpoint route | Se corrigieron rutas documentadas para mantener coherencia con la API implementada. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 2936026 | fix: swagger visibility | Se habilitó la visibilidad de Swagger para revisar la documentación desde el entorno desplegado. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 992b195 | docs: added links to deployment | Se añadieron enlaces del despliegue y documentación del backend. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | colocar-id | docs: add main endpoint descriptions | Se agregaron descripciones de endpoints principales en el README del backend. | 19/06/2026 |
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 3 se realizó el despliegue del backend de Senit utilizando Render como plataforma de publicación. Este despliegue permitió que la RESTful API esté disponible en un entorno web operativo, facilitando la validación de los endpoints desde Swagger/OpenAPI y permitiendo su integración con la Web Application.
+
+Además, se configuró una base de datos MySQL en Aiven, la cual permite almacenar la información principal del sistema, como hoteles, usuarios, habitaciones, reservas, estadías, pagos y suscripciones. Esta configuración permitió conectar el backend desplegado con una base de datos en la nube, manteniendo la disponibilidad de los datos para las pruebas del sistema.
+
+**URL de despliegue del backend:**  
+https://senit-backend.onrender.com
+
+**URL de documentación Swagger:**  
+https://senit-backend.onrender.com/swagger/index.html
+
+**URL base de la API:**  
+https://senit-backend.onrender.com/api/v1
+
+**Repositorio de Web Services:**  
+https://github.com/SENIT-Aplicaciones-Web/senit-backend
+
+<p align="center">
+  <img src="assets/sprint-3/deployment/render-backend.jpeg" alt="Despliegue del backend de Senit en Render" width="900"/>
+  <br>
+  <i>Figura del despliegue del backend de Senit mediante Render.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-3/deployment/aiven-mysql.jpeg" alt="Base de datos MySQL de Senit en Aiven" width="900"/>
+  <br>
+  <i>Figura de la base de datos MySQL de Senit configurada en Aiven.</i>
+</p>
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+## 5.3 Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+El proceso de validación de SENIT se realizará mediante entrevistas dirigidas a los segmentos objetivo identificados. El propósito es evaluar la percepción de los usuarios sobre la propuesta de valor presentada en la Landing Page y validar la utilidad de los flujos principales de la plataforma web para la gestión de hoteles y moteles.
+
+La evaluación se divide en dos componentes principales:
+- Evaluación de la Landing Page: Comprensión de la propuesta de valor, claridad de las funcionalidades ofrecidas y percepción de confianza en la solución. 
+- Validación de los Flujos de la WebApp: Gestión de reservas, control de habitaciones, administración de clientes y seguimiento de operaciones dentro del establecimiento.
+
+### Preguntas complementarias
+
+- ¿Cuál es su nombre completo?
+- ¿Cuántos años tiene?
+- ¿Qué tipo de establecimiento posee o administra? (hotel, motel, hostal u otro)
+- ¿Cuál es su ocupación o rol principal dentro del negocio?
+
+**Segmento 1: Personal Administrativo y Operativo de Hoteles y Moteles**
+
+**A. Fase de Exploración Inicial (Landing Page)**
+- Después de revisar la Landing Page, ¿cuál es su percepción sobre el propósito principal de SENIT?
+- ¿La información presentada le permite comprender cómo SENIT podría ayudarle en sus actividades laborales diarias?
+- ¿Qué funcionalidad le llamó más la atención y por qué?
+- ¿Considera que la página transmite confianza para gestionar información importante del establecimiento?
+
+**B. Fase de Interacción y Tareas (WebApp)**
+  
+  Tarea 1: Gestión de Reservas
+
+  Escenario: "Un cliente solicita una habitación y usted debe registrar la reserva en el sistema."
+  
+  Preguntas de validación:
+  - ¿Qué tan intuitivo le resultó el proceso de registro de una reserva?
+  - ¿La información necesaria para completar la tarea fue fácil de identificar?
+  - ¿Considera que este proceso podría agilizar su trabajo diario?
+
+  Tarea 2: Consulta de Habitaciones
+  
+  Escenario: "Necesita verificar qué habitaciones se encuentran disponibles, ocupadas o en mantenimiento."
+
+  Preguntas de validación:
+  - ¿La visualización del estado de las habitaciones le resultó clara?
+  - ¿Pudo encontrar la información requerida de manera rápida?
+  - ¿Considera que la organización de la información facilita la toma de decisiones operativas?
+
+  Tarea 3: Check-in y Check-out
+
+  Escenario: "Debe registrar el ingreso y posteriormente la salida de un huésped."
+
+  Preguntas de validación:
+  - ¿El flujo para realizar estas acciones le pareció sencillo de seguir?
+  - ¿Considera que el sistema ayuda a reducir errores durante la atención al cliente?
+  - ¿Qué aspectos del proceso podrían mejorarse?
+
+**C. Fase de Cierre**
+
+- ¿Qué funcionalidad considera que aportaría mayor valor a su trabajo diario?
+- ¿De qué manera cree que SENIT podría contribuir a mejorar la gestión operativa del establecimiento?
+- ¿Qué mejoras o funcionalidades adicionales sugeriría para el sistema?
+
+**Segmento 2: Dueños y Propietarios de Hoteles y Moteles**
+
+**A. Fase de Exploración Inicial (Landing Page)**
+
+- Después de revisar la Landing Page, ¿considera que SENIT responde a necesidades reales dentro de la gestión de un hotel o motel?
+- ¿La propuesta de valor presentada le parece suficientemente atractiva para considerar la adopción de la plataforma?
+- ¿Qué beneficio considera más relevante para la administración de su negocio?
+- ¿La información presentada le transmite confianza respecto al uso del sistema?
+
+**B. Fase de Interacción y Tareas (WebApp)**
+
+  Tarea 1: Supervisión de Operaciones
+
+  Escenario: "Desea revisar el estado general de las reservas y habitaciones de su establecimiento."
+
+  Preguntas de validación:
+  - ¿La información principal le resultó fácil de identificar?
+  - ¿Considera que el sistema proporciona una visión clara del estado operativo del negocio?
+  - ¿Qué información adicional le gustaría visualizar?
+
+  Tarea 2: Control de la Gestión
+
+  Escenario: "Necesita supervisar las operaciones para asegurar un adecuado control del establecimiento."
+
+  Preguntas de validación:
+  - ¿La plataforma le brinda la información necesaria para realizar seguimiento a las operaciones?
+  - ¿Considera que el sistema facilitaría la toma de decisiones administrativas? 
+  - ¿Qué aspectos podrían mejorarse para incrementar el control del negocio?
+
+**C. Fase de Cierre**
+
+- ¿Qué beneficio tendría mayor impacto para la gestión de su establecimiento?
+- ¿Consideraría implementar una solución como SENIT en su negocio? ¿Por qué?
+- ¿Qué funcionalidades adicionales le gustaría incorporar al sistema?
+
+### 5.3.2. Registro de Entrevistas
+
+---
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+### UX Heuristics & Principles Evaluation
+
+#### Tabla resumen de problemas encontrados
+
+| # | Problema                                                                                  | Escala de severidad | Heurística / Principio violado                                                                   |
+| - | ----------------------------------------------------------------------------------------- | ------------------: | ------------------------------------------------------------------------------------------------ |
+| 1 | El estado de las habitaciones no se diferencia visualmente de forma clara.                |                   3 | Usability: Visibility of system status / Information Architecture: Is it understandable?         |
+| 2 | El formulario de reservas permite registrar datos incompletos o inconsistentes.           |                   3 | Usability: Error prevention / Usability: Help users recognize, diagnose, and recover from errors |
+| 3 | La navegación lateral contiene demasiadas opciones visibles simultáneamente.              |                   2 | Usability: Aesthetic and minimalist design / Information Architecture: Is it usable?             |
+| 4 | No existe confirmación visual clara al registrar o actualizar una reserva.                |                   2 | Usability: Visibility of system status                                                           |
+| 5 | Algunos iconos y etiquetas administrativas pueden resultar ambiguos para usuarios nuevos. |                   2 | Usability: Match between system and the real world / Consistency and standards                   |
+
+---
+
+#### Problema #1: El estado de las habitaciones no se diferencia visualmente de forma clara
+
+**Severidad:** 3
+**Heurística violada:** Usability: Visibility of system status / Information Architecture: Is it understandable?
+
+**Problema:**
+Dentro del panel de administración, el estado de las habitaciones presenta diferencias visuales poco claras entre habitaciones disponibles, ocupadas, reservadas o en limpieza.
+
+Esto obliga al usuario a leer constantemente el texto de cada tarjeta o registro para comprender el estado actual de la habitación, aumentando el tiempo de interpretación y la posibilidad de cometer errores operativos durante momentos de alta demanda.
+
+**Recomendación:**
+Implementar indicadores visuales más diferenciados mediante colores, etiquetas y estados gráficos consistentes. También se recomienda incluir iconos representativos y mantener una leyenda visible para facilitar el reconocimiento rápido del estado de cada habitación.
+
+---
+
+#### Problema #2: El formulario de reservas permite registrar datos incompletos o inconsistentes
+
+**Severidad:** 3
+**Heurística violada:** Usability: Error prevention / Usability: Help users recognize, diagnose, and recover from errors
+
+**Problema:**
+Durante el registro de reservas, algunos campos permiten ingresar información incompleta o con formatos inconsistentes, especialmente en datos relacionados con fechas, teléfonos y cantidad de huéspedes.
+
+Esto puede provocar errores operativos, reservas inválidas o inconsistencias en la gestión interna del hospedaje.
+
+**Recomendación:**
+Agregar validaciones tanto en frontend como backend para asegurar la integridad de los datos ingresados. Se recomienda validar formatos de fechas, longitud mínima de campos, caracteres permitidos y mostrar mensajes claros junto al campo que presenta el error.
+
+---
+
+#### Problema #3: La navegación lateral contiene demasiadas opciones visibles simultáneamente
+
+**Severidad:** 2
+**Heurística violada:** Usability: Aesthetic and minimalist design / Information Architecture: Is it usable?
+
+**Problema:**
+El menú lateral del sistema muestra múltiples módulos administrativos al mismo tiempo, lo que puede generar sobrecarga visual y dificultar que nuevos usuarios identifiquen rápidamente las funciones más importantes.
+
+Esto afecta especialmente a recepcionistas o administradores con poca experiencia en sistemas digitales.
+
+**Recomendación:**
+Agrupar funcionalidades relacionadas mediante categorías desplegables y priorizar visualmente las opciones más utilizadas. También se recomienda reducir elementos secundarios visibles simultáneamente para mejorar la claridad de navegación.
+
+---
+
+#### Problema #4: No existe confirmación visual clara al registrar o actualizar una reserva
+
+**Severidad:** 2
+**Heurística violada:** Usability: Visibility of system status
+
+**Problema:**
+Después de registrar o actualizar una reserva, la interfaz no siempre muestra una confirmación clara e inmediata sobre el resultado de la acción realizada.
+
+Esto puede generar incertidumbre en el usuario y provocar acciones repetidas innecesarias, como registrar varias veces la misma reserva.
+
+**Recomendación:**
+Implementar mensajes visuales de confirmación, notificaciones temporales o indicadores de éxito que informen claramente cuándo una operación fue realizada correctamente.
+
+---
+
+#### Problema #5: Algunos iconos y etiquetas administrativas pueden resultar ambiguos para usuarios nuevos
+
+**Severidad:** 2
+**Heurística violada:** Usability: Match between system and the real world / Consistency and standards
+
+**Problema:**
+Algunas opciones del sistema utilizan términos técnicos o iconos poco intuitivos para representar acciones administrativas relacionadas con reservas, reportes o control operativo.
+
+Esto puede dificultar el aprendizaje inicial del sistema y aumentar la dependencia de capacitación previa.
+
+**Recomendación:**
+Utilizar etiquetas más descriptivas y acompañar los iconos con texto visible. También se recomienda mantener una terminología consistente y alineada con el contexto hotelero real utilizado por administradores y recepcionistas.
+
+---
+
+
+
 
 
 ---
@@ -2057,7 +2529,5 @@ Ministerio de Comercio Exterior y Turismo. (2023). Perú: oferta y demanda de es
 https://www.gob.pe/institucion/mincetur/informes-publicaciones/5671698-informe-peru-oferta-y-demanda-de-establecimientos-de-hospedaje-ano-2023
 
 # Anexos
-Video AV1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgDp_fp4esChRK6kbuD7hr3rAY1MNhbgV34AeZQecIMnPSs?e=QLhQg8
-<br>
-Video TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgBeyHTcUnpISL0REWDG7u1PAZwjiyo87REFgAUzvHa4QI0?e=t8MbKL
+Video AV2: 
 <br>
