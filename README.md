@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
   <br>
-  <img src="/assets/UPC_logo.webp" alt="UPC Logo" width="auto" height="180"/>
+  <img src="./assets/UPC_logo.webp" width="auto" height="180"/>
   <p>
    <br>
     <strong>Carrera:</strong> Ingeniería de Software
@@ -34,7 +34,7 @@
     Leonardo Rafael Garcia Villanueva - U20231H059
     <br><br>
   </p>
-    <h3>Mayo, 2026</h3>
+    <h3>Junio, 2026</h3>
 </div>
 
 <br>
@@ -94,7 +94,7 @@
     </tr>
     <tr>
       <td><strong>AV 2</strong></td>
-      <td></td>
+      <td>19/06/2026</td>
       <td>
         - Danitza Ivonne Heredia Hoyos (U201910803)<br>
         - Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>
@@ -128,13 +128,13 @@ URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web
 URL de la Landing Page: https://senit-aplicaciones-web.github.io/senit-landing-page/<br>
 
 Entrega AV1: Para este avance el equipo se organizó mediante un grupo de WhatsApp, donde se envió un documento para separar las tareas y actividades a realizar por cada miembro del equipo, así como también las que se tenian que realizar en grupo, y se llegó al acuerdo de que solo los avances y correcciones completos se suban al repositorio de GitHub. Los gráficos de analíticas de colaboración en GitHub, considerando únicamente hasta el 20 de abril.
-<img src="./assets/Insights/contributors.png" alt="Gráfico de contribuidores del primer avance"/>
+<img src="./assets/Insights/contributors.png"/>
 
 Entrega TB1: Para este avance se envió al equipo otro documento de asignación de actividades y correcciones para cada integrante del equipo, en este caso las secciones trabajadas por los miembros en la anterior entrega y que tuvieron observaciones fueron corregidos por los mismos. Los gráficos de analíticas de colaboración en GitHub, considerando desde el 28 de abril hasta el 11 de mayo.
-<img src="./assets/Insights/contributors.png" alt="Gráfico de contribuidores del segundo avance"/>
+<img src="./assets/Insights/contributors.png"/>
 
 Entrega AV2: Para este avance se coordinó el avance y correcciones mediante comunicación vía WhatsApp, en este caso las secciones trabajadas por los miembros en la anterior entrega y que tuvieron observaciones fueron corregidos por los mismos.
-<img src="./assets/Insights/contributors2.png" alt="Gráfico de contribuidores del tercer avance"/>
+<img src="./assets/Insights/contributors2.png"/>
 
 <hr>
 
@@ -363,11 +363,11 @@ Planteamos esta solución para reemplazar los procesos manuales y herramientas d
   
 | **Integrante**  | **Perfil**  | **Imagen**                                                                                                   |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------|
-| **Heredia Hoyos, Danitza Ivonne - U201910803** | Mi nombre es Danitza Ivonne Heredia Hoyos. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con código U201910803. Cuento con conocimientos en UX/UI Design, enfocado en la creación de interfaces intuitivas y centradas en la experiencia del usuario. Me interesa seguir fortaleciendo mis habilidades tanto en el ámbito del desarrollo de software como en el diseño de soluciones digitales, aportando creatividad y enfoque práctico en cada proyecto. | <img src="assets/profiles/Danitza.webp?raw=true" alt="Foto de Heredia Hoyos, Danitza Ivonne" width="150"/>   |
-| **Montes Zamora, Edgar Alexander Mauricio - U20241E126** | Buenas, soy Edgar Alexander Mauricio Montes Zamora, con codigo u20241e126 y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Por el momento tengo conocimientos en programación como C++ y Python, además de saber HTML, CSS y también tener conocimientos en bases de datos SQL como Microsoft SQL Server. Considero que poseo habilidades blandas como la comunicación, trabajo en equipo o la adaptabilidad a distintos cambios que puedan presentarse tanto en proyectos como en otras situaciones, intento que en trabajos grupales todos puedan colaborar y ayudarse unos a otros, además de colaborar con ideas creativas. | <img src="assets/profiles/Mauricio.jpg" alt="Montes Zamora, Edgar Alexander Mauricio"/>            |
-| **Lozano Leon, Richard Enrique - U20241D990** | Soy Richard Enrique Lozano León, con código U20241D990, estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, cursando el quinto ciclo. Me interesa fortalecer mis competencias en el área tecnológica y actualmente me encuentro enfocado en el aprendizaje y práctica del lenguajes de programación. | <img src="assets/profiles/Richard.png?raw=true" alt="Foto de Lozano Leon, Richard Enrique"/>                 |
-| **Faustino Hurtado, Anghelo - U20241B331** | Mi nombre es Anghelo Faustino Hurtado, con código u20241b331, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona dedicada, responsable y con facilidad para aprender rápidamente. Mi mayor motivación es diseñar y desarrollar soluciones tecnológicas que tengan un impacto positivo en la vida de las personas y faciliten sus actividades diarias. En este proyecto, enfoco mi aprendizaje en el análisis estratégico del mercado y en la estructuración lógica de sistemas para asegurar una navegación eficiente en el desarrollo de aplicaciones web. | <img src="assets/profiles/perfil-anghelo.png?raw=true" alt="Foto de Faustino Hurtado, Anghelo" width="150"/> |
-| **Garcia Villanueva, Leonardo Rafael - U20231H059** | Mi nombre es Leonardo Rafael Garcia Villanueva, con el código u20231h059, soy estudiante de la carrera de Ingeniería de Software en quinto ciclo. Poseo conocimientos sobre el lenguaje C++, base de datos SQL, así como HTML, CSS y JavaScript. Tengo mucho interés en el desarrollo de software para dar soluciones a problemas que requieran de creatividad y razonamiento lógico. Me adapto rápidamente a las situaciones que se presentan. | <img src="assets/profiles/Leonardo.webp?raw=true" alt="Garcia Villanueva, Leonardo Rafael"/>                 |  
+| **Heredia Hoyos, Danitza Ivonne - U201910803** | Mi nombre es Danitza Ivonne Heredia Hoyos. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con código U201910803. Cuento con conocimientos en UX/UI Design, enfocado en la creación de interfaces intuitivas y centradas en la experiencia del usuario. Me interesa seguir fortaleciendo mis habilidades tanto en el ámbito del desarrollo de software como en el diseño de soluciones digitales, aportando creatividad y enfoque práctico en cada proyecto. | <img src="./assets/profiles/Danitza.webp?raw=true" width="150"/>   |
+| **Montes Zamora, Edgar Alexander Mauricio - U20241E126** | Buenas, soy Edgar Alexander Mauricio Montes Zamora, con codigo u20241e126 y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Por el momento tengo conocimientos en programación como C++ y Python, además de saber HTML, CSS y también tener conocimientos en bases de datos SQL como Microsoft SQL Server. Considero que poseo habilidades blandas como la comunicación, trabajo en equipo o la adaptabilidad a distintos cambios que puedan presentarse tanto en proyectos como en otras situaciones, intento que en trabajos grupales todos puedan colaborar y ayudarse unos a otros, además de colaborar con ideas creativas. | <img src="./assets/profiles/Mauricio.jpg"/>            |
+| **Lozano Leon, Richard Enrique - U20241D990** | Soy Richard Enrique Lozano León, con código U20241D990, estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, cursando el quinto ciclo. Me interesa fortalecer mis competencias en el área tecnológica y actualmente me encuentro enfocado en el aprendizaje y práctica del lenguajes de programación. | <img src="./assets/profiles/Richard.png?raw=true"/>                 |
+| **Faustino Hurtado, Anghelo - U20241B331** | Mi nombre es Anghelo Faustino Hurtado, con código u20241b331, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona dedicada, responsable y con facilidad para aprender rápidamente. Mi mayor motivación es diseñar y desarrollar soluciones tecnológicas que tengan un impacto positivo en la vida de las personas y faciliten sus actividades diarias. En este proyecto, enfoco mi aprendizaje en el análisis estratégico del mercado y en la estructuración lógica de sistemas para asegurar una navegación eficiente en el desarrollo de aplicaciones web. | <img src="./assets/profiles/perfil-anghelo.png?raw=true" width="150"/> |
+| **Garcia Villanueva, Leonardo Rafael - U20231H059** | Mi nombre es Leonardo Rafael Garcia Villanueva, con el código u20231h059, soy estudiante de la carrera de Ingeniería de Software en quinto ciclo. Poseo conocimientos sobre el lenguaje C++, base de datos SQL, así como HTML, CSS y JavaScript. Tengo mucho interés en el desarrollo de software para dar soluciones a problemas que requieran de creatividad y razonamiento lógico. Me adapto rápidamente a las situaciones que se presentan. | <img src="./assets/profiles/Leonardo.webp?raw=true"/>                 |  
 
 ## 1.2 Solution Profile
 
@@ -661,22 +661,22 @@ A continuación, se presenta el *Competitive Analysis Landscape*, donde se contr
       <td colspan="2" align="left"><strong></strong></td>
       <td>
         <strong></strong><br><br>
-        <img src="assets/SENIT_logo.webp" alt="Senit Logo" width="90"><br>
+        <img src="./assets/SENIT_logo.webp" width="90"><br>
         <strong>Senit</strong>
       </td>
       <td>
         <strong></strong><br><br>
-        <img src="assets/cloudbeds-logo.png" alt="Cloudbeds Logo" width="90"><br>
+        <img src="./assets/cloudbeds-logo.png" width="90"><br>
         <strong>Cloudbeds</strong>
       </td>
       <td>
         <strong></strong><br><br>
-        <img src="assets/wubook-logo.png" alt="WuBook Logo" width="90"><br>
+        <img src="./assets/wubook-logo.png" width="90"><br>
         <strong>WuBook</strong>
       </td>
       <td>
         <strong></strong><br><br>
-        <img src="assets/little-hotelier-logo.png" alt="Little Hotelier Logo" width="90"><br>
+        <img src="./assets/little-hotelier-logo.png" width="90"><br>
         <strong>Little Hotelier</strong>
       </td>
     </tr>
@@ -856,7 +856,7 @@ Se han diseñado dos bloques de preguntas: uno dirigido al personal administrati
 
 **Entrevista 1**
 <p align="center">
-  <img src="assets/interviews/interview_segment_1_n1.png" alt="Entrevista con Antony Paul Ynga Carbajal"/>
+  <img src="./assets/interviews/interview_segment_1_n1.png"/>
   <br/><i>Evidencia de entrevista: Paul Ynga</i>
 </p>
 
@@ -875,7 +875,7 @@ La entrevista fue realizada a Anthony Paul Inga Carvajal, gerente de turno con m
 
 **Entrevista 2**
 <p align="center">
-  <img src="assets/interviews/interview_segment_1_n2.png" alt="Entrevista con Becker Caisaguana"/>
+  <img src="./assets/interviews/interview_segment_1_n2.png"/>
   <br/><i>Evidencia de entrevista: Becker Caisaguana</i>
 </p>
 
@@ -896,7 +896,7 @@ La entrevista fue realizada a Becker Caisaguana, encargado de la gestión operat
 
 **Entrevista 1**
 <p align="center">
-  <img src="assets/interviews/interview_segment_2_n1.png" alt="Entrevista con Luis Alberto Noriega Ríos"/>
+  <img src="./assets/interviews/interview_segment_2_n1.png"/>
   <br/><i>Evidencia de entrevista: Luis Alberto Noriega Ríos</i>
 </p>
 
@@ -919,7 +919,7 @@ Finalmente, el entrevistado resaltó que para mantener la rentabilidad del negoc
 
 **Entrevista 2**
 <p align="center">
-  <img src="assets/interviews/interview_segment_2_n3.jpg" alt="Entrevista con Santos Ignacio Aranda Ramirez"/>
+  <img src="./assets/interviews/interview_segment_2_n3.jpg"/>
   <br/><i>Evidencia de entrevista: Santos Ignacio Aranda Ramirez</i>
 </p>
 
@@ -936,8 +936,7 @@ Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un
 
 **Entrevista 3**
 <p align="center">
-  <img src="assets/interviews/interview_segment_2_n4.png" alt="Entrevista con Lucas Alejandro Moreno Olivos
-"/>
+  <img src="./assets/interviews/interview_segment_2_n4.png"/>
   <br/><i>Evidencia de entrevista: Lucas Alejandro Moreno Olivos</i>
 </p>
 
@@ -974,13 +973,13 @@ Desde la perspectiva de los inversionistas y gerentes propietarios, la mayor fru
 
 **Segmento 1: Personal administrativo y operativo de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/UserPersonasSegment_1.png" alt="User Personas de Anthony Ynga Carvajal"/>
+  <img src="./assets/Needfinding/UserPersonasSegment_1.png"/>
   <br/>
 </p>
 
 **Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/UserPersonasSegment_2.png" alt="User Personas de Lilian Zamora Rua"/>
+  <img src="./assets/Needfinding/UserPersonasSegment_2.png"/>
   <br/>
 </p>
 
@@ -1102,13 +1101,13 @@ Desde la perspectiva de los inversionistas y gerentes propietarios, la mayor fru
 
 **Segmento 1: Personal administrativo y operativo de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/journeyMapSegment_1.png" alt="User Journey Mapping de Anthony Ynga Carvajal"/>
+  <img src="./assets/Needfinding/journeyMapSegment_1.png"/>
   <br/>
 </p>
 
 **Segmento 2: Dueños y propietarios de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/journeyMapSegment_2.png" alt="User Journey Mapping de Lilian Zamora Rua"/>
+  <img src="./assets/Needfinding/journeyMapSegment_2.png"/>
   <br/>
 </p>
 
@@ -1116,13 +1115,13 @@ Desde la perspectiva de los inversionistas y gerentes propietarios, la mayor fru
 ### 2.3.4. Empathy Mapping.
 **Segmento 1: Personal administrativo y operativo de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/empathyMappingSegment_1.png" alt="Empathy Mapping de Anthony Ynga Carvajal"/>
+  <img src="./assets/Needfinding/empathyMappingSegment_1.png"/>
   <br/>
 </p>
 
 **Segmento 2: Dueños y propietarios de hoteles y moteles**
 <p align="center">
-  <img src="assets/Needfinding/empathyMappingSegment_2.png" alt="Empathy Mapping Mapping de Lilian Zamora Rua"/>
+  <img src="./assets/Needfinding/empathyMappingSegment_2.png"/>
   <br/>
 </p>
 
@@ -1153,7 +1152,7 @@ Para lograr una visión completa de esta realidad, el mapa se dividió en **6 ap
 
 **Big Picture Event Storming - Mapa**
 
-![Mapa de Operaciones Senit - Big Picture Event Storming](assets/Diagrams/big-picture1.png)
+![Mapa de Operaciones Senit - Big Picture Event Storming](./assets/Diagrams/big-picture1.png)
 
 **Interpretación de hallazgos clave**
 
@@ -1262,7 +1261,7 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 ## 3.2. Impact Mapping
 
 <br>
-<img src="./assets/SENIT_impact_map.png" alt="Senit Impact Map"/>
+<img src="./assets/SENIT_impact_map.png"/>
 <br>
 
 ## 3.3. Product Backlog
@@ -1329,7 +1328,7 @@ El logo busca reflejar:
   - Tecnología
   - Eficiencia
 
-<img src="/assets/SENIT_logo.webp" alt="SENIT Logo" width="auto" height="180"/>
+<img src="./assets/SENIT_logo.webp" width="auto" height="180"/>
 
 La **tipografía** utilizada es de estilo sans-serif moderno, con un enfoque geométrico que se adapta bien a entornos digitales.
 En el logotipo, el texto “Senit” utiliza un peso bold o semi-bold, lo que permite que sea fácil de identificar. Las letras tienen formas redondeadas, lo cual se puede notar especialmente en caracteres como la “S”, “e” y “n”. Esto ayuda a que el diseño se vea más amigable y no tan rígido.
@@ -1345,7 +1344,7 @@ Se usa un azul más oscuro (aproximadamente #1E3A8A), lo que permite diferenciar
 En conjunto, los colores permiten que el logo sea claro, moderno y fácil de reconocer, además de mantener coherencia con la idea de una plataforma tecnológica.
 
 <p align = "center">
-  <img src="/assets/SENIT_StyleGuideline.webp" alt="SENIT_StyleGuideline" width="auto" height="180"/>
+  <img src="./assets/SENIT_StyleGuideline.webp" width="auto" height="180"/>
 </p>
 
 ### 4.1.2. Web Style Guidelines.
@@ -1419,61 +1418,61 @@ Se han diseñado sistemas de navegación distintos para la cara pública y la he
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
-<img src="assets/wireframes/landing_page_browser_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_1.png?raw=true"/>
 <br> 
-<img src="assets/wireframes/landing_page_browser_2.png?raw=true" alt="Wireframe de funciones de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_2.png?raw=true"/>
 <br> 
-<img src="assets/wireframes/landing_page_browser_3.png?raw=true" alt="Wireframe de planes de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_3.png?raw=true"/>
 <br> 
-<img src="assets/wireframes/landing_page_browser_4.png?raw=true" alt="Wireframe de términos de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_4.png?raw=true"/>
 <br> 
-<img src="assets/wireframes/landing_page_browser_5.png?raw=true" alt="Wireframe de contacto de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_5.png?raw=true"/>
 <br>
 
-<img src="assets/wireframes/landing_page_browser_mobile_1.png?raw=true" alt="Wireframe de inicio de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_1.png?raw=true"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_2.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_2.png?raw=true"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_3.png?raw=true" alt="Wireframe de funciones en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_3.png?raw=true"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_4.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_4.png?raw=true"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_5.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_5.png?raw=true"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_6.png?raw=true" alt="Wireframe de planes en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_6.png?raw=true"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_7.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_7.png?raw=true"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_8.png?raw=true" alt="Wireframe de términos en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_8.png?raw=true"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_9.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_9.png?raw=true"/>
 <br>
-<img src="assets/wireframes/landing_page_browser_mobile_10.png?raw=true" alt="Wireframe de contacto en formato móvil de la landing page de Senit"/>
+<img src="./assets/wireframes/landing_page_browser_mobile_10.png?raw=true"/>
 <br>
 
 
 ### 4.3.2. Landing Page Mock-up.
 
-<img src="assets/mockups/landing_page_browser_1.png?raw=true" alt="Mockup de inicio de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_1.png?raw=true"/>
 <br> 
-<img src="assets/mockups/landing_page_browser_2.png?raw=true" alt="Mockup de funciones de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_2.png?raw=true"/>
 <br> 
-<img src="assets/mockups/landing_page_browser_3.png?raw=true" alt="Mockup de planes de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_3.png?raw=true"/>
 <br> 
-<img src="assets/mockups/landing_page_browser_4.png?raw=true" alt="Mockup de términos de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_4.png?raw=true"/>
 <br> 
-<img src="assets/mockups/landing_page_browser_5.png?raw=true" alt="Mockup de contacto de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_5.png?raw=true"/>
 <br>
 
-<img src="assets/mockups/landing_page_browser_mobile_1.png?raw=true" alt="Mockup de inicio en formato móvil de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_mobile_1.png?raw=true"/>
 <br>
-<img src="assets/mockups/landing_page_browser_mobile_2.png?raw=true" alt="Mockup de funciones en formato móvil de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_mobile_2.png?raw=true"/>
 <br>
-<img src="assets/mockups/landing_page_browser_mobile_3.png?raw=true" alt="Mockup de planes en formato móvil de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_mobile_3.png?raw=true"/>
 <br>
-<img src="assets/mockups/landing_page_browser_mobile_4.png?raw=true" alt="Mockup de términos en formato móvil de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_mobile_4.png?raw=true"/>
 <br>
-<img src="assets/mockups/landing_page_browser_mobile_5.png?raw=true" alt="Mockup de contacto en formato móvil de la landing page de Senit"/>
+<img src="./assets/mockups/landing_page_browser_mobile_5.png?raw=true"/>
 <br>
 
 ## 4.4. Web Applications UX/UI Design.
@@ -1485,23 +1484,23 @@ User persona: Personal administrativo y operativo de hoteles y moteles
 Wireframes del rol de recepción / operativo:
 <br>
 
-<img src="/assets/webappui/shared/wireframes/login.png"/>
+<img src="./assets/webappui/shared/wireframes/login.png"/>
 <br>
-<img src="/assets/webappui/recepcion/wireframes/recepcion_1.png"/>
+<img src="./assets/webappui/recepcion/wireframes/recepcion_1.png"/>
 <br>
-<img src="/assets/webappui/recepcion/wireframes/recepcion_2.png"/>
+<img src="./assets/webappui/recepcion/wireframes/recepcion_2.png"/>
 <br>
-<img src="/assets/webappui/recepcion/wireframes/recepcion_3.png"/>
+<img src="./assets/webappui/recepcion/wireframes/recepcion_3.png"/>
 <br>
-<img src="/assets/webappui/recepcion/wireframes/recepcion_4.png"/>
+<img src="./assets/webappui/recepcion/wireframes/recepcion_4.png"/>
 <br>
-<img src="/assets/webappui/recepcion/wireframes/recepcion_5.png"/>
+<img src="./assets/webappui/recepcion/wireframes/recepcion_5.png"/>
 <br>
-<img src="/assets/webappui/recepcion/wireframes/recepcion_6.png"/>
+<img src="./assets/webappui/recepcion/wireframes/recepcion_6.png"/>
 <br>
-<img src="/assets/webappui/recepcion/wireframes/recepcion_7.png"/>
+<img src="./assets/webappui/recepcion/wireframes/recepcion_7.png"/>
 <br>
-<img src="/assets/webappui/recepcion/wireframes/recepcion_8.png"/>
+<img src="./assets/webappui/recepcion/wireframes/recepcion_8.png"/>
 <br>
 
 User persona: Dueños y propietarios de hoteles y moteles
@@ -1509,29 +1508,29 @@ User persona: Dueños y propietarios de hoteles y moteles
 Wireframes del rol de dueño / gerente:
 <br>
 
-<img src="/assets/webappui/shared/wireframes/register.png"/>
+<img src="./assets/webappui/shared/wireframes/register.png"/>
 <br>
-<img src="/assets/webappui/shared/wireframes/login.png"/>
+<img src="./assets/webappui/shared/wireframes/login.png"/>
 <br>
-<img src="/assets/webappui/admin/wireframes/admin_1.png"/>
+<img src="./assets/webappui/admin/wireframes/admin_1.png"/>
 <br>
-<img src="/assets/webappui/admin/wireframes/admin_2.png"/>
+<img src="./assets/webappui/admin/wireframes/admin_2.png"/>
 <br>
-<img src="/assets/webappui/admin/wireframes/admin_3.png"/>
+<img src="./assets/webappui/admin/wireframes/admin_3.png"/>
 <br>
-<img src="/assets/webappui/admin/wireframes/admin_4.png"/>
+<img src="./assets/webappui/admin/wireframes/admin_4.png"/>
 <br>
-<img src="/assets/webappui/admin/wireframes/admin_5.png"/>
+<img src="./assets/webappui/admin/wireframes/admin_5.png"/>
 <br>
-<img src="/assets/webappui/admin/wireframes/admin_6.png"/>
+<img src="./assets/webappui/admin/wireframes/admin_6.png"/>
 <br>
-<img src="/assets/webappui/admin/wireframes/admin_7.png"/>
+<img src="./assets/webappui/admin/wireframes/admin_7.png"/>
 <br>
-<img src="/assets/webappui/admin/wireframes/admin_8.png"/>
+<img src="./assets/webappui/admin/wireframes/admin_8.png"/>
 <br>
-<img src="/assets/webappui/admin/wireframes/admin_9.png"/>
+<img src="./assets/webappui/admin/wireframes/admin_9.png"/>
 <br>
-<img src="/assets/webappui/admin/wireframes/admin_10.png"/>
+<img src="./assets/webappui/admin/wireframes/admin_10.png"/>
 <br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
@@ -1543,52 +1542,52 @@ Wireflows del rol de recepción / operativo:
 
 User goal: Ingresar a la plataforma Senit para acceder al panel operativo del hospedaje.
 
-<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_1.png"/>
+<img src="./assets/webappui/recepcion/wireflows/wireflow_recepcion_1.png"/>
 <br>
 
 User goal: Revisar el panel de recepción para conocer el estado general de check-ins, check-outs, habitaciones disponibles, ocupación, reservas confirmadas y alertas operativas.
 
-<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_2.png"/>
+<img src="./assets/webappui/recepcion/wireflows/wireflow_recepcion_2.png"/>
 <br>
 
 User goal: Consultar el estado de las habitaciones para identificar cuáles están disponibles, ocupadas, por vencer, vencidas, en limpieza o mantenimiento.
 
-<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_3.png"/>
+<img src="./assets/webappui/recepcion/wireflows/wireflow_recepcion_3.png"/>
 <br>
 
 User goal: Consultar las estadías activas para saber qué huéspedes se encuentran alojados actualmente en el hospedaje.
 
-<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_4.png"/>
+<img src="./assets/webappui/recepcion/wireflows/wireflow_recepcion_4.png"/>
 <br>
 
 User goal: Realizar el check-in de un huésped para registrar su ingreso y asignarle una habitación disponible.
 
-<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_5.png"/>
+<img src="./assets/webappui/recepcion/wireflows/wireflow_recepcion_5.png"/>
 <br>
 
 User goal: Registrar una reserva para guardar los datos del huésped, habitación, fechas, horarios y pago de garantía.
 
-<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_6.png"/>
+<img src="./assets/webappui/recepcion/wireflows/wireflow_recepcion_6.png"/>
 <br>
 
 User goal: Consultar las reservas registradas para preparar ingresos próximos o cancelar reservas cuando corresponda.
 
-<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_7.png"/>
+<img src="./assets/webappui/recepcion/wireflows/wireflow_recepcion_7.png"/>
 <br>
 
 User goal: Revisar alertas de estadía para identificar salidas vencidas, estadías por vencer o habitaciones con atención pendiente.
 
-<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_8.png"/>
+<img src="./assets/webappui/recepcion/wireflows/wireflow_recepcion_8.png"/>
 <br>
 
 User goal: Actualizar la configuración de cuenta para mantener sus datos personales y contraseña vigentes.
 
-<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_9.png"/>
+<img src="./assets/webappui/recepcion/wireflows/wireflow_recepcion_9.png"/>
 <br>
 
 User goal: Cerrar sesión para evitar que otra persona acceda a la cuenta del recepcionista o administrador operativo.
 
-<img src="/assets/webappui/recepcion/wireflows/wireflow_recepcion_10.png"/>
+<img src="./assets/webappui/recepcion/wireflows/wireflow_recepcion_10.png"/>
 <br>
 
 User persona: Dueños y propietarios de hoteles y moteles
@@ -1598,62 +1597,62 @@ Wireflows del rol de dueño / gerente:
 
 User goal: Registrarse como dueño o gerente para crear una cuenta administrativa y habilitar el acceso al sistema.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_1.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_1.png"/>
 <br>
 
 User goal: Ingresar a la plataforma Senit para acceder al panel de administración del hospedaje.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_2.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_2.png"/>
 <br>
 
 User goal: Revisar el panel de administración para conocer el estado general de habitaciones, estadías activas, ingresos y operación del hospedaje.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_3.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_3.png"/>
 <br>
 
 User goal: Registrar o actualizar los datos del hotel para mantener la información del establecimiento correctamente configurada.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_4.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_4.png"/>
 <br>
 
 User goal: Gestionar las habitaciones del hospedaje para registrar nuevas habitaciones, modificar sus datos y revisar su estado.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_5.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_5.png"/>
 <br>
 
 User goal: Consultar y registrar reservas para supervisar la ocupación futura del hospedaje.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_6.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_6.png"/>
 <br>
 
 User goal: Revisar las estadías activas para controlar huéspedes alojados, pagos, salidas y procesos de check-out.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_7.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_7.png"/>
 <br>
 
 User goal: Revisar alertas de estadía para detectar salidas vencidas, estadías por vencer o habitaciones con atención pendiente.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_8.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_8.png"/>
 <br>
 
 User goal: Revisar la suscripción activa y el historial de pagos para controlar el estado del servicio contratado.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_9.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_9.png"/>
 <br>
 
 User goal: Registrar, gestionar y revisar el personal del hospedaje para asignar usuarios, roles y permisos de acceso.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_10.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_10.png"/>
 <br>
 
 User goal: Actualizar la configuración de cuenta para mantener sus datos personales y contraseña vigentes.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_11.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_11.png"/>
 <br>
 
 User goal: Cerrar sesión para evitar accesos no autorizados a la cuenta administrativa del hospedaje.
 
-<img src="/assets/webappui/admin/wireflows/wireflow_admin_12.png"/>
+<img src="./assets/webappui/admin/wireflows/wireflow_admin_12.png"/>
 <br>
 
 ### 4.4.3. Web Applications Mock-ups.
@@ -1663,23 +1662,23 @@ User persona: Personal administrativo y operativo de hoteles y moteles
 Mockups del rol de recepción / operativo:
 <br>
 
-<img src="/assets/webappui/shared/mockups/login.png"/>
+<img src="./assets/webappui/shared/mockups/login.png"/>
 <br>
-<img src="/assets/webappui/recepcion/mockups/recepcion_1.png"/>
+<img src="./assets/webappui/recepcion/mockups/recepcion_1.png"/>
 <br>
-<img src="/assets/webappui/recepcion/mockups/recepcion_2.png"/>
+<img src="./assets/webappui/recepcion/mockups/recepcion_2.png"/>
 <br>
-<img src="/assets/webappui/recepcion/mockups/recepcion_3.png"/>
+<img src="./assets/webappui/recepcion/mockups/recepcion_3.png"/>
 <br>
-<img src="/assets/webappui/recepcion/mockups/recepcion_4.png"/>
+<img src="./assets/webappui/recepcion/mockups/recepcion_4.png"/>
 <br>
-<img src="/assets/webappui/recepcion/mockups/recepcion_5.png"/>
+<img src="./assets/webappui/recepcion/mockups/recepcion_5.png"/>
 <br>
-<img src="/assets/webappui/recepcion/mockups/recepcion_6.png"/>
+<img src="./assets/webappui/recepcion/mockups/recepcion_6.png"/>
 <br>
-<img src="/assets/webappui/recepcion/mockups/recepcion_7.png"/>
+<img src="./assets/webappui/recepcion/mockups/recepcion_7.png"/>
 <br>
-<img src="/assets/webappui/recepcion/mockups/recepcion_8.png"/>
+<img src="./assets/webappui/recepcion/mockups/recepcion_8.png"/>
 <br>
 
 User persona: Dueños y propietarios de hoteles y moteles
@@ -1687,29 +1686,29 @@ User persona: Dueños y propietarios de hoteles y moteles
 Mockups del rol de dueño / gerente:
 <br>
 
-<img src="/assets/webappui/shared/mockups/register.png"/>
+<img src="./assets/webappui/shared/mockups/register.png"/>
 <br>
-<img src="/assets/webappui/shared/mockups/login.png"/>
+<img src="./assets/webappui/shared/mockups/login.png"/>
 <br>
-<img src="/assets/webappui/admin/mockups/admin_1.png"/>
+<img src="./assets/webappui/admin/mockups/admin_1.png"/>
 <br>
-<img src="/assets/webappui/admin/mockups/admin_2.png"/>
+<img src="./assets/webappui/admin/mockups/admin_2.png"/>
 <br>
-<img src="/assets/webappui/admin/mockups/admin_3.png"/>
+<img src="./assets/webappui/admin/mockups/admin_3.png"/>
 <br>
-<img src="/assets/webappui/admin/mockups/admin_4.png"/>
+<img src="./assets/webappui/admin/mockups/admin_4.png"/>
 <br>
-<img src="/assets/webappui/admin/mockups/admin_5.png"/>
+<img src="./assets/webappui/admin/mockups/admin_5.png"/>
 <br>
-<img src="/assets/webappui/admin/mockups/admin_6.png"/>
+<img src="./assets/webappui/admin/mockups/admin_6.png"/>
 <br>
-<img src="/assets/webappui/admin/mockups/admin_7.png"/>
+<img src="./assets/webappui/admin/mockups/admin_7.png"/>
 <br>
-<img src="/assets/webappui/admin/mockups/admin_8.png"/>
+<img src="./assets/webappui/admin/mockups/admin_8.png"/>
 <br>
-<img src="/assets/webappui/admin/mockups/admin_9.png"/>
+<img src="./assets/webappui/admin/mockups/admin_9.png"/>
 <br>
-<img src="/assets/webappui/admin/mockups/admin_10.png"/>
+<img src="./assets/webappui/admin/mockups/admin_10.png"/>
 <br>
 
 ### 4.4.4. Web Applications User Flow Diagrams
@@ -1723,9 +1722,9 @@ User flow: Iniciar sesión y acceder al panel de recepción
 
 **Descripción:** Permite que el recepcionista o administrador operativo acceda a la plataforma usando una cuenta creada previamente por el dueño o gerente del hospedaje.
 
-<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_1.png"/>
+<img src="./assets/webappui/recepcion/userflows/userflow_recepcion_1.png"/>
 <br>
-<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_1.png"/>
+<img src="./assets/webappui/recepcion/userflows/flow_diagram_recepcion_1.png"/>
 <br>
 
 **Happy path:** El usuario entra desde la landing page, selecciona iniciar sesión, ingresa su correo y contraseña, el sistema valida las credenciales y lo redirige al panel de recepción.
@@ -1737,9 +1736,9 @@ User flow: Consultar panel de recepción
 
 **Descripción:** Permite revisar rápidamente el estado operativo del hospedaje desde una vista general.
 
-<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_2.png"/>
+<img src="./assets/webappui/recepcion/userflows/userflow_recepcion_2.png"/>
 <br>
-<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_2.png"/>
+<img src="./assets/webappui/recepcion/userflows/flow_diagram_recepcion_2.png"/>
 <br>
 
 **Happy path:** El usuario ingresa al panel de recepción, revisa tarjetas de resumen, reservas confirmadas, alertas operativas y la vista rápida de habitaciones.
@@ -1751,9 +1750,9 @@ User flow: Consultar estado de habitaciones
 
 **Descripción:** Permite revisar el estado de las habitaciones para identificar disponibilidad, ocupación, salidas vencidas, limpieza o mantenimiento.
 
-<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_3.png"/>
+<img src="./assets/webappui/recepcion/userflows/userflow_recepcion_3.png"/>
 <br>
-<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_3.png"/>
+<img src="./assets/webappui/recepcion/userflows/flow_diagram_recepcion_3.png"/>
 <br>
 
 **Happy path:** El usuario entra a habitaciones, revisa las habitaciones por piso, aplica filtros por piso, tipo o estado, y selecciona la acción correspondiente.
@@ -1765,9 +1764,9 @@ User flow: Consultar estadías activas
 
 **Descripción:** Permite revisar huéspedes alojados, estados de pago, horarios límite y acciones de checkout.
 
-<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_4.png"/>
+<img src="./assets/webappui/recepcion/userflows/userflow_recepcion_4.png"/>
 <br>
-<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_4.png"/>
+<img src="./assets/webappui/recepcion/userflows/flow_diagram_recepcion_4.png"/>
 <br>
 
 **Happy path:** El usuario entra a estadías, revisa indicadores, busca o filtra una estadía y selecciona una acción de checkout o detalle.
@@ -1779,9 +1778,9 @@ User flow: Realizar check-in de huésped
 
 **Descripción:** Permite registrar el ingreso de un huésped y asociarlo a una habitación disponible.
 
-<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_5.png"/>
+<img src="./assets/webappui/recepcion/userflows/userflow_recepcion_5.png"/>
 <br>
-<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_5.png"/>
+<img src="./assets/webappui/recepcion/userflows/flow_diagram_recepcion_5.png"/>
 <br>
 
 **Happy path:** El usuario entra a check-in, completa los datos del huésped titular, selecciona una habitación disponible, define horas de estadía y método de pago, confirma el check-in y el sistema crea una estadía activa.
@@ -1793,9 +1792,9 @@ User flow: Registrar reserva
 
 **Descripción:** Permite registrar una reserva para un huésped antes de su llegada al hospedaje.
 
-<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_6.png"/>
+<img src="./assets/webappui/recepcion/userflows/userflow_recepcion_6.png"/>
 <br>
-<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_6.png"/>
+<img src="./assets/webappui/recepcion/userflows/flow_diagram_recepcion_6.png"/>
 <br>
 
 **Happy path:** El usuario entra a reservas, selecciona nueva reserva, ingresa los datos del huésped, habitación, cantidad de huéspedes, fechas, horarios, método de pago y monto, y guarda la reserva.
@@ -1807,9 +1806,9 @@ User flow: Consultar reservas registradas
 
 **Descripción:** Permite revisar reservas registradas y controlar su estado.
 
-<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_7.png"/>
+<img src="./assets/webappui/recepcion/userflows/userflow_recepcion_7.png"/>
 <br>
-<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_7.png"/>
+<img src="./assets/webappui/recepcion/userflows/flow_diagram_recepcion_7.png"/>
 <br>
 
 **Happy path:** El usuario entra a reservas, revisa la lista, busca por nombre de huésped y cancela una reserva si corresponde.
@@ -1821,9 +1820,9 @@ User flow: Revisar alertas de estadía
 
 **Descripción:** Permite identificar situaciones operativas pendientes como salidas vencidas o estadías próximas a terminar.
 
-<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_8.png"/>
+<img src="./assets/webappui/recepcion/userflows/userflow_recepcion_8.png"/>
 <br>
-<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_8.png"/>
+<img src="./assets/webappui/recepcion/userflows/flow_diagram_recepcion_8.png"/>
 <br>
 
 **Happy path:** El usuario entra a alertas, revisa indicadores, busca por habitación o huésped, selecciona una alerta y accede a la estadía relacionada.
@@ -1835,9 +1834,9 @@ User flow: Actualizar configuración de cuenta
 
 **Descripción:** Permite revisar los datos del usuario, cambiar idioma y actualizar la contraseña.
 
-<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_9.png"/>
+<img src="./assets/webappui/recepcion/userflows/userflow_recepcion_9.png"/>
 <br>
-<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_9.png"/>
+<img src="./assets/webappui/recepcion/userflows/flow_diagram_recepcion_9.png"/>
 <br>
 
 **Happy path:** El usuario entra a configuración, revisa su perfil, cambia idioma si lo necesita, ingresa una nueva contraseña, confirma la contraseña y guarda los cambios.
@@ -1849,9 +1848,9 @@ User flow: Cerrar sesión
 
 **Descripción:** Permite finalizar la sesión para proteger el acceso a la plataforma.
 
-<img src="/assets/webappui/recepcion/userflows/userflow_recepcion_10.png"/>
+<img src="./assets/webappui/recepcion/userflows/userflow_recepcion_10.png"/>
 <br>
-<img src="/assets/webappui/recepcion/userflows/flow_diagram_recepcion_10.png"/>
+<img src="./assets/webappui/recepcion/userflows/flow_diagram_recepcion_10.png"/>
 <br>
 
 **Happy path:** El usuario selecciona cerrar sesión, el sistema finaliza la sesión activa y lo redirige al inicio de sesión.
@@ -1868,9 +1867,9 @@ User flow: Registrarse como dueño o gerente del hospedaje
 
 **Descripción:** Permite que el dueño o gerente cree una cuenta administrativa para empezar a usar Senit en su hospedaje.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_1.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_1.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_1.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_1.png"/>
 <br>
 
 **Happy path:** El usuario entra desde la landing page, selecciona registrarse, completa correo, usuario y contraseña, el sistema valida los datos, crea la cuenta administrativa y lo redirige al panel de administración.
@@ -1882,9 +1881,9 @@ User flow: Iniciar sesión y acceder al panel de administración
 
 **Descripción:** Permite que el dueño o gerente acceda a las funciones administrativas del hospedaje.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_2.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_2.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_2.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_2.png"/>
 <br>
 
 **Happy path:** El usuario entra desde la landing page, selecciona iniciar sesión, ingresa correo y contraseña, el sistema valida la cuenta y lo redirige al panel de administración.
@@ -1896,9 +1895,9 @@ User flow: Consultar panel de administración
 
 **Descripción:** Permite revisar el estado general del hospedaje desde una vista ejecutiva.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_3.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_3.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_3.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_3.png"/>
 <br>
 
 **Happy path:** El dueño o gerente revisa el total de habitaciones, habitaciones disponibles, estadías activas, ingresos generados, gráfico de ingresos, estado de habitaciones y accesos rápidos.
@@ -1910,9 +1909,9 @@ User flow: Registrar o actualizar datos del hotel
 
 **Descripción:** Permite configurar la información principal del establecimiento dentro del sistema.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_4.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_4.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_4.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_4.png"/>
 <br>
 
 **Happy path:** El dueño o gerente entra a hotel, completa o actualiza nombre comercial, RUC, dirección, teléfono, correo y plan, y guarda los cambios.
@@ -1924,9 +1923,9 @@ User flow: Gestionar habitaciones del hospedaje
 
 **Descripción:** Permite registrar, editar, eliminar y revisar habitaciones del hospedaje.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_5.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_5.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_5.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_5.png"/>
 <br>
 
 **Happy path:** El dueño o gerente entra a habitaciones, completa número, piso, tipo, capacidad, precio por hora y estado inicial, guarda la habitación y revisa el listado actualizado.
@@ -1938,9 +1937,9 @@ User flow: Consultar y registrar reservas
 
 **Descripción:** Permite supervisar las reservas del hospedaje y crear nuevas reservas cuando sea necesario.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_6.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_6.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_6.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_6.png"/>
 <br>
 
 **Happy path:** El dueño o gerente entra a reservas, revisa el listado, busca por huésped o crea una nueva reserva con datos del titular, habitación, fechas, horarios y pago de garantía.
@@ -1952,9 +1951,9 @@ User flow: Revisar estadías activas
 
 **Descripción:** Permite controlar estadías activas, salidas de hoy, estadías por vencer y vencidas.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_7.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_7.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_7.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_7.png"/>
 <br>
 
 **Happy path:** El dueño o gerente entra a estadías, revisa indicadores, busca o filtra una estadía y accede a checkout o detalle operativo.
@@ -1966,9 +1965,9 @@ User flow: Revisar alertas de estadía
 
 **Descripción:** Permite detectar situaciones operativas que requieren atención, como salidas vencidas o estadías próximas a terminar.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_8.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_8.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_8.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_8.png"/>
 <br>
 
 **Happy path:** El dueño o gerente entra a alertas, revisa indicadores, identifica una habitación con alerta activa y accede a la estadía relacionada.
@@ -1980,9 +1979,9 @@ User flow: Revisar suscripción y pagos
 
 **Descripción:** Permite controlar el plan activo, el estado del servicio, los pagos realizados y las opciones disponibles.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_9.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_9.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_9.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_9.png"/>
 <br>
 
 **Happy path:** El dueño o gerente entra a suscripción, revisa el plan actual, estado, costo mensual, historial de pagos y planes disponibles, y cambia de plan si corresponde.
@@ -1994,9 +1993,9 @@ User flow: Gestionar personal y roles
 
 **Descripción:** Permite registrar, editar, eliminar y revisar usuarios del hospedaje con roles de administrador o recepción.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_10.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_10.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_10.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_10.png"/>
 <br>
 
 **Happy path:** El dueño o gerente entra a personal y roles, registra un nuevo usuario con nombre, usuario, correo, rol y contraseña inicial, y revisa el listado actualizado.
@@ -2008,9 +2007,9 @@ User flow: Actualizar configuración de cuenta
 
 **Descripción:** Permite que el dueño o gerente revise su perfil, cambie idioma y actualice su contraseña.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_11.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_11.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_11.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_11.png"/>
 <br>
 
 **Happy path:** El usuario entra a configuración, revisa su perfil, cambia idioma si lo necesita, actualiza su contraseña y guarda los cambios.
@@ -2022,9 +2021,9 @@ User flow: Cerrar sesión
 
 **Descripción:** Permite finalizar la sesión administrativa para proteger la información del hospedaje.
 
-<img src="/assets/webappui/admin/userflows/userflow_admin_12.png"/>
+<img src="./assets/webappui/admin/userflows/userflow_admin_12.png"/>
 <br>
-<img src="/assets/webappui/admin/userflows/flow_diagram_admin_12.png"/>
+<img src="./assets/webappui/admin/userflows/flow_diagram_admin_12.png"/>
 <br>
 
 **Happy path:** El dueño o gerente selecciona cerrar sesión, el sistema finaliza la sesión activa y lo redirige al inicio de sesión.
@@ -2034,7 +2033,7 @@ User flow: Cerrar sesión
 
 ## 4.5. Web Applications Prototyping
 
-<img src="/assets/webappui/prototype/screenshot.png"/>
+<img src="./assets/webappui/prototype/screenshot.png"/>
 <br>
 
 Link: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgCtsAuyGglLRZ2XDr1POpRlAZ-qjEf4VN6I_am7IJHgX9s?e=gjloxx
@@ -2046,8 +2045,8 @@ Para el modelo de arquitectura del sistema Senit se utiliza la técnica de model
 En esta sección se representan los principales eventos, comandos, agregados y consultas del dominio, utilizando el lenguaje ubicuo definido. Este modelo permite comprender los flujos clave del sistema y su comportamiento desde la perspectiva de Domain-Driven Design.
 
 <p align="center">
-  <img src="/assets/Diagrams/eventStorming_1.png" alt="Event Storming 1" width="600"/>
-  <img src="/assets/Diagrams/eventStorming_2.png" alt="Event Storming 2" width="600"/>
+  <img src="./assets/Diagrams/eventStorming_1.png" width="600"/>
+  <img src="./assets/Diagrams/eventStorming_2.png" width="600"/>
 </p>
 
 
@@ -2070,7 +2069,7 @@ En esta sección se representan los principales eventos, comandos, agregados y c
 Este es el diagrama de Contexto de nuestro sistema:
 
 <p align = "center">
-  <img src="/assets/Diagrams/c4_ContextDiagram.png" alt="SENIT_ContextDiagram" width="auto" height="auto"/>
+  <img src="./assets/Diagrams/c4_ContextDiagram.png" width="auto" height="auto"/>
 </p>
 
 | Actor / Sistema        | Tipo             | Rol en la plataforma |
@@ -2087,7 +2086,7 @@ Este es el diagrama de Contexto de nuestro sistema:
 ### 4.6.3. Software Architecture Container Diagrams.
 Este es el diagrama de Contenedores de nuestro sistema:
 <p align = "center">
-  <img src="/assets/Diagrams/c4_ContainerDiagram.png" alt="SENIT_ContainerDiagram" width="auto" height="auto"/>
+  <img src="./assets/Diagrams/c4_ContainerDiagram.png" width="auto" height="auto"/>
 </p>
 
 | Container            | Technology           | Responsibility |
@@ -2107,7 +2106,7 @@ Este es el diagrama de Contenedores de nuestro sistema:
 ### 4.6.4. Software Architecture Components Diagrams.
 Estos son los diagramas de componentes de nuestro sistema, incluyen los siguientes Bounded Context:
 <p align = "center">
-  <img src="/assets/Diagrams/c4_ComponentDiagram.png" alt="SENIT_ComponentDiagram" width="auto" height="auto"/>
+  <img src="./assets/Diagrams/c4_ComponentDiagram.png" width="auto" height="auto"/>
 </p>
 
 | Component              | Technology           | Responsibility |
@@ -2126,37 +2125,37 @@ Estos son los diagramas de componentes de nuestro sistema, incluyen los siguient
 ### 4.7.1. Class Diagrams.
 
 <p align = "center">
- <img src="assets/Diagrams/generalClassDiagrams.png" alt="Diagrama de clases general"/>
+ <img src="./assets/Diagrams/generalClassDiagrams.png"/>
 </p>
 
 
 
 **Guest Context**
 <p align = "center">
- <img src="assets/Diagrams/guestContext.jpeg" alt="Diagrama de clases del bounded context Guest Context"/>
+ <img src="./assets/Diagrams/guestContext.jpeg"/>
 </p>
 
 **Reservation Context**
 <p align = "center">
- <img src="assets/Diagrams/reservationContext.jpeg" alt="WDiagrama de clases del bounded context Reservation Context"/>
+ <img src="./assets/Diagrams/reservationContext.jpeg"/>
 </p>
 
 **Room Context**
 <p align = "center">
- <img src="assets/Diagrams/roomContext.jpeg" alt="Diagrama de clases del bounded context Room Context"/>
+ <img src="./assets/Diagrams/roomContext.jpeg"/>
 </p>
 
 
  **Staff Context**
  <p align = "center">
- <img src="assets/Diagrams/staffContext.jpeg" alt="Diagrama de clases del bounded context Staff Context"/>
+ <img src="./assets/Diagrams/staffContext.jpeg"/>
 </p>
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
 
  <p align = "center">
- <img src="assets/Diagrams/dataBasesDiagram.jpg" alt="Diagrama de base de datos diagramado en ERD"/>
+ <img src="./assets/Diagrams/dataBasesDiagram.jpg"/>
 </p>
 
 ---
@@ -2262,7 +2261,7 @@ Las convenciones de estilo que se aplicarán en cada uno de los lenguajes y tecn
 - Los comentarios se escribirán con **#** al inicio de la línea cuando sea necesario
 ### 5.1.4. Software Deployment Configuration.
 
-  <img src="assets/Landing5.jpg"/>
+  <img src="./assets/Landing5.jpg"/>
   <br>
 
 ## 5.2. Landing Page, Services & Applications Implementation.
@@ -2313,7 +2312,7 @@ Este Sprint Backlog 1 condensará la elección de aquellas User Stories que se h
 Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las tareas correspondientes al Sprint 1.
 
 <p align="center">
-  <img src="assets/Trello.png" alt="Board del Sprint 1 en Trello" width="900"/>
+  <img src="./assets/Trello.png" width="900"/>
   <br>
   <i>Figura del Board del Sprint 1 de Senit en Trello.</i>
 </p>
@@ -2339,7 +2338,7 @@ En esta primera iteración el equipo tuvo la decisión de enfocarse primordialme
 En esta sección se presenta una vista de la primera versión funcional de la landing page de Senit implementada durante el Sprint 1.
 
 <p align="center">
-  <img src="assets/Landing1.png" alt="Primera versión funcional de la landing page de Senit" width="900"/>
+  <img src="./assets/Landing1.png" width="900"/>
   <br>
   <i>Primera versión funcional de la landing page de Senit durante el Sprint 1.</i>
 </p>
@@ -2354,31 +2353,31 @@ En este sprint no se implementaron ni se documentaron Web Services. El alcance d
 Por esa razón, la descripción de endpoints, verbos HTTP, parámetros, respuestas, capturas de documentación y commits vinculados a Web Services no corresponde a esta iteración. Dichos elementos serán abordados en los siguientes sprints, cuando se inicie la construcción e integración del RESTful API del proyecto.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 <p align="center">
-  <img src="assets/Evidence1.png" alt="Evidencia de despliegue de la landing page de Senit 1" width="900"/>
+  <img src="./assets/Evidence1.png" width="900"/>
   <br>
   <i>Evidencia 1 del despliegue de la landing page de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/Landing2.jpeg" alt="Evidencia de despliegue de la landing page de Senit 2" width="900"/>
+  <img src="./assets/Landing2.jpeg" width="900"/>
   <br>
   <i>Evidencia 2 del despliegue de la landing page de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/Landing3.jpg" alt="Evidencia de despliegue de la landing page de Senit 3" width="900"/>
+  <img src="./assets/Landing3.jpg" width="900"/>
   <br>
   <i>Evidencia 3 del despliegue de la landing page de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/Landing4.jpg" alt="Evidencia de despliegue de la landing page de Senit 4" width="900"/>
+  <img src="./assets/Landing4.jpg" width="900"/>
   <br>
   <i>Evidencia 4 del despliegue de la landing page de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/Landing5.jpg" alt="Evidencia de despliegue de la landing page de Senit 5" width="900"/>
+  <img src="./assets/Landing5.jpg" width="900"/>
   <br>
   <i>Evidencia 5 del despliegue de la landing page de Senit.</i>
 </p>
@@ -2387,13 +2386,13 @@ Por esa razón, la descripción de endpoints, verbos HTTP, parámetros, respuest
 Para la documentacion de la elaboración de los avances del Sprint 1, que el grupo del proyecto elaboró mediante GitHub su principal elemento de trabajo colaborativo. Regresando a los repositorios del proyecto donde los miembros fueron registrando sus cambios mediante commits y manteniendo actualizados los artefactos que acompañan a la landing page de Senit y a la documentación del informe. En esta iteración se manifestó la participación activa del grupo en la construcción y actualización de los entregables lo cual fue muestra de un trabajo coordinado por la elaboración de la primera versión funcional del producto.
 
 <p align="center">
-  <img src="assets/Git1.png" alt="Analíticos de colaboración del equipo durante el Sprint 1 en GitHub" width="900"/>
+  <img src="./assets/Git1.png" width="900"/>
   <br>
   <i>Analíticos de colaboración del equipo durante el Sprint 1 en GitHub.</i>
 </p>
 
 <p align="center">
-  <img src="assets/Git2.png" alt="Contribuciones individuales de los integrantes durante el Sprint 1 en GitHub" width="900"/>
+  <img src="./assets/Git2.png" width="900"/>
   <br>
   <i>Contribuciones individuales de los integrantes durante el Sprint 1 en GitHub.</i>
 </p>
@@ -2452,7 +2451,7 @@ El Sprint Backlog 2 recoge las historias referentes a la primera base funcional 
 Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las tareas correspondientes al Sprint 2.
 
 <p align="center">
-  <img src="assets/Trello 2.png" alt="Board del Sprint 2 en Trello" width="900"/>
+  <img src="./assets/Trello 2.png" width="900"/>
   <br>
   <i>Figura del Board del Sprint 2 de Senit en Trello.</i>
 </p>
@@ -2480,43 +2479,43 @@ Durante este sprint, el equipo se enfocó en el desarrollo de la primera base fu
 En este Sprint 2 se desarrolló la Web Application de Senit, enfocada en la administración hotelera. Se implementaron las principales vistas del sistema para que el usuario administrador pueda visualizar indicadores generales del hotel, gestionar información del establecimiento, administrar habitaciones, revisar estadías, controlar la suscripción y configurar datos básicos de la cuenta. Además, se validó la navegación entre los módulos principales desde la aplicación desplegada.
 
 <p align="center">
-  <img src="assets/sprint-2/execution/admin-dashboard.jpeg" alt="Administration Dashboard de Senit" width="900"/>
+  <img src="./assets/sprint-2/execution/admin-dashboard.jpeg" width="900"/>
   <br>
   <i>Figura del panel principal de administración de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/sprint-2/execution/recepcion-dashboard.jpeg" alt="Administration Dashboard de Senit" width="900"/>
+  <img src="./assets/sprint-2/execution/recepcion-dashboard.jpeg" width="900"/>
   <br>
   <i>Figura del panel principal de recepcionista de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/sprint-2/execution/hotel-registration.jpeg" alt="Vista de registro del hotel en Senit" width="900"/>
+  <img src="./assets/sprint-2/execution/hotel-registration.jpeg" width="900"/>
   <br>
   <i>Figura de la vista de registro y edición de datos del hotel.</i>
 </p>
 
 <p align="center">
-  <img src="assets/sprint-2/execution/room-management.jpeg" alt="Vista de gestión de habitaciones en Senit" width="900"/>
+  <img src="./assets/sprint-2/execution/room-management.jpeg" width="900"/>
   <br>
   <i>Figura de la vista de gestión y registro de habitaciones.</i>
 </p>
 
 <p align="center">
-  <img src="assets/sprint-2/execution/stays-management.jpeg" alt="Vista de gestión de estadías en Senit" width="900"/>
+  <img src="./assets/sprint-2/execution/stays-management.jpeg" width="900"/>
   <br>
   <i>Figura de la vista de gestión de estadías de huéspedes.</i>
 </p>
 
 <p align="center">
-  <img src="assets/sprint-2/execution/subscription-management.jpeg" alt="Vista de gestión de suscripción en Senit" width="900"/>
+  <img src="./assets/sprint-2/execution/subscription-management.jpeg" width="900"/>
   <br>
   <i>Figura de la vista de gestión de suscripción del hotel.</i>
 </p>
 
 <p align="center">
-  <img src="assets/sprint-2/execution/settings.jpeg" alt="Vista de configuración de cuenta en Senit" width="900"/>
+  <img src="./assets/sprint-2/execution/settings.jpeg" width="900"/>
   <br>
   <i>Figura de la vista de configuración de cuenta y preferencias del sistema.</i>
 </p>
@@ -2534,7 +2533,7 @@ En este Sprint 2 se realizó el despliegue de la Web Application de Senit utiliz
 URL de despliegue: https://senit-aplicaciones-web.github.io/senit-webapp/
 
 <p align="center">
-  <img src="assets/deployment-sprint-2.jpeg" alt="Deployment de la Web Application de Senit en GitHub Pages" width="900"/>
+  <img src="./assets/deployment-sprint-2.jpeg" width="900"/>
   <br>
   <i>Figura del despliegue de la Web Application de Senit mediante GitHub Pages.</i>
 </p>
@@ -2548,13 +2547,13 @@ GitHub continuó siendo el principal medio de colaboración y control de version
 Si bien en esta iteración el mayor avance estuvo concentrado en el reporte y en los recursos asociados al desarrollo visual y funcional de la solución, estas evidencias permiten identificar la continuidad del trabajo colaborativo del equipo y la forma en que se fueron organizando los aportes dentro del Sprint 2.
 
 <p align="center">
-  <img src="assets/Team 1.png" alt="Commits realizados en el repositorio del Final Report durante el Sprint 2" width="900"/>
+  <img src="./assets/Team 1.png" width="900"/>
   <br>
   <i>Commits registrados en el repositorio del Final Report durante el Sprint 2.</i>
 </p>
 
 <p align="center">
-  <img src="assets/Team 2.png" alt="Commits realizados en el repositorio de la landing page durante el Sprint 2" width="900"/>
+  <img src="./assets/Team 2.png" width="900"/>
   <br>
   <i>Commits registrados en el repositorio de la landing page durante el Sprint 2.</i>
 </p>
@@ -2615,7 +2614,7 @@ El Sprint Backlog 3 contempla las Technical Stories priorizadas para construir l
 Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las tareas correspondientes al Sprint 3.
 
 <p align="center">
-  <img src="assets/Trello 3.jpeg" alt="Board del Sprint 3 en Trello" width="900"/>
+  <img src="./assets/Trello 3.jpeg" width="900"/>
   <br>
   <i>Figura del Board del Sprint 3 de Senit en Trello.</i>
 </p>
@@ -2647,19 +2646,19 @@ En este Sprint 3 se logró ejecutar la primera versión funcional del backend de
 A continuación, se presentan las evidencias de ejecución del backend desplegado y documentado mediante Swagger.
 
 <p align="center">
-  <img src="assets/sprint-3/execution/swagger-overview.jpeg" alt="Vista general de Swagger del backend de Senit" width="900"/>
+  <img src="./assets/sprint-3/execution/swagger-overview.jpeg" width="900"/>
   <br>
   <i>Figura de la vista general de Swagger del backend de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/sprint-3/execution/authentication-response.jpeg" alt="Prueba de endpoint de autenticación en Swagger" width="900"/>
+  <img src="./assets/sprint-3/execution/authentication-response.jpeg" width="900"/>
   <br>
   <i>Figura de la prueba de un endpoint de autenticación con respuesta exitosa desde Swagger.</i>
 </p>
 
 <p align="center">
-  <img src="assets/sprint-3/execution/swagger-endpoints-list.jpeg" alt="Lista de endpoints disponibles en Swagger" width="900"/>
+  <img src="./assets/sprint-3/execution/swagger-endpoints-list.jpeg" width="900"/>
   <br>
   <i>Figura de los endpoints disponibles para habitaciones, suscripciones y usuarios en Swagger.</i>
 </p>
@@ -2712,19 +2711,19 @@ Además de los endpoints relacionados directamente con el alcance principal del 
 A continuación, se presentan capturas de la documentación y pruebas realizadas desde Swagger/OpenAPI utilizando datos de muestra.
 
 <p align="center">
-  <img src="assets/sprint-3/execution/swagger-overview.jpeg" alt="Vista general de Swagger del backend de Senit" width="900"/>
+  <img src="./assets/sprint-3/execution/swagger-overview.jpeg" width="900"/>
   <br>
   <i>Figura de la vista general de Swagger/OpenAPI del backend de Senit.</i>
 </p>
 
 <p align="center">
-  <img src="assets/sprint-3/execution/authentication-response.jpeg" alt="Respuesta de endpoint de autenticación en Swagger" width="900"/>
+  <img src="./assets/sprint-3/execution/authentication-response.jpeg" width="900"/>
   <br>
   <i>Figura de la prueba de un endpoint de autenticación con respuesta exitosa desde Swagger.</i>
 </p>
 
 <p align="center">
-  <img src="assets/sprint-3/execution/swagger-endpoints-list.jpeg" alt="Lista de endpoints documentados en Swagger" width="900"/>
+  <img src="./assets/sprint-3/execution/swagger-endpoints-list.jpeg" width="900"/>
   <br>
   <i>Figura de endpoints documentados para habitaciones, suscripciones y usuarios.</i>
 </p>
@@ -2758,13 +2757,13 @@ https://senit-backend.onrender.com/api/v1
 https://github.com/SENIT-Aplicaciones-Web/senit-backend
 
 <p align="center">
-  <img src="assets/sprint-3/deployment/render-backend.jpeg" alt="Despliegue del backend de Senit en Render" width="900"/>
+  <img src="./assets/sprint-3/deployment/render-backend.jpeg" width="900"/>
   <br>
   <i>Figura del despliegue del backend de Senit mediante Render.</i>
 </p>
 
 <p align="center">
-  <img src="assets/sprint-3/deployment/aiven-mysql.jpeg" alt="Base de datos MySQL de Senit en Aiven" width="900"/>
+  <img src="./assets/sprint-3/deployment/aiven-mysql.jpeg" width="900"/>
   <br>
   <i>Figura de la base de datos MySQL de Senit configurada en Aiven.</i>
 </p>
@@ -2778,7 +2777,7 @@ GitHub fue utilizado como principal herramienta de control de versiones, permiti
 Asimismo, el equipo mantuvo comunicación para revisar avances, validar el funcionamiento de los endpoints y asegurar que los servicios implementados respondieran a las necesidades de la Web Application. De esta manera, el Sprint 3 permitió avanzar en la integración técnica del sistema y dejar una base backend desplegada, documentada y preparada para su consumo desde la aplicación web.
 
 <p align="center">
-  <img src="assets/sprint-3/collaboration/backend-commits.jpeg" alt="Commits realizados en el repositorio backend durante el Sprint 3" width="900"/>
+  <img src="./assets/sprint-3/collaboration/backend-commits.jpeg" width="900"/>
   <br>
   <i>Commits registrados en el repositorio senit-backend durante el Sprint 3.</i>
 </p>
@@ -2883,7 +2882,7 @@ La evaluación se divide en dos componentes principales:
 
 **Entrevista 1**
 <p align="center">
-  <img src="assets/interviews/entrevista_lui.png" alt="Entrevista con Lui"/>
+  <img src="./assets/interviews/entrevista_lui.png"/>
   <br/><i>Evidencia de entrevista: Lui</i>
 </p>
 
@@ -2905,7 +2904,7 @@ Tras interactuar con la Landing Page y probar el flujo de la Web App, Lui destac
 
 **Entrevista 1**
 <p align="center">
-  <img src="assets/interviews/interview_2_segment_2_n1.png" alt="Entrevista con Lucas Alejandro Moreno Olivos"/>
+  <img src="./assets/interviews/interview_2_segment_2_n1.png"/>
   <br/><i>Evidencia de entrevista: Lucas Alejandro Moreno Olivos</i>
 </p>
 
@@ -2925,7 +2924,7 @@ Tras revisar la Landing Page y la Web App de Senit, Lucas opinó que la platafor
 
 **Entrevista 2**
 <p align="center">
-  <img src="assets/interviews/entrevista_dario.png" alt="Entrevista con Dario"/>
+  <img src="./assets/interviews/entrevista_dario.png"/>
   <br/><i>Evidencia de entrevista: Dario Romero</i>
 </p>
 
@@ -2947,7 +2946,7 @@ A partir de su revisión de SENIT, Dario consideró que la plataforma resuelve p
 
 **Entrevista 3**
 <p align="center">
-   <img src="assets/interviews/interview_2_segment_2_n2.png" alt="Entrevista con Santos Ignacio Aranda Ramírez"/>
+   <img src="./assets/interviews/interview_2_segment_2_n2.png"/>
   <br/><i>Evidencia de entrevista: Santos Ignacio Aranda Ramírez</i>
 </p>
 
@@ -3061,7 +3060,7 @@ Utilizar etiquetas más descriptivas y acompañar los iconos con texto visible. 
 
 ## 5.4 Video About-The-Product
 
-<img src="assets/webappui/aboutproduct/screenshot.png"/>
+<img src="./assets/webappui/aboutproduct/screenshot.png"/>
 <br>
 Link: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgCoCdrE-jqMT6Te-i8ls3m3AVmuyjztfLloZKDWECkJlnM?e=UH5yDl
 
