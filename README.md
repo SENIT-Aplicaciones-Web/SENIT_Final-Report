@@ -2163,6 +2163,21 @@ https://trello.com/invite/b/6a35d8e872fb291b146afc97/ATTIf1506ff5d58679dd21c9968
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
+Durante este Sprint 3, el equipo se enfocó en la implementación de la primera versión funcional del backend de Senit. Los avances estuvieron relacionados con el desarrollo de los Web Services principales de la plataforma, permitiendo gestionar hoteles, habitaciones, reservas, estadías, usuarios, autenticación y suscripciones mediante una RESTful API.
+
+Además, se trabajó en la configuración inicial del proyecto backend, la organización de endpoints, la corrección de rutas, el filtrado de datos por hotel y la documentación técnica mediante Swagger/OpenAPI. Estos avances permiten que la Web Application pueda consumir servicios backend de forma más ordenada y validable.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on |
+|---|---|---|---|---|---|
+| SENIT-Aplicaciones-Web/senit-backend | main | c8bdc04 | Initial commit | Se creó la estructura inicial del repositorio backend para comenzar la implementación de los Web Services de Senit. | 17/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 8457418 | feat: finished backend v1 | Se completó la primera versión funcional del backend, incluyendo los endpoints principales para la gestión operativa de Senit. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 908e520 | docs: added list of endpoints | Se agregó la lista de endpoints disponibles para facilitar la revisión y prueba de los servicios implementados. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | a651871 | docs: fix endpoint route | Se corrigieron rutas documentadas de los endpoints para mantener coherencia entre la documentación y la implementación del backend. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 2936026 | fix: swagger visibility | Se ajustó la visibilidad de Swagger para permitir la revisión de la documentación de servicios desde el entorno desplegado. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 1e4bb31 | fix: users get by hotel id | Se corrigió la consulta de usuarios por identificador de hotel, permitiendo filtrar correctamente el personal asociado a cada establecimiento. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 992b195 | docs: added links to deployment | Se añadieron enlaces relacionados con el despliegue del backend para facilitar el acceso a la API y su documentación. | 18/06/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | e264cb5 | fix: endpoints with hotel for parameter | Se ajustaron endpoints para recibir el hotel como parámetro, permitiendo retornar información específica según el establecimiento seleccionado. | 18/06/2026 |
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
