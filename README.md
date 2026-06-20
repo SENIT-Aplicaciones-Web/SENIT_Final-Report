@@ -2033,7 +2033,7 @@ User flow: Cerrar sesión
 <img src="/assets/webappui/prototype/screenshot.png"/>
 <br>
 
-Link: 
+Link: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgCtsAuyGglLRZ2XDr1POpRlAZ-qjEf4VN6I_am7IJHgX9s?e=gjloxx
 
 ## 4.6. Domain-Driven Software Architecture.
 Para el modelo de arquitectura del sistema Senit se utiliza la técnica de modelado C4 Model, con el objetivo de representar de manera clara la estructura y comportamiento del sistema. 
