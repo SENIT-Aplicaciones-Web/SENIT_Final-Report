@@ -94,7 +94,7 @@
     </tr>
     <tr>
       <td><strong>AV 2</strong></td>
-      <td></td>
+      <td>19/06/2026</td>
       <td>
         - Danitza Ivonne Heredia Hoyos (U201910803)<br>
         - Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>
