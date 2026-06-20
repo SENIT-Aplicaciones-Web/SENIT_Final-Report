@@ -2447,6 +2447,28 @@ La evaluación se divide en dos componentes principales:
 
 ### 5.3.2. Registro de Entrevistas
 
+#### Segmento 1: Personal Administrativo y Operativo de Hoteles y Moteles
+
+**Entrevista 1**
+<p align="center">
+  <img src="assets/interviews/entrevista_lui.png" alt="Entrevista con Lui"/>
+  <br/><i>Evidencia de entrevista: Lui</i>
+</p>
+
+- **Nombre:** Lui
+- **Edad:** 24 años
+- **Cargo:** Recepcionista Principal
+- **Tipo de establecimiento:** Hotel
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241b331_upc_edu_pe/IQD9WzsSstr2RaP59R-gQYUKARXF240QcroB1AmzWRyy7yo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nt1cUt)
+- **Duracion:** 06:29
+- **Timing:** 00:00-06:29
+
+**Resumen de la entrevista:**
+<div align="justify">
+Tras interactuar con la Landing Page y probar el flujo de la Web App, Lui destacó que la interfaz de SENIT es limpia, rápida y muy intuitiva. Encontró que el proceso de registro de reservas es sumamente directo en comparación con los métodos manuales y obsoletos actuales. Resaltó especialmente el Rack Gráfico de habitaciones, ya que el uso de colores le permite identificar al instante la disponibilidad para agilizar la atención en mostrador. Como sugerencia de mejora principal, recomendó agregar una funcionalidad para registrar consumos extras (snacks o bebidas) y sumarlos directamente a la cuenta final durante el Check-out.
+</div>
+<br>
+
 #### Segmento 2: Dueños y propietarios de hoteles y moteles
 
 **Entrevista 1**
@@ -2466,6 +2488,26 @@ La evaluación se divide en dos componentes principales:
 **Resumen de la entrevista:**
 <div align="justify">
 Tras revisar la Landing Page y la Web App de Senit, Lucas opinó que la plataforma sí responde a las necesidades reales de un hotel o hostal y que las funciones de control de habitaciones, reservas y facturación le resultan especialmente útiles. Comentó que el sistema le daría una visión clara del estado del negocio y le permitiría dejar de depender del papel y la confianza en terceros. Como principal mejora, sugirió incorporar un módulo de reclamos para relacionar incidencias con el desempeño del personal y así tomar mejores decisiones administrativas.
+</div>
+<br>
+
+**Entrevista 2**
+<p align="center">
+  <img src="assets/interviews/entrevista_dario.png" alt="Entrevista con Dario"/>
+  <br/><i>Evidencia de entrevista: Dario Romero</i>
+</p>
+
+- **Nombre:** Dario
+- **Edad:** 28 años
+- **Cargo:** Dueño y Administrador
+- **Tipo de establecimiento:** Motel
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241b331_upc_edu_pe/IQDZ_P6Pqw_QTJnqEz--W9w4AYCbHNFt6PLVwiCfy4F_U7M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=C9ECON)
+- **Duracion:** 05:37
+- **Timing:** 00:00-05:37
+
+**Resumen de la entrevista:**
+<div align="justify">
+A partir de su revisión de SENIT, Dario consideró que la plataforma resuelve problemas graves de desorden administrativo que sufren muchos negocios del sector. Valoró enormemente la capacidad de supervisar el estado del hotel en tiempo real y a distancia, lo que le transmite profesionalismo y seguridad gerencial. Validó que el control estricto de las reservas y los tiempos de Check-in/Check-out es vital para evitar fugas de dinero por cobros manuales erróneos. Finalmente, propuso como mejoras clave poder exportar reportes de cierre de turno (caja) y tener un módulo de inventario integrado para gestionar las ventas en recepción.
 </div>
 <br>
 
