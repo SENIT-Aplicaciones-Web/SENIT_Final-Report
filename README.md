@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
   <br>
-  <img src="./assets/UPC_logo.webp" width="auto" height="180"/>
+  <img src="./assets/UPC_logo1.png" width="auto" height="180"/>
   <p>
    <br>
     <strong>Carrera:</strong> Ingeniería de Software
