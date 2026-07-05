@@ -3187,13 +3187,13 @@ Adicionalmente, se recomienda evaluar la integración con servicios externos, co
 
 **About The Team**
 
-## Resumen del video
+**Resumen del video**
 
-El video **About-The-Team** presenta, de manera resumida, el proceso de trabajo desarrollado por el equipo a lo largo del proyecto. En la primera parte, se muestra una retrospectiva general de los avances realizados, destacando la evolución del trabajo, la organización interna, el cumplimiento de tareas y la integración progresiva de los componentes del proyecto.  
+El video presenta, de manera resumida, el proceso de trabajo desarrollado por el equipo a lo largo del proyecto. En la primera parte, se muestra una retrospectiva general de los avances realizados, destacando la evolución del trabajo, la organización interna, el cumplimiento de tareas y la integración progresiva de los componentes del proyecto.  
 
 Posteriormente, el video incluye el testimonio ante cámara de cada integrante, en el que se describen las actividades realizadas, los logros alcanzados en relación con los outcomes y el desarrollo de competencias obtenidas durante la elaboración del trabajo. Además, el video combina escenas de sesiones reales de trabajo del equipo, lo que permite evidenciar tanto la dinámica colaborativa como el proceso de construcción de la propuesta.
 
-## Pauta de secuencias de contenido
+**Pauta de secuencias de contenido**
 
 | Sección | Inicio | Fin | Descripción |
 |---|---:|---:|---|
@@ -3207,7 +3207,7 @@ Posteriormente, el video incluye el testimonio ante cámara de cada integrante, 
 <img src="./assets/about-the-team.png"/>
 <br>
 
-## URLs
+**URLs**
 
 - **Versión publicada en Microsoft Stream:**  
   https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgAh2sBRT9TjQ4ai7C0yh_oXAdRwAqz30p2rG8o9bMk7-cw?e=crJERO
