@@ -2900,6 +2900,26 @@ Tras interactuar con la Landing Page y probar el flujo de la Web App, Lui destac
 </div>
 <br>
 
+**Entrevista 2**
+<p align="center">
+  <img src="./assets/interviews/entrevista_paul.png"/>
+  <br/><i>Evidencia de entrevista: Paul Ynga</i>
+</p>
+
+- **Nombre:** Antony Paul Ynga Carbajal
+- **Edad:** 34 años
+- **Residencia:** Miraflores
+- **Tipo de establecimiento:** Hotel
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231h059_upc_edu_pe/IQCxmyHeu-AWTpCR6mjeudvuAaYFpWsCbeOcpr3TLr8qOm8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j2syN1)
+- **Duracion:** 08:58
+- **Timing:** 00:00-08:58
+
+**Resumen de la entrevista:**
+<div align="justify">
+El entrevistado luego de visualizar e interactuar con la landing page, señaló que el propósito y las funcionalidades de SENIT le quedaron bastante claras y que le transmitieron confianza. Posteriormente, luego de haber probado la aplicación web de SENIT, el entrevistado Paul destacó que la interfaz de la plataforma es muy intuitiva y que le resultó fácil encontrar y entender la información que necesitaba, y que le resultaría facil de usar incluso a personas que no tienen experiencia sin necesidad de tomar un curso de capacitación extenso, y remarcó que la plataforma sería ideal para hoteles pequeños o medianos. Por último, el entrevistado sugirió que en el apartado de reservas y estadías no se muestre a detalle el listado de toda la información de los huéspedes ya que si el personal dejase esa ventana abierta, una persona malintencionada podría ver por encima esa información y hacerse pasar por un huésped de forma fraudulenta.
+</div>
+<br>
+
 #### Segmento 2: Dueños y propietarios de hoteles y moteles
 
 **Entrevista 1**
