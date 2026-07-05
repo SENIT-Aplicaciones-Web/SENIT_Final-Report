@@ -3186,7 +3186,34 @@ También se sugiere incorporar mecanismos de seguridad robustos para proteger la
 Adicionalmente, se recomienda evaluar la integración con servicios externos, como pasarelas de pago y plataformas de reservas, lo que permitirá incrementar el valor del sistema y su competitividad en el mercado. Finalmente, se sugiere implementar el sistema de manera progresiva en pequeños y medianos hospedajes, manteniendo una retroalimentación constante con los usuarios, lo que permitirá iterar y mejorar la solución de acuerdo con las necesidades reales del entorno.
 
 **About The Team**
-Link: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgAh2sBRT9TjQ4ai7C0yh_oXAdRwAqz30p2rG8o9bMk7-cw?e=crJERO  
+
+## Resumen del video
+
+El video **About-The-Team** presenta, de manera resumida, el proceso de trabajo desarrollado por el equipo a lo largo del proyecto. En la primera parte, se muestra una retrospectiva general de los avances realizados, destacando la evolución del trabajo, la organización interna, el cumplimiento de tareas y la integración progresiva de los componentes del proyecto.  
+
+Posteriormente, el video incluye el testimonio ante cámara de cada integrante, en el que se describen las actividades realizadas, los logros alcanzados en relación con los outcomes y el desarrollo de competencias obtenidas durante la elaboración del trabajo. Además, el video combina escenas de sesiones reales de trabajo del equipo, lo que permite evidenciar tanto la dinámica colaborativa como el proceso de construcción de la propuesta.
+
+## Pauta de secuencias de contenido
+
+| Sección | Inicio | Fin | Descripción |
+|---|---:|---:|---|
+| Retrospectiva general de avances | 00:00 | 05:16 | Presentación resumida de los 4 avances del proyecto, mostrando el desarrollo progresivo del trabajo del equipo. |
+| Testimonio de Leonardo Garcia | 05:19 | 06:23 | Participación del primer integrante, describiendo sus actividades, aprendizajes y contribución al proyecto. |
+| Testimonio de Mauricio Montes | 06:23 | 08:14 | Participación del segundo integrante, explicando su rol, logros y competencias desarrolladas. |
+| Testimonio de Anghelo Faustino| 08:14 | 10:17 | Participación del tercer integrante, detallando su aporte al trabajo y los outcomes alcanzados. |
+| Testimonio de Richard Lozano | 10:17 | 11:24 | Participación del cuarto integrante, presentando su experiencia y contribución en el proyecto. |
+| Testimonio de Danitza Heredia | 11:24 | 12:11 | Participación del quinto integrante, cerrando el video con su reflexión sobre el proceso de trabajo. |
+
+<img src="./assets/about-the-team.png"/>
+<br>
+
+## URLs
+
+- **Versión publicada en Microsoft Stream:**  
+  https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgAh2sBRT9TjQ4ai7C0yh_oXAdRwAqz30p2rG8o9bMk7-cw?e=crJERO
+
+- **Versión publicada en YouTube:**  
+  https://www.youtube.com/watch?v=uo--BYZGQGM
 
 # Bibliografía
 
