@@ -115,7 +115,7 @@
         - Anghelo Faustino Hurtado (U20241B331)<br>
         - Leonardo Rafael Garcia Villanueva (U20231H059)
       </td>
-      <td>-</td>
+      <td>-Se desarrolló e integró el Web Service completo de Senit y se documentó el Sprint 4 en el capítulo V</td>
     </tr>
   </tbody>
 </table>
@@ -126,6 +126,8 @@
 URL de Organización de GITHUB del equipo https://github.com/SENIT-Aplicaciones-Web <br> 
 URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web/SENIT_Final-Report<br>
 URL de la Landing Page: https://senit-aplicaciones-web.github.io/senit-landing-page/<br>
+URL de la Web Application: https://senit-aplicaciones-web.github.io/senit-webapp/<br>
+URL de la API en Swagger: https://senit-backend.onrender.com/swagger/index.html
 
 Entrega AV1: Para este avance el equipo se organizó mediante un grupo de WhatsApp, donde se envió un documento para separar las tareas y actividades a realizar por cada miembro del equipo, así como también las que se tenian que realizar en grupo, y se llegó al acuerdo de que solo los avances y correcciones completos se suban al repositorio de GitHub. Los gráficos de analíticas de colaboración en GitHub, considerando únicamente hasta el 20 de abril.
 <img src="./assets/Insights/contributors.png"/>
@@ -135,6 +137,9 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
 
 Entrega AV2: Para este avance se coordinó el avance y correcciones mediante comunicación vía WhatsApp, en este caso las secciones trabajadas por los miembros en la anterior entrega y que tuvieron observaciones fueron corregidos por los mismos.
 <img src="./assets/Insights/contributors2.png"/>
+
+Entrega TB2: Para este avance se coordinó el avance final y correcciones en el informe mediante WhatsApp, en este caso las secciones trabajadas por los miembros en la anterior entrega y que tuvieron observaciones fueron corregidos por los mismos.
+<img src="./assets/Insights/contributors3.png"/>
 
 <hr>
 
@@ -186,13 +191,16 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
         <br>
         <strong>- Garcia Villanueva, Leonardo Rafael:</strong><br>
         <strong>AV 1:</strong> Durante el desarrollo de este avance tuve una comunicación constante con los miembros del equipo mediante WhatsApp, donde compartí mis avances y los objetivos que iba cumpliendo en el informe para recibir sugerencias e ideas de los demás y aplicarlas. Además, participé en llamadas grupales por Google Meet y Discord, en las que se propusieron varias ideas para el proyecto y ayudé a identificar cuáles serían las más adecuadas para usar, así como también apoyé a algunos miembros del equipo resolviendo dudas y dando sugerencias para el cumplimiento de las tareas asignadas.<br>
-        <strong>TB:</strong> Durante el desarrollo de esta entrega tuve la iniciativa de comunicarme con los integrantes del grupo mediante WhatsApp para coordinar las actividades que debían realizarse y ayudar a identificar qué aspectos del trabajo necesitaban ser corregidos, y en las reuniones virtuales por Google Meet, ayudé a establecer metas para corregir las observaciones realizadas al avance anterior sugiriendo posibles soluciones.
-        <strong>AV 2:</strong> Durante el desarrollo de este avance mantuve una comunicación constante con los integrantes del equipo mediante WhatsApp, principalmente para coordinar el avance del sprint 3, compartir el estado de mis actividades y apoyar en la organización de las tareas pendientes. Además de contribuir con el despliegue de la aplicación web, el desarrollo del backend y frontend, y la corrección de algunos diseños de la aplicación, procuré comunicar de manera clara los avances realizados para que el equipo pudiera conocer el progreso del proyecto y tomar decisiones en conjunto. También recordé a mis compañeros algunas actividades pendientes y brindé apoyo cuando surgían dudas, contribuyendo así al liderazgo compartido dentro del grupo y al cumplimiento ordenado de los objetivos del avance.
+        <strong>TB:</strong> Durante el desarrollo de esta entrega tuve la iniciativa de comunicarme con los integrantes del grupo mediante WhatsApp para coordinar las actividades que debían realizarse y ayudar a identificar qué aspectos del trabajo necesitaban ser corregidos, y en las reuniones virtuales por Google Meet, ayudé a establecer metas para corregir las observaciones realizadas al avance anterior sugiriendo posibles soluciones.<br>
+        <strong>AV 2:</strong> Durante el desarrollo de este avance mantuve una comunicación constante con los integrantes del equipo mediante WhatsApp, principalmente para coordinar el avance del sprint 3, compartir el estado de mis actividades y apoyar en la organización de las tareas pendientes. Además de contribuir con el despliegue de la aplicación web, el desarrollo del backend y frontend, y la corrección de algunos diseños de la aplicación, procuré comunicar de manera clara los avances realizados para que el equipo pudiera conocer el progreso del proyecto y tomar decisiones en conjunto. También recordé a mis compañeros algunas actividades pendientes y brindé apoyo cuando surgían dudas, contribuyendo así al liderazgo compartido dentro del grupo y al cumplimiento ordenado de los objetivos del avance.<br>
+        <strong>TB2:</strong> Durante el desarrollo de esta entrega mantuve una comunicación constante con los integrantes del equipo mediante WhatsApp, principalmente para coordinar el avance final del sprint 4, compartir el estado de mis actividades y conocer el progreso de mis compañeros. Asimismo, participé en la organización de tareas pendientes, brindé apoyo para resolver dudas y propuse posibles soluciones para atender las observaciones del avance anterior y contribuí al trabajo conjunto del grupo y al liderazgo compartido, procurando que todos pudiéramos avanzar de forma ordenada hacia el cumplimiento de los objetivos del proyecto.
+        <br>
       </td>
       <td>
         <strong>AV 1:</strong> El equipo trabajó de manera conjunta con una comunicación constante a través de un grupo de WhatsApp y reuniones virtuales realizadas por Google Meet y Discord, donde los miembros del equipo pudieron coordinar actividades, compartir avances y sugerencias. Además, durante estas reuniones, varios miembros del equipo participaron activamente preguntando, proponiendo ideas, y ayudando a corregir errores o mejorar avances de otros integrantes, con lo que el liderazgo fue compartido por todos los miembros del grupo.<br>
-        <strong>TB:</strong> El equipo tuvo una comunicación constante a través de WhatsApp y reuniones virtuales vía Google Meet, donde se analizaron las observaciones recibidas en el entregable anterior y formas de poder solucionarlas. Durante estas reuniones, el equipo participó activamente proponiendo ideas para las correcciones y ayudándose mutuamente para mejorar el informe compartiendo el liderazgo entre los miembros del equipo, favoreciendo el avance en conjunto de esta entrega.
-        <strong>AV 2:</strong> Durante este avance, el equipo trabajó de manera conjunta en el desarrollo del sprint 3 y en la corrección de observaciones de entregas anteriores, manteniendo una comunicación constante principalmente mediante WhatsApp. A través de este medio, los integrantes pudieron compartir avances, coordinar actividades, recordar tareas pendientes y apoyar a los compañeros cuando surgían dudas o dificultades. Asimismo, el liderazgo fue compartido entre los miembros del grupo, ya que cada integrante contribuyó desde sus responsabilidades, proponiendo mejoras, comunicando el estado de sus actividades y colaborando para que el avance del proyecto se desarrollara de forma organizada.
+        <strong>TB:</strong> El equipo tuvo una comunicación constante a través de WhatsApp y reuniones virtuales vía Google Meet, donde se analizaron las observaciones recibidas en el entregable anterior y formas de poder solucionarlas. Durante estas reuniones, el equipo participó activamente proponiendo ideas para las correcciones y ayudándose mutuamente para mejorar el informe compartiendo el liderazgo entre los miembros del equipo, favoreciendo el avance en conjunto de esta entrega.<br>
+        <strong>AV 2:</strong> Durante este avance, el equipo trabajó de manera conjunta en el desarrollo del sprint 3 y en la corrección de observaciones de entregas anteriores, manteniendo una comunicación constante principalmente mediante WhatsApp. A través de este medio, los integrantes pudieron compartir avances, coordinar actividades, recordar tareas pendientes y apoyar a los compañeros cuando surgían dudas o dificultades. Asimismo, el liderazgo fue compartido entre los miembros del grupo, ya que cada integrante contribuyó desde sus responsabilidades, proponiendo mejoras, comunicando el estado de sus actividades y colaborando para que el avance del proyecto se desarrollara de forma organizada.<br>
+        <strong>TB2:</strong> En este avance final, el equipo trabajó de manera coordinada durante el desarrollo del sprint 4, manteniendo una comunicación constante principalmente a través de WhatsApp para organizar actividades, compartir avances y verificar el cumplimiento de las tareas asignadas. Asimismo, los integrantes participaron activamente en la revisión de observaciones y en la propuesta de soluciones para mejorar la entrega, apoyándose mutuamente cuando surgían dudas o dificultades. De esta manera, el liderazgo fue compartido entre los miembros del grupo, lo que permitió avanzar de forma ordenada y cumplir con los objetivos planteados para esta etapa del proyecto.<br>
       </td>
     </tr>
     <tr>
@@ -226,12 +234,14 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
         <strong>- Garcia Villanueva, Leonardo Rafael:</strong><br>
         <strong>AV 1:</strong> Durante el desarrollo de este avance tuve una comunicación constante con los miembros del equipo mediante WhatsApp, reuniones virtuales por Google Meet y llamadas por Discord, donde pude compartir mis avances y los objetivos que cumplí en el informe, así como también colaboré en la repartición de tareas. Además, propuse varias ideas para el proyecto y apoyé a algunos compañeros resolviendo varias dudas relacionadas con las tareas asignadas, con lo que contribuí a establecer un entorno de trabajo más colaborativo.<br>
         <strong>TB:</strong> En este avance del proyecto participé activamente en la comunicación y coordinación de actividades con el equipo mediante WhatsApp y reuniones virtuales realizadas por Google Meet, donde compartí constantemente mis avances, cumplí con mis objetivos relacionados con las correcciones del entregable anterior y colaboré con mis compañeros ofreciendo sugerencias para sus actividades asignadas, contribuyendo a mantener un entorno de colaboración activa y organizada.
-        <strong>AV 2:</strong> En este avance participé activamente en la comunicación y coordinación del equipo mediante WhatsApp, promoviendo un entorno de trabajo colaborativo en el que se pudieran compartir avances, resolver dudas y organizar las actividades del sprint 3. Durante el proceso, comuniqué mis progresos relacionados con el despliegue de la app web, el desarrollo del backend y frontend, y las correcciones de diseño de la aplicación, procurando que mis compañeros estuvieran informados y pudieran dar seguimiento al trabajo realizado. Asimismo, ayudé a recordar tareas pendientes, sugerí mejoras y apoyé a mis compañeros en la continuidad del avance, lo que permitió contribuir a la planificación de actividades, al cumplimiento de metas y a una mejor organización del trabajo grupal.
+        <strong>AV 2:</strong> En este avance participé activamente en la comunicación y coordinación del equipo mediante WhatsApp, promoviendo un entorno de trabajo colaborativo en el que se pudieran compartir avances, resolver dudas y organizar las actividades del sprint 3. Durante el proceso, comuniqué mis progresos relacionados con el despliegue de la app web, el desarrollo del backend y frontend, y las correcciones de diseño de la aplicación, procurando que mis compañeros estuvieran informados y pudieran dar seguimiento al trabajo realizado. Asimismo, ayudé a recordar tareas pendientes, sugerí mejoras y apoyé a mis compañeros en la continuidad del avance, lo que permitió contribuir a la planificación de actividades, al cumplimiento de metas y a una mejor organización del trabajo grupal.<br>
+        <strong>TB2:</strong> Durante el desarrollo de esta entrega participé activamente en la comunicación y coordinación del equipo mediante WhatsApp, con el fin de organizar las actividades del sprint 4, compartir avances y asegurar el cumplimiento de las tareas asignadas. Asimismo, mantuve una participación constante en la revisión de observaciones y en la propuesta de soluciones para mejorar la entrega, apoyando a mis compañeros cuando surgían dudas o dificultades. De esta manera, contribuí a establecer un entorno de trabajo colaborativo, a planificar las tareas de forma ordenada y a cumplir los objetivos planteados para esta etapa final de cierre del proyecto.
       </td>
       <td>
         <strong>AV 1:</strong> El equipo tuvo una comunicación constante mediante WhatsApp y reuniones virtuales realizadas por Google Meet y Discord, en donde se organizaron y se planificaron las tareas de manera conjunta, estableciendo metas y fechas límite para cada actividad del proyecto. Durante las reuniones, todos los integrantes participaron de forma colaborativa ayudándose entre sí, resolviendo dudas y compartiendo ideas y sugerencias sobre sus partes del trabajo. Esto permitió avanzar de manera organizada y cumplir la mayoría de los objetivos establecidos dentro de los plazos acordados, aunque algunos no se completaron en su totalidad.<br>
         <strong>TB:</strong> En este avance el equipo continuó manteniendo una comunicación constante mediante WhatsApp y reuniones virtuales por Google Meet, donde se pudieron establecer y asignar en grupo las actividades para corregir las observaciones del entregable anterior, determinando los objetivos, tareas y tiempos de entrega para cada integrante. Asimismo, los miembros del equipo continuaron con una actitud colaborativa resolviendo dudas, compartiendo sugerencias y apoyándose mutuamente para cumplir con los objetivos planteados para este entregable.
         <strong>AV 2:</strong> En este avance, el equipo continuó fortaleciendo un entorno colaborativo mediante una comunicación constante por WhatsApp, donde se coordinaron las actividades necesarias para desarrollar el sprint 3 y realizar las correcciones correspondientes a entregas pasadas. Los integrantes del grupo compartieron sus avances, resolvieron dudas, brindaron sugerencias y apoyaron la organización de las tareas pendientes, lo que permitió establecer metas de trabajo y dar seguimiento al cumplimiento de cada actividad. Gracias a esta coordinación y colaboración continua, el equipo pudo avanzar de manera más ordenada y cumplir con los objetivos planteados para esta etapa del proyecto.
+        <strong>TB2:</strong> En este avance final, el equipo mantuvo una comunicación constante mediante WhatsApp para organizar las actividades correspondientes al sprint 4, establecer metas de trabajo y distribuir las tareas de forma coordinada entre los integrantes. Asimismo, durante la revisión de observaciones y la planificación de la entrega, todos participaron de manera colaborativa compartiendo ideas, resolviendo dudas y brindando apoyo mutuo para cumplir con los objetivos planteados. Gracias a esta coordinación, el equipo pudo avanzar de manera ordenada y fortalecer un entorno de trabajo colaborativo e inclusivo durante esta etapa del proyecto.
       </td>
     </tr>
   </tbody>
@@ -334,6 +344,15 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
       
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -2784,6 +2803,68 @@ Asimismo, el equipo mantuvo comunicación para revisar avances, validar el funci
   <i>Commits registrados en el repositorio senit-backend durante el Sprint 3.</i>
 </p>
 
+### 5.2.4. Sprint 4
+
+
+#### 5.2.4.1. Sprint Planning 4
+
+
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+
+
+#### 5.2.4.3. Sprint Backlog 4
+
+
+| Sprint # | Sprint 4 |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+
+
+**Board del Sprint 4 en Trello:**  
+Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las tareas correspondientes al Sprint 4.
+
+<p align="center">
+  <img src=" " width="900"/>
+  <br>
+  <i>Figura del Board del Sprint 4 de Senit en Trello.</i>
+</p>
+
+**URL del board:**  
+
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+
+**Enlace del video de ejecución:**  
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
+
+<p align="center">
+  <img src=" " width="900"/>
+  <br>
+  <i>Commits registrados en el repositorio senit-backend durante el Sprint 4.</i>
+</p>
+
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
@@ -3094,7 +3175,7 @@ El análisis del sector hotelero en el Perú permitió identificar que una gran 
 
 En este contexto, el desarrollo de Senit como plataforma web surge como una solución pertinente, ya que permite centralizar la gestión de reservas, habitaciones, personal, limpieza y pagos en un solo sistema, mejorando significativamente la eficiencia operativa de los hospedajes. Asimismo, la aplicación de metodologías como Lean UX y Domain-Driven Design (DDD) facilitó la construcción de una solución alineada con las necesidades reales de los usuarios, asegurando que las funcionalidades propuestas aporten valor práctico.
 
-Por otro lado, el uso de herramientas de modelado como diagramas UML, ERD y la definición de bounded contexts permitió comprender de manera estructurada el dominio del problema y diseñar una arquitectura modular, escalable y coherente con la lógica del negocio hotelero. Finalmente, los avances logrados durante el Sprint 1 evidencian una base sólida para el desarrollo del proyecto, especialmente en la definición del producto, la validación de la problemática y la construcción inicial de la solución.<br></br>
+Por otro lado, el uso de herramientas de modelado como diagramas UML, ERD y la definición de bounded contexts permitió comprender de manera estructurada el dominio del problema y diseñar una arquitectura modular, escalable y coherente con la lógica del negocio hotelero. Finalmente, los avances logrados durante el Sprint 1 evidencian una base sólida para el desarrollo del proyecto, especialmente en la definición del producto, la validación de la problemática y la construcción inicial de la solución.<br>
 
 **Recomendaciones**
 
@@ -3113,5 +3194,5 @@ Ministerio de Comercio Exterior y Turismo. (2023). Perú: oferta y demanda de es
 https://www.gob.pe/institucion/mincetur/informes-publicaciones/5671698-informe-peru-oferta-y-demanda-de-establecimientos-de-hospedaje-ano-2023
 
 # Anexos
-Video AV2: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgDgChYKNZS2Q6NMxj5C42wtASmOLZ9GBYe0EGPUFKPBkSY?e=rmHpgI
+Video TB2: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgCT-GYoRwx2SK516bzz1HlpAZ31DddDS-0Vimem-xzSlYc?e=DDbrNV
 <br>
