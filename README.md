@@ -3166,6 +3166,8 @@ Utilizar etiquetas más descriptivas y acompañar los iconos con texto visible. 
 <img src="./assets/webappui/aboutproduct/screenshot.png"/>
 <br>
 Link: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgCoCdrE-jqMT6Te-i8ls3m3AVmuyjztfLloZKDWECkJlnM?e=UH5yDl
+<br>
+Link de YouTube: https://www.youtube.com/watch?v=bC2gh4G2h78
 
 ---
 # Conclusiones
