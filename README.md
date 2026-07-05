@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
   <br>
-  <img src="./assets/UPC_logo.webp" width="auto" height="180"/>
+  <img src="./assets/UPC_logo1.png" width="auto" height="180"/>
   <p>
    <br>
     <strong>Carrera:</strong> Ingeniería de Software
@@ -162,7 +162,8 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
         <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
         <strong>AV 1:</strong> Me encargué del desarrollo de las secciones asignadas, organizando mis actividades de acuerdo con los tiempos definidos por el equipo. Durante el proceso, mantuve una comunicación constante con mis compañeros y consideré el enfoque general del proyecto, procurando que mi aporte se integrara de manera coherente con el trabajo grupal.<br>
         <strong>TB:</strong> Durante esta etapa, participé en el desarrollo y corrección de distintas secciones del proyecto, colaborando con el avance grupal y adaptándome a los cambios realizados en la arquitectura y diseño de la aplicación. Asimismo, mantuve comunicación con mis compañeros para asegurar coherencia entre las partes trabajadas y contribuir al cumplimiento de la entrega de manera conjunta.<br>
-        <strong>AV2:</strong> Participé en el desarrollo de las actividades asignadas para el avance, coordinando con mis compañeros la distribución de tareas y compartiendo los resultados obtenidos para mantener coherencia con los objetivos del proyecto.
+        <strong>AV2:</strong> Participé en el desarrollo de las actividades asignadas para el avance, coordinando con mis compañeros la distribución de tareas y compartiendo los resultados obtenidos para mantener coherencia con los objetivos del proyecto.<br>
+        <strong>TB2:</strong> Participé en el desarrollo y revisión de las actividades correspondientes a esta etapa del proyecto, manteniendo una comunicación constante con el equipo para asegurar la coherencia entre los diferentes entregables. Asimismo, colaboré en la integración de las secciones trabajadas, contribuyendo al cumplimiento de los objetivos establecidos para la entrega.
         <br>
         <br>
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
@@ -196,11 +197,12 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
     </tr>
     <tr>
       <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</strong></td>
-      <td>
+      <td> 
         <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
         <strong>AV 1:</strong> Desarrollé las secciones asignadas, organizando mi tiempo en función de los plazos de entrega y estructurando mi trabajo por etapas.<br>
         <strong>TB:</strong> Contribuí al avance del proyecto mediante el desarrollo y actualización de distintos entregables, organizando mi trabajo de acuerdo con los tiempos establecidos por el equipo. Esto permitió mantener continuidad en las secciones corregidas y apoyar el cumplimiento de los objetivos planteados para la entrega.<br>
-        <strong>AV2:</strong> Durante esta etapa, elaboré los instrumentos de entrevista correspondientes a los segmentos de usuarios definidos, organizando mi trabajo de acuerdo con los plazos establecidos y manteniendo comunicación con el equipo para contribuir al cumplimiento de las actividades programadas.
+        <strong>AV2:</strong> Durante esta etapa, elaboré los instrumentos de entrevista correspondientes a los segmentos de usuarios definidos, organizando mi trabajo de acuerdo con los plazos establecidos y manteniendo comunicación con el equipo para contribuir al cumplimiento de las actividades programadas.<br>
+        <strong>TB2:</strong> Organicé mis actividades de acuerdo con la planificación establecida por el equipo, cumpliendo con los plazos definidos y realizando las actualizaciones necesarias en las secciones asignadas. Esto permitió mantener la continuidad del trabajo y contribuir al logro de los objetivos planteados para esta etapa del proyecto.
         <br>
         <br>  
         <strong>- Montes Zamora, Edgar Alexander Mauricio:</strong><br>
@@ -2897,6 +2899,26 @@ La evaluación se divide en dos componentes principales:
 **Resumen de la entrevista:**
 <div align="justify">
 Tras interactuar con la Landing Page y probar el flujo de la Web App, Lui destacó que la interfaz de SENIT es limpia, rápida y muy intuitiva. Encontró que el proceso de registro de reservas es sumamente directo en comparación con los métodos manuales y obsoletos actuales. Resaltó especialmente el Rack Gráfico de habitaciones, ya que el uso de colores le permite identificar al instante la disponibilidad para agilizar la atención en mostrador. Como sugerencia de mejora principal, recomendó agregar una funcionalidad para registrar consumos extras (snacks o bebidas) y sumarlos directamente a la cuenta final durante el Check-out.
+</div>
+<br>
+
+**Entrevista 2**
+<p align="center">
+  <img src="./assets/interviews/entrevista_paul.png"/>
+  <br/><i>Evidencia de entrevista: Paul Ynga</i>
+</p>
+
+- **Nombre:** Antony Paul Ynga Carbajal
+- **Edad:** 34 años
+- **Residencia:** Miraflores
+- **Tipo de establecimiento:** Hotel
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231h059_upc_edu_pe/IQCxmyHeu-AWTpCR6mjeudvuAaYFpWsCbeOcpr3TLr8qOm8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j2syN1)
+- **Duracion:** 08:58
+- **Timing:** 00:00-08:58
+
+**Resumen de la entrevista:**
+<div align="justify">
+El entrevistado luego de visualizar e interactuar con la landing page, señaló que el propósito y las funcionalidades de SENIT le quedaron bastante claras y que le transmitieron confianza. Posteriormente, luego de haber probado la aplicación web de SENIT, el entrevistado Paul destacó que la interfaz de la plataforma es muy intuitiva y que le resultó fácil encontrar y entender la información que necesitaba, y que le resultaría facil de usar incluso a personas que no tienen experiencia sin necesidad de tomar un curso de capacitación extenso, y remarcó que la plataforma sería ideal para hoteles pequeños o medianos. Por último, el entrevistado sugirió que en el apartado de reservas y estadías no se muestre a detalle el listado de toda la información de los huéspedes ya que si el personal dejase esa ventana abierta, una persona malintencionada podría ver por encima esa información y hacerse pasar por un huésped de forma fraudulenta.
 </div>
 <br>
 
