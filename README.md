@@ -197,7 +197,7 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
     </tr>
     <tr>
       <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</strong></td>
-      <td>
+      <td> 
         <strong>- Heredia Hoyos, Danitza Ivonne:</strong><br>
         <strong>AV 1:</strong> Desarrollé las secciones asignadas, organizando mi tiempo en función de los plazos de entrega y estructurando mi trabajo por etapas.<br>
         <strong>TB:</strong> Contribuí al avance del proyecto mediante el desarrollo y actualización de distintos entregables, organizando mi trabajo de acuerdo con los tiempos establecidos por el equipo. Esto permitió mantener continuidad en las secciones corregidas y apoyar el cumplimiento de los objetivos planteados para la entrega.<br>
