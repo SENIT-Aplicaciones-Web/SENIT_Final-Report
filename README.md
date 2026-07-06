@@ -2950,12 +2950,6 @@ Asimismo, se validaron los cambios derivados de las evaluaciones heurísticas. E
   <i>Figura de validaciones del formulario de reservas ante datos incompletos, fechas inválidas o habitaciones no disponibles.</i>
 </p>
 
-<p align="center">
-  <img src="./assets/sprint-4/execution/checkin-reservation-collision.png" width="900"/>
-  <br>
-  <i>Figura de la validación de colisión entre check-in por horas y una reserva futura confirmada.</i>
-</p>
-
 **Enlace del video de ejecución:**  
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
@@ -3003,12 +2997,6 @@ https://github.com/SENIT-Aplicaciones-Web/senit-backend
 </p>
 
 <p align="center">
-  <img src="./assets/sprint-4/services/swagger-bearer-authorize.png" width="900"/>
-  <br>
-  <i>Figura del modal de autorización Bearer utilizado para probar endpoints protegidos mediante JWT.</i>
-</p>
-
-<p align="center">
   <img src="./assets/sprint-4/services/swagger-protected-endpoint.png" width="900"/>
   <br>
   <i>Figura de un endpoint protegido documentado con candado de autenticación.</i>
@@ -3044,7 +3032,7 @@ https://github.com/SENIT-Aplicaciones-Web/senit-front-end
 <p align="center">
   <img src="./assets/sprint-4/deployment/render-environment-variables.png" width="900"/>
   <br>
-  <i>Figura de la configuración de variables de entorno del backend en Render. Se evidencia el entorno de producción, la URL de escucha del servicio, la cadena de conexión a la base de datos y la clave secreta para JWT, cuyos valores sensibles deben ocultarse en el informe.</i>
+  <i>Figura de la configuración de variables de entorno del backend en Render. Se evidencia el entorno de producción, la URL de escucha del servicio, la cadena de conexión a la base de datos y la clave secreta para JWT.</i>
 </p>
 
 La evidencia anterior permite comprobar que el backend fue configurado para ejecutarse en ambiente de producción mediante `ASPNETCORE_ENVIRONMENT`, que el servicio se encuentra preparado para escuchar en el puerto asignado por Render y que las credenciales de conexión y el secreto de firma JWT se gestionan como variables de entorno, evitando colocarlas directamente dentro del código fuente.
