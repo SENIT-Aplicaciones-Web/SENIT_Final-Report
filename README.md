@@ -2804,36 +2804,78 @@ Asimismo, el equipo mantuvo comunicación para revisar avances, validar el funci
 </p>
 
 ### 5.2.4. Sprint 4
+En esta cuarta iteración, el equipo orientó sus esfuerzos a la consolidación final de los productos digitales de Senit, tomando como base los avances logrados en los sprints anteriores. A diferencia del Sprint 1, enfocado en la primera versión de la landing page, del Sprint 2, enfocado en la Web Application, y del Sprint 3, orientado al desarrollo inicial de los Web Services, este sprint se centró en la integración, corrección, validación y cierre de la solución completa.
 
+Durante este sprint se priorizó la mejora final de la Web Application, la integración con el RESTful API desplegado, la revisión de los endpoints documentados en Swagger/OpenAPI y la verificación del correcto funcionamiento de los principales flujos operativos del sistema. Asimismo, se realizaron ajustes derivados de las validaciones con usuarios, se revisaron las evidencias de despliegue de la Landing Page, Web Application y Web Services, y se actualizó la documentación del informe para reflejar la versión final del proyecto.
 
-#### 5.2.4.1. Sprint Planning 4
+De esta manera, el Sprint 4 permitió cerrar el ciclo de desarrollo de Senit con una versión final desplegada y documentada, evidenciando el trabajo colaborativo del equipo, la trazabilidad de los avances mediante GitHub y la preparación de los artefactos requeridos para la entrega final TB2.
 
+#### 5.2.4.1. Sprint Planning 4.
+
+| Sprint # | Sprint 4 |
+|----------|----------|
+| **Sprint Planning Background** |  |
+| Date | 2026-06-28 |
+| Time | 6:00 pm |
+| Location | Reunión virtual realizada a través de Discord |
+| Prepared By | Leonardo Rafael Garcia Villanueva |
+| Attendees (to planning meeting) | - Danitza Ivonne Heredia Hoyos<br>- Edgar Alexander Mauricio Montez Zamora<br>- Richard Enrique Lozano Leon<br>- Anghelo Faustino Hurtado<br>- Leonardo Rafael Garcia Villanueva |
+| Sprint n – 1 Review Summary | En el Sprint 3 se logró avanzar con el desarrollo e integración inicial de los Web Services de Senit, permitiendo que la solución cuente con una primera versión desplegada del RESTful API y con documentación técnica mediante Swagger/OpenAPI. Asimismo, se evidenció el funcionamiento de endpoints relacionados con los principales procesos del sistema, como gestión de habitaciones, reservas, usuarios, estadías, pagos y otros recursos necesarios para la operación del hospedaje. Como resultado, el equipo pudo conectar los avances del backend con la Web Application y fortalecer la base técnica de la solución. |
+| Sprint n – 1 Retrospective Summary | A partir del Sprint 3, el equipo identificó la necesidad de reforzar la integración entre la Web Application y el Web Service desplegado, revisar la coherencia entre las funcionalidades implementadas y la documentación del informe, y corregir observaciones relacionadas con despliegue, validación y evidencias de colaboración. También se reconoció la importancia de realizar una revisión final de los productos digitales para asegurar que la versión entregada en TB2 refleje correctamente el cierre del ciclo de vida del proyecto. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 4 Goal | **Our focus is on** consolidating the final release of Senit by integrating the Web Application with the deployed RESTful API, completing the final operational features, improving the product based on validation feedback, and verifying the deployment of all digital products.<br>**We believe it delivers** a more complete, reliable and usable hotel management experience to reception staff, operational staff and hotel owners.<br>**This will be confirmed when** the Landing Page, Web Application and Web Services are deployed in their final versions, the main operational flows consume the API correctly, the implemented endpoints are documented in Swagger/OpenAPI, and the final report includes the required evidence for the TB2 release review. |
+| Sprint 4 Velocity |  |
+| Sum of Story Points |  |
 
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
+En esta sección se establecen los principales aspectos trabajados durante el Sprint 4, con el objetivo de identificar qué integrante asumió el rol de líder y qué integrantes participaron como colaboradores en cada parte del cierre final del proyecto. Para esta iteración, los aspectos priorizados estuvieron relacionados con la integración final de la Web Application con el RESTful API, la revisión y documentación de endpoints en Swagger/OpenAPI, la validación de los principales flujos del sistema, el despliegue final de los productos digitales y la actualización del informe para la entrega TB2.
 
+La distribución de líderes y colaboradores se realizó considerando las responsabilidades asumidas por cada integrante durante el cierre del proyecto, buscando mantener un trabajo colaborativo y equilibrado entre documentación, implementación, pruebas, despliegue y revisión final de evidencias.
+
+| Team Member (Last Name, First Name) | GitHub Username | Final Report Update Leader (L) / Collaborator (C) | Web Application Integration Leader (L) / Collaborator (C) | RESTful API Final Review Leader (L) / Collaborator (C) | Swagger Documentation Leader (L) / Collaborator (C) | Deployment Evidence Leader (L) / Collaborator (C) | Validation and Final Review Leader (L) / Collaborator (C) |
+|---|---|---|---|---|---|---|---|
+| Heredia Hoyos, Danitza Ivonne | UDnTzh | L | C | C | C | C | L |
+| Montes Zamora, Edgar Alexander Mauricio | Zenkit0 | C | L | C | C | C | C |
+| Lozano Leon, Richard Enrique | AikoLz | C | C | C | L | C | L |
+| Hurtado, Anghelo Faustino | limozz05 | C | C | C | C | L | C |
+| Garcia Villanueva, Leonardo Rafael | LeonardoGV00 | C | C | L | C | C | C |
 
 #### 5.2.4.3. Sprint Backlog 4
 
+
+El Sprint Backlog 4 reúne las User Stories y Technical Stories priorizadas para el cierre final del proyecto Senit. En esta iteración, el equipo se enfocó en consolidar la versión final de la solución mediante la integración de la Web Application con el RESTful API desplegado, la finalización de funcionalidades operativas relacionadas con consumos, pagos, comprobantes, usuarios, limpieza, reportes y suscripciones, así como la revisión de internacionalización, documentación técnica y evidencias finales del proyecto.
+
+Este sprint tuvo como objetivo asegurar que los principales flujos del sistema se encuentren correctamente implementados, documentados y desplegados para la entrega TB2. Asimismo, se consideraron tareas adicionales relacionadas con la actualización del informe final, la revisión de evidencias de despliegue y la validación de los productos digitales entregados.
 
 | Sprint # | Sprint 4 |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|
 | **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
-
+| TS-06 | Gestión de consumos por API REST | T4-01 | Implementación final de consumos | Implementar y revisar los endpoints relacionados con el registro, consulta, edición y eliminación de consumos adicionales asociados a una estadía activa, asegurando que los montos se actualicen correctamente dentro del flujo operativo. | 5 | Montes Zamora, Edgar Alexander Mauricio | Done |
+| TS-07 | Gestión de pagos por API REST | T4-02 | Integración de pagos operativos | Implementar y validar los endpoints para registrar y consultar pagos asociados a reservas, estadías y suscripciones, permitiendo mantener actualizados los montos pagados dentro del sistema. | 5 | Montes Zamora, Edgar Alexander Mauricio | Done |
+| TS-08 | Emisión de comprobantes por API REST | T4-03 | Generación y consulta de comprobantes | Implementar y revisar la emisión de comprobantes vinculados a pagos registrados, considerando los datos del huésped, habitación, estadía, consumos y total final de la operación. | 5 | Lozano Leon, Richard Enrique | Done |
+| TS-10 | Gestión de usuarios por API REST | T4-04 | Administración final de usuarios | Implementar y validar la gestión de usuarios del sistema, permitiendo registrar, consultar, actualizar y eliminar usuarios asociados al hospedaje, según los roles definidos para la plataforma. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-11 | Gestión de tareas de limpieza por API REST | T4-05 | Control de tareas de limpieza | Implementar y revisar los endpoints relacionados con tareas de limpieza generadas después del check-out, permitiendo consultar tareas pendientes y actualizar su estado para liberar habitaciones. | 4 | Faustino Hurtado, Anghelo | Done |
+| TS-13 | Reportes de ocupación e ingresos por API REST | T4-06 | Reportes operativos y financieros | Implementar y validar la obtención de información necesaria para reportes de ocupación e ingresos, permitiendo al administrador consultar indicadores relacionados con habitaciones, estadías, reservas y pagos. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-14 | Gestión de suscripción por API REST | T4-07 | Control de planes y pagos de suscripción | Implementar y revisar la consulta, actualización e historial de suscripciones del hospedaje, permitiendo controlar el plan activo, el estado de la suscripción y los pagos realizados. | 4 | Faustino Hurtado, Anghelo | Done |
+| TS-01 | Internacionalización de la plataforma | T4-08 | Revisión final de internacionalización | Revisar y ajustar los textos principales de la Web Application para mantener soporte de idioma en español e inglés, asegurando consistencia en las vistas finales del sistema. | 4 | Heredia Hoyos, Danitza Ivonne | Done |
+| - | Tarea adicional de cierre | T4-09 | Actualización del informe final TB2 | Actualizar el README del proyecto con la documentación del Sprint 4, evidencias finales, capturas, enlaces de despliegue, validaciones, conclusiones y anexos requeridos para la entrega final. | 5 | Heredia Hoyos, Danitza Ivonne | Done |
+| - | Tarea adicional de cierre | T4-10 | Revisión de Swagger/OpenAPI | Revisar la documentación de endpoints desplegados en Swagger/OpenAPI, verificando que las rutas, verbos HTTP, parámetros y respuestas principales estén correctamente evidenciados en el informe. | 4 | Lozano Leon, Richard Enrique | Done |
+| - | Tarea adicional de cierre | T4-11 | Verificación del despliegue final | Verificar el despliegue final de la Landing Page, Web Application y Web Services, registrando capturas de evidencia y comprobando el acceso a las URLs públicas del proyecto. | 4 | Faustino Hurtado, Anghelo | Done |
 
 **Board del Sprint 4 en Trello:**  
 Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las tareas correspondientes al Sprint 4.
 
 <p align="center">
-  <img src=" " width="900"/>
+  <img src="./assets/Trello 4.jpg" width="900"/>
   <br>
   <i>Figura del Board del Sprint 4 de Senit en Trello.</i>
 </p>
 
 **URL del board:**  
-
+https://trello.com/invite/b/6a4af52132ce7e4a57bd9526/ATTI41af792e135a596d69a8185d92c584360F168215/senit-sprint-4
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
