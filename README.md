@@ -2827,8 +2827,8 @@ De esta manera, el Sprint 4 permitió cerrar el ciclo de desarrollo de Senit con
 | Sprint 4 – 3 Retrospective Summary | A partir del Sprint 3, el equipo identificó la necesidad de reforzar la integración entre la Web Application y el Web Service desplegado, revisar la coherencia entre las funcionalidades implementadas y la documentación del informe, corregir observaciones relacionadas con despliegue, validación y evidencias de colaboración, e implementar un mecanismo de autenticación más robusto para proteger los endpoints privados. También se reconoció la importancia de realizar una revisión final de los productos digitales para asegurar que la versión entregada en TB2 refleje correctamente el cierre del ciclo de vida del proyecto. |
 | **Sprint Goal & User Stories** |  |
 | Sprint 4 Goal | **Our focus is on** consolidating the final release of Senit by integrating the Web Application with the deployed RESTful API, implementing JWT authentication, improving the product based on validation feedback, and verifying the deployment of all digital products.<br>**We believe it delivers** a more secure, complete, reliable and usable hotel management experience to reception staff, operational staff and hotel owners.<br>**This will be confirmed when** the Landing Page, Web Application and Web Services are deployed in their final versions, the main operational flows consume the API correctly, the protected endpoints require JWT authentication, Swagger/OpenAPI documents public and private endpoints properly, and the final report includes the required evidence for the TB2 release review. |
-| Sprint 4 Velocity |  |
-| Sum of Story Points |  |
+| Sprint 4 Velocity | 30 |
+| Sum of Story Points | 30 |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
