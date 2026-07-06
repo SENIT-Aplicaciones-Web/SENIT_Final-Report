@@ -3063,23 +3063,44 @@ La evidencia del frontend desplegado permite comprobar que la Web Application se
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
-Durante el Sprint 4, el equipo mantuvo una dinámica de trabajo enfocada en el cierre final del proyecto, la corrección de observaciones y la preparación de la entrega TB2. En esta iteración se trabajó tanto sobre el repositorio frontend como sobre el repositorio backend, registrando commits relacionados con autenticación JWT, validaciones de reservas, colisiones entre check-in y reservas futuras, corrección de mensajes de validación, ajuste de tarjetas de habitaciones, selector de idioma, cultura decimal, despliegue y documentación final.
+Durante el Sprint 4, el equipo mantuvo una dinámica de trabajo colaborativa orientada al cierre final del proyecto Senit. En esta etapa se coordinaron actividades relacionadas con la integración del frontend y backend, la validación de funcionalidades, la corrección de observaciones identificadas en las entrevistas de validación y la evaluación heurística, así como la actualización final del informe.
 
-GitHub permitió evidenciar la evolución de ambos repositorios durante el sprint. En el backend, los commits muestran la incorporación de autenticación Bearer con JWT, el refuerzo de reglas de negocio y la corrección de validaciones. En el frontend, los commits muestran la integración con el API, la corrección de errores visuales y funcionales, y la mejora de la experiencia de usuario con base en las validaciones realizadas.
+GitHub fue utilizado como una de las principales herramientas de colaboración, permitiendo registrar los avances realizados en los distintos repositorios del proyecto. En el repositorio del backend se evidencian commits relacionados con la implementación de autenticación mediante JSON Web Token, la corrección de validaciones de reservas, el bloqueo de habitaciones reservadas y ajustes en reglas de negocio. Estos cambios permitieron reforzar la seguridad y mejorar la consistencia de los servicios utilizados por la Web Application.
 
-Asimismo, el equipo realizó revisiones sucesivas de los flujos principales, incluyendo creación de habitaciones, registro de reservas, check-in, estadías activas, pagos, comprobantes, reportes e interacción por roles. Esta revisión permitió detectar y corregir inconsistencias antes de la entrega final, como mensajes genéricos de error, botones que podían ejecutarse más de una vez, habitaciones que no debían bloquearse por reservas futuras fuera de rango y gráficos de ingresos que no reflejaban pagos válidos.
+Asimismo, en el repositorio de la Web Application se registraron commits asociados a la versión final del frontend, incluyendo mejoras en la conexión con el backend, ajustes en la interfaz del dashboard, correcciones en las tarjetas de habitaciones y validaciones para evitar registros incompletos o inconsistentes en reservas y check-in. Estas mejoras respondieron directamente a observaciones detectadas durante el proceso de validación del producto.
+
+Por otro lado, en el repositorio del informe se realizaron actualizaciones relacionadas con el Sprint 4, las entrevistas de validación, el Student Outcome, los insights de colaboración y las evidencias finales del proyecto. Esto permitió mantener coherencia entre lo desarrollado técnicamente y lo documentado en el informe final.
+
+Además, el equipo utilizó Trello para organizar las tareas del sprint y dar seguimiento al estado de cada actividad. Esta herramienta permitió visualizar el avance de las tareas, distribuir responsabilidades y verificar que los pendientes del cierre final fueran atendidos de forma ordenada.
+
+En conclusión, el Sprint 4 evidenció un trabajo conjunto enfocado en consolidar la versión final de Senit. La colaboración entre los integrantes permitió probar las funcionalidades principales, corregir problemas detectados, validar la pertinencia de las mejoras realizadas y cerrar el proyecto con una versión más estable, documentada y desplegada.
 
 <p align="center">
-  <img src="./assets/sprint-4/collaboration/frontend-commits-s4.png" width="900"/>
+  <img src="./assets/sprint-4/collaboration/backend-commits-sprint-4.jpg" width="900"/>
   <br>
-  <i>Commits registrados en el repositorio frontend durante el Sprint 4.</i>
+  <i>Commits registrados en el repositorio senit-backend durante el Sprint 4.</i>
 </p>
 
 <p align="center">
-  <img src="./assets/sprint-4/collaboration/backend-commits-s4.png" width="900"/>
+  <img src="./assets/sprint-4/collaboration/webapp-commits-sprint-4.jpg" alt="Commits de la Web Application durante el Sprint 4" width="900"/>
   <br>
-  <i>Commits registrados en el repositorio backend durante el Sprint 4.</i>
+  <i>Commits registrados en el repositorio senit-webapp durante el Sprint 4.</i>
 </p>
+
+<p align="center">
+  <img src="./assets/sprint-4/collaboration/report-commits-sprint-4.jpg" alt="Commits del informe durante el Sprint 4" width="900"/>
+  <br>
+  <i>Commits registrados en el repositorio SENIT_Final-Report durante el Sprint 4.</i>
+</p>
+
+<p align="center">
+  <img src="./assets/Trello 4.jpg" alt="Board del Sprint 4 en Trello" width="900"/>
+  <br>
+  <i>Figura del board de Trello utilizado para organizar las tareas del Sprint 4.</i>
+</p>
+
+
+
 
 ## 5.3 Validation Interviews
 
