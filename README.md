@@ -2879,6 +2879,30 @@ https://trello.com/invite/b/6a4af52132ce7e4a57bd9526/ATTI41af792e135a596d69a8185
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
+Durante el Sprint 4, el equipo se enfocó en consolidar la versión final de Senit, integrando los avances del frontend y backend, corrigiendo observaciones detectadas durante las entrevistas de validación y la evaluación heurística, y reforzando la seguridad del sistema mediante autenticación con JSON Web Token.
+
+En esta etapa se realizaron mejoras en la Web Application, principalmente en la conexión con el backend, la interfaz del dashboard, la visualización de habitaciones y la validación de formularios. Además, se corrigieron problemas relacionados con reservas, check-in y disponibilidad de habitaciones, evitando registros inconsistentes o colisiones entre reservas y estadías.
+
+Por parte del backend, se implementó autorización mediante Bearer Token con JWT, se ajustaron validaciones de contraseña, reservas y cultura decimal, y se reforzó el bloqueo de reservas para evitar superposiciones. Finalmente, en el repositorio del informe se actualizaron las evidencias, el Sprint 4, las entrevistas de validación, el Trello y los apartados finales del trabajo.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on |
+|---|---|---|---|---|---|
+| SENIT-Aplicaciones-Web/senit-backend | main | 6a94f19 | feat: added authorization bearer with jwt | Se implementó autorización mediante Bearer Token con JSON Web Token para reforzar la seguridad del acceso a los servicios backend. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 882b249 | fix: password min length | Se ajustó la validación de longitud mínima de contraseña para mejorar el control en el registro e inicio de sesión. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 263492a | fix: reservation validations | Se corrigieron validaciones relacionadas con el registro de reservas para evitar datos incompletos o inconsistentes. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 76d25ed | fix: reservation blocking | Se corrigió el bloqueo de reservas para evitar superposiciones o conflictos de disponibilidad de habitaciones. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | c580d87 | feat: fix UI of dashboard and conection with api backend | Se ajustó la interfaz del dashboard y se mejoró la conexión de la Web Application con el backend desplegado. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | 8e46256 | fix: validation messages | Se corrigieron los mensajes de validación para mejorar la claridad del sistema frente a datos incorrectos o incompletos. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | 598f47 | fix: room card | Se mejoró la visualización de las tarjetas de habitaciones para diferenciar con mayor claridad sus estados. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | eb1b3a5 | fix: front-desk-room card | Se corrigió la tarjeta de habitaciones en la vista de recepción, facilitando la lectura del estado operativo de cada habitación. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | 64f4e7e | fix: reservations validation | Se corrigieron validaciones del formulario de reservas para evitar registros incompletos o inconsistentes. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | 5e62584 | fix: validation between reservations and check-in | Se ajustó la validación entre reservas y check-in para evitar conflictos entre habitaciones reservadas y estadías activas. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-webapp | main | 77e4068 | fix: check in colision with reservations | Se corrigió la colisión entre check-in y reservas, evitando asignar habitaciones no disponibles. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/SENIT_Final-Report | main | 90963c1 | update sprint 4 | Se actualizó la documentación del Sprint 4 en el informe final del proyecto. | 05/07/2026 |
+| SENIT-Aplicaciones-Web/SENIT_Final-Report | main | 00527f2 | feat: added validation interview segment 1 | Se agregó evidencia de entrevistas de validación para sustentar la pertinencia de las mejoras realizadas. | 04/07/2026 |
+| SENIT-Aplicaciones-Web/SENIT_Final-Report | main | 8c9ed68 | change image trello sprint4 | Se actualizó la evidencia visual del tablero de Trello correspondiente al Sprint 4. | 05/07/2026 |
+| SENIT-Aplicaciones-Web/SENIT_Final-Report | main | d182ea8 | feat: added insights and my student outcome | Se agregaron insights de colaboración y aportes relacionados con el Student Outcome del avance final. | 05/07/2026 |
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
@@ -2898,13 +2922,43 @@ https://trello.com/invite/b/6a4af52132ce7e4a57bd9526/ATTI41af792e135a596d69a8185
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 4, el equipo mantuvo una dinámica de trabajo colaborativa orientada al cierre final del proyecto Senit. En esta etapa se coordinaron actividades relacionadas con la integración del frontend y backend, la validación de funcionalidades, la corrección de observaciones identificadas en las entrevistas de validación y la evaluación heurística, así como la actualización final del informe.
 
+GitHub fue utilizado como una de las principales herramientas de colaboración, permitiendo registrar los avances realizados en los distintos repositorios del proyecto. En el repositorio del backend se evidencian commits relacionados con la implementación de autenticación mediante JSON Web Token, la corrección de validaciones de reservas, el bloqueo de habitaciones reservadas y ajustes en reglas de negocio. Estos cambios permitieron reforzar la seguridad y mejorar la consistencia de los servicios utilizados por la Web Application.
+
+Asimismo, en el repositorio de la Web Application se registraron commits asociados a la versión final del frontend, incluyendo mejoras en la conexión con el backend, ajustes en la interfaz del dashboard, correcciones en las tarjetas de habitaciones y validaciones para evitar registros incompletos o inconsistentes en reservas y check-in. Estas mejoras respondieron directamente a observaciones detectadas durante el proceso de validación del producto.
+
+Por otro lado, en el repositorio del informe se realizaron actualizaciones relacionadas con el Sprint 4, las entrevistas de validación, el Student Outcome, los insights de colaboración y las evidencias finales del proyecto. Esto permitió mantener coherencia entre lo desarrollado técnicamente y lo documentado en el informe final.
+
+Además, el equipo utilizó Trello para organizar las tareas del sprint y dar seguimiento al estado de cada actividad. Esta herramienta permitió visualizar el avance de las tareas, distribuir responsabilidades y verificar que los pendientes del cierre final fueran atendidos de forma ordenada.
+
+En conclusión, el Sprint 4 evidenció un trabajo conjunto enfocado en consolidar la versión final de Senit. La colaboración entre los integrantes permitió probar las funcionalidades principales, corregir problemas detectados, validar la pertinencia de las mejoras realizadas y cerrar el proyecto con una versión más estable, documentada y desplegada.
 
 <p align="center">
-  <img src=" " width="900"/>
+  <img src="./assets/sprint-4/collaboration/backend-commits-sprint-4.jpg" width="900"/>
   <br>
   <i>Commits registrados en el repositorio senit-backend durante el Sprint 4.</i>
 </p>
+
+<p align="center">
+  <img src="./assets/sprint-4/collaboration/webapp-commits-sprint-4.jpg" alt="Commits de la Web Application durante el Sprint 4" width="900"/>
+  <br>
+  <i>Commits registrados en el repositorio senit-webapp durante el Sprint 4.</i>
+</p>
+
+<p align="center">
+  <img src="./assets/sprint-4/collaboration/report-commits-sprint-4.jpg" alt="Commits del informe durante el Sprint 4" width="900"/>
+  <br>
+  <i>Commits registrados en el repositorio SENIT_Final-Report durante el Sprint 4.</i>
+</p>
+
+<p align="center">
+  <img src="./assets/Trello 4.jpg" alt="Board del Sprint 4 en Trello" width="900"/>
+  <br>
+  <i>Figura del board de Trello utilizado para organizar las tareas del Sprint 4.</i>
+</p>
+
+
 
 
 ## 5.3 Validation Interviews
