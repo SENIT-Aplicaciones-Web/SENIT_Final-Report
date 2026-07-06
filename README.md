@@ -2432,8 +2432,8 @@ En esta segunda iteración, el equipo orientó sus esfuerzos al desarrollo inici
 | Location | Reunión virtual realizada a través de Discord |
 | Prepared By | Danitza Ivonne Heredia Hoyos |
 | Attendees (to planning meeting) | - Danitza Ivonne Heredia Hoyos<br>- Edgar Alexander Mauricio Montez Zamora<br>- Richard Enrique Lozano Leon<br>- Anghelo Faustino Hurtado<br>- Leonardo Rafael Garcia Villanueva |
-| Sprint n – 1 Review Summary | En el Sprint 1 se logró desarrollar la primera versión funcional de la landing page de Senit, incluyendo la presentación inicial del producto, navegación entre secciones, explicación de funcionalidades, planes de suscripción, contacto, redes sociales, cambio de idioma y adaptación responsive. Como resultado, el equipo dejó establecida la base visual y comunicativa del producto, permitiendo presentar la propuesta de valor de Senit a los segmentos objetivo. |
-| Sprint n – 1 Retrospective Summary | A partir del Sprint 1, el equipo identificó la necesidad de fortalecer la relación entre backlog, evidencias y entregables implementados, así como mantener una mejor organización de tareas dentro del sprint. También se reconoció la importancia de avanzar de forma incremental, pasando de la landing page a la Web Application mediante módulos funcionales concretos y alcanzables. |
+| Sprint 2 – 1 Review Summary | En el Sprint 1 se logró desarrollar la primera versión funcional de la landing page de Senit, incluyendo la presentación inicial del producto, navegación entre secciones, explicación de funcionalidades, planes de suscripción, contacto, redes sociales, cambio de idioma y adaptación responsive. Como resultado, el equipo dejó establecida la base visual y comunicativa del producto, permitiendo presentar la propuesta de valor de Senit a los segmentos objetivo. |
+| Sprint 2 – 1 Retrospective Summary | A partir del Sprint 1, el equipo identificó la necesidad de fortalecer la relación entre backlog, evidencias y entregables implementados, así como mantener una mejor organización de tareas dentro del sprint. También se reconoció la importancia de avanzar de forma incremental, pasando de la landing page a la Web Application mediante módulos funcionales concretos y alcanzables. |
 | **Sprint Goal & User Stories** |  |
 | Sprint 2 Goal | **Our focus is on** building the first operational flow of Senit’s Web Application for room management and guest stay handling.<br>**We believe it delivers** a more organized and efficient room operation process to reception and operational staff of the lodging business.<br>**This will be confirmed when** staff can visualize room status, register guest stays by hours, review stay details, perform check-out, update room states, filter rooms by status, and register walk-in guests within the application. |
 | Sprint 2 Velocity | 31 |
@@ -2595,8 +2595,8 @@ Durante este sprint se priorizó la implementación de servicios relacionados co
 | Location | Reunión virtual realizada a través de Discord |
 | Prepared By | Danitza Ivonne Heredia Hoyos |
 | Attendees (to planning meeting) | - Danitza Ivonne Heredia Hoyos<br>- Edgar Alexander Mauricio Montes Zamora<br>- Richard Enrique Lozano Leon<br>- Anghelo Faustino Hurtado<br>- Leonardo Rafael Garcia Villanueva |
-| Sprint n – 1 Review Summary | En el Sprint 2 se logró desarrollar la primera base funcional de la Web Application de Senit, incluyendo vistas principales para la administración hotelera, gestión de habitaciones, estadías, suscripción, configuración de cuenta y navegación entre módulos. Además, se realizó el despliegue de la aplicación mediante GitHub Pages, permitiendo validar su acceso desde un entorno web operativo. |
-| Sprint n – 1 Retrospective Summary | A partir del Sprint 2, el equipo identificó la necesidad de avanzar hacia la implementación del backend para reemplazar progresivamente los datos simulados y permitir que la Web Application consuma servicios reales. También se reconoció la importancia de documentar correctamente los endpoints mediante Swagger/OpenAPI, con el fin de facilitar las pruebas e integración entre frontend y backend. |
+| Sprint 3 – 2 Review Summary | En el Sprint 2 se logró desarrollar la primera base funcional de la Web Application de Senit, incluyendo vistas principales para la administración hotelera, gestión de habitaciones, estadías, suscripción, configuración de cuenta y navegación entre módulos. Además, se realizó el despliegue de la aplicación mediante GitHub Pages, permitiendo validar su acceso desde un entorno web operativo. |
+| Sprint 3 – 2 Retrospective Summary | A partir del Sprint 2, el equipo identificó la necesidad de avanzar hacia la implementación del backend para reemplazar progresivamente los datos simulados y permitir que la Web Application consuma servicios reales. También se reconoció la importancia de documentar correctamente los endpoints mediante Swagger/OpenAPI, con el fin de facilitar las pruebas e integración entre frontend y backend. |
 | **Sprint Goal & User Stories** |  |
 | Sprint 3 Goal | **Our focus is on** implementing the first functional version of Senit’s RESTful API for hotel, room, reservation, guest stay, authentication, user and subscription management.<br>**We believe it delivers** a more reliable and integrated backend support to hotel administrators and operational staff by allowing the Web Application to consume documented services instead of relying only on local or simulated data.<br>**This will be confirmed when** the API exposes testable endpoints for hotels, rooms, reservations, guest stays, users, authentication and subscriptions through Swagger/OpenAPI, and the main services can be validated through HTTP requests. |
 | Sprint 3 Velocity | 34 |
@@ -2804,66 +2804,74 @@ Asimismo, el equipo mantuvo comunicación para revisar avances, validar el funci
 </p>
 
 ### 5.2.4. Sprint 4
-En esta cuarta iteración, el equipo orientó sus esfuerzos a la consolidación final de los productos digitales de Senit, tomando como base los avances logrados en los sprints anteriores. A diferencia del Sprint 1, enfocado en la primera versión de la landing page, del Sprint 2, enfocado en la Web Application, y del Sprint 3, orientado al desarrollo inicial de los Web Services, este sprint se centró en la integración, corrección, validación y cierre de la solución completa.
 
-Durante este sprint se priorizó la mejora final de la Web Application, la integración con el RESTful API desplegado, la revisión de los endpoints documentados en Swagger/OpenAPI y la verificación del correcto funcionamiento de los principales flujos operativos del sistema. Asimismo, se realizaron ajustes derivados de las validaciones con usuarios, se revisaron las evidencias de despliegue de la Landing Page, Web Application y Web Services, y se actualizó la documentación del informe para reflejar la versión final del proyecto.
+En esta cuarta iteración, el equipo orientó sus esfuerzos a la consolidación final de los productos digitales de Senit, tomando como base los avances logrados en los sprints anteriores. A diferencia del Sprint 1, enfocado en la primera versión de la landing page, del Sprint 2, enfocado en la Web Application, y del Sprint 3, orientado al desarrollo inicial de los Web Services, este sprint se centró en la integración, corrección, validación, seguridad y cierre de la solución completa.
 
-De esta manera, el Sprint 4 permitió cerrar el ciclo de desarrollo de Senit con una versión final desplegada y documentada, evidenciando el trabajo colaborativo del equipo, la trazabilidad de los avances mediante GitHub y la preparación de los artefactos requeridos para la entrega final TB2.
+Durante este sprint se priorizó la mejora final de la Web Application, la integración estable con el RESTful API desplegado, la implementación de autenticación mediante JSON Web Token, la protección de endpoints privados, la revisión de los endpoints documentados en Swagger/OpenAPI y la verificación del correcto funcionamiento de los principales flujos operativos del sistema. Asimismo, se realizaron ajustes derivados de las evaluaciones heurísticas y entrevistas de validación, especialmente en la diferenciación visual del estado de las habitaciones, la prevención de errores en el formulario de reservas y la retroalimentación visual de las operaciones realizadas.
+
+Además, se reforzó el análisis técnico de las evidencias trabajadas en el Sprint 3. En dicho sprint, varias evidencias se apoyaban principalmente en capturas de pantalla, por lo que en esta iteración se buscó complementar la documentación con explicaciones técnicas sobre la funcionalidad implementada, el problema que resuelve y la forma en que puede verificarse su correcto funcionamiento. Esto permitió fortalecer el carácter técnico del informe y facilitar la evaluación del valor aportado por cada incremento desarrollado.
+
+De esta manera, el Sprint 4 permitió cerrar el ciclo de desarrollo de Senit con una versión final desplegada, protegida, documentada y validada, evidenciando el trabajo colaborativo del equipo, la trazabilidad de los avances mediante GitHub y la preparación de los artefactos requeridos para la entrega final TB2.
 
 #### 5.2.4.1. Sprint Planning 4.
 
 | Sprint # | Sprint 4 |
 |----------|----------|
 | **Sprint Planning Background** |  |
-| Date | 2026-06-28 |
+| Date | 2026-07-01 |
 | Time | 6:00 pm |
 | Location | Reunión virtual realizada a través de Discord |
 | Prepared By | Leonardo Rafael Garcia Villanueva |
-| Attendees (to planning meeting) | - Danitza Ivonne Heredia Hoyos<br>- Edgar Alexander Mauricio Montez Zamora<br>- Richard Enrique Lozano Leon<br>- Anghelo Faustino Hurtado<br>- Leonardo Rafael Garcia Villanueva |
-| Sprint n – 1 Review Summary | En el Sprint 3 se logró avanzar con el desarrollo e integración inicial de los Web Services de Senit, permitiendo que la solución cuente con una primera versión desplegada del RESTful API y con documentación técnica mediante Swagger/OpenAPI. Asimismo, se evidenció el funcionamiento de endpoints relacionados con los principales procesos del sistema, como gestión de habitaciones, reservas, usuarios, estadías, pagos y otros recursos necesarios para la operación del hospedaje. Como resultado, el equipo pudo conectar los avances del backend con la Web Application y fortalecer la base técnica de la solución. |
-| Sprint n – 1 Retrospective Summary | A partir del Sprint 3, el equipo identificó la necesidad de reforzar la integración entre la Web Application y el Web Service desplegado, revisar la coherencia entre las funcionalidades implementadas y la documentación del informe, y corregir observaciones relacionadas con despliegue, validación y evidencias de colaboración. También se reconoció la importancia de realizar una revisión final de los productos digitales para asegurar que la versión entregada en TB2 refleje correctamente el cierre del ciclo de vida del proyecto. |
+| Attendees (to planning meeting) | - Danitza Ivonne Heredia Hoyos<br>- Edgar Alexander Mauricio Montes Zamora<br>- Richard Enrique Lozano Leon<br>- Anghelo Faustino Hurtado<br>- Leonardo Rafael Garcia Villanueva |
+| Sprint 4 – 3 Review Summary | En el Sprint 3 se logró avanzar con el desarrollo e integración inicial de los Web Services de Senit, permitiendo que la solución cuente con una primera versión desplegada del RESTful API y con documentación técnica mediante Swagger/OpenAPI. Asimismo, se evidenció el funcionamiento de endpoints relacionados con los principales procesos del sistema, como gestión de habitaciones, reservas, usuarios, estadías, pagos y otros recursos necesarios para la operación del hospedaje. Como resultado, el equipo pudo conectar los avances del backend con la Web Application y fortalecer la base técnica de la solución. No obstante, se identificó que algunas evidencias del Sprint 3 requerían mayor análisis técnico, ya que predominaban capturas de pantalla sin una explicación detallada del problema resuelto, la funcionalidad implementada y la forma de validación. |
+| Sprint 4 – 3 Retrospective Summary | A partir del Sprint 3, el equipo identificó la necesidad de reforzar la integración entre la Web Application y el Web Service desplegado, revisar la coherencia entre las funcionalidades implementadas y la documentación del informe, corregir observaciones relacionadas con despliegue, validación y evidencias de colaboración, e implementar un mecanismo de autenticación más robusto para proteger los endpoints privados. También se reconoció la importancia de realizar una revisión final de los productos digitales para asegurar que la versión entregada en TB2 refleje correctamente el cierre del ciclo de vida del proyecto. |
 | **Sprint Goal & User Stories** |  |
-| Sprint 4 Goal | **Our focus is on** consolidating the final release of Senit by integrating the Web Application with the deployed RESTful API, completing the final operational features, improving the product based on validation feedback, and verifying the deployment of all digital products.<br>**We believe it delivers** a more complete, reliable and usable hotel management experience to reception staff, operational staff and hotel owners.<br>**This will be confirmed when** the Landing Page, Web Application and Web Services are deployed in their final versions, the main operational flows consume the API correctly, the implemented endpoints are documented in Swagger/OpenAPI, and the final report includes the required evidence for the TB2 release review. |
+| Sprint 4 Goal | **Our focus is on** consolidating the final release of Senit by integrating the Web Application with the deployed RESTful API, implementing JWT authentication, improving the product based on validation feedback, and verifying the deployment of all digital products.<br>**We believe it delivers** a more secure, complete, reliable and usable hotel management experience to reception staff, operational staff and hotel owners.<br>**This will be confirmed when** the Landing Page, Web Application and Web Services are deployed in their final versions, the main operational flows consume the API correctly, the protected endpoints require JWT authentication, Swagger/OpenAPI documents public and private endpoints properly, and the final report includes the required evidence for the TB2 release review. |
 | Sprint 4 Velocity |  |
 | Sum of Story Points |  |
 
-
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
-En esta sección se establecen los principales aspectos trabajados durante el Sprint 4, con el objetivo de identificar qué integrante asumió el rol de líder y qué integrantes participaron como colaboradores en cada parte del cierre final del proyecto. Para esta iteración, los aspectos priorizados estuvieron relacionados con la integración final de la Web Application con el RESTful API, la revisión y documentación de endpoints en Swagger/OpenAPI, la validación de los principales flujos del sistema, el despliegue final de los productos digitales y la actualización del informe para la entrega TB2.
+En esta sección se establecen los principales aspectos trabajados durante el Sprint 4, con el objetivo de identificar qué integrante asumió el rol de líder y qué integrantes participaron como colaboradores en cada parte del cierre final del proyecto. Para esta iteración, los aspectos priorizados estuvieron relacionados con la integración final de la Web Application con el RESTful API, la implementación de autenticación mediante JSON Web Token, la revisión y documentación de endpoints en Swagger/OpenAPI, la validación de los principales flujos del sistema, el despliegue final de los productos digitales y la actualización del informe para la entrega TB2.
 
 La distribución de líderes y colaboradores se realizó considerando las responsabilidades asumidas por cada integrante durante el cierre del proyecto, buscando mantener un trabajo colaborativo y equilibrado entre documentación, implementación, pruebas, despliegue y revisión final de evidencias.
 
-| Team Member (Last Name, First Name) | GitHub Username | Final Report Update Leader (L) / Collaborator (C) | Web Application Integration Leader (L) / Collaborator (C) | RESTful API Final Review Leader (L) / Collaborator (C) | Swagger Documentation Leader (L) / Collaborator (C) | Deployment Evidence Leader (L) / Collaborator (C) | Validation and Final Review Leader (L) / Collaborator (C) |
-|---|---|---|---|---|---|---|---|
-| Heredia Hoyos, Danitza Ivonne | UDnTzh | L | C | C | C | C | L |
-| Montes Zamora, Edgar Alexander Mauricio | Zenkit0 | C | L | C | C | C | C |
-| Lozano Leon, Richard Enrique | AikoLz | C | C | C | L | C | L |
-| Hurtado, Anghelo Faustino | limozz05 | C | C | C | C | L | C |
-| Garcia Villanueva, Leonardo Rafael | LeonardoGV00 | C | C | L | C | C | C |
+| Team Member (Last Name, First Name) | GitHub Username | Final Report Update Leader (L) / Collaborator (C) | Web Application Integration Leader (L) / Collaborator (C) | RESTful API Final Review Leader (L) / Collaborator (C) | JWT Authentication Leader (L) / Collaborator (C) | Swagger Documentation Leader (L) / Collaborator (C) | Deployment Evidence Leader (L) / Collaborator (C) | Validation and Final Review Leader (L) / Collaborator (C) |
+|---|---|---|---|---|---|---|---|---|
+| Heredia Hoyos, Danitza Ivonne | UDnTzh | L | C | C | C | C | C | L |
+| Montes Zamora, Edgar Alexander Mauricio | Zenkit0 | C | L | C | C | C | C | C |
+| Lozano Leon, Richard Enrique | AikoLz | C | C | C | C | L | C | L |
+| Hurtado, Anghelo Faustino | limozz05 | C | C | C | C | C | L | C |
+| Garcia Villanueva, Leonardo Rafael | LeonardoGV00 | C | C | L | L | C | C | C |
 
 #### 5.2.4.3. Sprint Backlog 4
 
+El Sprint Backlog 4 reúne las User Stories y Technical Stories priorizadas para el cierre final del proyecto Senit. En esta iteración, el equipo se enfocó en consolidar la versión final de la solución mediante la integración de la Web Application con el RESTful API desplegado, la implementación de autenticación con JWT, la protección de endpoints privados, la finalización de funcionalidades operativas relacionadas con reservas, check-in, estadías, consumos, pagos, comprobantes, usuarios, habitaciones, limpieza, reportes y suscripciones, así como la revisión de internacionalización, documentación técnica y evidencias finales del proyecto.
 
-El Sprint Backlog 4 reúne las User Stories y Technical Stories priorizadas para el cierre final del proyecto Senit. En esta iteración, el equipo se enfocó en consolidar la versión final de la solución mediante la integración de la Web Application con el RESTful API desplegado, la finalización de funcionalidades operativas relacionadas con consumos, pagos, comprobantes, usuarios, limpieza, reportes y suscripciones, así como la revisión de internacionalización, documentación técnica y evidencias finales del proyecto.
+Asimismo, se incluyeron mejoras derivadas de evaluaciones heurísticas y entrevistas de validación. Entre estas mejoras se consideró la diferenciación visual del estado de las habitaciones, la validación de formularios para prevenir datos incompletos o inconsistentes, la confirmación visual de operaciones exitosas, la corrección del gráfico de ingresos y la revisión de flujos de reserva y check-in para evitar cruces de horarios y operaciones ilógicas.
 
-Este sprint tuvo como objetivo asegurar que los principales flujos del sistema se encuentren correctamente implementados, documentados y desplegados para la entrega TB2. Asimismo, se consideraron tareas adicionales relacionadas con la actualización del informe final, la revisión de evidencias de despliegue y la validación de los productos digitales entregados.
+Este sprint tuvo como objetivo asegurar que los principales flujos del sistema se encuentren correctamente implementados, protegidos, documentados y desplegados para la entrega TB2. Asimismo, se consideraron tareas adicionales relacionadas con la actualización del informe final, la revisión de evidencias de despliegue y la validación de los productos digitales entregados.
 
 | Sprint # | Sprint 4 |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|
 | **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
-| TS-06 | Gestión de consumos por API REST | T4-01 | Implementación final de consumos | Implementar y revisar los endpoints relacionados con el registro, consulta, edición y eliminación de consumos adicionales asociados a una estadía activa, asegurando que los montos se actualicen correctamente dentro del flujo operativo. | 5 | Montes Zamora, Edgar Alexander Mauricio | Done |
-| TS-07 | Gestión de pagos por API REST | T4-02 | Integración de pagos operativos | Implementar y validar los endpoints para registrar y consultar pagos asociados a reservas, estadías y suscripciones, permitiendo mantener actualizados los montos pagados dentro del sistema. | 5 | Montes Zamora, Edgar Alexander Mauricio | Done |
-| TS-08 | Emisión de comprobantes por API REST | T4-03 | Generación y consulta de comprobantes | Implementar y revisar la emisión de comprobantes vinculados a pagos registrados, considerando los datos del huésped, habitación, estadía, consumos y total final de la operación. | 5 | Lozano Leon, Richard Enrique | Done |
-| TS-10 | Gestión de usuarios por API REST | T4-04 | Administración final de usuarios | Implementar y validar la gestión de usuarios del sistema, permitiendo registrar, consultar, actualizar y eliminar usuarios asociados al hospedaje, según los roles definidos para la plataforma. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
-| TS-11 | Gestión de tareas de limpieza por API REST | T4-05 | Control de tareas de limpieza | Implementar y revisar los endpoints relacionados con tareas de limpieza generadas después del check-out, permitiendo consultar tareas pendientes y actualizar su estado para liberar habitaciones. | 4 | Faustino Hurtado, Anghelo | Done |
-| TS-13 | Reportes de ocupación e ingresos por API REST | T4-06 | Reportes operativos y financieros | Implementar y validar la obtención de información necesaria para reportes de ocupación e ingresos, permitiendo al administrador consultar indicadores relacionados con habitaciones, estadías, reservas y pagos. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
-| TS-14 | Gestión de suscripción por API REST | T4-07 | Control de planes y pagos de suscripción | Implementar y revisar la consulta, actualización e historial de suscripciones del hospedaje, permitiendo controlar el plan activo, el estado de la suscripción y los pagos realizados. | 4 | Faustino Hurtado, Anghelo | Done |
-| TS-01 | Internacionalización de la plataforma | T4-08 | Revisión final de internacionalización | Revisar y ajustar los textos principales de la Web Application para mantener soporte de idioma en español e inglés, asegurando consistencia en las vistas finales del sistema. | 4 | Heredia Hoyos, Danitza Ivonne | Done |
-| - | Tarea adicional de cierre | T4-09 | Actualización del informe final TB2 | Actualizar el README del proyecto con la documentación del Sprint 4, evidencias finales, capturas, enlaces de despliegue, validaciones, conclusiones y anexos requeridos para la entrega final. | 5 | Heredia Hoyos, Danitza Ivonne | Done |
-| - | Tarea adicional de cierre | T4-10 | Revisión de Swagger/OpenAPI | Revisar la documentación de endpoints desplegados en Swagger/OpenAPI, verificando que las rutas, verbos HTTP, parámetros y respuestas principales estén correctamente evidenciados en el informe. | 4 | Lozano Leon, Richard Enrique | Done |
-| - | Tarea adicional de cierre | T4-11 | Verificación del despliegue final | Verificar el despliegue final de la Landing Page, Web Application y Web Services, registrando capturas de evidencia y comprobando el acceso a las URLs públicas del proyecto. | 4 | Faustino Hurtado, Anghelo | Done |
+| TS-09 | Autenticación por API REST | T4-01 | Implementación de JWT Authentication | Implementar autenticación mediante JSON Web Token, generando un token al iniciar sesión y protegiendo los endpoints privados del RESTful API. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-09 | Autenticación por API REST | T4-02 | Protección de endpoints y Swagger con Bearer | Configurar la autorización Bearer en Swagger/OpenAPI, dejando públicos únicamente los endpoints de inicio de sesión, registro y recuperación de contraseña, y mostrando candados en los endpoints protegidos. | 5 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-04 | Gestión de reservas por API REST | T4-03 | Validaciones finales de reservas | Revisar y corregir la creación de reservas para impedir fechas pasadas, rangos inválidos, datos incompletos, habitaciones no disponibles y cruces con reservas o estadías existentes. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-05 | Gestión de estadías por API REST | T4-04 | Validación de check-in y colisión con reservas | Validar que el check-in permita usar habitaciones disponibles antes de una reserva futura, pero bloquee la operación si la duración de la estadía se cruza con una reserva confirmada. | 6 | Montes Zamora, Edgar Alexander Mauricio | Done |
+| TS-06 | Gestión de consumos por API REST | T4-05 | Implementación final de consumos | Implementar y revisar los endpoints relacionados con el registro, consulta, edición y eliminación de consumos adicionales asociados a una estadía activa, asegurando que los montos se actualicen correctamente dentro del flujo operativo. | 5 | Montes Zamora, Edgar Alexander Mauricio | Done |
+| TS-07 | Gestión de pagos por API REST | T4-06 | Integración de pagos operativos | Implementar y validar los endpoints para registrar y consultar pagos asociados a reservas, estadías y suscripciones, manteniendo estados válidos como pending, paid y cancelled. | 5 | Montes Zamora, Edgar Alexander Mauricio | Done |
+| TS-08 | Emisión de comprobantes por API REST | T4-07 | Generación y consulta de comprobantes | Implementar y revisar la emisión de comprobantes vinculados a pagos registrados, considerando los datos del huésped, habitación, estadía, consumos y total final de la operación. | 5 | Lozano Leon, Richard Enrique | Done |
+| TS-10 | Gestión de usuarios por API REST | T4-08 | Administración final de usuarios y roles | Implementar y validar la gestión de usuarios del sistema, permitiendo registrar, consultar, actualizar y eliminar usuarios asociados al hospedaje, según los roles ADMIN y FRONT_DESK. | 5 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-11 | Gestión de tareas de limpieza por API REST | T4-09 | Control de tareas de limpieza | Implementar y revisar los endpoints relacionados con tareas de limpieza generadas después del check-out, permitiendo consultar tareas pendientes y actualizar su estado para liberar habitaciones. | 4 | Hurtado, Anghelo Faustino | Done |
+| TS-13 | Reportes de ocupación e ingresos por API REST | T4-10 | Reportes operativos y financieros | Implementar y validar la obtención de información necesaria para reportes de ocupación e ingresos, excluyendo pagos de suscripción y considerando únicamente pagos operativos válidos. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-14 | Gestión de suscripción por API REST | T4-11 | Control de planes y pagos de suscripción | Implementar y revisar la consulta, actualización e historial de suscripciones del hospedaje, permitiendo controlar el plan activo, el estado de la suscripción y los pagos realizados. | 4 | Hurtado, Anghelo Faustino | Done |
+| TS-01 | Internacionalización de la plataforma | T4-12 | Revisión final de internacionalización | Revisar y ajustar los textos principales de la Web Application y los mensajes del backend para mantener soporte de idioma en español e inglés. | 5 | Heredia Hoyos, Danitza Ivonne | Done |
+| US-09 | Visualización de habitaciones por estado | T4-13 | Mejora visual de estados de habitaciones | Corregir la diferenciación visual de habitaciones disponibles, ocupadas, reservadas, en limpieza y en mantenimiento mediante colores, etiquetas, iconos y una leyenda de estados. | 4 | Montes Zamora, Edgar Alexander Mauricio | Done |
+| US-18 | Registro de reservas | T4-14 | Prevención de errores en formulario de reservas | Ajustar el formulario de reservas para validar fechas, teléfono, cantidad de huéspedes, habitación disponible y mensajes de error antes de enviar datos al backend. | 5 | Garcia Villanueva, Leonardo Rafael | Done |
+| - | Tarea adicional de cierre | T4-15 | Actualización del informe final TB2 | Actualizar el informe del proyecto con la documentación del Sprint 4, evidencias finales, capturas, enlaces de despliegue, validaciones, conclusiones y anexos requeridos para la entrega final. | 5 | Heredia Hoyos, Danitza Ivonne | Done |
+| - | Tarea adicional de cierre | T4-16 | Verificación del despliegue final | Verificar el despliegue final de la Landing Page, Web Application y Web Services, registrando capturas de evidencia y comprobando el acceso a las URLs públicas del proyecto. | 4 | Hurtado, Anghelo Faustino | Done |
 
 **Board del Sprint 4 en Trello:**  
 Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las tareas correspondientes al Sprint 4.
@@ -2879,33 +2887,211 @@ https://trello.com/invite/b/6a4af52132ce7e4a57bd9526/ATTI41af792e135a596d69a8185
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
+Durante el Sprint 4, el equipo se enfocó en consolidar la versión final de Senit mediante ajustes tanto en el backend como en la Web Application. En el backend se implementó autenticación con JSON Web Token, se protegieron los endpoints privados, se revisó la documentación Swagger/OpenAPI, se corrigieron validaciones de reservas, pagos y fechas, y se ajustó la compatibilidad con la cultura decimal utilizada por el navegador. Estas acciones permitieron reforzar la seguridad y la consistencia de los Web Services antes del cierre del proyecto.
+
+En el frontend se realizaron mejoras orientadas a la integración final con el API desplegado, la visualización clara del estado de habitaciones, la corrección de formularios de reserva y check-in, la gestión de errores de validación provenientes del backend y la prevención de acciones repetidas mediante bloqueo de botones durante operaciones en curso. Asimismo, se corrigieron problemas visuales en componentes de PrimeVue, el selector de idioma, las tarjetas de habitaciones y el gráfico de ingresos por fecha.
+
+También se incorporaron mejoras derivadas de la evaluación heurística. En particular, se abordó el problema de que el estado de las habitaciones no se diferenciaba visualmente de forma clara, se corrigió la posibilidad de ingresar datos incompletos o inconsistentes en reservas y se reforzó la confirmación visual de acciones como registro, actualización, pago y finalización de estadías. Estas mejoras se alinean con los hallazgos obtenidos en las entrevistas de validación, donde se confirmó la necesidad de contar con flujos operativos más claros, seguros y fáciles de verificar por el personal del hospedaje.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on |
+|---|---|---|---|---|---|
+| SENIT-Aplicaciones-Web/senit-backend | main | 6a94f19 | feat: added authorization bearer with jwt | Se implementó autenticación mediante JSON Web Token para proteger los endpoints privados del RESTful API. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 882b249 | fix: password min length | Se ajustó la validación de longitud mínima de contraseña para mantener coherencia entre el frontend, backend y flujo de autenticación. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | c752729 | fix: csproj | Se corrigieron referencias del proyecto backend, incluyendo paquetes necesarios para mantener compatibilidad y seguridad en el despliegue. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 263492a | fix: reservation validations | Se reforzaron las validaciones de reservas para impedir fechas en pasado, datos incompletos y rangos de reserva inválidos. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 0108d92 | fix: decimal culture validation | Se corrigió la validación de montos decimales para evitar errores al procesar pagos cuando el navegador utiliza cultura en español. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 7b64b3c | fix: reservation validation | Se revisó la lógica de reserva para validar disponibilidad de habitaciones según rangos de fecha y hora. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-backend | main | 76d25ed | fix: reservation blocking | Se corrigió el bloqueo de habitaciones para que solo se impidan reservas o estadías cuando exista una colisión real con reservas confirmadas o estadías activas. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-front-end | main | c580d87 | feat: fix UI of dashboard and conection with api backend | Se integró la Web Application con el API desplegado y se ajustaron elementos visuales del dashboard administrativo. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-front-end | main | 8e46256 | fix: validation messages | Se corrigió la presentación de mensajes de validación para mostrar errores específicos provenientes del backend en lugar de mensajes genéricos de conexión. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-front-end | main | dd9cb5a | fix: language switcher null | Se corrigió el selector de idioma para evitar que el valor del locale quede nulo al presionar dos veces el mismo idioma. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-front-end | main | eb1b3a5 | fix: front-desk-room card | Se ajustó el tamaño de las tarjetas de habitaciones para evitar que los botones de acción se corten visualmente. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-front-end | main | 5989f47 | fix: room card | Se reforzó la presentación visual de tarjetas de habitaciones, manteniendo consistencia en estados, acciones y leyenda de estados. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-front-end | main | f03c880 | fix: reservations validation | Se corrigieron validaciones iniciales del formulario de reservas para evitar datos incompletos o inconsistentes. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-front-end | main | 64f4e7e | fix: reservations validation | Se reforzó la validación de rangos de fecha y hora en el flujo de reservas. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-front-end | main | 5e62584 | fix: validation between reservations and check-in | Se validó la interacción entre reservas futuras y check-in, evitando colisiones de horario en una misma habitación. | 06/07/2026 |
+| SENIT-Aplicaciones-Web/senit-front-end | main | 77e4068 | fix: check in colision with reservations | Se ajustó el flujo de check-in para permitir habitaciones libres antes de una reserva futura y bloquear únicamente cuando la duración de la estadía se cruza con dicha reserva. | 06/07/2026 |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 4 se ejecutó la versión final integrada de Senit, validando los principales flujos del sistema desde la Web Application desplegada y conectada al RESTful API publicado en Render. La ejecución permitió comprobar que los usuarios pueden iniciar sesión, acceder a módulos según su rol, registrar habitaciones, gestionar reservas, realizar check-in, registrar consumos, confirmar pagos, emitir comprobantes, visualizar reportes y actualizar información del hotel.
 
+El flujo de ejecución también permitió comprobar que la autenticación JWT se encuentra integrada con el frontend. Al iniciar sesión, el backend retorna un token de autenticación y la Web Application lo envía en las solicitudes posteriores mediante el header `Authorization: Bearer`. De esta manera, las operaciones protegidas como gestión de habitaciones, reservas, usuarios, estadías y pagos solo pueden ejecutarse desde una sesión autenticada.
+
+Asimismo, se validaron los cambios derivados de las evaluaciones heurísticas. En la vista de habitaciones se comprobaron los indicadores visuales por estado, incluyendo habitaciones disponibles, ocupadas, próximas a vencer, vencidas, en limpieza y en mantenimiento. En el formulario de reservas se probaron datos incorrectos como fechas pasadas, fechas de salida anteriores a la fecha de ingreso, teléfonos con longitud inválida, cantidad de huéspedes mayor a la capacidad de la habitación y habitaciones con colisión de horario. En estos casos, la aplicación mostró mensajes de validación claros y evitó el registro de datos inconsistentes.
+
+<p align="center">
+  <img src="./assets/sprint-4/execution/login-jwt-response.png" width="900"/>
+  <br>
+  <i>Figura del inicio de sesión exitoso y respuesta del backend con token JWT.</i>
+</p>
+
+<p align="center">
+  <img src="./assets/sprint-4/execution/authorization-header.png" width="900"/>
+  <br>
+  <i>Figura de una solicitud protegida enviada desde el frontend con el header Authorization Bearer.</i>
+</p>
+
+<p align="center">
+  <img src="./assets/sprint-4/execution/admin-dashboard.png" width="900"/>
+  <br>
+  <i>Figura del dashboard administrativo integrado con el RESTful API desplegado.</i>
+</p>
+
+<p align="center">
+  <img src="./assets/sprint-4/execution/room-status-legend.png" width="900"/>
+  <br>
+  <i>Figura de la vista de habitaciones con estados diferenciados visualmente mediante colores, etiquetas e iconos.</i>
+</p>
+
+<p align="center">
+  <img src="./assets/sprint-4/execution/reservation-validation.png" width="900"/>
+  <br>
+  <i>Figura de validaciones del formulario de reservas ante datos incompletos, fechas inválidas o habitaciones no disponibles.</i>
+</p>
+
+<p align="center">
+  <img src="./assets/sprint-4/execution/checkin-reservation-collision.png" width="900"/>
+  <br>
+  <i>Figura de la validación de colisión entre check-in por horas y una reserva futura confirmada.</i>
+</p>
 
 **Enlace del video de ejecución:**  
 
-
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+Durante el Sprint 4 se actualizó y verificó la documentación de servicios del backend de Senit mediante Swagger/OpenAPI. A diferencia del Sprint 3, donde la documentación permitió revisar la primera versión funcional de los endpoints, en esta iteración se validó que la documentación refleje la versión final de los Web Services, incluyendo autenticación mediante JWT, endpoints públicos y protegidos, ejemplos de schemas, respuestas de error y códigos HTTP documentados.
 
+La documentación de Swagger permite observar que los endpoints públicos se mantienen disponibles sin autenticación, mientras que los endpoints operativos del sistema se encuentran protegidos mediante Bearer Token. De esta forma, el equipo pudo comprobar que el acceso a recursos sensibles como habitaciones, reservas, usuarios, estadías, pagos, comprobantes, suscripciones y tareas de limpieza requiere una sesión autenticada.
+
+**URL de documentación Swagger:**  
+https://senit-backend.onrender.com/swagger/index.html
+
+**URL base de la API:**  
+https://senit-backend.onrender.com/api/v1
+
+**Repositorio de Web Services:**  
+https://github.com/SENIT-Aplicaciones-Web/senit-backend
+
+| Endpoint Group | HTTP Verb | Syntax | Authentication | Parameters | Example Response | Response Explanation |
+|---|---|---|---|---|---|---|
+| Authentication | POST | `/api/v1/authentication/sign-in` | Public | Body: `email`, `password` | `200 OK` | Retorna la información del usuario autenticado junto con el token JWT. |
+| Authentication | POST | `/api/v1/authentication/sign-up` | Public | Body: `username`, `email`, `password` | `201 Created` | Registra una nueva cuenta de usuario administrador dentro del sistema. |
+| Authentication | POST | `/api/v1/authentication/reset-password` | Public | Body: `email`, `newPassword` | `200 OK` | Permite actualizar la contraseña de un usuario registrado. |
+| Hotels | GET | `/api/v1/hotels` | Bearer JWT | None | `200 OK` | Retorna la información de hoteles disponible para el usuario autenticado. |
+| Hotels | PUT | `/api/v1/hotels/{hotelId}` | Bearer JWT | Path: `hotelId` / Body: hotel data | `200 OK` | Actualiza la información principal del hotel seleccionado. |
+| Rooms | GET | `/api/v1/rooms` | Bearer JWT | None | `200 OK` | Retorna las habitaciones registradas con sus datos principales y estado actual. |
+| Rooms | POST | `/api/v1/rooms` | Bearer JWT | Body: room data | `201 Created` | Registra una nueva habitación asociada al hotel autenticado. |
+| Rooms | PUT | `/api/v1/rooms/{roomId}` | Bearer JWT | Path: `roomId` / Body: room data | `200 OK` | Actualiza la información o el estado operativo de una habitación. |
+| Rooms | DELETE | `/api/v1/rooms/{roomId}` | Bearer JWT | Path: `roomId` | `200 OK` | Elimina una habitación cuando no existen estadías activas ni reservas confirmadas asociadas. |
+| Reservations | GET | `/api/v1/reservations` | Bearer JWT | None | `200 OK` | Retorna la lista de reservas registradas. |
+| Reservations | POST | `/api/v1/reservations` | Bearer JWT | Body: reservation data | `201 Created` | Registra una reserva validando rangos de fecha, habitación disponible y colisiones con reservas o estadías. |
+| Reservations | PUT | `/api/v1/reservations/{reservationId}` | Bearer JWT | Path: `reservationId` / Body: reservation data | `200 OK` | Actualiza la información o estado de una reserva existente. |
+| GuestStays | GET | `/api/v1/guest-stays` | Bearer JWT | None | `200 OK` | Retorna las estadías registradas en la plataforma. |
+| GuestStays | POST | `/api/v1/guest-stays` | Bearer JWT | Body: guest stay data | `201 Created` | Registra una nueva estadía o check-in validando disponibilidad y colisión con reservas futuras. |
+| Payments | POST | `/api/v1/payments` | Bearer JWT | Body: payment data | `201 Created` | Registra un pago asociado a una reserva, estadía o comprobante con estados válidos. |
+| Invoices | POST | `/api/v1/invoices` | Bearer JWT | Body: invoice data | `201 Created` | Emite un comprobante luego de confirmar el pago correspondiente. |
+| Users | GET | `/api/v1/users` | Bearer JWT | Optional query parameters | `200 OK` | Retorna los usuarios registrados en el sistema. |
+| Users | POST | `/api/v1/users` | Bearer JWT | Body: user data | `201 Created` | Registra un nuevo usuario del personal o administrador. |
+| Subscriptions | GET | `/api/v1/subscriptions` | Bearer JWT | None | `200 OK` | Retorna las suscripciones registradas y el plan activo del hotel. |
+| SubscriptionPayments | GET | `/api/v1/subscription-payments` | Bearer JWT | None | `200 OK` | Retorna el historial de pagos de suscripción registrados. |
+
+<p align="center">
+  <img src="./assets/sprint-4/services/swagger-overview-jwt.png" width="900"/>
+  <br>
+  <i>Figura de la vista general de Swagger/OpenAPI con endpoints públicos y protegidos.</i>
+</p>
+
+<p align="center">
+  <img src="./assets/sprint-4/services/swagger-bearer-authorize.png" width="900"/>
+  <br>
+  <i>Figura del modal de autorización Bearer utilizado para probar endpoints protegidos mediante JWT.</i>
+</p>
+
+<p align="center">
+  <img src="./assets/sprint-4/services/swagger-protected-endpoint.png" width="900"/>
+  <br>
+  <i>Figura de un endpoint protegido documentado con candado de autenticación.</i>
+</p>
+
+<p align="center">
+  <img src="./assets/sprint-4/services/swagger-validation-error.png" width="900"/>
+  <br>
+  <i>Figura de una respuesta de validación documentada en Swagger ante valores inválidos.</i>
+</p>
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 4 se verificó el despliegue final de todos los artefactos de Senit. La Landing Page y la Web Application se mantuvieron desplegadas mediante GitHub Pages, mientras que los Web Services fueron desplegados en Render utilizando Docker. Además, la base de datos relacional MySQL se mantuvo alojada en Aiven, permitiendo almacenar y consultar información operativa como hoteles, usuarios, habitaciones, reservas, estadías, pagos, comprobantes y suscripciones.
 
+En esta iteración, el despliegue del backend mantuvo la arquitectura definida en el Sprint 3, pero fue actualizado para soportar autenticación JWT, variables de entorno de producción y conexión segura a la base de datos. Asimismo, el frontend desplegado fue actualizado para consumir el API final mediante la URL pública de Render y para enviar el token JWT en las solicitudes protegidas.
 
+**URL de despliegue del backend:**  
+https://senit-backend.onrender.com
+
+**URL de documentación Swagger:**  
+https://senit-backend.onrender.com/swagger/index.html
+
+**URL base de la API:**  
+https://senit-backend.onrender.com/api/v1
+
+**Repositorio de Web Services:**  
+https://github.com/SENIT-Aplicaciones-Web/senit-backend
+
+**Repositorio de Web Application:**  
+https://github.com/SENIT-Aplicaciones-Web/senit-front-end
+
+<p align="center">
+  <img src="./assets/sprint-4/deployment/render-environment-variables.png" width="900"/>
+  <br>
+  <i>Figura de la configuración de variables de entorno del backend en Render. Se evidencia el entorno de producción, la URL de escucha del servicio, la cadena de conexión a la base de datos y la clave secreta para JWT, cuyos valores sensibles deben ocultarse en el informe.</i>
+</p>
+
+La evidencia anterior permite comprobar que el backend fue configurado para ejecutarse en ambiente de producción mediante `ASPNETCORE_ENVIRONMENT`, que el servicio se encuentra preparado para escuchar en el puerto asignado por Render y que las credenciales de conexión y el secreto de firma JWT se gestionan como variables de entorno, evitando colocarlas directamente dentro del código fuente.
+
+<p align="center">
+  <img src="./assets/sprint-4/deployment/aiven-mysql-overview.png" width="900"/>
+  <br>
+  <i>Figura del servicio MySQL de Senit desplegado en Aiven.</i>
+</p>
+
+La captura de Aiven evidencia que la base de datos relacional se encuentra activa y disponible para el backend desplegado. Este servicio almacena la información principal del sistema, incluyendo hoteles, habitaciones, usuarios, reservas, estadías, pagos y suscripciones. Su uso permite mantener los datos persistentes fuera del contenedor de Render y facilita la ejecución de pruebas con información realista de simulación.
+
+<p align="center">
+  <img src="./assets/sprint-4/deployment/render-backend-live-logs.png" width="900"/>
+  <br>
+  <i>Figura de los logs del backend en Render mostrando que la aplicación inició correctamente y quedó disponible en la URL pública.</i>
+</p>
+
+La evidencia de logs en Render permite verificar que el contenedor fue construido y ejecutado correctamente. En los registros se observa que la aplicación inició en ambiente Production, que el servidor Kestrel quedó escuchando en el puerto configurado por Render y que el servicio fue marcado como disponible. Esta evidencia confirma que el backend final se encuentra desplegado y operativo.
+
+<p align="center">
+  <img src="./assets/sprint-4/deployment/github-pages-frontend.png" width="900"/>
+  <br>
+  <i>Figura del despliegue final de la Web Application mediante GitHub Pages.</i>
+</p>
+
+La evidencia del frontend desplegado permite comprobar que la Web Application se encuentra disponible en un entorno web público y que consume correctamente los servicios del backend. Este despliegue corresponde a la versión final utilizada para validar los flujos de administrador y recepcionista.
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 4, el equipo mantuvo una dinámica de trabajo enfocada en el cierre final del proyecto, la corrección de observaciones y la preparación de la entrega TB2. En esta iteración se trabajó tanto sobre el repositorio frontend como sobre el repositorio backend, registrando commits relacionados con autenticación JWT, validaciones de reservas, colisiones entre check-in y reservas futuras, corrección de mensajes de validación, ajuste de tarjetas de habitaciones, selector de idioma, cultura decimal, despliegue y documentación final.
 
+GitHub permitió evidenciar la evolución de ambos repositorios durante el sprint. En el backend, los commits muestran la incorporación de autenticación Bearer con JWT, el refuerzo de reglas de negocio y la corrección de validaciones. En el frontend, los commits muestran la integración con el API, la corrección de errores visuales y funcionales, y la mejora de la experiencia de usuario con base en las validaciones realizadas.
+
+Asimismo, el equipo realizó revisiones sucesivas de los flujos principales, incluyendo creación de habitaciones, registro de reservas, check-in, estadías activas, pagos, comprobantes, reportes e interacción por roles. Esta revisión permitió detectar y corregir inconsistencias antes de la entrega final, como mensajes genéricos de error, botones que podían ejecutarse más de una vez, habitaciones que no debían bloquearse por reservas futuras fuera de rango y gráficos de ingresos que no reflejaban pagos válidos.
 
 <p align="center">
-  <img src=" " width="900"/>
+  <img src="./assets/sprint-4/collaboration/frontend-commits-s4.png" width="900"/>
   <br>
-  <i>Commits registrados en el repositorio senit-backend durante el Sprint 4.</i>
+  <i>Commits registrados en el repositorio frontend durante el Sprint 4.</i>
 </p>
 
+<p align="center">
+  <img src="./assets/sprint-4/collaboration/backend-commits-s4.png" width="900"/>
+  <br>
+  <i>Commits registrados en el repositorio backend durante el Sprint 4.</i>
+</p>
 
 ## 5.3 Validation Interviews
 
