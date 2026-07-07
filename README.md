@@ -4,13 +4,15 @@
   <img src="./assets/UPC_logo1.png" width="auto" height="180"/>
   <p>
    <br>
+    <strong>Facultad:</strong> Ingeniería
+    <br><br>
     <strong>Carrera:</strong> Ingeniería de Software
     <br><br>
-    <strong>Ciclo:</strong> 5to Ciclo
+    <strong>Periodo:</strong> 2026-10
     <br><br>
     <strong>Nombre del curso:</strong> Aplicaciones Web
     <br><br>
-    <strong>Sección/NRC:</strong> 10203
+    <strong>NRC:</strong> 10203
     <br><br>
     <strong>Nombre del profesor:</strong> Alex Humberto Sánchez Ponce
 </p>
@@ -34,7 +36,7 @@
     Leonardo Rafael Garcia Villanueva - U20231H059
     <br><br>
   </p>
-    <h3>Junio, 2026</h3>
+    <h3>Julio, 2026</h3>
 </div>
 
 <br>
