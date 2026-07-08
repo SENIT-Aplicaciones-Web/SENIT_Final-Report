@@ -1,7 +1,9 @@
 <div align="center">
+  
+  <img src="./assets/UPC_logo1.png" width="auto" height="180"/>
+  <br>
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
   <br>
-  <img src="./assets/UPC_logo1.png" width="auto" height="180"/>
   <p>
    <br>
     <strong>Facultad:</strong> Ingeniería
@@ -10,11 +12,13 @@
     <br><br>
     <strong>Periodo:</strong> 2026-10
     <br><br>
-    <strong>Nombre del curso:</strong> Aplicaciones Web
+    <strong>1ASI0730</strong> 
+    <br><br>
+    <strong>Aplicaciones Web</strong> 
     <br><br>
     <strong>NRC:</strong> 10203
     <br><br>
-    <strong>Nombre del profesor:</strong> Alex Humberto Sánchez Ponce
+    <strong>Profesor:</strong> Alex Humberto Sánchez Ponce
 </p>
   <h3>"Informe de Trabajo Final"</h3>
   <p>
