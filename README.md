@@ -3410,12 +3410,17 @@ Utilizar etiquetas más descriptivas y acompañar los iconos con texto visible. 
 
 ## 5.4 Video About-The-Product
 
+En esta sección, se presenta y describe el contenido del video About the Product, dirigido a los visitantes de nuestra Landing Page que desean conocer el modelo de negocio y las características principales de Senit. En el video se introduce de manera clara la propuesta del proyecto y resume sus elementos más relevantes, permitiendo al público comprender el propósito general de la solución y el valor que ofrece.
+
+Asimismo, se muestra una demostración del producto en el navegador, en la que se interactúa con las distintas interfaces disponibles y se evidencian sus principales funcionalidades. Durante la presentación, se observan aspectos como la información general de la plataforma, los roles de usuario, el flujo operativo y los módulos orientados a la gestión de procesos, lo que permite apreciar de forma práctica cómo funciona la solución y cuáles son sus beneficios dentro del entorno de uso.
+
 <img src="./assets/webappui/aboutproduct/screenshot.png"/>
 <br>
 Link: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgCoCdrE-jqMT6Te-i8ls3m3AVmuyjztfLloZKDWECkJlnM?e=UH5yDl
 <br>
 Link de YouTube: https://www.youtube.com/watch?v=bC2gh4G2h78
 
+Timing: 00:04:20
 ---
 # Conclusiones
 **Conclusiones**
