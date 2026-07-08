@@ -3250,6 +3250,30 @@ El entrevistado luego de visualizar e interactuar con la landing page, señaló 
 </div>
 <br>
 
+**Entrevista 3**
+<p align="center">
+  <img src="./assets/interviews/entrevista_johan.png"/>
+  <br/><i>Evidencia de entrevista: Johan</i>
+</p>
+
+- **Nombre:** Johan Yonel Leon Morales
+- **Edad:** 23 años
+- **Cargo:** Recepcionista principal
+- **Tipo de establecimiento:** Hotel
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241d990_upc_edu_pe/IQBUib7LL6naRIdV0gd87CX4ASSGI1CzwNyF0K5PelfoM6M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kO68gT)
+- **Duracion:** 14:10
+- **Timing:** 00:00-14:10
+
+**Resumen de la entrevista:**
+<div align="justify">
+Tras interactuar con la Landing Page y probar el flujo de la Web App, Johan destacó que SENIT presenta una propuesta clara, intuitiva y útil para la gestión diaria de un establecimiento hotelero. Señaló que la información de la landing page permite comprender fácilmente el propósito del producto, especialmente porque se enfoca tanto en el rol del recepcionista como en el del dueño o administrador. Además, consideró que los planes de suscripción son accesibles y que el uso de videos o tutoriales ayudaría a que nuevos usuarios comprendan mejor el funcionamiento de la plataforma.
+
+Durante la prueba de la Web App, resaltó que el registro de reservas, el check-in y el check-out son procesos más rápidos y ordenados en comparación con los métodos manuales que utiliza actualmente, como libros físicos o registros en Excel. También valoró positivamente la visualización de habitaciones mediante colores, ya que permite identificar con mayor facilidad cuáles están disponibles, ocupadas, vencidas o en otros estados operativos. Desde su perspectiva, esta organización visual facilitaría la toma de decisiones y reduciría errores durante la atención al cliente.
+
+Como sugerencia de mejora, recomendó incorporar más métodos de pago digitales, como pagos por QR o billeteras digitales, debido a que actualmente muchos clientes ya no utilizan efectivo con frecuencia. En general, consideró que SENIT podría mejorar la eficiencia del trabajo en recepción, agilizar la atención cuando hay alto flujo de personas y centralizar la información en una plataforma más accesible y menos engorrosa.
+</div>
+<br>
+
 #### Segmento 2: Dueños y propietarios de hoteles y moteles
 
 **Entrevista 1**
