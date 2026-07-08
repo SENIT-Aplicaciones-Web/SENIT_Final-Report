@@ -195,6 +195,7 @@ Entrega TB2: Para este avance se coordinó el avance final y correcciones en el 
         <strong>AV 1:</strong> Participé en el desarrollo de componentes clave como el análisis y estructuración de información del sistema, manteniendo comunicación constante con el equipo y adaptando mis avances según los requerimientos del proyecto para asegurar coherencia con el trabajo grupal.<br>
         <strong>TB:</strong> Durante esta etapa, reforcé mi capacidad de escucha activa y adaptabilidad, participando en las reuniones de coordinación para alinear las correcciones necesarias. Fomenté un entorno de apoyo mutuo al intercambiar retroalimentación constructiva con mis compañeros, lo que nos permitió unificar criterios técnicos y asegurar que las mejoras se integraran de manera fluida y coherente en el trabajo final.<br>
         <strong>AV2:</strong> Promoví el liderazgo conjunto al proponer proactivamente la validación del proyecto mediante el diseño y ejecución de entrevistas de usuario con perfiles clave del sector. Además, compartí estos hallazgos con el equipo de desarrollo del backend para asegurar que la adición de nuevos endpoints en nuestra API respondiera directamente al feedback recogido, demostrando así una influencia constructiva en la toma de decisiones grupales.
+        <strong>AV2:</strong> Participé en la validación de la seguridad y robustez del sistema en esta etapa final, asegurando la correcta integración de la autenticación JWT. Asimismo, mantuve una comunicación constante con mis compañeros para coordinar las pruebas de los endpoints y las validaciones del frontend, contribuyendo de manera conjunta al cumplimiento de los objetivos del proyecto para esta entrega.
         <br>
         <br>
         <strong>- Garcia Villanueva, Leonardo Rafael:</strong><br>
@@ -239,6 +240,7 @@ Entrega TB2: Para este avance se coordinó el avance final y correcciones en el 
         <strong>AV 1:</strong> Planifiqué mis entregables dividiéndolos en hitos específicos, lo que me permitió cumplir con los plazos y adaptar mi trabajo según el feedback del equipo.<br>
         <strong>TB:</strong> Reestructuré mi organización personal para responder de manera ágil a las observaciones recibidas, priorizando las tareas críticas para evitar cuellos de botella en la integración grupal. Al mantener una planificación basada en metas a corto plazo, logré gestionar mi tiempo de forma eficiente, cumpliendo puntualmente con los plazos internos acordados y facilitando el avance continuo del equipo.<br>
         <strong>AV2:</strong> Asumí el compromiso de enriquecer la base de datos simulada y la documentación técnica de la API dentro de los plazos establecidos para el AV2. Para lograrlo, planifiqué la creación de los nuevos *endpoints* basándome en el análisis estructurado de las entrevistas, colaborando activamente con el resto del equipo en GitHub y resolviendo de forma autónoma los conflictos de código (Merge Conflicts), manteniendo así la integridad del repositorio grupal y apoyando un ambiente de desarrollo ágil y sin interrupciones.
+        <strong>AV2:</strong> Organicé mis actividades priorizando los hitos críticos como las pruebas de autorización y el manejo de errores en la interfaz, cumpliendo puntualmente con los plazos definidos por el equipo. Esto me permitió apoyar a mis compañeros durante la integración final de la aplicación y contribuir al logro exitoso de las metas planteadas para el cierre del proyecto.
         <br>
         <br>
         <strong>- Garcia Villanueva, Leonardo Rafael:</strong><br>
@@ -2960,7 +2962,7 @@ Asimismo, se validaron los cambios derivados de las evaluaciones heurísticas. E
   <i>Figura de validaciones del formulario de reservas ante datos incompletos, fechas inválidas o habitaciones no disponibles.</i>
 </p>
 
-**Enlace del video de ejecución:**  
+**Enlace del video de ejecución:** https://www.youtube.com/watch?v=HD7wlOtSBwo 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
